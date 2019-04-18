@@ -398,6 +398,29 @@
   - talus
   question_uuid: 63759e139f5ba24565adc7fdd3e2e2b
 - concepts:
+  - atlas-2
+  - atlas
+  - atlas-6
+  - axis-2
+  - axis-5
+  - axis
+  - vertebrae-cervicales
+  - os-occipitale
+  exercise: question_bank
+  question:
+    de: Welche Wirbel bilden zusammen mit dem Hinterhauptbein (Os occipitale) das
+      obere und untere Kopfgelenk?
+    en: What vertebrae form the upper and lower head joints together with the occipital
+      bone?
+  right_terms:
+  - atlas-2
+  - axis-2
+  wrong_terms:
+  - sacrum-2
+  - os-coccygis
+  - talus
+  question_uuid: 63759e139f5ba24565adc7fdd3e2e2b
+- concepts:
   - thoracic-vertebrae
   - vertebrae-thoracicae
   - thoracic-vertebrae-1

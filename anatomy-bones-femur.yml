@@ -371,12 +371,12 @@
   exercise: multiple_choice_image
   relation: origin_of
   right_terms:
-  - ribs-1-10شسي 
-  wrong_terms:
+  - condylus-lateralis
   - meniscus-lateralis
+  wrong_terms:
+  - meniscus-medialis
   - collum-fibulae
   - corpus-femoris
-  asd
   - membrana-interossea-cruris
 - terms:
   - musculus-gastrocnemius
