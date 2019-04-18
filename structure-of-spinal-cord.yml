@@ -1,0 +1,274 @@
+---
+- terms:
+  - nervi-lumbales-l1-l4
+  - nervi-thoracici-t1-t12
+  exercise: easy
+- terms:
+  - nervi-sacrales-s1-s5
+  - nervi-cervicales-c1-c8
+  exercise: easy
+- terms:
+  - nervus-coccygeus
+  - cauda-equina
+  exercise: easy
+- terms:
+  - rami-spinales-posteriores
+  - radices-posteriores
+  exercise: easy
+- terms:
+  - nervus-coccygeus
+  - nervi-sacrales-s1-s5
+  - nervi-thoracici-t1-t12
+  - radices-posteriores
+  exercise: four_one
+- terms:
+  - rami-spinales-posteriores
+  - cauda-equina
+  - nervi-cervicales-c1-c8
+  - nervi-lumbales-l1-l4
+  exercise: four_one
+- terms:
+  - cauda-equina
+  - rami-spinales-posteriores
+  - nervi-sacrales-s1-s5
+  - nervi-cervicales-c1-c8
+  exercise: identify_image
+- terms:
+  - radices-posteriores
+  - nervus-coccygeus
+  - nervi-thoracici-t1-t12
+  - nervi-lumbales-l1-l4
+  exercise: identify_image
+- terms:
+  - conus-medullaris
+  - arteriae-spinales-posteriores
+  exercise: easy
+- terms:
+  - arteriae-radiculares-posteriores
+  - arteria-vertebralis-2
+  exercise: easy
+- terms:
+  - arteria-cervicalis-ascendens-2
+  - rib-xii-2
+  exercise: easy
+- terms:
+  - costa-i-4
+  - sulcus-medianus-posterior-medullae-spinalis
+  exercise: easy
+- terms:
+  - arteria-vertebralis-2
+  - arteriae-radiculares-posteriores
+  - arteriae-spinales-posteriores
+  - arteria-cervicalis-ascendens-2
+  exercise: four_one
+- terms:
+  - costa-i-4
+  - rib-xii-2
+  - conus-medullaris
+  - sulcus-medianus-posterior-medullae-spinalis
+  exercise: four_one
+- terms:
+  - costa-i-4
+  - arteriae-spinales-posteriores
+  - sulcus-medianus-posterior-medullae-spinalis
+  - arteria-vertebralis-2
+  exercise: identify_image
+- terms:
+  - arteriae-radiculares-posteriores
+  - conus-medullaris
+  - arteria-cervicalis-ascendens-2
+  - rib-xii-2
+  exercise: identify_image
+- terms:
+  - medulla-spinalis-2
+  - ganglia-sensoria-nervorum-spinalium
+  exercise: easy
+- terms:
+  - dura-mater-spinalis-3
+  - arteriae-spinales-posteriores
+  exercise: easy
+- terms:
+  - arteriae-radiculares-posteriores
+  - arteria-vertebralis-2
+  exercise: easy
+- terms:
+  - rami-spinales-posteriores
+  - radices-posteriores
+  exercise: easy
+- terms:
+  - ganglia-sensoria-nervorum-spinalium
+  - radices-posteriores
+  - dura-mater-spinalis-3
+  - arteriae-spinales-posteriores
+  exercise: four_one
+- terms:
+  - arteriae-radiculares-posteriores
+  - rami-spinales-posteriores
+  - medulla-spinalis-2
+  - arteria-vertebralis-2
+  exercise: four_one
+- terms:
+  - dura-mater-spinalis-3
+  - arteria-vertebralis-2
+  - radices-posteriores
+  - ganglia-sensoria-nervorum-spinalium
+  exercise: identify_image
+- terms:
+  - arteriae-radiculares-posteriores
+  - medulla-spinalis-2
+  - arteriae-spinales-posteriores
+  - rami-spinales-posteriores
+  exercise: identify_image
+- terms:
+  - nervi-lumbales-l1-l4
+  exercise: spell_term
+- terms:
+  - nervi-thoracici-t1-t12
+  exercise: spell_term
+- terms:
+  - nervi-sacrales-s1-s5
+  exercise: spell_term
+- terms:
+  - nervi-cervicales-c1-c8
+  exercise: spell_term
+- terms:
+  - nervus-coccygeus
+  exercise: spell_term
+- terms:
+  - cauda-equina
+  exercise: spell_term
+- terms:
+  - rami-spinales-posteriores
+  exercise: spell_term
+- terms:
+  - radices-posteriores
+  exercise: spell_term
+- terms:
+  - conus-medullaris
+  exercise: spell_term
+- terms:
+  - arteriae-spinales-posteriores
+  exercise: spell_term
+- terms:
+  - arteriae-radiculares-posteriores
+  exercise: spell_term
+- terms:
+  - arteria-vertebralis-2
+  exercise: spell_term
+- terms:
+  - arteria-cervicalis-ascendens-2
+  exercise: spell_term
+- terms:
+  - rib-xii-2
+  exercise: spell_term
+- terms:
+  - costa-i-4
+  exercise: spell_term
+- terms:
+  - sulcus-medianus-posterior-medullae-spinalis
+  exercise: spell_term
+- terms:
+  - medulla-spinalis-2
+  exercise: spell_term
+- terms:
+  - ganglia-sensoria-nervorum-spinalium
+  exercise: spell_term
+- terms:
+  - dura-mater-spinalis-3
+  exercise: spell_term
+- concepts:
+  - rami-spinales-posteriores
+  - musculus-iliocostalis
+  exercise: question_bank
+  question:
+    de: Von welchen Nerven werden die autochthonen Rückenmuskeln versorgt?
+    en: The intrinsic back muscles are innervated by which nerves?
+  right_terms:
+  - rami-spinales-posteriores
+  wrong_terms:
+  - ramus-anterior-nervi-spinalis-2
+  - ramus-trapezius-nervi-accessorii
+  - ramus-posterior-nervi-spinalis-2
+  - nervi-spinalis-i
+  question_uuid: 592ff0fe1bb2174bc6c06a09502b892
+- concepts:
+  - conus-medullaris
+  exercise: question_bank
+  question:
+    de: Ein 12-jähriger Junge fällt durch rasche Ermüdbarkeit beim Gehen auf und leidet
+      unter Schmerzen in der Lendenregion. Nach eingehender neurologischer Diagnostik
+      wird vermutet, dass der Junge unter einem “Tethered-Cord-Syndrom” leidet. Hierbei
+      besteht eine Anheftung des kaudalen Endes des Rückenmarkes an das kaudale Ende
+      des Spinalkanals. Wie wird das kaudale Ende des Rückenmarkes bezeichnet?
+    en: A 12-year-old boy is quickly fatigued after short periods of walking and also
+      suffers from pain in the lumbar region. After extensive neurological examinations,
+      a “Tethered-cord-syndrome” is suspected in which the caudal end of the spinal
+      cord is attached to the caudal end of the spinal canal and causes strain. What
+      is the name of the caudal end of the spinal cord?
+  right_terms:
+  - conus-medullaris
+  wrong_terms:
+  - cauda-equina
+  - medulla-oblongata
+  - white-commissure
+  - gray-matter-1
+  question_uuid: 114bec6f94545dcea1fbf489483fe54
+- concepts:
+  - cauda-equina
+  exercise: question_bank
+  question:
+    de: Im Rahmen von großen Bandscheibenvorfällen kann es auch zu einer Einengung
+      des Spinalkanals unterhalb des zweiten Lendenwirbelkörpers kommen. Betroffene
+      Patienten können unter anderem durch eine schlaffe Parese der Beine auffällig
+      werden. Welche Struktur füllt den Spinalkanal kaudal des zweiten Lendenwirbelkörpers
+      aus und führt bei Kompression zu dem genannten Symptom?
+    en: Severely herniated vertebral disks can result in a narrowing of the spinal
+      canal below the second lumbar vertebra. Patients with this condition may present
+      with flaccid paralysis of the legs. Which structure is located in the spinal
+      canal below the first or second lumbar vertebra and can cause this symptom when
+      compressed?
+  right_terms:
+  - cauda-equina
+  wrong_terms:
+  - medulla-oblongata
+  - conus-medullaris
+  - lateral-horn-of-spinal-cord-2
+  - ganglion-spinale
+  question_uuid: 3e60f07085b400391e0a832f1eb830e
+- terms:
+  - musculus-semispinalis-cervicis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - posterior-rami-of-spinal-nerves
+  wrong_terms:
+  - rami-posteriores-ti-txii
+  - nervus-transversus-colli
+  - rami-posteriores-ti-txii
+  - nervus-accessorius-2
+- terms:
+  - musculi-multifidi
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - rami-spinales-posteriores
+  wrong_terms:
+  - nervus-laryngeus-recurrens
+  - nervus-pectoralis-lateralis
+  - nervus-musculocutaneus
+  - nervus-thoracodorsalis
+  - nervus-accessorius-2
+- concepts:
+  - conus-medullaris
+  exercise: question_bank
+  question:
+    de: Wie wird die Verdickung am unteren Ende des Rückenmarks genannt?
+    en: What is the most inferior swelling in the spinal cord?
+  right_terms:
+  - conus-medullaris
+  wrong_terms:
+  - corpus-callosum
+  - glandula-pinealis
+  - dorsal-root-ganglion
+  - ligamentum-nuchae-2
+  question_uuid: 5083547da5368df8c932f9dbc9da4c3

@@ -1,0 +1,1258 @@
+---
+- terms:
+  - os-lunatum
+  - scapula
+  exercise: easy
+- terms:
+  - clavicula
+  - humerus
+  exercise: easy
+- terms:
+  - radius
+  - ulna
+  exercise: easy
+- terms:
+  - os-capitatum
+  - os-hamatum
+  exercise: easy
+- terms:
+  - os-capitatum
+  - os-hamatum
+  - clavicula
+  - os-lunatum
+  exercise: four_one
+- terms:
+  - humerus
+  - scapula
+  - radius
+  - ulna
+  exercise: four_one
+- terms:
+  - humerus
+  - scapula
+  - os-capitatum
+  - os-lunatum
+  exercise: identify_image
+- terms:
+  - ulna
+  - os-hamatum
+  - radius
+  - clavicula
+  exercise: identify_image
+- terms:
+  - os-lunatum
+  - os-pisiforme
+  exercise: easy
+- terms:
+  - os-scaphoideum
+  - os-trapezium
+  exercise: easy
+- terms:
+  - os-trapezoideum
+  - os-triquetrum
+  exercise: easy
+- terms:
+  - ossa-metacarpalia
+  - phalanges-proximales-der-hand
+  exercise: easy
+- terms:
+  - phalanges-proximales-der-hand
+  - ossa-metacarpalia
+  - os-trapezoideum
+  - os-scaphoideum
+  exercise: four_one
+- terms:
+  - os-triquetrum
+  - os-pisiforme
+  - os-trapezium
+  - os-lunatum
+  exercise: four_one
+- terms:
+  - os-triquetrum
+  - os-trapezoideum
+  - os-trapezium
+  - os-pisiforme
+  exercise: identify_image
+- terms:
+  - os-scaphoideum
+  - phalanges-proximales-der-hand
+  - os-lunatum
+  - ossa-metacarpalia
+  exercise: identify_image
+- terms:
+  - phalanges-mediae-der-hand
+  - phalanges-distales-der-hand
+  exercise: easy
+- terms:
+  - phalanges-proximales-der-hand
+  - ossa-metacarpalia
+  exercise: easy
+- terms:
+  - os-lunatum
+  - os-scaphoideum
+  exercise: easy
+- terms:
+  - os-pisiforme
+  - os-triquetrum
+  exercise: easy
+- terms:
+  - phalanges-proximales-der-hand
+  - phalanges-distales-der-hand
+  - phalanges-mediae-der-hand
+  - ossa-metacarpalia
+  exercise: four_one
+- terms:
+  - os-scaphoideum
+  - os-triquetrum
+  - os-pisiforme
+  - os-lunatum
+  exercise: four_one
+- terms:
+  - ossa-metacarpalia
+  - os-scaphoideum
+  - os-triquetrum
+  - phalanges-mediae-der-hand
+  exercise: identify_image
+- terms:
+  - phalanges-proximales-der-hand
+  - os-pisiforme
+  - phalanges-distales-der-hand
+  - os-lunatum
+  exercise: identify_image
+- terms:
+  - os-lunatum
+  exercise: spell_term
+- terms:
+  - scapula
+  exercise: spell_term
+- terms:
+  - clavicula
+  exercise: spell_term
+- terms:
+  - humerus
+  exercise: spell_term
+- terms:
+  - radius
+  exercise: spell_term
+- terms:
+  - ulna
+  exercise: spell_term
+- terms:
+  - os-capitatum
+  exercise: spell_term
+- terms:
+  - os-hamatum
+  exercise: spell_term
+- terms:
+  - os-pisiforme
+  exercise: spell_term
+- terms:
+  - os-scaphoideum
+  exercise: spell_term
+- terms:
+  - os-trapezium
+  exercise: spell_term
+- terms:
+  - os-trapezoideum
+  exercise: spell_term
+- terms:
+  - os-triquetrum
+  exercise: spell_term
+- terms:
+  - ossa-metacarpalia
+  exercise: spell_term
+- terms:
+  - phalanges-proximales-der-hand
+  exercise: spell_term
+- terms:
+  - phalanges-mediae-der-hand
+  exercise: spell_term
+- terms:
+  - phalanges-distales-der-hand
+  exercise: spell_term
+- concepts:
+  - os-scaphoideum
+  - os-lunatum
+  - os-triquetrum
+  - os-pisiforme
+  exercise: question_bank
+  question:
+    de: Die Handwurzelknochen befinden sich in zwei Viererreihen. Welche gehören zur
+      proximalen Reihe?
+    en: The carpal bones are seated in two neat rows of four. Which four bones belong
+      to the proximal row of carpal bones?
+  right_terms:
+  - os-scaphoideum
+  - os-lunatum
+  - os-triquetrum
+  - os-pisiforme
+  wrong_terms:
+  - os-trapezium
+  question_uuid: 6efd066838ced8cf9757159d66b6f2f
+- concepts:
+  - os-trapezium
+  - os-trapezoideum
+  - os-capitatum
+  - os-hamatum
+  exercise: question_bank
+  question:
+    de: Die Handgelenksknochen befinden sich in zwei Viererreihen. Welche vier Knochen
+      bilden die distale Reihe?
+    en: The carpal bones are seated in two neat rows of four. Which four bones belong
+      to the distal row of carpal bones?
+  right_terms:
+  - os-trapezium
+  - os-trapezoideum
+  - os-capitatum
+  - os-hamatum
+  wrong_terms:
+  - os-pisiforme
+  question_uuid: eeaf61c66ad2ea421ff519fb420926a
+- concepts:
+  - os-capitatum
+  exercise: question_bank
+  question:
+    de: Welcher ist der größte Handwurzelknochen?
+    en: What is the largest carpal bone?
+  right_terms:
+  - os-capitatum
+  wrong_terms:
+  - os-trapezium
+  - os-trapezoideum
+  - os-lunatum
+  - os-triquetrum
+  question_uuid: 9770248a2e2878c600de2fedea734d7
+- concepts:
+  - os-scaphoideum
+  exercise: question_bank
+  question:
+    de: Welcher Knochen artikuliert proximal mit der Speiche (Radius), distal-lateral
+      mit dem großen Vieleckbein (Os trapezium) und distal-medial mit dem Kopfbein
+      (Os capitatum)?
+    en: Which bone articulates proximally with the radius, distal-laterally with the
+      trapezium bone and distal-medially with the capitate bone?
+  right_terms:
+  - os-scaphoideum
+  wrong_terms:
+  - os-trapezium
+  - os-trapezoideum
+  - os-lunatum
+  - os-triquetrum
+  question_uuid: 42460845ec345c58af2a96df8a10d59
+- concepts:
+  - os-scaphoideum
+  exercise: question_bank
+  question:
+    de: Der Höcker welches Handwurzelknochens ist an der palmaren Seite der Hand leicht
+      zu palpieren, da er direkt subkutan liegt?
+    en: Which carpal bone's tubercle is easily palpable on the palm of the hand, as
+      it sits subcutaneously?
+  right_terms:
+  - os-scaphoideum
+  wrong_terms:
+  - os-trapezium
+  - os-trapezoideum
+  - os-lunatum
+  - os-triquetrum
+  question_uuid: 8dc7e3d80052481292830b141348324
+- concepts:
+  - caput-radii
+  - os-triquetrum
+  - os-pisiforme
+  - os-lunatum
+  exercise: question_bank
+  question:
+    de: Welche Handwurzelknochen artikulieren mit dem distalen Ende der Speiche (Radius),
+      um das proximale Handwurzelgelenk (Articulatio radiocarpalis) zu bilden?
+    en: Which carpal bones articulate with the distal end of the radius to form the
+      proximal radiocarpal joint (articulatio radiocarpalis)?
+  right_terms:
+  - os-triquetrum
+  - os-scaphoideum
+  - os-lunatum
+  wrong_terms:
+  - os-trapezium
+  - os-pisiforme
+  question_uuid: 5c1a3aa6f40aebb254cff08e772292c
+- concepts:
+  - os-pisiforme
+  exercise: question_bank
+  question:
+    de: Welcher ist der kleinste Handwurzelknochen?
+    en: Which is the smallest of the carpal bones?
+  right_terms:
+  - os-pisiforme
+  wrong_terms:
+  - os-trapezium
+  - os-trapezoideum
+  - os-lunatum
+  - os-capitatum
+  question_uuid: 6ba845a67a6438b26c7d7e580ecb4b3
+- concepts:
+  - os-pisiforme
+  - os-triquetrum
+  exercise: question_bank
+  question:
+    de: Mit welchem Knochen artikuliert das Erbsenbein (Os pisiforme) über seine dorsale
+      Gelenkfläche?
+    en: With which bone does the pisiform bone's dorsal surface articulate?
+  right_terms:
+  - os-triquetrum
+  wrong_terms:
+  - os-trapezium
+  - os-trapezoideum
+  - os-lunatum
+  - os-capitatum
+  question_uuid: 2d46b2b2a033eab9f17c801c7df8a84
+- concepts:
+  - os-trapezium
+  exercise: question_bank
+  question:
+    de: Welcher Handwurzelknochen wird medial vom kleinen Vieleckbein (Os trapezoideum)
+      und proximal vom Kahnbein (Os scaphoideum) begrenzt?
+    en: Which carpal bone is bordered medially by the trapezoid bone and proximally
+      by the scaphoid bone?
+  right_terms:
+  - os-trapezium
+  wrong_terms:
+  - os-triquetrum
+  - os-capitatum
+  - os-pisiforme
+  question_uuid: f90dbe828a70af97323e43963f978fe
+- concepts:
+  - os-hamatum
+  exercise: question_bank
+  question:
+    de: Welcher distale Handwurzelknochen ist subkutan wegen einer hakenförmigen Struktur,
+      die knöchern auf seiner palmaren Fläche liegt, palpierbar?
+    en: What carpal bone is subcutaneously palpable due to a hook-like structure on
+      its palmar aspect?
+  right_terms:
+  - os-hamatum
+  wrong_terms:
+  - os-lunatum
+  - os-capitatum
+  - os-trapezium
+  - os-triquetrum
+  question_uuid: 98e743b0cf82c064a4a69403928afa5
+- concepts:
+  - os-scaphoideum
+  exercise: question_bank
+  question:
+    de: Welches ist der am häufigsten gebrochene Handwurzelknochen?
+    en: Which is the most frequently broken carpal bone?
+  right_terms:
+  - os-scaphoideum
+  wrong_terms:
+  - os-trapezoideum
+  - os-hamatum
+  - os-capitatum
+  - os-triquetrum
+  question_uuid: fec310c910904fcb6fed2756f1a439d
+- concepts:
+  - lunate-bone
+  - os-lunatum
+  exercise: question_bank
+  question:
+    de: Welcher Knochen liegt zwischen dem Dreiecksbein (Os triquetrum) und Kahnbein
+      (Os scaphoideum)?
+    en: What bone is located between the triquetral bone (os triquetrum) and the scaphoid
+      bone (os scaphoideum)?
+  right_terms:
+  - lunate-bone
+  wrong_terms:
+  - trapezium-bone
+  - os-pisiforme
+  - trapezoid-bone
+  - capitate-bone
+  question_uuid: 476266e301d7863f6629d217854cd91
+- concepts:
+  - scapula-3
+  - scapula
+  - humerus
+  - clavicula
+  exercise: question_bank
+  question:
+    de: Welcher Knochen ist mit dem Oberarmknochen (Humerus) und dem Schlüsselbein
+      (Clavicula) gelenkig verbunden?
+    en: What bone is connected to the humerus and clavicle (clavicula) by joints?
+  right_terms:
+  - scapula-3
+  wrong_terms:
+  - ulna-3
+  - radius-3
+  - sacrum-2
+  - tibia-6
+  question_uuid: b8b7a86f4feaa77e9e4b8fd2604d532
+- concepts:
+  - humerus-4
+  - humerus
+  - corpus-humeri
+  exercise: question_bank
+  question:
+    de: Welcher Knochen bildet mit dem Schulterblatt (Scapula) das Schultergelenk?
+    en: What bone forms the shoulder joint together with the scapula?
+  right_terms:
+  - humerus-4
+  wrong_terms:
+  - clavicle-8
+  - radius-3
+  - ulna-3
+  - sternum-4
+  question_uuid: 83101375beb56078e2067aa845c268d
+- concepts:
+  - ulna-3
+  - ulna
+  - ulna-8
+  - ulna-10
+  - radius-3
+  - radius-8
+  - radius
+  - caput-radii
+  - processus-styloideus-ulnae
+  exercise: question_bank
+  question:
+    de: Welche Röhrenknochen bilden den Unterarm?
+    en: What long bones form the forearm?
+  right_terms:
+  - ulna-3
+  - radius-3
+  wrong_terms:
+  - clavicle-8
+  - humerus-4
+  - scapula-3
+  question_uuid: 143f1b4744b8fa4684f3f8cb2c7df98
+- concepts:
+  - ulna-3
+  - ulna
+  - ulna-8
+  - ulna-10
+  exercise: question_bank
+  question:
+    de: Welcher Knochen ist über den Discus articularis mit dem Handgelenk verbunden?
+    en: What bone is connected to the wrist via an articular disk?
+  right_terms:
+  - ulna-3
+  wrong_terms:
+  - radius-3
+  - humerus-4
+  - clavicle-8
+  - scapula-3
+  question_uuid: 6679de5cb697e5c9919688511007ddd
+- concepts:
+  - capitate-bone
+  - os-capitatum
+  exercise: question_bank
+  question:
+    de: Welcher Handwurzelknochen ist der größte?
+    en: What carpal bone is the largest?
+  right_terms:
+  - capitate-bone
+  wrong_terms:
+  - hamate-bone
+  - lunate-bone
+  - scaphoid-bone
+  - trapezium-bone
+  question_uuid: b8ef555cdfa510971fd3ff08fe62b44
+- concepts:
+  - os-pisiforme
+  exercise: question_bank
+  question:
+    de: Welcher Handwurzelknochen fungiert als Sesambein?
+    en: What carpal bone is a sesamoid bone?
+  right_terms:
+  - os-pisiforme
+  wrong_terms:
+  - lunate-bone
+  - trapezoid-bone
+  - triquetral-bone
+  - hamate-bone
+  question_uuid: c7ee781033e7e1ee93dfc868cd39e76
+- concepts:
+  - triquetral-bone
+  - os-triquetrum
+  exercise: question_bank
+  question:
+    de: Welcher Handwurzelknochen besitzt ein Sesambein?
+    en: What carpal bone articulates with a sesamoid bone?
+  right_terms:
+  - triquetral-bone
+  wrong_terms:
+  - trapezoid-bone
+  - scaphoid-bone
+  - os-pisiforme
+  - trapezium-bone
+  question_uuid: f4b21ac0630e9991c69113696da6118
+- concepts:
+  - trapezium-bone
+  - os-trapezium
+  - os-metacarpale-i
+  exercise: question_bank
+  question:
+    de: Welcher Handwurzelknochen ist mit dem ersten Mittelhandknochen (Os metacarpale
+      I) verbunden?
+    en: What carpal bone articulates with the first metacarpal bone?
+  right_terms:
+  - trapezium-bone
+  wrong_terms:
+  - triquetral-bone
+  - hamate-bone
+  - scaphoid-bone
+  - trapezoid-bone
+  question_uuid: 4a4edf0383582181e38ad46ffb70f49
+- concepts:
+  - ossa-metacarpalia
+  exercise: question_bank
+  question:
+    de: Welche Knochen stehen mit der distalen Reihe der Handwurzelknochen in Verbindung?
+    en: What bones articulate with the distal row of carpal bones?
+  right_terms:
+  - ossa-metacarpalia
+  wrong_terms:
+  - ossa-metatarsalia
+  - phalanges-mediae-der-hand
+  - phalanges-distales-der-hand
+  - ulna-3
+  question_uuid: 3fcb97bace31816ec5805dac0095ff1
+- concepts:
+  - phalanges-mediae-der-hand
+  exercise: question_bank
+  question:
+    de: Welcher Fingerknochen fehlt im Daumen?
+    en: What phalanx is missing in the thumb?
+  right_terms:
+  - phalanges-mediae-der-hand
+  wrong_terms:
+  - proximal-phalanges-2
+  - distal-phalanges-2
+  - ossa-metacarpalia
+  - ossa-metatarsalia
+  question_uuid: 2ab38e23e21ce2342ec2c5f361faad9
+- concepts:
+  - proximal-phalanges-2
+  - phalanges-proximales-der-hand
+  - distal-phalanges-2
+  - phalanges-distales-der-hand
+  exercise: question_bank
+  question:
+    de: Welche Fingerknochen kommen in allen Fingern der Hand vor?
+    en: What phalanges can be found in all fingers of the hand?
+  right_terms:
+  - proximal-phalanges-2
+  - distal-phalanges-2
+  wrong_terms:
+  - phalanges-mediae-der-hand
+  - ossa-metatarsalia
+  question_uuid: 325b457860e85c7b2c1738e0e3bd361
+- concepts:
+  - os-metacarpale-v
+  - os-hamatum
+  exercise: question_bank
+  question:
+    de: Mit welchem Handwurzelknochen artikuliert der fünfte Mittelhandknochen (Os
+      metacarpale V) proximal?
+    en: With which carpal bone does the fifth metacarpal bone articulate proximally?
+  right_terms:
+  - os-hamatum
+  wrong_terms:
+  - os-capitatum
+  - os-trapezium
+  - os-pisiforme
+  - os-trapezoideum
+  question_uuid: 5f2ee474cac12e89064c91a482dc5fc
+- concepts:
+  - os-scaphoideum
+  exercise: question_bank
+  question:
+    de: Eine 20-jährige Frau stürzt auf ihre ausgestreckte rechte Hand. Sie klagt
+      über Druckschmerz über der Tabatière (Foveola radialis). Der zuständige Radiologe
+      bestätigt eine Fraktur eines Handwurzelknochens. Welcher Knochen ist in Anbetracht
+      der Symptomatik am wahrscheinlichsten gebrochen?
+    en: A 20-year-old woman fell on her right outstretched hand. She reports pain
+      and tenderness over the anatomical snuff box. The radiologist confirms a fracture
+      of a metacarpal bone. Which bone is most likely fractured considering the description
+      of the fall and the patient's symptoms?
+  right_terms:
+  - os-scaphoideum
+  wrong_terms:
+  - lunate-bone
+  - triquetral-bone
+  - pisiform-bone
+  - trapezoid-bone
+  question_uuid: 4028f0756b49e36ffd51f79e3d616bb
+- concepts:
+  - radius
+  - radius-3
+  exercise: question_bank
+  question:
+    de: Welcher Knochen bildet den lateralen Unterarmknochen in Neutral-Null-Stellung?
+    en: Which one is the lateral bone of the forearm in neutral position?
+  right_terms:
+  - radius
+  wrong_terms:
+  - ulna
+  - os-scaphoideum
+  - humerus
+  - ossa-metacarpalia
+  question_uuid: 2565f8f3c301a1cf5d4912925582c3c
+- concepts:
+  - ulna
+  - ulna-3
+  exercise: question_bank
+  question:
+    de: Welcher Knochen bildet den medialen Knochen des Unterarms in Neutral-Null-Stellung?
+    en: Which one is the medial bone of the forearm in neutral position?
+  right_terms:
+  - ulna
+  wrong_terms:
+  - radius
+  - os-scaphoideum
+  - os-triquetrum
+  - humerus
+  question_uuid: 4f53f2cea9dc50553d6342fe0b1bab9
+- terms:
+  - musculus-deltoideus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - clavicula
+  - acromion
+  - spina-scapulae
+  wrong_terms:
+  - processus-coracoideus
+  - costa-i-3
+  - fossa-supraspinata
+- terms:
+  - musculus-pectoralis-major
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - clavicula
+  - sternum
+  - cartilages-costales-i-iv
+  wrong_terms:
+  - acromion
+  - caput-humeri 
+  - crista-supracondylaris-medialis
+- terms:
+  - musculus-trapezius
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - acromion
+  - clavicula
+  - spina-scapulae
+  wrong_terms:
+  - angulus-inferior-scapulae
+  - caput-humeri
+  - spine
+- terms:
+  - scapula
+  exercise: multiple_choice_image
+  relation: elevates_the
+  right_terms:
+  - musculus-trapezius
+  - musculus-levator-scapulae
+  - musculus-rhomboideus-major
+  - musculus-rhomboideus-minor
+  wrong_terms:
+  - musculus-serratus-posterior-inferior
+  - musculus-serratus-posterior-superior
+- terms:
+  - scapula
+  exercise: multiple_choice_image
+  relation: rotates_the
+  right_terms:
+  - musculus-trapezius
+  - musculus-rhomboideus-minor
+  - musculus-rhomboideus-major
+  - musculus-levator-scapulae
+  wrong_terms:
+  - musculus-serratus-posterior-superior
+  - musculus-serratus-posterior-inferior
+- terms:
+  - scapula
+  exercise: multiple_choice_image
+  relation: retracts_the
+  right_terms:
+  - musculus-rhomboideus-minor
+  - musculus-rhomboideus-major
+  - musculus-trapezius
+  wrong_terms:
+  - musculus-serratus-posterior-inferior
+  - musculus-serratus-posterior-superior
+  - musculus-latissimus-dorsi
+- concepts:
+  - cavitas-glenoidalis
+  - glenoid-cavity-6
+  - articulatio-humeri
+  - caput-humeri
+  - scapula
+  exercise: question_bank
+  question:
+    de: Welche knöchernen Strukturen bilden gemeinsam das Schultergelenk?
+    en: What bony structures come together to form the shoulder joint?
+  right_terms:
+  - cavitas-glenoidalis
+  - caput-humeri
+  wrong_terms:
+  - capitulum-humeri
+  - spina-scapulae
+  - processus-coracoideus
+  - trochlea-humeri
+  question_uuid: 2abf377c7bf5d3d22b1cb92b9c6ea5a
+- concepts:
+  - shoulder-joint
+  - caput-humeri
+  - cavitas-glenoidalis
+  - articulatio-humeri
+  - humerus
+  - scapula
+  - glenoid-cavity-6
+  exercise: question_bank
+  question:
+    de: Welche knöchernen Strukturen bilden das Schultergelenk?
+    en: Which structures articulate to form the ball-and-socket shoulder joint?
+  right_terms:
+  - head-of-the-humerus
+  - glenoid-cavity
+  wrong_terms:
+  - coracoid-process
+  - acromion-2
+  - epicondylus-medialis-humeri
+  question_uuid: ed3f29e0805795f41440cb492417dce
+- terms:
+  - musculus-flexor-carpi-ulnaris
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - hamulus-ossis-hamati
+  - basis-ossis-metacarpi-v
+  - os-pisiforme
+  wrong_terms:
+  - basis-ossis-metacarpi-ii
+  - basis-ossis-metacarpi-iii
+  - processus-styloideus-ulnae
+- terms:
+  - musculus-flexor-digitorum-superficialis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - phalanges-mediae-der-hand
+  wrong_terms:
+  - phalanges-distales-der-hand
+  - phalanges-proximales-der-hand
+  - processus-styloideus-ulnae
+  - ossa-metacarpalia
+  - margo-anterior-radii
+- terms:
+  - musculus-pectoralis-major
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - clavicula
+  - sternum
+  - cartilages-costales-i-iv
+  wrong_terms:
+  - acromion
+  - caput-humeri 
+  - crista-supracondylaris-medialis
+- terms:
+  - musculus-subclavius
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - clavicula
+  wrong_terms:
+  - processus-coracoideus
+  - sternum
+  - costa-ii
+  - acromion
+  - ligamentum-coracoacromiale
+- terms:
+  - clavicula
+  exercise: multiple_choice_image
+  relation: stabilizes_the
+  right_terms:
+  - musculus-subclavius
+  wrong_terms:
+  - musculus-pectoralis-minor
+  - musculus-pectoralis-major
+  - musculus-deltoideus
+  - musculus-sternocleidomastoideus
+  - musculi-intercostales-externi
+- terms:
+  - scapula
+  exercise: multiple_choice_image
+  relation: laterally_rotates_the
+  right_terms:
+  - musculus-serratus-anterior
+  wrong_terms:
+  - musculi-intercostales-interni
+  - musculi-intercostales-externi
+  - musculi-subcostales
+  - musculus-pectoralis-major
+  - musculus-subclavius
+- terms:
+  - scapula
+  exercise: multiple_choice_image
+  relation: depresses_the
+  right_terms:
+  - musculus-pectoralis-minor
+  wrong_terms:
+  - musculus-pectoralis-major
+  - musculus-transversus-abdominis
+  - musculi-transversus-thoracis
+  - musculi-intercostales-externi
+  - musculus-subclavius
+- terms:
+  - musculus-adductor-pollicis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - os-metacarpale-iii
+  - basis-ossis-metacarpi-ii
+  - os-capitatum
+  wrong_terms:
+  - os-trapezium
+  - os-hamatum
+  - ligamentum-ulnocarpale-palmare
+- terms:
+  - caput-obliquum-musculi-adductoris-pollicis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - basis-ossis-metacarpi-iii
+  - basis-ossis-metacarpi-ii
+  - os-capitatum
+  wrong_terms:
+  - os-trapezium
+  - os-hamatum
+  - ligamentum-ulnocarpale-palmare
+- terms:
+  - musculus-abductor-pollicis-brevis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - os-trapezium
+  - os-scaphoideum
+  - retinaculum-flexorum
+  wrong_terms:
+  - os-capitatum
+  - os-hamatum
+  - ligamentum-ulnocarpale-palmare
+- terms:
+  - musculus-flexor-pollicis-brevis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - os-trapezium
+  - os-trapezoideum
+  - retinaculum-flexorum
+  - capitate-bone
+  wrong_terms:
+  - os-scaphoideum
+  - os-hamatum
+- terms:
+  - caput-profundum-musculi-flexoris-pollicis-brevis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - os-trapezium
+  - os-capitatum
+  wrong_terms:
+  - retinaculum-flexorum
+  - os-scaphoideum
+  - os-hamatum
+  - ligamentum-ulnocarpale-palmare
+- terms:
+  - musculus-opponens-pollicis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - os-trapezium
+  - retinaculum-flexorum
+  wrong_terms:
+  - os-capitatum
+  - os-scaphoideum
+  - os-hamatum
+  - ligamentum-ulnocarpale-palmare
+- terms:
+  - musculus-abductor-digiti-minimi-hand
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - os-pisiforme
+  wrong_terms:
+  - hamulus-ossis-hamati
+  - basis-ossis-metacarpi-v
+  - os-trapezium
+  - aponeurosis-palmaris
+  - ligamentum-ulnocarpale-palmare
+- terms:
+  - musculi-interossei-dorsales-hand
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - ossa-metacarpalia
+  wrong_terms:
+  - phalanges-proximales-der-hand
+  - tendo-musculus-flexor-digitorum-profundus
+  - ligamentum-ulnocarpale-palmare
+  - aponeurosis-palmaris
+  - retinaculum-flexorum
+- terms:
+  - musculi-interossei-palmares
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - ossa-metacarpalia
+  wrong_terms:
+  - phalanges-proximales-der-hand
+  - tendo-musculus-flexor-digitorum-profundus
+  - ligamentum-ulnocarpale-palmare
+  - aponeurosis-palmaris
+  - retinaculum-flexorum
+- concepts:
+  - acromion
+  - clavicula
+  - musculus-deltoideus
+  - musculus-trapezius
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Knochenstrukturen dienen sowohl als Ursprung des Deltamuskels
+      (Musculus deltoideus) als auch als Ansatz des Trapezmuskels Musculus trapezius)?
+    en: Which of the following bony structures serve both as the origin of the deltoid
+      muscle (musculus deltoideus) and an insertion point of the trapezius muscle
+      (musculus trapezius)?
+  right_terms:
+  - acromion-2
+  - clavicula
+  wrong_terms:
+  - suprascapular-notch-1
+  - coracoid-process
+  - superior-border-of-the-scapula
+  question_uuid: b35142ce40244c49418887fd50ea937
+- concepts:
+  - olecranon
+  - olecranon-8
+  - olecranon-9
+  exercise: question_bank
+  question:
+    de: Welche Struktur der Elle (Ulna) liegt an der proximalen dorsalen Oberfläche
+      und weist eine hakenförmige Form auf?
+    en: Which structure of the ulna is located at the proximal posterior surface and
+      is shaped like a hook?
+  right_terms:
+  - olecranon
+  wrong_terms:
+  - tuberositas-ulnae
+  - margo-anterior-ulnae
+  - processus-styloideus-ulnae
+  - ligamentum-collaterale-ulnare
+  question_uuid: 8a5768ff39d8135165d292d68e2a859
+- concepts:
+  - medial-epicondyle-of-the-humerus-1
+  exercise: question_bank
+  question:
+    de: Ein 55-jähriger Golfspieler stellt sich in der orthopädischen Ambulanz vor
+      und berichtet über Schmerzen im Ellenbogen, die sich in den letzten Wochen so
+      stark verschlimmert hätten, dass er nicht mehr spielen könne. In der körperlichen
+      Untersuchung zeigt sich eine Schmerzverstärkung bei der Pronation und Handgelenksflexion
+      gegen einen Widerstand. Eine ständige Überlastung der Unterarmbeuger kann zu
+      einer Entzündung des gemeinsamen Sehnenansatzes führen, was auch als 'Golferarm'
+      bezeichnet wird. Welche der folgenden Knochenstrukturen dient als Ansatzpunkt
+      für die Sehnen der Unterarmflexoren?
+    en: A 55-year-old golf player presents to the clinic with complaints of a gradual
+      elbow pain that has worsened recently to the point that he can no longer participate
+      in games. On physical examination, the pain is exacerbated during resisted forearm
+      pronation and wrist flexion. Overuse of the forearm flexor muscles can lead
+      to inflammation of the common insertion point of their tendon, a condition also
+      termed 'golfer's elbow'. Which of the following bony structures serves as an
+      attachment point for the tendons of the flexors of the forearm?
+  right_terms:
+  - medial-epicondyle-of-the-humerus-1
+  wrong_terms:
+  - trochlea-of-the-humerus
+  - fossa-coronoidea
+  - lateral-epicondyle-of-the-humerus-1
+  - crista-supracondylaris-lateralis
+  question_uuid: 483c14de4b6fd4e435445e3cdb7e9f3
+- concepts:
+  - caput-radii
+  - radius-8
+  - humerus-14
+  exercise: question_bank
+  question:
+    de: Welche Struktur der Speiche (Radius) befindet sich an ihrem proximalen Ende,
+      artikuliert mit dem Oberarmköpfchen (Capitulum humeri) als Teilgelenk des Ellenbogens
+      und weist eine konkave Gelenkfläche auf?
+    en: Which structure of the radius can be found proximally, articulates with the
+      capitulum of the humerus as part of the compound joint of the elbow and is concave
+      in shape?
+  right_terms:
+  - caput-radii
+  wrong_terms:
+  - tuberositas-radii
+  - processus-styloideus-radii
+  - margo-anterior-radii
+  - collum-radii
+  question_uuid: ff9914221a0714a8bcaee652acdeb78
+- concepts:
+  - trochlea-humeri
+  - anterior-cubital-region
+  exercise: question_bank
+  question:
+    de: Welche Struktur des Ellenbogens ist für die leichte physiologische Abweichung
+      des gestreckten Armes nach lateral (cubitus valgus) verantwortlich, welche vermeidet,
+      dass der Arm beim Laufen gegen die Hüfte stößt?
+    en: Which structure in the elbow is responsible for the lateral deviation of the
+      extended forearm forming the carrying angle at the elbow?
+  right_terms:
+  - trochlea-humeri
+  wrong_terms:
+  - olecranon
+  - medial-epicondyle-of-the-humerus
+  - lateral-epicondyle-of-the-humerus
+  - capitulum-humeri
+  question_uuid: 8d64aaed00d2f244121a1f9c2983a21
+- concepts:
+  - processus-coracoideus
+  - coracoid-process-3
+  exercise: question_bank
+  question:
+    de: Welche knöcherne Struktur lässt sich im Sulcus deltoideopectoralis zwischen
+      dem Musculus deltoideus (Deltamuskel) und Musculus pectoralis major (großer
+      Brustmuskel) ertasten?
+    en: What bony projection is palpable in the deltopectoral groove between the deltoid
+      and pectoralis major muscles?
+  right_terms:
+  - processus-coracoideus
+  wrong_terms:
+  - olecranon
+  - costa-i
+  - facies-articularis-sternalis-claviculae
+  - spina-scapulae
+  question_uuid: bd58b8e6b22517109292f306f97e9d6
+- concepts:
+  - caput-humeri
+  - facies-articularis-acromialis-claviculae
+  exercise: question_bank
+  question:
+    de: Mit welchen knöchernen Strukturen artikuliert die Scapula?
+    en: What bony structures does the scapula articulate with?
+  right_terms:
+  - caput-humeri
+  - facies-articularis-acromialis-claviculae
+  wrong_terms:
+  - costa-i-3
+  - facies-articularis-sternalis-claviculae
+  - collum-anatomicum
+  question_uuid: f35d96a7b462ca74eb2a3ee185f28c7
+- concepts:
+  - acromion
+  exercise: question_bank
+  question:
+    de: Die radiologische Untersuchung eines Patienten ergibt, dass die knöcherne
+      Struktur, die das Schultergelenk überdacht, gebrochen ist. Um welche handelt
+      es sich?
+    en: A patient is sent to radiology where radiographs reveal that the structure
+      which forms the tip of the shoulder is fractured. What part of the scapula was
+      fractured?
+  right_terms:
+  - acromion
+  wrong_terms:
+  - processus-coracoideus
+  - collum-scapulae
+  - spina-scapulae
+  - margo-superior-scapulae
+  question_uuid: d1077bc6485a7913765a061adddf410
+- concepts:
+  - acromion-2
+  - acromion
+  exercise: question_bank
+  question:
+    de: Welche der folgenden knöchernen Strukturen erstreckt sich von der Schultergräte
+      (Spina scapulae) nach vorne?
+    en: Which of the following bony structures extends anteriorly from the spine of
+      the scapula (spina scapulae)?
+  right_terms:
+  - acromion-2
+  wrong_terms:
+  - clavicula
+  - suprascapular-notch-1
+  - coracoid-process
+  - superior-border-of-the-scapula
+  question_uuid: 594b5294fadce6fdb72a8e53715003c
+- concepts:
+  - anatomical-neck-of-the-humerus
+  - collum-anatomicum
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Knochenstrukturen stellt eine Verengung des Oberarmknochens
+      (Humerus) zwischen Oberarmkopf (Caput humeri) und Tuberculum majus dar?
+    en: Which of the following bony structures is a constriction of the humerus between
+      the head (caput humeri) and greater tubercle (tuberculum majus)?
+  right_terms:
+  - anatomical-neck-of-the-humerus
+  wrong_terms:
+  - tuberculum-minus
+  - surgical-neck-of-the-humerus
+  - deltoid-tuberosity
+  - sulcus-intertubercularis
+  question_uuid: 7dc07db17d4f568a277ac7440ae42b5
+- concepts:
+  - suprascapular-region
+  - spina-scapulae
+  - spina-scapulae-2
+  - spine-of-the-scapula-3
+  exercise: question_bank
+  question:
+    de: Welche Struktur der Scapula (Schulterblatt) stellt die untere Grenze der Regio
+      suprascapularis (Oberschulterblattgegend) dar?
+    en: Which anatomical landmark constitutes the inferior border of the suprascapular
+      region?
+  right_terms:
+  - spina-scapulae
+  wrong_terms:
+  - angulus-inferior-scapulae
+  - margo-medialis-scapulae
+  - margo-lateralis-scapulae
+  - margo-superior-scapulae
+  question_uuid: e0e4753dfa3913fc79adb352bf18121
+- concepts:
+  - tuberculum-majus
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Strukturen bildet den Ansatz für die Muskeln, die an
+      der Bildung der Rotatorenmanschette beteiligt sind?
+    en: Which of the following structures gives the attachment to muscles that form
+      the rotator cuff?
+  right_terms:
+  - tuberculum-majus
+  wrong_terms:
+  - head-of-the-humerus
+  - trochanter-major
+  - collum-anatomicum
+  - collum-chirurgicum
+  question_uuid: 71c1614f0945573e8262caa49f59055
+- concepts:
+  - tuberculum-majus
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Strukturen liegt lateral des Sulcus intertubercularis
+      (Zwischenhöckerrinne)?
+    en: Which of the following structures lies lateral to bicipital groove (sulcus
+      intertubercularis)?
+  right_terms:
+  - tuberculum-majus
+  wrong_terms:
+  - lesser-tuberosity
+  - collum-anatomicum
+  - collum-chirurgicum
+  - head-of-the-humerus
+  question_uuid: fb70f597a1b6919b9b9cb0b5518343f
+- concepts:
+  - caput-humeri
+  exercise: question_bank
+  question:
+    de: Welcher Teil des Humerus (Oberarmknochen) ist an der Bildung des Schultergelenks
+      beteiligt?
+    en: What part of the humerus takes part in forming the shoulder joint?
+  right_terms:
+  - caput-humeri
+  wrong_terms:
+  - tuberculum-majus
+  - tuberculum-minus
+  - trochlea-humeri
+  - capitulum-humeri
+  question_uuid: b7e6a41d705a39b4c09c8326042836c
+- concepts:
+  - caput-humeri
+  exercise: question_bank
+  question:
+    de: Welcher der folgenden Abschnitte bildet den größten am Humerus (Oberarmkopf)?
+    en: Which of the following structures is the largest part of the humerus?
+  right_terms:
+  - caput-humeri
+  wrong_terms:
+  - tuberculum-majus
+  - tuberculum-minus
+  - capitulum-humeri
+  - deltoid-tuberosity
+  question_uuid: 3919731be2ffe682cab1e043b8ebd8e
+- concepts:
+  - caput-humeri
+  exercise: question_bank
+  question:
+    de: Welcher Teil des Humerus (Oberarmknochen) artikuliert mit der Scapula (Schulterblatt)?
+    en: Which part of humerus articulates with scapula?
+  right_terms:
+  - caput-humeri
+  wrong_terms:
+  - epicondylus-lateralis-humeri
+  - deltoid-tuberosity
+  - capitulum-humeri
+  - collum-chirurgicum
+  question_uuid: 7ce4bdc9599d50451a5f00fec030a3d
+- concepts:
+  - fossa-subscapularis
+  exercise: question_bank
+  question:
+    de: Welche Struktur befindet sich auf der anterioren Seite der Scapula (Schulterblatt)?
+    en: Which structure is present on the anterior surface of the scapula bone?
+  right_terms:
+  - fossa-subscapularis
+  wrong_terms:
+  - acromion
+  - spina-scapulae
+  - fossa-supraspinata
+  - fossa-infraspinata
+  question_uuid: 3ccd8343536581df8f0b56006305ee2
+- concepts:
+  - collum-radii
+  exercise: question_bank
+  question:
+    de: Welche Struktur der Speiche stellt den verjüngten Bereich zwischen dem Speichenkopf
+      (Caput radii) und der Speichenbeinbeule (Tuberositas radii) dar?
+    en: Which structure of the radius is the area between the radial head and the
+      radial tuberosity?
+  right_terms:
+  - collum-radii
+  wrong_terms:
+  - processus-styloideus-radii
+  - margo-anterior-radii
+  - facies-posterior-radii
+  - ligamentum-anulare-radii
+  question_uuid: 2b33bb3a554dec1c4acf19d166fa7d8
+- concepts:
+  - tuberositas-radii
+  exercise: question_bank
+  question:
+    de: Welche Struktur der Speiche befindet sich unterhalb von Speichenkopf und -hals
+      (Caput et collum radii) und weist eine ovale, konvexe Fläche auf, an der der
+      zweiköpfige Oberarmmuskel (Musculus biceps brachii) ansetzt?
+    en: Which structure of the radius lies just below the head and neck of the radius
+      and is an oval-shaped convexity upon which the biceps brachii inserts?
+  right_terms:
+  - tuberositas-radii
+  wrong_terms:
+  - processus-styloideus-radii
+  - facies-anterior-radii
+  - facies-lateralis-radii
+  - facies-posterior-radii
+  question_uuid: '0894d0a58fdd1d60853a90b96955524'
+- concepts:
+  - caput-radii
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Strukturen artikuliert mit dem Capitulum humeri (Oberarmköpfchen)?
+    en: Which structure articulates with the capitulum of the humerus?
+  right_terms:
+  - caput-radii
+  wrong_terms:
+  - trochlea-humeri
+  - caput-humeri
+  - processus-styloideus-ulnae
+  - collum-radii
+  question_uuid: df3f2c4cd73be535aa0c92eb8b28f7f

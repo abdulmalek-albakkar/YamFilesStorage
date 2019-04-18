@@ -1,0 +1,1184 @@
+---
+- terms:
+  - os-coxae
+  - os-sacrum
+  exercise: easy
+- terms:
+  - os-pubis
+  - os-ilium
+  exercise: easy
+- terms:
+  - os-ischii
+  - os-coccygis
+  exercise: easy
+- terms:
+  - tibia
+  - fibula
+  exercise: easy
+- terms:
+  - fibula
+  - tibia
+  - os-coccygis
+  - os-sacrum
+  exercise: four_one
+- terms:
+  - os-ischii
+  - os-ilium
+  - os-pubis
+  - os-coxae
+  exercise: four_one
+- terms:
+  - os-ischii
+  - tibia
+  - os-sacrum
+  - os-ilium
+  exercise: identify_image
+- terms:
+  - os-pubis
+  - fibula
+  - os-coxae
+  - os-coccygis
+  exercise: identify_image
+- terms:
+  - os-femoris
+  - fibula
+  exercise: easy
+- terms:
+  - tibia
+  - patella
+  exercise: easy
+- terms:
+  - talus
+  - calcaneus
+  exercise: easy
+- terms:
+  - os-cuboideum
+  - os-naviculare
+  exercise: easy
+- terms:
+  - os-naviculare
+  - os-cuboideum
+  - calcaneus
+  - patella
+  exercise: four_one
+- terms:
+  - fibula
+  - os-femoris
+  - tibia
+  - talus
+  exercise: four_one
+- terms:
+  - patella
+  - calcaneus
+  - fibula
+  - talus
+  exercise: identify_image
+- terms:
+  - os-naviculare
+  - os-femoris
+  - os-cuboideum
+  - tibia
+  exercise: identify_image
+- terms:
+  - os-cuneiforme-mediale
+  - os-cuneiforme-intermedium
+  exercise: easy
+- terms:
+  - os-cuneiforme-laterale
+  - ossa-metatarsalia
+  exercise: easy
+- terms:
+  - ossa-digitorum-phalanges
+  - os-cuboideum
+  exercise: easy
+- terms:
+  - os-naviculare
+  - talus
+  exercise: easy
+- terms:
+  - os-cuneiforme-intermedium
+  - ossa-digitorum-phalanges
+  - os-cuneiforme-laterale
+  - os-cuneiforme-mediale
+  exercise: four_one
+- terms:
+  - ossa-metatarsalia
+  - os-naviculare
+  - os-cuboideum
+  - talus
+  exercise: four_one
+- terms:
+  - ossa-metatarsalia
+  - os-naviculare
+  - ossa-digitorum-phalanges
+  - os-cuneiforme-mediale
+  exercise: identify_image
+- terms:
+  - os-cuneiforme-laterale
+  - os-cuboideum
+  - talus
+  - os-cuneiforme-intermedium
+  exercise: identify_image
+- terms:
+  - os-coxae
+  exercise: spell_term
+- terms:
+  - os-sacrum
+  exercise: spell_term
+- terms:
+  - os-pubis
+  exercise: spell_term
+- terms:
+  - os-ilium
+  exercise: spell_term
+- terms:
+  - os-ischii
+  exercise: spell_term
+- terms:
+  - os-coccygis
+  exercise: spell_term
+- terms:
+  - tibia
+  exercise: spell_term
+- terms:
+  - fibula
+  exercise: spell_term
+- terms:
+  - os-femoris
+  exercise: spell_term
+- terms:
+  - patella
+  exercise: spell_term
+- terms:
+  - talus
+  exercise: spell_term
+- terms:
+  - calcaneus
+  exercise: spell_term
+- terms:
+  - os-cuboideum
+  exercise: spell_term
+- terms:
+  - os-naviculare
+  exercise: spell_term
+- terms:
+  - os-cuneiforme-mediale
+  exercise: spell_term
+- terms:
+  - os-cuneiforme-intermedium
+  exercise: spell_term
+- terms:
+  - os-cuneiforme-laterale
+  exercise: spell_term
+- terms:
+  - ossa-metatarsalia
+  exercise: spell_term
+- terms:
+  - ossa-digitorum-phalanges
+  exercise: spell_term
+- concepts:
+  - os-pubis
+  - pubic-symphysis-10
+  exercise: question_bank
+  question:
+    de: Welche Knochen sind über die Schambeinfuge (Symphysis pubica) verbunden?
+    en: What bones are connected via the pubic symphysis (symphysis pubica)?
+  right_terms:
+  - os-pubis
+  wrong_terms:
+  - os-coccygis
+  - sacrum-2
+  - ilium
+  - os-ischii
+  question_uuid: 84e3f9b93b6e2396a2fb2f878073baa
+- concepts:
+  - os-ischii
+  - ilium
+  - os-ilium
+  - os-pubis
+  exercise: question_bank
+  question:
+    de: Welche Knochen bilden das Hüftbein (Os coxae)?
+    en: What bones form the hip bone (os coxae)?
+  right_terms:
+  - os-ischii
+  - ilium
+  - os-pubis
+  wrong_terms:
+  - sacrum-2
+  - os-coccygis
+  question_uuid: ea8601a1f67fa2148e1b9b5328102e0
+- concepts:
+  - tibia-3
+  - tibia
+  - facies-lateralis-tibiae
+  - fibula-3
+  - fibula
+  - facies-lateralis-fibulae
+  exercise: question_bank
+  question:
+    de: Welche Knochen bilden den Unterschenkel?
+    en: What bones form the lower leg?
+  right_terms:
+  - tibia-3
+  - fibula-3
+  wrong_terms:
+  - os-coxae
+  - femur-2
+  - ulna-3
+  question_uuid: 2af28ba957e7d5eccb9a2e7a28fddcb
+- concepts:
+  - patella
+  - patella-7
+  exercise: question_bank
+  question:
+    de: Welcher Knochen fungiert als Sesambein in der Sehne des vierköpfigen Oberschenkelmuskels
+      (Musculus quadriceps femoris)?
+    en: What bone is a sesamoid bone in the tendon of the quadriceps femoris muscle?
+  right_terms:
+  - patella
+  wrong_terms:
+  - talus
+  - os-naviculare
+  - os-pisiforme
+  - fibula-3
+  question_uuid: 12643e3e119519c1d4dc30c5134d3c3
+- concepts:
+  - calcaneus
+  - corpus-calcanei
+  exercise: question_bank
+  question:
+    de: Welcher Fußknochen ist der größte?
+    en: Which bone of the foot is the largest?
+  right_terms:
+  - calcaneus
+  wrong_terms:
+  - os-cuboideum
+  - talus
+  - os-cuneiforme-intermedium
+  - os-naviculare
+  question_uuid: 9bb85d2e6ee9767b3b977527aa8936a
+- concepts:
+  - talus
+  - talus-4
+  - calcaneus
+  - os-naviculare
+  exercise: question_bank
+  question:
+    de: Welche Knochen gehören zu der proximalen Reihe der Fußwurzelknochen?
+    en: What bones form the proximal row of the tarsal bones?
+  right_terms:
+  - talus
+  - calcaneus
+  - os-naviculare
+  wrong_terms:
+  - os-cuboideum
+  - medial-cuneiform-bone-1
+  question_uuid: e0dfd53dfb535503b010ab15a6fdf35
+- concepts:
+  - os-cuboideum
+  - cuneiform-bones
+  - os-cuneiforme-mediale
+  - os-cuneiforme-intermedium
+  - os-cuneiforme-laterale
+  exercise: question_bank
+  question:
+    de: Welche Knochen gehören zu der distalen Reihe der Fußwurzelknochen?
+    en: Which bones belong to the distal row of the tarsal bones?
+  right_terms:
+  - os-cuboideum
+  - cuneiform-bones
+  wrong_terms:
+  - os-naviculare
+  - calcaneus
+  - talus
+  question_uuid: '018b2b456ceeacdd7f433751b862541'
+- concepts:
+  - os-naviculare
+  - cuneiform-bones
+  - os-cuneiforme-mediale
+  - os-cuneiforme-intermedium
+  - os-cuneiforme-laterale
+  - talus
+  - talus-4
+  exercise: question_bank
+  question:
+    de: Welcher Knochen wird proximal vom Sprungbein (Talus) und distal von den drei
+      Keilbeinen (Ossa cuneiformia) begrenzt?
+    en: What bone articulates proximally with the talus and distally with the three
+      cuneiform bones (ossa cuneiformia)?
+  right_terms:
+  - os-naviculare
+  wrong_terms:
+  - os-cuboideum
+  - fibula-3
+  - ossa-metatarsalia
+  - tibia-3
+  question_uuid: de7a994c34009857951e1023736c60e
+- concepts:
+  - cuneiform-bones
+  - os-cuneiforme-mediale
+  - os-cuneiforme-intermedium
+  - os-cuneiforme-laterale
+  - os-naviculare
+  - ossa-metatarsalia
+  exercise: question_bank
+  question:
+    de: Welche Knochen befinden sich zwischen dem Kahnbein (Os naviculare) und den
+      Mittelfußknochen (Ossa metatarsalia) I-III?
+    en: What bones are situated between the navicular bone and the metatarsal bones
+      I-III?
+  right_terms:
+  - cuneiform-bones
+  wrong_terms:
+  - distal-phalanges
+  - ossa-digitorum-phalanges
+  - proximal-phalanges
+  - middle-phalanges
+  question_uuid: 30d742752ecf4fe3ec0685bbee311b7
+- concepts:
+  - ossa-metatarsalia
+  exercise: question_bank
+  question:
+    de: Welche Knochen liegen distal der distalen Reihe der Fußwurzelknochen?
+    en: Which bones lie distal to the distal row of the tarsal bones?
+  right_terms:
+  - ossa-metatarsalia
+  wrong_terms:
+  - middle-phalanges
+  - distal-phalanges
+  - proximal-phalanges
+  - ossa-digitorum-phalanges
+  question_uuid: 5eac2234fd6e5b2b7958446dbc2c3bf
+- concepts:
+  - fibula
+  - caput-fibulae
+  - tibia-6
+  exercise: question_bank
+  question:
+    de: Eine Maisonneuve-Fraktur kommt vor, wenn übertragene Kräfte nach einer Sprunggelenksverletzung
+      den proximalen Teil welches Knochens brechen?
+    en: A Maisonneuve fracture occurs when transmitted forces fracture the proximal
+      part of which bone following an ankle injury?
+  right_terms:
+  - fibula
+  wrong_terms:
+  - tibia
+  - os-naviculare
+  - os-femoris
+  - os-ilium
+  - radius
+  question_uuid: 19a903628bc655295b11a2970f9c942
+- concepts:
+  - os-femoris
+  - knee
+  - articularis-genus
+  exercise: question_bank
+  question:
+    de: Wie nennt man die gelenkbildenden Flächen des Femurs?
+    en: What are the articulating surfaces of the femur called?
+  right_terms:
+  - condylus-lateralis
+  - condylus-medialis
+  wrong_terms:
+  - epicondylus-lateralis
+  - epicondylus-medialis
+  - tuberositas-tibiae
+  question_uuid: 50a8e7347e0559b1ae67f73b7126adb
+- concepts:
+  - patella
+  - articular-cavity-of-the-knee
+  exercise: question_bank
+  question:
+    de: Welche anatomische Struktur schützt das Kniegelenk vor Schädigung durch die
+      Quadricepssehne?
+    en: Which anatomical structure protects the knee joint from damage through the
+      quadriceps tendon?
+  right_terms:
+  - patella
+  wrong_terms:
+  - retinaculum-patellae-laterale
+  - retinaculum-patellae-mediale
+  - ligamentum-cruciatum-anterius
+  - musculus-tibialis-anterior
+  question_uuid: 54e03e3704dcdc6e6bc4b5512d8741c
+- terms:
+  - musculus-rectus-femoris
+  exercise: multiple_choice_text
+  relation: insertion_of
+  right_terms:
+  - patella
+  - tuberositas-tibiae
+  wrong_terms:
+  - collum-fibulae
+  - corpus-femoris
+  - caput-femoris
+  - facies-medialis-fibulae
+- terms:
+  - musculus-vastus-medialis
+  exercise: multiple_choice_text
+  relation: insertion_of
+  right_terms:
+  - patella
+  - tuberositas-tibiae
+  - condylus-medialis-tibiae
+  wrong_terms:
+  - margo-anterior-fibulae
+  - condylus-lateralis-tibiae
+  - facies-medialis-fibulae
+- terms:
+  - musculus-vastus-lateralis
+  exercise: multiple_choice_text
+  relation: insertion_of
+  right_terms:
+  - patella
+  - tuberositas-tibiae
+  - condylus-lateralis-tibiae
+  wrong_terms:
+  - collum-fibulae
+  - corpus-femoris
+  - facies-medialis-fibulae
+- terms:
+  - musculus-vastus-intermedius
+  exercise: multiple_choice_text
+  relation: insertion_of
+  right_terms:
+  - patella
+  - tuberositas-tibiae
+  wrong_terms:
+  - collum-fibulae
+  - corpus-femoris
+  - caput-femoris
+  - facies-medialis-fibulae
+- terms:
+  - musculus-longissimus-thoracis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - os-sacrum
+  - crista-iliaca
+  - processus-spinosus-li-lv
+  - transverse-process-l1-l5
+  wrong_terms:
+  - processus-transversus-ciii-cvi
+  - angulus-costae-ix-x
+- terms:
+  - musculi-multifidi
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - os-sacrum
+  - spina-iliaca-posterior-superior
+  - processus-transversus-ti-txii
+  - processus-articulares-civ-cvii
+  wrong_terms:
+  - processus-articularis-superior-sacrum
+  - angulus-costae-ix-x
+- terms:
+  - musculus-tibialis-anterior
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - os-cuneiforme-mediale
+  - basis-ossis-metatarsi-i
+  wrong_terms:
+  - ossa-metatarsalia
+  - basis-phalangis-proximalis-i-of-foot
+  - os-cuneiforme-laterale
+  - os-cuneiforme-intermedium
+- terms:
+  - musculus-peroneus-longus
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - os-cuneiforme-mediale
+  - basis-ossis-metatarsi-i
+  wrong_terms:
+  - basis-phalangis-distalis-i-of-foot
+  - os-cuneiforme-laterale
+  - basis-phalangis-proximalis-ii-of-foot
+  - os-cuneiforme-intermedium
+- concepts:
+  - femur
+  - os-femoris
+  - femur-2
+  - femur-8
+  - tibia
+  - tibia-3
+  - knee
+  - knee-3
+  exercise: question_bank
+  question:
+    de: Die Kondylen (Knorren) welcher Knochen sind Teil des Kniegelenks?
+    en: The condyles of which bones are characteristic structures of the knee joint?
+  right_terms:
+  - femur
+  - tibia
+  wrong_terms:
+  - fibula
+  - talus
+  - radius
+  question_uuid: ed87f31c40fddd6755fd12aa1e94068
+- concepts:
+  - malleolus-lateralis
+  - malleolus-medialis
+  - tibia
+  - fibula
+  - tibia-3
+  exercise: question_bank
+  question:
+    de: Welche Strukturen imponieren am Sprunggelenk (Regio talocruralis) nach außen?
+    en: Which anatomical landmarks stand out at the ankle (talocrural region)?
+  right_terms:
+  - malleolus-lateralis
+  - malleolus-medialis
+  wrong_terms:
+  - facies-superior-tali
+  - caput-femoris
+  - condylus-lateralis-tibiae
+  question_uuid: fd7e8b77680daa411cbe17556760172
+- concepts:
+  - patella
+  - patella-2
+  - patella-7
+  - anterior-genual-region
+  exercise: question_bank
+  question:
+    de: Ein 33-jähriger Mann klagt kurz nach einem Autounfall über Schmerzen und Schwellung
+      in der vorderen Knieregion (Regio genus anterior). Welcher Knochen könnte gebrochen
+      sein?
+    en: A 33-year-old man suffers from pain and swelling in the anterior knee region
+      (regio genus anterior) shortly after a car accident. Which bone could be fractured?
+  right_terms:
+  - patella-2
+  wrong_terms:
+  - head-of-the-femur-3
+  - calcaneus
+  - acetabulum
+  - talus
+  question_uuid: 05ba7a8ccff68990a347d93a0e5064b
+- concepts:
+  - os-metatarsale-i
+  - os-cuneiforme-mediale
+  - ossa-metatarsalia
+  exercise: question_bank
+  question:
+    de: Mit welchem Knochen artikuliert die anteriore Fläche des inneren Keilbeins
+      (Os cuneiforme mediale)?
+    en: Which bone does the medial cuneiform bone's anterior surface articulate with?
+  right_terms:
+  - os-metatarsale-i
+  wrong_terms:
+  - os-metatarsale-ii
+  - os-metatarsale-iii
+  - os-cuneiforme-laterale
+  - os-naviculare
+  question_uuid: c1b5755cfe9a4397bec919fff1f62b6
+- concepts:
+  - os-naviculare
+  - os-cuneiforme-mediale
+  exercise: question_bank
+  question:
+    de: Mit welchem Knochen artikuliert die posteriore Fläche des inneren Keilbeins
+      (Os cuneiforme mediale)?
+    en: Which bone does the medial cuneiform bone's posterior surface articulate with?
+  right_terms:
+  - os-naviculare
+  wrong_terms:
+  - os-metatarsale-i
+  - os-metatarsale-ii
+  - os-cuneiforme-laterale
+  - talus
+  question_uuid: 90d9ddd1a76de909671da99fe76c84e
+- concepts:
+  - os-cuneiforme-mediale
+  - os-cuneiforme-intermedium
+  - os-metatarsale-i
+  - os-metatarsale-ii
+  - ossa-metatarsalia
+  - os-naviculare
+  exercise: question_bank
+  question:
+    de: Mit welchen Knochen artikuliert das Os cuneiforme mediale?
+    en: Which bones does the medial cuneiform bone articulate with?
+  right_terms:
+  - os-cuneiforme-intermedium
+  - os-metatarsale-i
+  - os-metatarsale-ii
+  - os-naviculare
+  wrong_terms:
+  - os-metatarsale-iii
+  question_uuid: 2b749d20662a88c91acbd36135a8806
+- concepts:
+  - os-cuneiforme-laterale
+  - os-metatarsale-iii
+  - ossa-metatarsalia
+  exercise: question_bank
+  question:
+    de: Mit welchem Knochen artikuliert die distale, dreieckige Gelenkfläche des äußeren
+      Keilbeins (Os cuneiforme laterale)?
+    en: Which bone does the distal, triangular surface of the lateral cuneiform bone
+      (Os cuneiforme laterale) articulate with?
+  right_terms:
+  - os-metatarsale-iii
+  wrong_terms:
+  - os-cuneiforme-mediale
+  - os-cuneiforme-intermedium
+  - talus
+  - os-naviculare
+  question_uuid: 492bc5237f1c50d871735af7c91959e
+- concepts:
+  - os-cuboideum
+  - os-cuneiforme-laterale
+  exercise: question_bank
+  question:
+    de: Mit welchem Knochen artikuliert das Würfelbein (Os cuboideum) über eine große,
+      ovale Fläche an seiner medialen Seite?
+    en: Which bone does the cuboid bone (os cuboideum) articulate with via a large
+      oval facet on its medial side?
+  right_terms:
+  - os-cuneiforme-laterale
+  wrong_terms:
+  - os-naviculare
+  - os-cuneiforme-intermedium
+  - talus
+  - calcaneus
+  question_uuid: 73673ff434c91ea5d00a9ce689e8756
+- concepts:
+  - os-cuboideum
+  - calcaneus
+  - corpus-calcanei
+  exercise: question_bank
+  question:
+    de: Mit welchem Knochen artikuliert das Würfelbein (Os cuboideum) über seine glatte,
+      konkav-konvexe hintere Gelenkfläche?
+    en: Which bone does the cuboid bone (os cuboideum) articulate with via its smooth
+      concavo-convex posterior surface?
+  right_terms:
+  - calcaneus
+  wrong_terms:
+  - os-naviculare
+  - os-cuneiforme-intermedium
+  - os-cuneiforme-laterale
+  - talus
+  question_uuid: 8373c9d8960d15a2e015aaea4aab41f
+- concepts:
+  - calcaneus
+  - corpus-calcanei
+  exercise: question_bank
+  question:
+    de: Welcher ist der größte Fußknochen?
+    en: Which one is the largest bone of the foot?
+  right_terms:
+  - calcaneus
+  wrong_terms:
+  - os-cuneiforme-mediale
+  - os-cuneiforme-laterale
+  - os-naviculare
+  - talus
+  question_uuid: de3ff82a8b9e49733f648b02d625673
+- concepts:
+  - sustentaculum-tali
+  - calcaneus
+  - corpus-calcanei
+  exercise: question_bank
+  question:
+    de: Welche Struktur ist ein horizontales 'Dach', das sich aus dem ventromedialen
+      Anteil des Calcaneus herausbildet?
+    en: Which structure is a horizontal shelf that arises from the anteromedial portion
+      of the calcaneus?
+  right_terms:
+  - sustentaculum-tali
+  wrong_terms:
+  - corpus-calcanei
+  - facies-articularis-cuboidea-calcanei
+  - processus-medialis-tuberis-calcanei
+  - sulcus-calcanei
+  question_uuid: 23050ea6b0d3cc476b745b52cc81424
+- concepts:
+  - os-metatarsale-i
+  - ossa-metatarsalia
+  exercise: question_bank
+  question:
+    de: Eine Insuffizienz der Bänder und Muskeln des Fußes führt häufig zu Fußdeformitäten.
+      Eine der häufigsten ist der Hallux valgus, der durch die pathologische Adduktion
+      von welchem Knochen charakterisiert ist?
+    en: The insufficiency of the ligaments and muscles of the foot sole often lead
+      to foot deformities. One of the most common is the bunion (hallux valgus) characterized
+      by a pathological adduction of which bone?
+  right_terms:
+  - os-metatarsale-i
+  wrong_terms:
+  - phalanges-mediae-ii-v-of-foot
+  - basis-phalanges-distales-i-iv-of-foot
+  - talus
+  - basis-phalangis-proximalis-i-of-foot
+  question_uuid: 7be6de12443d588675a3096f84043cf
+- concepts:
+  - calcaneus
+  - corpus-calcanei
+  exercise: question_bank
+  question:
+    de: Im Rahmen einer chronischen Überbeanspruchung der Plantaraponeurose (Aponeurosis
+      plantaris) beispielsweise bei Athleten kann sich eine Plantarfasziitis entwickeln.
+      Diese ist eine entzündliche Veränderung der Plantaraponeurose am Ursprung welches
+      Knochens?
+    en: The plantar aponeurosis passively contributes to the longitudinal arch of
+      the foot sole. In case of chronic strain (e.g. in athletes and elderly people)
+      plantar fasciitis may develop. At the attachment to which bone does this inflammatory
+      condition of the plantar aponeurosis occur?
+  right_terms:
+  - calcaneus
+  wrong_terms:
+  - phalanges-mediae-ii-v-of-foot
+  - basis-phalangis-proximalis-i-of-foot
+  - talus
+  - os-metatarsale-v
+  question_uuid: 963fa599a6749463da27a50ae6b4347
+- concepts:
+  - talus
+  - corpus-tali
+  - tibia
+  - fibula
+  - calcaneus
+  - corpus-calcanei
+  - os-naviculare
+  exercise: question_bank
+  question:
+    de: Mit welchen Knochen artikuliert der das Sprungbein (Talus)?
+    en: With which bones does the talus articulate?
+  right_terms:
+  - tibia
+  - fibula
+  - calcaneus
+  - os-naviculare
+  wrong_terms:
+  - os-cuneiforme-mediale
+  question_uuid: f2a01abf379d684542783071c7565a3
+- concepts:
+  - talus
+  - corpus-tali
+  - os-naviculare
+  exercise: question_bank
+  question:
+    de: Mit welchem Knochen geht das Sprungbein (Talus) eine gelenkige Verbindung
+      über seinen konvexen, ovalen Kopf ein?
+    en: Which bone does the talus articulate with via its convex oval head?
+  right_terms:
+  - os-naviculare
+  wrong_terms:
+  - calcaneus
+  - os-cuboideum
+  - os-cuneiforme-laterale
+  - os-cuneiforme-mediale
+  question_uuid: 4ef741e79bf666338196d97d04a213a
+- concepts:
+  - talus
+  - corpus-tali
+  - tibia
+  exercise: question_bank
+  question:
+    de: Mit welchem Knochen geht das Sprungbein (Talus) eine gelenkige Verbindung
+      über seine Trochlea tali ein?
+    en: Which bone does the talus articulate with via its dorsal trochlea?
+  right_terms:
+  - tibia
+  wrong_terms:
+  - os-cuboideum
+  - fibula
+  - calcaneus
+  - os-naviculare
+  question_uuid: 2341a50ca3ad535b50402f6a41c68eb
+- concepts:
+  - metatarsal-bones
+  - ossa-metatarsalia
+  exercise: question_bank
+  question:
+    de: Ein 25-jähriger Soldat klagt über Schmerzen im rechten Fuß. Nach einer Röntgenuntersuchung
+      diagnostiziert der behandelnde Arzt eine Marschfraktur, auch Stressfraktur oder
+      Ermüdungsbruch genannt, welche durch eine konstant erhöhte Belastung wie beispielsweise
+      langes Marschieren zurückzuführen ist. Welche der folgenden Knochen sind im
+      Rahmen dieser Verletzung am häufigsten betroffen?
+    en: A 25-year-old soldier complains of pain in the right foot. After conducting
+      an X-ray the treating physician diagnoses it as march fracture or fatigue fracture
+      due to prolonged marching. Which bones are commonly fractured in this condition?
+  right_terms:
+  - metatarsal-bones
+  wrong_terms:
+  - ossa-digitorum-phalanges
+  - calcaneus
+  - talus-4
+  - navicular-bone
+  question_uuid: 7d5a7fd832c4398a19e84cf8be61057
+- concepts:
+  - talus-4
+  - talus
+  - corpus-tali
+  - tibia
+  - tibia-6
+  exercise: question_bank
+  question:
+    de: Menschen, die in ihrem Leben sehr häufig in die Hocke gehen, weisen in der
+      Regel zusätzliche Knochenfortsätze ('squatting facets') auf, die sich bei weniger
+      aktiven Menschen zurückbilden. Diese erleichtern das in die Hocke gehen erheblich.
+      Welche der folgenden Knochen weisen diese Fortsätze auf?
+    en: In habitual squatters there are extra facets on certain bones. Which of the
+      bones have the squatting facets?
+  right_terms:
+  - talus-4
+  - tibia-6
+  wrong_terms:
+  - calcaneus
+  - fibula-6
+  - first-metatarsal-bone
+  question_uuid: 1273fb7070c2b323985e98bb275919a
+- concepts:
+  - talus-4
+  - talus
+  - corpus-tali
+  exercise: question_bank
+  question:
+    de: Ein 38-jähriger Mann klagt über Schmerzen in seiner linken hinteren Knöchelregion.
+      Auf dem Röntgenbild entdeckt der Radiologe ein prominentes Os trigonum. Hierbei
+      handelt es sich um einen akzessorischen Knochen, der das Os-trigonum-Syndrom
+      (eng. posterior ankle impingement syndrome) hervorrufen und somit die Schmerzsymptomatik
+      des Patienten erklären kann. Mit welchem Knochen steht das Os trigonum in Verbindung?
+    en: A 38-year-old man suffers from pain in the left ankle. After conducting an
+      X-ray of the ankle the radiologist notices the prominent presence of the so-called
+      'os trigonum'. This is an accessory bone that can cause posterior ankle impingement
+      syndrome, thus potentially causing the symptoms in this patient. Which bone
+      is the os trigonum associated with?
+  right_terms:
+  - talus-4
+  wrong_terms:
+  - tibia-6
+  - fibula-6
+  - calcaneus
+  - navicular-bone
+  question_uuid: c4c4e0a8d0ea89ac13459e6b44316d1
+- concepts:
+  - calcaneus
+  - corpus-calcanei
+  exercise: question_bank
+  question:
+    de: Die sogenannte Liebhaber-Fraktur (Lover's fracture, Don-Juan-fracture) wird
+      historisch beschrieben als eine Fraktur, die bei der Flucht eines Liebhabers
+      vor dem Ehegatten seiner Geliebten beim Sprung vom Balkon oder aus dem Fenster
+      auftritt. Welcher Knochen ist im Rahmen dieser Fraktur betroffen?
+    en: Lover's fracture, or Don Juan fracture, has anecdotally been described as
+      a fracture sustained by a suitor fleeing on arrival of the person's spouse and
+      jumping from great heights, for example out of a window. Which bone gets fractured?
+  right_terms:
+  - calcaneus
+  wrong_terms:
+  - talus-4
+  - navicular-bone
+  - first-metatarsal-bone
+  - os-cuneiforme-laterale
+  question_uuid: 9c423092038166ed04a0c791260ef6e
+- concepts:
+  - collum-tali
+  - talus
+  - talus-4
+  - corpus-tali
+  exercise: question_bank
+  question:
+    de: Ein 35-jähriger Mann gerät in einen Verkehrsunfall und wird ins Krankenhaus
+      eingewiesen. Neben anderen Verletzungen weist er einen sogenannten Flieger-Astragalus
+      auf. Welche Struktur weist hierbei eine Fraktur auf?
+    en: A 35-year-old male victim of a road traffic accident is admitted to the hospital.
+      Apart from other injuries he has an aviator fracture in his foot. Which of the
+      following bony structures is fractured?
+  right_terms:
+  - collum-tali
+  wrong_terms:
+  - tuberositas-ossis-navicularis
+  - sustentaculum-tali-2
+  - tuberosity-of-the-fifth-metatarsal-bone
+  - malleolus-medialis
+  question_uuid: f4b372fc56e985a2a08303d30780f6b
+- terms:
+  - musculus-tibialis-posterior
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - os-cuneiforme-laterale
+  - os-cuneiforme-intermedium
+  - os-cuneiforme-mediale
+  - tuberositas-ossis-navicularis
+  wrong_terms:
+  - processus-lateralis-tuberis-calcanei
+  - tuberositas-ossis-metatarsi-v-5
+- terms:
+  - m-extensor-digitorum-brevis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - calcaneus
+  wrong_terms:
+  - talus
+  - os-naviculare
+  - os-metatarsale-iv
+  - tuberositas-ossis-metatarsi-v-5
+  - os-cuneiforme-laterale
+- terms:
+  - m-extensor-hallucis-brevis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - calcaneus
+  wrong_terms:
+  - talus
+  - os-naviculare
+  - os-metatarsale-i
+  - os-cuneiforme-intermedium
+  - os-cuneiforme-mediale
+- concepts:
+  - os-pubis
+  exercise: question_bank
+  question:
+    de: Welcher Knochen liegt vor der Harnblase?
+    en: Which bone lies anterior to the urinary bladder?
+  right_terms:
+  - os-pubis
+  wrong_terms:
+  - coccyx-bone-2
+  - ilium-3
+  - axis-2
+  - os-sacrum
+  question_uuid: b37c7b5cec6f1db924019958fe3e648
+- concepts:
+  - os-pubis
+  exercise: question_bank
+  question:
+    de: Welcher zusammengesetzte Kochen des Beckens artikuliert direkt mit seinem
+      Gegenstück der anderen Seite?
+    en: Which hip bone component articulates with its counterpart from the other side?
+  right_terms:
+  - os-pubis
+  wrong_terms:
+  - ilium-3
+  - coccyx-bone-2
+  - os-sacrum
+  - ischium-2
+  question_uuid: dd2397136fadc6e539129d36dc49551
+- concepts:
+  - pelvis
+  - pelvis-2
+  - hip-joint-2
+  exercise: question_bank
+  question:
+    de: Welche drei Knochen bilden das Becken (Pelvis)?
+    en: What three bones form the pelvis?
+  right_terms:
+  - hip-bone
+  - os-sacrum
+  - os-coccygis
+  wrong_terms:
+  - femur-2
+  - lumbar-vertebrae
+  question_uuid: af3fdb45cf2ef5c3f106d30427e9063
+- concepts:
+  - ilium
+  - os-pubis
+  - os-ischii
+  - hip-bone
+  - hip-joint-2
+  - pelvis-2
+  exercise: question_bank
+  question:
+    de: Welche Knochen vereinen sich in der Pubertät zum Hüftbein (Os coxae)?
+    en: What bones fuse together at puberty to form the hip bone (os coxae)?
+  right_terms:
+  - ilium
+  - os-pubis
+  - os-ischii
+  wrong_terms:
+  - os-coccygis
+  - os-sacrum
+  question_uuid: 0b91c40d4a8bcf52a9a84efff4a39b0
+- concepts:
+  - pubic-symphysis
+  - pubic-symphysis-10
+  - hip-bone
+  - os-coxae
+  exercise: question_bank
+  question:
+    de: Über welches unechte Gelenk steht das rechte und linke Hüftbein (Ossa coxae)
+      direkt miteinander in Verbindung?
+    en: Which synarthrosis directly unites the right and left hip bones (ossa coxae)?
+  right_terms:
+  - pubic-symphysis
+  wrong_terms:
+  - articulatio-sacroiliaca
+  - hip-joint
+  - articulatio-lumbosacralis
+  - articulatio-sacrococcygea
+  question_uuid: 14731ef116fdbbafd51f9e155b70e2c
+- concepts:
+  - ramus-superior-ossis-pubis
+  - superior-pubic-ramus
+  - ilium
+  - ischium-2
+  - os-ischii
+  - acetabulum
+  - acetabulum-2
+  exercise: question_bank
+  question:
+    de: Welche Knochen sind am Aufbau der Hüftgelenkspfanne (Acetabulum) beteiligt?
+    en: What bones form the acetabulum?
+  right_terms:
+  - ramus-superior-ossis-pubis
+  - ilium
+  - ischium-2
+  wrong_terms:
+  - inferior-pubic-ramus
+  - os-sacrum
+  question_uuid: 393383eb55e2283ce6dd0018e15d1c7
+- concepts:
+  - ischium-2
+  - os-ischii
+  - os-pubis
+  - obturator-foramen-1
+  exercise: question_bank
+  question:
+    de: Welche Knochen bilden das Hüftloch (Foramen obturatum)?
+    en: What bones form the obturator foramen (foramen obturatum)?
+  right_terms:
+  - ischium-2
+  - os-pubis
+  wrong_terms:
+  - ilium
+  - os-sacrum
+  - crista-iliaca
+  question_uuid: c342a3106958b4dde356a8275191d04
+- concepts:
+  - pubic-symphysis
+  - pubic-symphysis-10
+  - os-pubis
+  exercise: question_bank
+  question:
+    de: Eine 29-jährige Wöchnerin klagt einige Tage nach der Geburt ihres Sohnes über
+      Schmerzen im Schambereich (Regio pubica). Es wird eine Symphysenruptur (Schambeinfugenriss)
+      diagnostiziert. Welcher paarige Knochen wird durch die Schambeinfuge (Symphysis
+      pubica) verbunden?
+    en: A 29-year-old puerpera suffers from pain in the pubic region (regio pubica)
+      a few days after giving birth to her son. A pubic symphysis disruption is diagnosed.
+      Which paired bone is connected by the pubic symphysis (symphysis pubica)?
+  right_terms:
+  - os-pubis
+  wrong_terms:
+  - os-coccygis
+  - os-sacrum
+  - os-ilium
+  - femur
+  question_uuid: bd0642e801b09366ecfe9c3e1776206
+- concepts:
+  - obturator-foramen
+  - obturator-foramen-1
+  - pubic-bone-3
+  - os-pubis
+  - ischium-3
+  - os-ischii
+  exercise: question_bank
+  question:
+    de: Der Nervus obturatorius (Hüftlochnerv) sowie die Arteria und Vena obturatoria
+      ziehen durch das Foramen obturatum (Hüftloch) vom kleinen Becken zum Oberschenkel.
+      Welche beiden Knochen begrenzen dieses Foramen?
+    en: The obturator nerve as well as the obturator artery and vein pass through
+      the obturator foramen from the lesser pelvis to the thigh. Which two bones bound
+      the foramen?
+  right_terms:
+  - pubic-bone-3
+  - ischium-3
+  wrong_terms:
+  - os-sacrum
+  - coccyx-bone-2
+  - femur-2
+  question_uuid: 8f6360c29cc6960b0ad103a2541e0e0
+- concepts:
+  - pelvic-cavity-1
+  - os-pubis
+  - os-ischii
+  - ala-ossis-sacralis
+  - os-coccygis
+  exercise: question_bank
+  question:
+    de: Eine Patientin stellt sich mit wiederkehrenden Bauchschmerzen im Krankenhaus
+      vor. Da die Koloskopie unauffällig war, wurde zusätzlich eine MRT des Abdomens
+      angefertigt. Die zuständige Radiologin geht nun die Schnittbilder durch und
+      erkennt eine Pathologie im kleinen Becken. Welche Knochen umgrenzen das kleine
+      Becken und können der Radiologin als Orientierung dienen?
+    en: A patient is admitted to the hospital due to recurrent abdominal pain. As
+      the colonoscopy did not show any abnormalities, a MRI of the abdomen was performed
+      in addition. The attending radiologist now screens the cross sections and detects
+      a pathological abnormality in the lesser pelvis. Which bones define the border
+      of the lesser pelvis and can thus serve the radiologist for orientation?
+  right_terms:
+  - pubic-bone-3
+  - ischium-3
+  - os-sacrum
+  - coccyx-bone
+  wrong_terms:
+  - vertebrae-lumbales
+  question_uuid: 5fe41c041b30d2b36348bfa0d7cd51d
+- terms:
+  - musculus-rectus-abdominis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - pubic-crest
+  - symphysis-pubis
+  wrong_terms:
+  - spina-iliaca-anterior-superior
+  - spina-iliaca-anterior-inferior
+  - os-sacrum
+  - os-ilium
+- terms:
+  - musculus-pyramidalis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - symphysis-pubis
+  - pubic-crest
+  wrong_terms:
+  - ramus-ossis-ischii
+  - os-ilium
+  - spina-iliaca-anterior-superior
+  - spina-iliaca-anterior-inferior
+- terms:
+  - musculus-gluteus-maximus
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - os-sacrum
+  - ala-ossis-ilii-facies-glutea
+  - fascia-thoracolumbalis
+  - ligamentum-sacrotuberale
+  - coccyx-bone
+  wrong_terms:
+  - crista-intertrochanterica
+- terms:
+  - mm-interossei-dorsales
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - ossa-metatarsalia
+  wrong_terms:
+  - talus
+  - os-naviculare
+  - calcaneus
+  - os-cuneiforme-intermedium
+  - os-cuneiforme-mediale
+- terms:
+  - m-flexor-hallucis-brevis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - os-cuboideum
+  - os-cuneiforme-laterale
+  - tendon-of-tibialis-posterior-muscle
+  wrong_terms:
+  - os-naviculare
+  - calcaneus
+  - os-metatarsale-i

@@ -1,0 +1,1223 @@
+---
+- terms:
+  - musculus-trapezius
+  - musculus-latissimus-dorsi
+  exercise: easy
+- terms:
+  - musculus-levator-scapulae
+  - musculus-rhomboideus-major
+  exercise: easy
+- terms:
+  - musculus-rhomboideus-minor
+  - musculus-serratus-posterior-superior
+  exercise: easy
+- terms:
+  - musculus-serratus-posterior-inferior
+  - musculus-rectus-capitis-posterior-major
+  exercise: easy
+- terms:
+  - musculus-trapezius
+  - musculus-latissimus-dorsi
+  - musculus-levator-scapulae
+  - musculus-rhomboideus-major
+  exercise: four_one
+- terms:
+  - musculus-rhomboideus-minor
+  - musculus-serratus-posterior-superior
+  - musculus-serratus-posterior-inferior
+  - musculus-rectus-capitis-posterior-major
+  exercise: four_one
+- terms:
+  - musculus-trapezius
+  - musculus-latissimus-dorsi
+  - musculus-levator-scapulae
+  - musculus-rhomboideus-major
+  exercise: identify_image
+- terms:
+  - musculus-rhomboideus-minor
+  - musculus-serratus-posterior-superior
+  - musculus-serratus-posterior-inferior
+  - musculus-rectus-capitis-posterior-major
+  exercise: identify_image
+- terms:
+  - musculus-rectus-capitis-posterior-minor
+  - musculus-obliquus-capitis-superior
+  exercise: easy
+- terms:
+  - musculus-obliquus-capitis-inferior
+  - musculus-obliquus-capitis-superior
+  exercise: easy
+- terms:
+  - musculus-rectus-capitis-posterior-minor
+  - musculus-obliquus-capitis-inferior
+  - musculus-obliquus-capitis-superior
+  - musculus-rhomboideus-major
+  exercise: four_one
+- terms:
+  - musculus-obliquus-capitis-superior
+  - musculus-obliquus-capitis-inferior
+  - musculus-serratus-posterior-superior
+  - musculus-rectus-capitis-posterior-minor
+  exercise: identify_image
+- terms:
+  - musculus-trapezius
+  exercise: spell_term
+- terms:
+  - musculus-latissimus-dorsi
+  exercise: spell_term
+- terms:
+  - musculus-levator-scapulae
+  exercise: spell_term
+- terms:
+  - musculus-rhomboideus-major
+  exercise: spell_term
+- terms:
+  - musculus-rhomboideus-minor
+  exercise: spell_term
+- terms:
+  - musculus-serratus-posterior-superior
+  exercise: spell_term
+- terms:
+  - musculus-serratus-posterior-inferior
+  exercise: spell_term
+- terms:
+  - musculus-rectus-capitis-posterior-major
+  exercise: spell_term
+- terms:
+  - musculus-rectus-capitis-posterior-minor
+  exercise: spell_term
+- terms:
+  - musculus-obliquus-capitis-superior
+  exercise: spell_term
+- terms:
+  - musculus-obliquus-capitis-inferior
+  exercise: spell_term
+- concepts:
+  - musculus-trapezius
+  exercise: question_bank
+  question:
+    de: Der unter Teil des Musculus levator scapulae ist von welchem der folgenden
+      Muskeln bedeckt?
+    en: The lower part of the levator scapulae muscle (musculus levator scapulae)
+      is covered by which of the following muscles?
+  right_terms:
+  - musculus-trapezius
+  wrong_terms:
+  - musculus-splenius-capitis
+  - musculus-sternocleidomastoideus
+  - musculus-splenius-cervicis
+  - musculus-sternohyoideus
+  question_uuid: 7f3872e2182f69dbb051b1d373b3b92
+- concepts:
+  - musculus-trapezius
+  - musculus-splenius-capitis
+  - musculus-sternocleidomastoideus
+  exercise: question_bank
+  question:
+    de: Der mittlere Teil des Musculus levator scapulae ist am leichtesten palpierbar,
+      da der Rest von den folgenden Muskeln bedeckt ist
+    en: The middle of the levator scapulae muscle (musculus levator scapulae) is most
+      easily palpated as the rest of the muscle is covered by the following muscles
+  right_terms:
+  - musculus-splenius-capitis
+  - musculus-sternocleidomastoideus
+  - musculus-trapezius
+  wrong_terms:
+  - musculus-splenius-cervicis
+  - musculus-sternohyoideus
+  question_uuid: 1c58e4d48b7bdcfb153bb857b3ab843
+- concepts:
+  - musculus-levator-scapulae
+  exercise: question_bank
+  question:
+    de: Die Halswirbelsäule wird zur Seite flektiert, wenn die Scapula fixiert ist,
+      und welcher Muskel kontrahiert wird?
+    en: The cervical vertebral column can bend to the side (lateral flexion) when
+      the scapula is fixed and which muscle is contracted?
+  right_terms:
+  - musculus-levator-scapulae
+  wrong_terms:
+  - musculus-splenius-capitis
+  - musculus-sternocleidomastoideus
+  - musculus-trapezius
+  - musculus-pectoralis-major
+  question_uuid: 7be2f3d02c123528d8446cf3979708c
+- concepts:
+  - musculus-levator-scapulae
+  - musculus-rhomboideus-major
+  - musculus-rhomboideus-minor
+  exercise: question_bank
+  question:
+    de: Eine Schädigung des Nervus dorsalis scapulae kann zur Atrophie welcher Muskeln
+      führen?
+    en: Lesion to the dorsal scapular nerve (nervus dorsalis scapulae) can result
+      in atrophy of which muscles?
+  right_terms:
+  - musculus-levator-scapulae
+  - musculus-rhomboideus-major
+  - musculus-rhomboideus-minor
+  wrong_terms:
+  - musculus-trapezius
+  - musculus-pectoralis-major
+  question_uuid: 87363d9b8b7de97b1fffab552b7e5cd
+- concepts:
+  - musculus-levator-scapulae
+  exercise: question_bank
+  question:
+    de: Falsche Haltung kann zur Versteifung und chronischem Schmerz besonders in
+      welchem Muskel führen?
+    en: False posture can lead to stiffening and chronic pain especially in which
+      muscle?
+  right_terms:
+  - musculus-levator-scapulae
+  wrong_terms:
+  - musculus-rhomboideus-major
+  - musculus-rhomboideus-minor
+  - musculus-pectoralis-major
+  - musculus-trapezius
+  question_uuid: 3448050b9142a67bee2cb44f3ab7679
+- concepts:
+  - musculus-levator-scapulae
+  exercise: question_bank
+  question:
+    de: Das Tragen schwerer Gegenstände, permanentes Heben der Schultern und Schlafen
+      auf einer Körperseite ohne Unterstützung kann zur Versteifung und chronischem
+      Schmerz in welchem Muskel führen?
+    en: Carrying heavy bags, permanent lifting of the shoulders, and sleeping on one
+      side of the body without support can lead to stiffening and chronic pain in
+      which muscle?
+  right_terms:
+  - musculus-levator-scapulae
+  wrong_terms:
+  - musculus-rhomboideus-major
+  - musculus-rhomboideus-minor
+  - musculus-trapezius
+  - musculus-pectoralis-major
+  question_uuid: 6fd860854d2cc33ef1b4b7c9e0f6744
+- concepts:
+  - musculus-latissimus-dorsi
+  exercise: question_bank
+  question:
+    de: Welcher ist der breiteste Muskel des menschlichen Körpers?
+    en: What is the widest muscle in the human body?
+  right_terms:
+  - musculus-latissimus-dorsi
+  wrong_terms:
+  - musculus-pectoralis-major
+  - musculus-trapezius
+  - musculus-levator-scapulae
+  - musculus-rhomboideus-major
+  question_uuid: 824d4e2decdacf9cd3732f6b3774e77
+- concepts:
+  - musculus-latissimus-dorsi
+  exercise: question_bank
+  question:
+    de: Welcher Muskel bedeckt fast alle Rückenmuskeln der dorsalen Rumpfwand?
+    en: Which muscle covers almost all of the back muscles at the posterior trunk
+      ?
+  right_terms:
+  - musculus-latissimus-dorsi
+  wrong_terms:
+  - musculus-pectoralis-major
+  - musculus-trapezius
+  - musculus-levator-scapulae
+  - musculus-rhomboideus-major
+  question_uuid: 0d0caec255da7b63f487ecb312d6280
+- concepts:
+  - musculus-latissimus-dorsi
+  - musculus-teres-major
+  exercise: question_bank
+  question:
+    de: Welche Muskeln bilden die hintere Achselfalte?
+    en: Which muscles form the posterior axillary fold in the armpit?
+  right_terms:
+  - musculus-teres-major
+  - musculus-latissimus-dorsi
+  wrong_terms:
+  - musculus-teres-minor
+  - musculus-levator-scapulae
+  - musculus-rhomboideus-major
+  question_uuid: 962f8e19941a54505d1e01e95408d40
+- concepts:
+  - musculus-latissimus-dorsi
+  exercise: question_bank
+  question:
+    de: Welcher Muskel wird manchmal als Hustmuskel bezeichnet, da er bei Hustenanfällen
+      besonders beansprucht wird?
+    en: Which muscle is sometimes referred to as the 'coughing muscle' due to it being
+      particularly strained during coughing attacks?
+  right_terms:
+  - musculus-latissimus-dorsi
+  wrong_terms:
+  - musculus-deltoideus
+  - musculus-pectoralis-major
+  - musculus-rhomboideus-major
+  - musculus-trapezius
+  question_uuid: 2e6167a341f7c0e987905d3458c1821
+- concepts:
+  - musculus-latissimus-dorsi
+  exercise: question_bank
+  question:
+    de: Fehlende Muskelrelaxion am Rücken und im Bereich der hinteren Achselfalte
+      weist auf eine Läsion des Nervus thoracodorsalis hin und betrifft welchen Muskel?
+    en: Missing muscular relief at the back and the posterior axillary fold indicates
+      a lesion of the thoracodorsal nerve which affects which muscle?
+  right_terms:
+  - musculus-latissimus-dorsi
+  wrong_terms:
+  - musculus-deltoideus
+  - musculus-pectoralis-major
+  - musculus-rhomboideus-major
+  - musculus-trapezius
+  question_uuid: 408fa761e1165cfd328412aaa780712
+- concepts:
+  - musculus-latissimus-dorsi
+  exercise: question_bank
+  question:
+    de: Die Parese welches Muskels kann in einer leichten Schwäche in der Schulter
+      führen, wird aber allgemein durch die anderen Schultermuskeln gut ausgeglichen?
+    en: The paralysis of which muscle may cause light weakness of the shoulder but
+      is generally compensated for by the remaining shoulder muscles?
+  right_terms:
+  - musculus-latissimus-dorsi
+  wrong_terms:
+  - musculus-deltoideus
+  - musculus-pectoralis-major
+  - musculus-rhomboideus-major
+  - musculus-trapezius
+  question_uuid: 19b58cb0982e2bd6ae7c05e759cf60f
+- concepts:
+  - musculus-latissimus-dorsi
+  exercise: question_bank
+  question:
+    de: Welcher Muskel kann zur Rekonstruktion der vorderen Rumpfwand nach Mastektomie
+      verwendet werden?
+    en: Which muscle can be used to reconstruct the anterior trunk after mastectomy?
+  right_terms:
+  - musculus-latissimus-dorsi
+  wrong_terms:
+  - musculus-deltoideus
+  - musculus-pectoralis-major
+  - musculus-rhomboideus-major
+  - musculus-trapezius
+  question_uuid: c53fa263a0112af37e6c3fe53750016
+- concepts:
+  - musculus-serratus-posterior-superior
+  - musculus-serratus-posterior-inferior
+  exercise: question_bank
+  question:
+    de: Welche oberflächlichen Rückenmuskeln liegen über den autochthonen Rückenmuskeln?
+    en: Which superficial back muscles lie above the intrinsic back musculature?
+  right_terms:
+  - musculus-serratus-posterior-superior
+  - musculus-serratus-posterior-inferior
+  wrong_terms:
+  - musculus-deltoideus
+  - musculus-pectoralis-major
+  - musculus-sternocleidomastoideus
+  - musculus-trapezius
+  question_uuid: 216fee6138741d257203806d2e22fb6
+- concepts:
+  - musculus-latissimus-dorsi
+  exercise: question_bank
+  question:
+    de: Welcher Muskel liegt über dem Musculus serratus posterior inferior?
+    en: Which muscle lies above the serratus posterior inferior muscle (musculus serratus
+      posterior inferior)?
+  right_terms:
+  - musculus-latissimus-dorsi
+  wrong_terms:
+  - musculus-deltoideus
+  - musculus-pectoralis-major
+  - musculus-sternocleidomastoideus
+  - musculus-trapezius
+  question_uuid: f6b6fb80e1d5a12c47f4dc744185cfa
+- concepts:
+  - musculus-rhomboideus-major
+  - musculus-rhomboideus-minor
+  - musculus-trapezius
+  exercise: question_bank
+  question:
+    de: Welche Muskeln bedecken den Musculus serratus posterior superior?
+    en: Which muscles cover the serratus posterior superior muscle (musculus serratus
+      posterior superior)?
+  right_terms:
+  - musculus-rhomboideus-major
+  - musculus-rhomboideus-minor
+  - musculus-trapezius
+  wrong_terms:
+  - musculus-pectoralis-major
+  - musculus-latissimus-dorsi
+  question_uuid: ba8d77aaa9ce567e3c6d3f6c8f98208
+- concepts:
+  - musculus-serratus-posterior-inferior
+  - musculus-serratus-posterior-superior
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Muskeln zählen zu den sekundären Rückenmuskeln?
+    en: Which of the following muscles are secondary back muscles?
+  right_terms:
+  - musculus-serratus-posterior-inferior
+  - musculus-serratus-posterior-superior
+  wrong_terms:
+  - musculus-deltoideus
+  - musculus-pectoralis-major
+  - musculus-sternocleidomastoideus
+  question_uuid: 8ba7d084a0db3696d16598024955d6f
+- concepts:
+  - musculus-serratus-posterior-superior
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Strukturen zählt als Hilfsmuskel für die Inspiration?
+    en: Which of the following is considered an accessory muscle of inspiration?
+  right_terms:
+  - musculus-serratus-posterior-superior
+  wrong_terms:
+  - musculus-serratus-posterior-inferior
+  - musculus-latissimus-dorsi
+  - musculus-coracobrachialis
+  - musculus-trapezius
+  question_uuid: 52ea15724d01f774dbb7cec3edddeb6
+- concepts:
+  - musculus-serratus-posterior-inferior
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Strukturen zählt als Hilfsmuskel für die Expiration?
+    en: Which of the following is considered an accessory muscle of expiration?
+  right_terms:
+  - musculus-serratus-posterior-inferior
+  wrong_terms:
+  - musculus-serratus-posterior-superior
+  - musculus-deltoideus
+  - musculus-levator-scapulae
+  - musculus-trapezius
+  question_uuid: 6cc06b1e7dd9caecdbdf45e706a2694
+- concepts:
+  - musculus-trapezius
+  exercise: question_bank
+  question:
+    de: Die Musculi rhomboidei liegen unter welchem Muskel?
+    en: The rhomboid muscles lie under which muscle?
+  right_terms:
+  - musculus-trapezius
+  wrong_terms:
+  - musculus-deltoideus
+  - musculus-latissimus-dorsi
+  - musculus-sternocleidomastoideus
+  - musculus-levator-scapulae
+  question_uuid: c6b97623bdd3907431b290e289feaab
+- concepts:
+  - musculus-rhomboideus-major
+  - musculus-rhomboideus-minor
+  exercise: question_bank
+  question:
+    de: Chronische Schmerzen an der medialen Grenze der Scapula, Schwäche und Koordinationsprobleme
+      der Schulter, sowie eine Scapula alata weisen auf eine Überlastung welcher Muskeln
+      hin?
+    en: Symptoms of chronic pain at the medial border of the scapula, weakness and
+      coordination disorders in the shoulder, and scapula alata indicate overstrain
+      of which muscles?
+  right_terms:
+  - musculus-rhomboideus-major
+  - musculus-rhomboideus-minor
+  wrong_terms:
+  - musculus-pectoralis-major
+  - musculus-serratus-posterior-inferior
+  - musculus-pectoralis-minor
+  question_uuid: fef139438785d360d7fe285224e4adf
+- concepts:
+  - musculus-trapezius
+  exercise: question_bank
+  question:
+    de: Welcher ist ein dreieckiger flacher Muskel des Schultergürtels?
+    en: Which is a triangular flat muscle of the shoulder girdle?
+  right_terms:
+  - musculus-trapezius
+  wrong_terms:
+  - musculus-deltoideus
+  - musculus-latissimus-dorsi
+  - musculus-levator-scapulae
+  - musculus-teres-major
+  question_uuid: 4b47cc208eb81c04582cf4b8dbd76d5
+- concepts:
+  - musculus-trapezius
+  exercise: question_bank
+  question:
+    de: Ein Ausfall der Schulterabduktion weist auf eine Parese und potenzielle Atrophie
+      welches Muskels hin?
+    en: An inability to abduct the shoulder demonstrates paresis and potential atrophy
+      of which muscle?
+  right_terms:
+  - musculus-trapezius
+  wrong_terms:
+  - musculus-latissimus-dorsi
+  - musculus-levator-scapulae
+  - musculus-rhomboideus-major
+  - musculus-deltoideus
+  question_uuid: dda4f33897430aa3503a60c12184074
+- concepts:
+  - musculus-trapezius
+  exercise: question_bank
+  question:
+    de: Interventionen in der Halsregion wie Lymphknotenbiopsien oder eine Neck dissection
+      können in der Parese und Atrophie welches Muskels führen?
+    en: Interventions at the cervical region, such as lymph node biopsy or neck dissection
+      can result in paresis and atrophy of which muscle?
+  right_terms:
+  - musculus-trapezius
+  wrong_terms:
+  - musculus-latissimus-dorsi
+  - musculus-levator-scapulae
+  - musculus-rhomboideus-major
+  - musculus-deltoideus
+  question_uuid: 8c80f50566ebf31259914b1cb4c8e04
+- concepts:
+  - musculus-rectus-capitis-posterior-minor
+  - musculus-rectus-capitis-posterior-major
+  - musculus-obliquus-capitis-inferior
+  - musculus-obliquus-capitis-superior
+  exercise: question_bank
+  question:
+    de: Die Subokzipitalregion beinhaltet die folgenden Strukturen
+    en: The suboccipital region is comprised of which of the following structures?
+  right_terms:
+  - musculus-rectus-capitis-posterior-minor
+  - musculus-rectus-capitis-posterior-major
+  - musculus-obliquus-capitis-inferior
+  - musculus-obliquus-capitis-superior
+  wrong_terms:
+  - musculus-serratus-posterior-superior
+  question_uuid: c50501713cbc9dad998469f72e37e85
+- concepts:
+  - musculus-latissimus-dorsi
+  exercise: question_bank
+  question:
+    de: Welcher Muskel bildet die hintere Achselfalte?
+    en: What muscle forms the posterior axillary fold?
+  right_terms:
+  - musculus-latissimus-dorsi
+  wrong_terms:
+  - deltoid-muscle
+  - musculus-serratus-anterior
+  - musculus-trapezius
+  - rhomboid-major-muscle
+  question_uuid: 2a50839f9addbca17d8a7d22d09150f
+- concepts:
+  - serratus-posterior-inferior-muscle
+  - musculus-serratus-posterior-inferior
+  - serratus-posterior-superior-muscle
+  - musculus-serratus-posterior-superior
+  exercise: question_bank
+  question:
+    de: Welche Muskeln zählen zu der spinokostalen Gruppe der nicht-autochthonen Rückenmuskeln?
+    en: What muscles belong to the spinocostal group of extrinsic back muscles?
+  right_terms:
+  - serratus-posterior-inferior-muscle
+  - serratus-posterior-superior-muscle
+  wrong_terms:
+  - musculi-multifidi
+  - musculus-longissimus
+  - musculi-interspinales
+  question_uuid: 060be7adfdbe56113a630042d9754fc
+- terms:
+  - musculus-latissimus-dorsi
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - processus-spinosus-tvii-txii
+  - fascia-thoracolumbalis
+  - crista-iliaca
+  - costae-ix-xii
+  - angulus-inferior-scapulae
+  wrong_terms:
+  - corpus-vertebrae-cii-civ
+- terms:
+  - musculus-latissimus-dorsi
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - sulcus-intertubercularis
+  wrong_terms:
+  - crista-tuberculi-majoris
+  - corpus-vertebrae-ti-tiii
+  - linea-obliqua-mandibulae
+  - cartilages-costales-ii-iv
+- terms:
+  - musculus-latissimus-dorsi
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-thoracodorsalis
+  wrong_terms:
+  - nervus-subscapularis
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - nervus-suprascapularis
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-deltoideus
+  - musculus-latissimus-dorsi
+  - musculus-teres-major
+  wrong_terms:
+  - musculus-pectoralis-minor
+  - musculus-coracobrachialis
+  - musculus-subscapularis
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: internally_rotates_the
+  right_terms:
+  - musculus-deltoideus
+  - musculus-latissimus-dorsi
+  - musculus-subscapularis
+  - musculus-teres-major
+  wrong_terms:
+  - musculus-teres-minor
+  - musculus-infraspinatus
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: adducts_the
+  right_terms:
+  - musculus-coracobrachialis
+  - musculus-deltoideus
+  - musculus-latissimus-dorsi
+  - musculus-pectoralis-major
+  - musculus-teres-major
+  wrong_terms:
+  - musculus-supraspinatus
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: adducts_the
+  right_terms:
+  - musculus-coracobrachialis
+  - musculus-infraspinatus
+  - musculus-latissimus-dorsi
+  - musculus-pectoralis-major
+  - musculus-teres-major
+  wrong_terms:
+  - musculus-supraspinatus
+- terms:
+  - musculus-trapezius
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - linea-nuchalis-superior
+  - protuberancia-occipitalis-externa
+  - ligamentum-nuchae
+  - processus-spinosus-cvii-txii
+  wrong_terms:
+  - crista-iliaca
+  - protuberantia-occipitalis-interna
+- terms:
+  - musculus-trapezius
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - acromion
+  - clavicula
+  - spina-scapulae
+  wrong_terms:
+  - angulus-inferior-scapulae
+  - caput-humeri
+  - spine
+- terms:
+  - musculus-trapezius
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-accessorius-2
+  - nervi-spinales-ciii-civ
+  wrong_terms:
+  - nervus-laryngeus-recurrens
+  - nervus-pectoralis-lateralis
+  - nervus-musculocutaneus
+  - nervus-thoracodorsalis
+- terms:
+  - musculus-latissimus-dorsi
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - processus-spinosus-tvii-txii
+  - fascia-thoracolumbalis
+  - crista-iliaca
+  - costae-ix-xii
+  - angulus-inferior-scapulae
+  wrong_terms:
+  - corpus-humeri
+- terms:
+  - musculus-latissimus-dorsi
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - sulcus-intertubercularis
+  wrong_terms:
+  - caput-humeri
+  - angulus-inferior-scapulae
+  - angulus-costae-iii-xii
+  - upper-ribs
+- terms:
+  - musculus-latissimus-dorsi
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-thoracodorsalis
+  wrong_terms:
+  - nervus-accessorius-2
+  - nervus-subscapularis
+  - nervus-pectoralis-lateralis
+  - nervus-thoracicus-longus
+  - nervus-suprascapularis
+- terms:
+  - musculus-levator-scapulae
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - processus-transversus-ci-civ
+  wrong_terms:
+  - processus-transversus-cvii-tvi
+  - processus-transversus-civ-cvi
+  - neck
+  - scapula
+  - spina-scapulae
+- terms:
+  - musculus-levator-scapulae
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - superior-part-medial-border-scapula
+  wrong_terms:
+  - spina-scapulae
+  - processus-transversus-ci-civ
+  - scapula
+  - margo-lateralis-scapulae
+  - margo-superior-scapulae
+- terms:
+  - musculus-levator-scapulae
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-dorsalis-scapulae
+  - nervi-spinales-ciii-civ
+  - nervus-spinalis-c5
+  wrong_terms:
+  - nervus-thoracodorsalis
+  - nervus-suprascapularis
+  - nervus-subscapularis
+- terms:
+  - musculus-rhomboideus-minor
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - ligamentum-nuchae
+  - processus-spinosus-cvii-ti
+  wrong_terms:
+  - processus-transversus-ci-civ
+  - spina-scapulae
+  - upper-ribs
+  - neck
+- terms:
+  - musculus-rhomboideus-minor
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - root-of-spine-of-scapula
+  wrong_terms:
+  - margo-lateralis-scapulae
+  - margo-superior-scapulae
+  - scapula
+  - fossa-subscapularis
+  - upper-ribs
+- terms:
+  - musculus-rhomboideus-minor
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-dorsalis-scapulae
+  wrong_terms:
+  - nervi-supraclaviculares
+  - nervus-thoracodorsalis
+  - nervus-suprascapularis
+  - nervus-subscapularis
+  - nervus-musculocutaneus
+- terms:
+  - musculus-rhomboideus-major
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - processus-spinosus-tii-tv
+  wrong_terms:
+  - margo-medialis-scapulae
+  - processus-spinosus-cvii-ti
+  - processus-spinosus-cii-txii
+  - upper-ribs
+  - costae-verae
+- terms:
+  - musculus-rhomboideus-major
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - margo-medialis-scapulae
+  wrong_terms:
+  - spina-scapulae
+  - corpus-claviculae
+  - margo-superior-scapulae
+  - ribs
+  - fossa-subscapularis
+- terms:
+  - musculus-rhomboideus-major
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-dorsalis-scapulae
+  wrong_terms:
+  - nervus-medianus
+  - nervus-musculocutaneus
+  - nervus-radialis
+  - nervus-subscapularis
+  - nervus-suprascapularis
+- terms:
+  - musculus-serratus-posterior-superior
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - processus-spinosus-cvii-tiii
+  wrong_terms:
+  - linea-nuchalis-superior
+  - linea-nuchalis-inferior
+  - linea-nuchalis-suprema
+  - processus-spinosus-cii-txii
+- terms:
+  - musculus-serratus-posterior-superior
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - margo-superior-costae-ii-v
+  wrong_terms:
+  - upper-ribs
+  - angulus-costae-iii-vi
+  - angulus-costae-i-vi
+  - neck
+  - spine
+- terms:
+  - musculus-serratus-posterior-superior
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - intercostal-nerves-t2-t5-1
+  wrong_terms:
+  - nervi-intercostales-tix-txii
+  - rami-cutanei-laterales-nervi-intercostales
+  - nervi-supraclaviculares
+  - nervus-accessorius-2
+  - nervi-spinalis-i
+- terms:
+  - musculus-serratus-posterior-inferior
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - processus-spinosus-txi-lii
+  wrong_terms:
+  - linea-nuchalis-superior
+  - processus-spinosus-tx-liii
+  - processus-spinosus-tiii-tvi
+  - crista-iliaca
+  - os-coxae
+- terms:
+  - musculus-serratus-posterior-inferior
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - margo-inferior-costae-ix-xii
+  wrong_terms:
+  - angulus-costae-vii-xii
+  - costae-ix-x
+  - costae-spuriae
+  - costae-ix-xii
+  - upper-ribs
+- terms:
+  - musculus-serratus-posterior-inferior
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervi-intercostales-tix-txii
+  wrong_terms:
+  - nervi-intercostales-ti-tiv
+  - nervus-coccygeus
+  - nervi-sacrales-s1-s5
+  - nervi-thoracici-t1-t12
+  - nervi-lumbales-l1-l4
+- terms:
+  - scapula
+  exercise: multiple_choice_image
+  relation: elevates_the
+  right_terms:
+  - musculus-trapezius
+  - musculus-levator-scapulae
+  - musculus-rhomboideus-major
+  - musculus-rhomboideus-minor
+  wrong_terms:
+  - musculus-serratus-posterior-inferior
+  - musculus-serratus-posterior-superior
+- terms:
+  - scapula
+  exercise: multiple_choice_image
+  relation: rotates_the
+  right_terms:
+  - musculus-trapezius
+  - musculus-rhomboideus-minor
+  - musculus-rhomboideus-major
+  - musculus-levator-scapulae
+  wrong_terms:
+  - musculus-serratus-posterior-superior
+  - musculus-serratus-posterior-inferior
+- terms:
+  - corpus-humeri
+  exercise: multiple_choice_image
+  relation: adducts_the
+  right_terms:
+  - musculus-latissimus-dorsi
+  wrong_terms:
+  - musculus-trapezius
+  - musculus-rhomboideus-minor
+  - musculus-rhomboideus-major
+  - musculus-levator-scapulae
+  - musculus-serratus-posterior-inferior
+- terms:
+  - corpus-humeri
+  exercise: multiple_choice_image
+  relation: medially_rotates_the
+  right_terms:
+  - musculus-latissimus-dorsi
+  wrong_terms:
+  - musculus-serratus-posterior-superior
+  - musculus-rhomboideus-minor
+  - musculus-rhomboideus-major
+  - musculus-levator-scapulae
+  - musculus-serratus-posterior-inferior
+- terms:
+  - vertebrae-cervicales
+  exercise: multiple_choice_image
+  relation: laterally_flexes_the
+  right_terms:
+  - musculus-levator-scapulae
+  wrong_terms:
+  - musculus-serratus-posterior-superior
+  - musculus-rhomboideus-minor
+  - musculus-rhomboideus-major
+  - musculus-latissimus-dorsi
+  - musculus-serratus-posterior-inferior
+- terms:
+  - scapula
+  exercise: multiple_choice_image
+  relation: retracts_the
+  right_terms:
+  - musculus-rhomboideus-minor
+  - musculus-rhomboideus-major
+  - musculus-trapezius
+  wrong_terms:
+  - musculus-serratus-posterior-inferior
+  - musculus-serratus-posterior-superior
+  - musculus-latissimus-dorsi
+- terms:
+  - ribs
+  exercise: multiple_choice_image
+  relation: elevates_the
+  right_terms:
+  - musculus-serratus-posterior-superior
+  wrong_terms:
+  - musculus-serratus-posterior-inferior
+  - musculus-rhomboideus-minor
+  - musculus-rhomboideus-major
+  - musculus-latissimus-dorsi
+  - musculus-trapezius
+- terms:
+  - ribs
+  exercise: multiple_choice_image
+  relation: depresses_the
+  right_terms:
+  - musculus-serratus-posterior-inferior
+  wrong_terms:
+  - musculus-levator-scapulae
+  - musculus-rhomboideus-minor
+  - musculus-rhomboideus-major
+  - musculus-latissimus-dorsi
+  - musculus-trapezius
+- concepts:
+  - musculus-pectoralis-major
+  - musculus-teres-major
+  - musculus-latissimus-dorsi
+  - latissimus-dorsi-muscle
+  exercise: question_bank
+  question:
+    de: Welcher Muskel setzt am Humerus zwischen dem Musculus pectoralis major (großer
+      Brustmuskel) und Musculus teres major (großer Rundmuskel) an?
+    en: Which muscle inserts on the humerus between the pectoralis major and teres
+      major muscle?
+  right_terms:
+  - latissimus-dorsi-muscle
+  wrong_terms:
+  - coracobrachialis-muscle
+  - brachialis-muscle
+  - deltoid-muscle
+  - musculus-subscapularis
+  question_uuid: c42b9a900920400991b8bda2dd193e2
+- concepts:
+  - latissimus-dorsi-muscle
+  - musculus-latissimus-dorsi
+  - lobus-superior-pulmonis-dextri
+  exercise: question_bank
+  question:
+    de: Welcher Schultermuskel unterstützt die Ausatmung, indem er die Rippen senkt
+      und somit den Brustkorb komprimiert?
+    en: What shoulder muscle assists in expiration by depressing the ribs and, thus,
+      compressing the ribcage?
+  right_terms:
+  - latissimus-dorsi-muscle
+  wrong_terms:
+  - musculus-teres-major
+  - musculus-pectoralis-major
+  - musculus-pectoralis-minor
+  - musculus-serratus-anterior
+  question_uuid: 4ff6ac83e14f9a85724e13079e606da
+- concepts:
+  - acromion
+  - clavicula
+  - musculus-deltoideus
+  - musculus-trapezius
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Knochenstrukturen dienen sowohl als Ursprung des Deltamuskels
+      (Musculus deltoideus) als auch als Ansatz des Trapezmuskels (Musculus trapezius)?
+    en: Which of the following bony structures serve both as the origin of the deltoid
+      muscle (musculus deltoideus) and an insertion point of the trapezius muscle
+      (musculus trapezius)?
+  right_terms:
+  - acromion-2
+  - clavicula
+  wrong_terms:
+  - suprascapular-notch-1
+  - coracoid-process
+  - superior-border-of-the-scapula
+  question_uuid: b35142ce40244c49418887fd50ea937
+- terms:
+  - neck
+  exercise: multiple_choice_image
+  relation: bends_laterally_the
+  right_terms:
+  - musculus-iliocostalis-cervicis
+  - musculus-longissimus-cervicis
+  - musculus-semispinalis-cervicis
+  - musculus-trapezius
+  wrong_terms:
+  - musculi-multifidi
+  - musculus-latissimus-dorsi
+- terms:
+  - musculus-rectus-capitis-posterior-minor
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - tuberculum-posterius-atlantis
+  wrong_terms:
+  - processus-transversus-atlantis
+  - massa-lateralis-atlantis
+  - ligamentum-transversum-atlantis
+  - processus-mastoideus
+  - processus-styloideus
+- terms:
+  - musculus-rectus-capitis-posterior-minor
+  exercise: multiple_choice_text
+  relation: insertion_of
+  right_terms:
+  - linea-nuchalis-inferior
+  wrong_terms:
+  - linea-nuchalis-suprema
+  - ramus-mandibula
+  - dens-axis
+  - ribs
+  - arcus-posterior-atlantis
+- terms:
+  - musculus-rectus-capitis-posterior-minor
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-suboccipitalis
+  wrong_terms:
+  - nervus-occipitalis-minor
+  - nervus-occipitalis-major
+  - nervus-facialis
+  - nervus-hypoglossus
+  - nervus-accessorius-2
+- terms:
+  - musculus-rectus-capitis-posterior-major
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - processus-spinosus-cii
+  wrong_terms:
+  - tuberculum-posterius-atlantis
+  - processus-transversus-atlantis
+  - ligamentum-transversum-atlantis
+  - ligamentum-nuchae
+  - linea-nuchalis-superior-2
+- terms:
+  - musculus-rectus-capitis-posterior-major
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - linea-nuchalis-inferior
+  wrong_terms:
+  - linea-nuchalis-suprema
+  - tuberculum-anterius-atlantis
+  - dens-axis
+  - arcus-anterior-atlantis
+  - arcus-posterior-atlantis
+- terms:
+  - musculus-rectus-capitis-posterior-major
+  exercise: multiple_choice_text
+  relation: innervation_of
+  right_terms:
+  - nervus-suboccipitalis
+  wrong_terms:
+  - nervus-occipitalis-minor
+  - nervus-occipitalis-major
+  - nervus-spinalis-c2
+  - nervus-hypoglossus
+  - nervus-accessorius-2
+- terms:
+  - musculus-obliquus-capitis-inferior
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - processus-spinosus-cii
+  wrong_terms:
+  - tuberculum-posterius-atlantis
+  - processus-transversus-atlantis
+  - dens-axis
+  - massa-lateralis-atlantis
+  - linea-nuchalis-superior-2
+- terms:
+  - musculus-obliquus-capitis-inferior
+  exercise: multiple_choice_text
+  relation: insertion_of
+  right_terms:
+  - processus-transversus-atlantis
+  wrong_terms:
+  - tuberculum-posterius-atlantis
+  - massa-lateralis-atlantis
+  - arcus-posterior-atlantis
+  - dens-axis
+  - protuberancia-occipitalis-externa
+- terms:
+  - musculus-obliquus-capitis-inferior
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-suboccipitalis
+  wrong_terms:
+  - nervus-occipitalis-minor
+  - nervus-occipitalis-major
+  - nervi-supraclaviculares
+  - nervus-hypoglossus
+  - nervus-subscapularis
+- terms:
+  - musculus-obliquus-capitis-superior
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - processus-transversus-atlantis
+  wrong_terms:
+  - ligamentum-transversum-atlantis
+  - tuberculum-anterius-atlantis
+  - ligamentum-nuchae
+  - linea-nuchalis-inferior
+  - dens-axis
+- terms:
+  - musculus-obliquus-capitis-superior
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - os-occipitale
+  wrong_terms:
+  - processus-styloideus
+  - costae-iii-v
+  - processus-transversus-atlantis
+  - arcus-posterior-atlantis
+  - axis
+- terms:
+  - musculus-obliquus-capitis-superior
+  exercise: multiple_choice_text
+  relation: innervation_of
+  right_terms:
+  - nervus-suboccipitalis
+  wrong_terms:
+  - nervus-phrenicus
+  - nervus-occipitalis-major
+  - nervi-supraclaviculares
+  - nervus-hypoglossus
+  - nervus-subscapularis
+- terms:
+  - head
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-rectus-capitis-posterior-minor
+  - musculus-obliquus-capitis-superior
+  - musculus-rectus-capitis-posterior-major
+  - musculus-obliquus-capitis-inferior
+  wrong_terms:
+  - musculus-temporalis
+  - musculus-sternothyroideus
+- terms:
+  - head
+  exercise: multiple_choice_image
+  relation: rotates_ipsilaterally_the
+  right_terms:
+  - musculus-obliquus-capitis-inferior
+  - musculus-rectus-capitis-posterior-major
+  - musculus-rectus-capitis-posterior-minor
+  wrong_terms:
+  - musculus-obliquus-capitis-superior
+  - musculus-masseter
+  - musculus-sternothyroideus
+- terms:
+  - head
+  exercise: multiple_choice_image
+  relation: rotates_contralaterally_the
+  right_terms:
+  - musculus-obliquus-capitis-superior
+  wrong_terms:
+  - musculus-masseter
+  - musculus-sternothyroideus
+  - musculus-obliquus-capitis-inferior
+  - musculus-rectus-capitis-posterior-major
+  - musculus-rectus-capitis-posterior-minor
+- terms:
+  - articulatio-atlantooccipitalis
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-rectus-capitis-posterior-minor
+  - musculus-obliquus-capitis-superior
+  - musculus-rectus-capitis-posterior-major
+  wrong_terms:
+  - musculus-sternocleidomastoideus
+  - musculus-sternothyroideus
+  - musculus-obliquus-capitis-inferior
+- terms:
+  - head
+  exercise: multiple_choice_image
+  relation: laterally_flexes_the
+  right_terms:
+  - musculus-obliquus-capitis-superior
+  wrong_terms:
+  - musculus-rectus-capitis-posterior-major
+  - musculus-obliquus-capitis-inferior
+  - musculus-rectus-capitis-posterior-minor
+  - musculus-temporalis
+  - musculus-sternothyroideus

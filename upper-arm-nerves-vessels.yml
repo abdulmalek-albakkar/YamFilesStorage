@@ -1,0 +1,2806 @@
+---
+- terms:
+  - arteria-axillaris
+  - arteria-brachialis
+  exercise: easy
+- terms:
+  - arteria-circumflexa-humeri-anterior
+  - arteria-circumflexa-humeri-posterior
+  exercise: easy
+- terms:
+  - arteria-circumflexa-scapulae
+  - arteria-collateralis-radialis
+  exercise: easy
+- terms:
+  - arteria-collateralis-ulnaris-superior
+  - arteria-profunda-brachii
+  exercise: easy
+- terms:
+  - arteria-axillaris
+  - arteria-brachialis
+  - arteria-circumflexa-humeri-anterior
+  - arteria-circumflexa-humeri-posterior
+  exercise: four_one
+- terms:
+  - arteria-circumflexa-scapulae
+  - arteria-collateralis-radialis
+  - arteria-collateralis-ulnaris-superior
+  - arteria-profunda-brachii
+  exercise: four_one
+- terms:
+  - arteria-axillaris
+  - arteria-brachialis
+  - arteria-circumflexa-humeri-anterior
+  - arteria-circumflexa-humeri-posterior
+  exercise: identify_image
+- terms:
+  - arteria-circumflexa-scapulae
+  - arteria-collateralis-radialis
+  - arteria-collateralis-ulnaris-superior
+  - arteria-profunda-brachii
+  exercise: identify_image
+- terms:
+  - arteria-radialis
+  - arteria-subclavia
+  exercise: easy
+- terms:
+  - arteria-thoracoacromialis
+  - arteria-ulnaris
+  exercise: easy
+- terms:
+  - vena-axillaris
+  - vena-basilica
+  exercise: easy
+- terms:
+  - vena-brachialis
+  - vena-cephalica
+  exercise: easy
+- terms:
+  - vena-axillaris
+  - vena-basilica
+  - vena-brachialis
+  - vena-cephalica
+  exercise: four_one
+- terms:
+  - arteria-radialis
+  - arteria-subclavia
+  - arteria-thoracoacromialis
+  - arteria-ulnaris
+  exercise: four_one
+- terms:
+  - arteria-radialis
+  - arteria-subclavia
+  - arteria-thoracoacromialis
+  - arteria-ulnaris
+  exercise: identify_image
+- terms:
+  - vena-axillaris
+  - vena-basilica
+  - vena-brachialis
+  - vena-cephalica
+  exercise: identify_image
+- terms:
+  - vena-subclavia
+  - fasciculus-lateralis
+  exercise: easy
+- terms:
+  - fasciculus-medialis
+  - fasciculus-posterior
+  exercise: easy
+- terms:
+  - nervus-axillaris
+  - nervus-medianus
+  exercise: easy
+- terms:
+  - nervus-musculocutaneus
+  - nervus-radialis
+  exercise: easy
+- terms:
+  - vena-subclavia
+  - fasciculus-lateralis
+  - fasciculus-medialis
+  - fasciculus-posterior
+  exercise: four_one
+- terms:
+  - nervus-axillaris
+  - nervus-medianus
+  - nervus-musculocutaneus
+  - nervus-radialis
+  exercise: four_one
+- terms:
+  - vena-subclavia
+  - fasciculus-lateralis
+  - fasciculus-medialis
+  - fasciculus-posterior
+  exercise: identify_image
+- terms:
+  - nervus-axillaris
+  - nervus-medianus
+  - nervus-musculocutaneus
+  - nervus-radialis
+  exercise: identify_image
+- terms:
+  - nervus-subscapularis
+  - nervus-suprascapularis
+  exercise: easy
+- terms:
+  - nervus-thoracicus-longus
+  - nervus-thoracodorsalis
+  exercise: easy
+- terms:
+  - nervus-ulnaris
+  - nervus-axillaris
+  exercise: easy
+- terms:
+  - nervus-medianus
+  - nervus-musculocutaneus
+  exercise: easy
+- terms:
+  - nervus-subscapularis
+  - nervus-suprascapularis
+  - nervus-thoracicus-longus
+  - nervus-thoracodorsalis
+  exercise: four_one
+- terms:
+  - nervus-ulnaris
+  - nervus-axillaris
+  - nervus-medianus
+  - nervus-musculocutaneus
+  exercise: four_one
+- terms:
+  - nervus-subscapularis
+  - nervus-suprascapularis
+  - nervus-thoracicus-longus
+  - nervus-thoracodorsalis
+  exercise: identify_image
+- terms:
+  - nervus-ulnaris
+  - nervus-axillaris
+  - nervus-medianus
+  - nervus-musculocutaneus
+  exercise: identify_image
+- terms:
+  - arteria-axillaris
+  exercise: spell_term
+- terms:
+  - arteria-brachialis
+  exercise: spell_term
+- terms:
+  - arteria-circumflexa-humeri-anterior
+  exercise: spell_term
+- terms:
+  - arteria-circumflexa-humeri-posterior
+  exercise: spell_term
+- terms:
+  - arteria-circumflexa-scapulae
+  exercise: spell_term
+- terms:
+  - arteria-collateralis-radialis
+  exercise: spell_term
+- terms:
+  - arteria-collateralis-ulnaris-superior
+  exercise: spell_term
+- terms:
+  - arteria-profunda-brachii
+  exercise: spell_term
+- terms:
+  - arteria-radialis
+  exercise: spell_term
+- terms:
+  - arteria-subclavia
+  exercise: spell_term
+- terms:
+  - arteria-thoracoacromialis
+  exercise: spell_term
+- terms:
+  - arteria-ulnaris
+  exercise: spell_term
+- terms:
+  - vena-axillaris
+  exercise: spell_term
+- terms:
+  - vena-basilica
+  exercise: spell_term
+- terms:
+  - vena-brachialis
+  exercise: spell_term
+- terms:
+  - vena-cephalica
+  exercise: spell_term
+- terms:
+  - vena-subclavia
+  exercise: spell_term
+- terms:
+  - fasciculus-lateralis
+  exercise: spell_term
+- terms:
+  - fasciculus-medialis
+  exercise: spell_term
+- terms:
+  - fasciculus-posterior
+  exercise: spell_term
+- terms:
+  - nervus-axillaris
+  exercise: spell_term
+- terms:
+  - nervus-medianus
+  exercise: spell_term
+- terms:
+  - nervus-musculocutaneus
+  exercise: spell_term
+- terms:
+  - nervus-radialis
+  exercise: spell_term
+- terms:
+  - nervus-subscapularis
+  exercise: spell_term
+- terms:
+  - nervus-suprascapularis
+  exercise: spell_term
+- terms:
+  - nervus-thoracicus-longus
+  exercise: spell_term
+- terms:
+  - nervus-thoracodorsalis
+  exercise: spell_term
+- terms:
+  - nervus-ulnaris
+  exercise: spell_term
+- concepts:
+  - arteria-subclavia
+  exercise: question_bank
+  question:
+    de: Welche Arterie entspringt vom Truncus brachiocephalicus oder vom Aortenbogen
+      (Arcus aortae) und setzt sich schließlich als Arteria axillaris in die Achselregion
+      fort?
+    en: Which artery arises from the innominate artery (truncus brachiocephalicus)
+      or the aortic arch (arcus aortae) and eventually extends into the axillary artery
+      (arteria axillaris) in the axilla?
+  right_terms:
+  - arteria-subclavia
+  wrong_terms:
+  - arteria-brachialis
+  - arteria-radialis
+  - arteria-ulnaris
+  - arteria-thoracica-interna
+  question_uuid: '09d70a81a8570b005e6a65db36df90d'
+- concepts:
+  - arteria-subclavia-sinistra-4
+  - arteria-subclavia
+  exercise: question_bank
+  question:
+    de: Der erste Abschnitt welcher Arterie entspringt aus dem Aortenbogen hinter
+      der linken Arteria carotis communis, und biegt nach lateral in Richtung der
+      medialen Kante des Musculus scalenus anterior ab?
+    en: The first part of which artery arises from the aortic arch (arcus aortae)
+      behind the left common carotid artery (arteria carotis communis sinistra) and
+      arches laterally towards the medial border of the anterior scalene muscle (musculus
+      scalenus anterior)?
+  right_terms:
+  - arteria-subclavia-sinistra-4
+  wrong_terms:
+  - arteria-brachialis
+  - arteria-axillaris
+  - arteria-radialis
+  - arteria-ulnaris
+  question_uuid: de64acc9d6dc6db21e39232814a65b4
+- concepts:
+  - arteria-axillaris
+  - arteria-subclavia
+  exercise: question_bank
+  question:
+    de: Welche Arterie stellt die Fortsetzung der Arteria subclavia beginnend von
+      der Außenkante der ersten Rippe dar?
+    en: Which artery is the continuation of the subclavian artery starting from the
+      outer border of the first rib?
+  right_terms:
+  - arteria-axillaris
+  wrong_terms:
+  - arteria-brachialis
+  - arteria-radialis
+  - arteria-ulnaris
+  - arteria-thoracica-interna
+  question_uuid: 8cce9619c27d630f256d5efe6a8b0a8
+- concepts:
+  - arteria-brachialis
+  - arteria-axillaris
+  exercise: question_bank
+  question:
+    de: Welche Arterie stellt die Fortsetzung der Arteria axillaris beginnend von
+      der Unterkante der Sehne des Musculus teres major dar?
+    en: Which artery is the continuation of the axillary artery (arteria axillaris)
+      starting from the lower border of the teres major tendon (Tendo musculi teres
+      majoris)?
+  right_terms:
+  - arteria-brachialis
+  wrong_terms:
+  - arteria-subclavia
+  - arteria-radialis
+  - arteria-ulnaris
+  - arteria-profunda-brachii
+  question_uuid: 4bcbbe157a8e98673b097046d58d132
+- concepts:
+  - arteria-radialis
+  - arteria-brachialis
+  exercise: question_bank
+  question:
+    de: Welche Arterie stellt eine Fortsetzung der Oberarmarterie (Arteria brachialis),
+      beginnend direkt unterhalb der Ellenbeuge, dar und verläuft entlang der radialen
+      Seite des Unterarms?
+    en: Which artery extends from the brachial artery (arteria brachialis) starting
+      just under the cubital fossa and runs along the radial side of the forearm?
+  right_terms:
+  - arteria-radialis
+  wrong_terms:
+  - arteria-subclavia
+  - arteria-axillaris
+  - arteria-ulnaris
+  - arteria-recurrens-radialis
+  question_uuid: 07a1a9ceb0273a40e519ff0c8685786
+- concepts:
+  - arteria-ulnaris
+  - arteria-brachialis
+  exercise: question_bank
+  question:
+    de: Welche Arterie ist eine Fortsetzung der Oberarmarterie (Arteria brachialis),
+      beginnend direkt unterhalb der Ellenbeuge und verläuft entlang der ulnaren Seite
+      des Unterarms?
+    en: Which artery extends from the brachial artery (arteria brachialis), starting
+      just under the cubital fossa and runs along the ulnar side of the forearm?
+  right_terms:
+  - arteria-ulnaris
+  wrong_terms:
+  - arteria-subclavia
+  - arteria-axillaris
+  - arteria-radialis
+  - arteria-recurrens-radialis
+  question_uuid: 9c432d4b5081f96e375c2cb7a0d65a3
+- concepts:
+  - arteria-thoracoacromialis
+  - arteria-axillaris
+  exercise: question_bank
+  question:
+    de: Welcher Ast der Arteria axillaris teilt sich in vier Äste auf, um die verschiedenen
+      Regionen der oberen Rumpfwand und Extremität zu versorgen?
+    en: Which branch from the axillary artery (arteria axillaris) splits off into
+      four other distinctive arteries to supply various regions of the upper trunk
+      and limb?
+  right_terms:
+  - arteria-thoracoacromialis
+  wrong_terms:
+  - arteria-thoracica-lateralis
+  - arteria-circumflexa-humeri-anterior
+  - arteria-circumflexa-humeri-posterior
+  - arteria-recurrens-radialis
+  question_uuid: ba1740a2649be0224d506221add91b7
+- concepts:
+  - arteria-circumflexa-humeri-anterior
+  - arteria-axillaris
+  - musculus-biceps-brachii
+  - musculus-coracobrachialis
+  - caput-humeri
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Arterien ist ein Ast der Arteria axillaris und zieht
+      horizontal unterhalb des kurzen Bizepskopfes und des Musculus coracobrachialis
+      in Richtung des Oberarmknochens (Humerus)?
+    en: Which of the following arteries is a branch of the axillary artery (arteria
+      axillaris) that travels horizontally towards the humerus, beneath the short
+      head of the biceps brachii and the coracobrachialis muscle?
+  right_terms:
+  - arteria-circumflexa-humeri-anterior
+  wrong_terms:
+  - arteria-thoracica-lateralis
+  - arteria-thoracoacromialis
+  - arteria-circumflexa-humeri-posterior
+  - thoracodorsal-artery
+  question_uuid: a144768efe023d98ffcf352609bec39
+- concepts:
+  - arteria-circumflexa-humeri-posterior
+  - arteria-axillaris
+  - musculus-deltoideus
+  - nervus-axillaris-2
+  - nervus-axillaris
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Arterien ist ein Ast der Arteria axillaris und verläuft
+      entlang des Nervus axillaris, um das Schultergelenk und den Musculus deltoideus
+      mit Blut zu versorgen?
+    en: Which of the following arteries is a branch from the axillary artery and travels
+      next to the axillary nerve to supply the shoulder joint and the deltoid muscle
+      (musculus deltoideus) with blood?
+  right_terms:
+  - arteria-circumflexa-humeri-posterior
+  wrong_terms:
+  - arteria-thoracica-lateralis
+  - arteria-thoracoacromialis
+  - arteria-circumflexa-humeri-anterior
+  - arteria-ulnaris
+  question_uuid: 75dfb248eef0f69604945774e58c0c6
+- concepts:
+  - arteria-collateralis-radialis
+  - arteria-profunda-brachii
+  exercise: question_bank
+  question:
+    de: Welche Arterie ist ein Ast der tiefen Oberarmarterie (Arteria profunda brachii),
+      tritt der Anastomose der Arteria radialis recurrens bei und versorgt die tiefen
+      dorsalen Strukturen des Oberarms?
+    en: Which artery is a branch of the deep brachial artery (arteria profunda brachii),
+      forms an anastomosis with the radial recurrent artery (arteria radialis recurrens)
+      and supplies the deep structures of the posterior arm region?
+  right_terms:
+  - arteria-collateralis-radialis
+  wrong_terms:
+  - arteria-collateralis-ulnaris-superior
+  - arteria-ulnaris
+  - arteria-circumflexa-humeri-anterior
+  - arteria-radialis
+  question_uuid: 8e66eb0eb98a901da7c46849a8c3972
+- concepts:
+  - arteria-collateralis-ulnaris-superior
+  - arteria-brachialis
+  - musculus-triceps-brachii
+  - epicondylus-medialis-humeri
+  - olecranon
+  - olecranon-8
+  - olecranon-9
+  exercise: question_bank
+  question:
+    de: Welcher Ast der Oberarmarterie (Arteria brachialis) verläuft entlang des medialen
+      Kopfes des dreiköpfigen Oberarmmuskels (Musculus triceps brachii) in einen Raum
+      zwischen dem Epicondylus medialis humeri und dem Olecranon?
+    en: Which branch from the brachial artery (arteria brachialis) runs along the
+      medial head of the triceps brachii into a space between the medial epicondyle
+      of the humerus and the olecranon?
+  right_terms:
+  - arteria-collateralis-ulnaris-superior
+  wrong_terms:
+  - arteria-profunda-brachii
+  - arteria-radialis
+  - arteria-ulnaris
+  - arteria-collateralis-radialis
+  question_uuid: 0536af3a05109bbe09346348c3501d2
+- concepts:
+  - vena-subclavia
+  - vena-axillaris
+  exercise: question_bank
+  question:
+    de: Welche Vene erstreckt sich von der Achselvene (Vena axillaris) in der Nähe
+      der Außenkante der ersten Rippe und verläuft zum sternalen Ende des Schlüsselbeins
+      (Clavicula), um sich mit der inneren Drosselvene (Vena jugularis interna) zur
+      Arm-Kopf-Vene (Vena brachiocephalica) zu vereinigen?
+    en: Which vein arises from the axillary vein (vena axillaris) near the first rib's
+      outer border and runs to the sternal end of the clavicle to join with the internal
+      jugular vein (vena jugularis interna) as the innominate vein (vena brachiocephalica)?
+  right_terms:
+  - vena-subclavia
+  wrong_terms:
+  - vena-cephalica
+  - vena-brachialis
+  - vena-basilica
+  - vena-jugularis-interna
+  question_uuid: 54703624a67a79ebf7d49bb1fdc5fca
+- concepts:
+  - vena-axillaris
+  - vena-basilica
+  - vena-subclavia
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Venen erstreckt sich von der Vena basilica ausgehend
+      und läuft von der Unterkante des Musculus teres major bis zur Außenkante der
+      ersten Rippe, wo sie als Vena subclavia weiterzieht?
+    en: Which of the following veins is the continuation of the basilic vein and runs
+      from the teres major muscle's lower border to the outer border of the first
+      rib, where it continues as the subclavian vein?
+  right_terms:
+  - vena-axillaris
+  wrong_terms:
+  - vena-mediana-cubiti
+  - vena-cephalica
+  - vena-brachialis
+  - vena-subclavia
+  question_uuid: 226203893aa8d325d6777b93427f25b
+- concepts:
+  - nervus-subscapularis
+  - nervus-suprascapularis-2
+  - infrascapular-region-2
+  exercise: question_bank
+  question:
+    de: Welcher Nerv entspringt aus dem Fasciculus posterior des Plexus brachialis
+      und teilt sich auf, um die obere und untere Subscapularregion zu erreichen?
+    en: Which nerve originates from the posterior cord of the brachial plexus and
+      splits up in order to enter the upper and lower subscapular region?
+  right_terms:
+  - nervus-subscapularis
+  wrong_terms:
+  - nervus-thoracicus-longus
+  - nervus-thoracodorsalis
+  - nervus-axillaris
+  - nervus-musculocutaneus
+  question_uuid: 1a1455aca473c9e89705ff659cea005
+- concepts:
+  - nervus-thoracodorsalis
+  - nervus-thoracodorsalis-2
+  - musculus-latissimus-dorsi
+  exercise: question_bank
+  question:
+    de: Welcher Nerv entspringt aus dem Fasciculus posterior des Plexus brachialis,
+      verläuft an der Arteria subscapularis vorbei zur Hinterwand der Axilla und zum
+      Musculus latissimus dorsi?
+    en: Which nerve originates from the posterior cord of the brachial plexus, travels
+      down the subscapular artery, towards the posterior wall of the axilla and to
+      the latissimus dorsi muscle?
+  right_terms:
+  - nervus-thoracodorsalis
+  wrong_terms:
+  - nervus-thoracicus-longus
+  - nervus-subscapularis
+  - nervus-axillaris
+  - nervus-musculocutaneus
+  question_uuid: 373043f5d8b898a7fd37595d389435b
+- concepts:
+  - nervus-cutaneus-antebrachii-lateralis
+  - nervus-musculocutaneus-2
+  - nervus-musculocutaneus
+  exercise: question_bank
+  question:
+    de: Welcher Nerv stellt die Fortsetzung des Muskel-Haut-Nervs (Nervus musculocutaneus)
+      dar und zieht durch die tiefe Faszie lateral der Sehne des Musculus biceps brachii
+      in Richtung Unterarm?
+    en: Which nerve is the continuation of the musculocutaneous nerve (nervus musculocutaneus)
+      and passes through the deep fascia lateral to the biceps brachii tendon into
+      the forearm?
+  right_terms:
+  - nervus-cutaneus-antebrachii-lateralis
+  wrong_terms:
+  - nervus-subscapularis
+  - nervus-thoracodorsalis
+  - nervus-axillaris
+  - nervus-cutaneus-antebrachii-medialis
+  question_uuid: e0744fef94e26ddd39c301a89a6db8d
+- concepts:
+  - nervus-cutaneus-antebrachii-lateralis
+  exercise: question_bank
+  question:
+    de: Welcher der folgenden Nerven des Plexus brachialis hat einen dorsalen Unterast,
+      der an der hinteren, radialen Seite des Unterarmes zum Handgelenk zieht?
+    en: Which of the following nerves of the brachial plexus has a dorsal sub-branch
+      that runs down from the forearm to the wrist along the radial border on the
+      dorsal side of the arm?
+  right_terms:
+  - nervus-musculocutaneus
+  wrong_terms:
+  - nervus-thoracodorsalis
+  - nervus-axillaris
+  - nervus-radialis
+  - nervus-cutaneus-antebrachii-medialis
+  question_uuid: 8bc91dc37afdc17019dee8d4902b4ed
+- concepts:
+  - nervus-medianus
+  - nervus-medianus-2
+  exercise: question_bank
+  question:
+    de: Welcher Nerv des Plexus brachialis entspringt aus dem Fasciculus medialis
+      und lateralis und versorgt fast alle Flexoren der Unterarmmuskulatur sowie die
+      Muskeln des Daumenballens?
+    en: Which nerve of the brachial plexus originates both from the medial and lateral
+      cords and innervates almost all flexors of the forearm as well as the thenar
+      muscles?
+  right_terms:
+  - nervus-medianus
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-cutaneus-antebrachii-lateralis
+  - nervus-cutaneus-antebrachii-medialis
+  - nervus-ulnaris
+  question_uuid: cafb15731bb96e1e4ad50207b5a8435
+- concepts:
+  - nervus-ulnaris
+  - nervus-ulnaris-2
+  - arteria-axillaris
+  - olecranon
+  - olecranon-8
+  - olecranon-9
+  exercise: question_bank
+  question:
+    de: Welcher Ast des Plexus brachialis entspringt aus dem Fasciculus medialis und
+      verläuft medial der Arteria axillaris durch das Septum intermusculare brachii
+      mediale in eine Knochenrinne zwischen dem Epicondylus medialis und dem Ellenhaken
+      (Olecranon)?
+    en: Which branch of the brachial plexus originates from the medial cord (fasciculus
+      medialis), running medially to the axillary artery through the medial intermuscular
+      septum (septum intermusculare brachii mediale) and into a groove between the
+      medial epicondyle of the humerus and the olecranon?
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-radialis
+  - nervus-medianus
+  - nervus-cutaneus-antebrachii-medialis
+  - ramus-profundus-nervi-ulnaris
+  question_uuid: f17b5400a890cc536c66df7f478dc52
+- concepts:
+  - nervus-radialis
+  - nervus-radialis-2
+  exercise: question_bank
+  question:
+    de: Welcher Nerv ist der größte Ast des Plexus brachialis und stammt aus dem Fasciculus
+      posterior, von wo aus er hinter der Arteria axillaris und brachialis verläuft
+      und sich im weiteren Verlauf vorbei am Epicondylus lateralis des Oberarmknochens
+      in den Unterarm erstreckt?
+    en: Which nerve is the largest branch of the brachial plexus and originates from
+      the posterior cord, from where it runs behind the axillary and brachial artery
+      in order to reach the forearm by passing the lateral epicondyle of the humerus?
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-axillaris
+  - nervus-medianus
+  - nervus-ulnaris
+  question_uuid: 4d448a974f08b02f7ba522547780a12
+- concepts:
+  - fasciculus-lateralis
+  - plexus-brachialis-3
+  exercise: question_bank
+  question:
+    de: Welches Nervenbündel entspringt aus der Vereinigung des oberen und mittleren
+      Stammes (Truncus superior et medius) des Plexus brachialis?
+    en: Which collection of nerves arises from the union of the upper and middle trunks
+      of the brachial plexus?
+  right_terms:
+  - fasciculus-lateralis
+  wrong_terms:
+  - fasciculus-medialis
+  - fasciculus-posterior
+  - truncus-inferior-plexus-brachialis
+  - plexus-cervicalis
+  question_uuid: 35fb68fdc7e0b7c31c804abd9768e20
+- concepts:
+  - fasciculus-medialis
+  - plexus-brachialis-3
+  exercise: question_bank
+  question:
+    de: Welches Nervenbündel entspringt als Fortsetzung des anterioren Teils des unteren
+      Stammes (Truncus inferior) im Plexus brachialis?
+    en: Which collection of nerves arises as a continuation from the anterior division
+      of the lower trunk of the brachial plexus?
+  right_terms:
+  - fasciculus-medialis
+  wrong_terms:
+  - fasciculus-lateralis
+  - fasciculus-posterior
+  - truncus-medius-plexus-brachialis
+  - truncus-superior-plexus-brachialis
+  question_uuid: 71fb90d68bee2498b1815a9f907624f
+- concepts:
+  - fasciculus-posterior
+  - plexus-brachialis-3
+  exercise: question_bank
+  question:
+    de: Welches Nervenbündel wird durch die Vereinigung der posterioren Teile aller
+      drei Stämme (Trunci) des Plexus brachialis gebildet?
+    en: Which nerve bundle arises from the union of the three posterior divisions
+      of all three trunks from the brachial plexus?
+  right_terms:
+  - fasciculus-posterior
+  wrong_terms:
+  - fasciculus-lateralis
+  - fasciculus-medialis
+  - plexus-cervicalis
+  - myenteric-plexus-5
+  question_uuid: 80f3180a8e557e1f4ac8bf5a48539a6
+- concepts:
+  - nervus-suprascapularis
+  - nervus-suprascapularis-2
+  - musculus-supraspinatus
+  - musculus-infraspinatus
+  exercise: question_bank
+  question:
+    de: Welcher Nerv wird durch die Vereinigung des fünften und sechsten Zervikalnerven
+      gebildet und verläuft unterhalb des Musculus trapezius in die Fossa supraspinata,
+      wo er sich in mehrere Äste teilt, unter anderem zur motorischen Versorgung der
+      Musculi supraspinatus und infraspinatus?
+    en: Which nerve is formed from the union of the fifth and sixth cervical nerves
+      and runs under the trapezius muscle (musculus trapezius) into the supraspinatous
+      fossa (fossa supraspinata), where it splits into several branches to provide
+      motor innervation of the supra- and infraspinatus muscles?
+  right_terms:
+  - nervus-suprascapularis
+  wrong_terms:
+  - nervus-thoracicus-longus
+  - nervi-supraclaviculares
+  - nervus-subclavius
+  - nervus-dorsalis-scapulae
+  question_uuid: 23c7a8ec7c2032ab784b986fbb6701f
+- concepts:
+  - nervus-thoracicus-longus
+  - long-thoracic-nerve-2
+  - musculus-serratus-anterior
+  exercise: question_bank
+  question:
+    de: Welcher Nerv entspringt aus dem fünften, sechsten und siebten Zervikalnerv
+      und versorgt den Musculus serratus anterior?
+    en: Which nerve is formed by the fifth, sixth and seventh cervical nerves and
+      supplies the serratus anterior muscle?
+  right_terms:
+  - nervus-thoracicus-longus
+  wrong_terms:
+  - nervus-suprascapularis
+  - nervi-supraclaviculares
+  - nervus-subclavius
+  - nervus-dorsalis-scapulae
+  question_uuid: 2e29466700a72ec16b2932fefbb83fe
+- concepts:
+  - subscapular-nerve-2
+  - nervus-subscapularis
+  - nervus-subscapularis-2
+  exercise: question_bank
+  question:
+    de: Ein 30-jähriger Mann stellt sich zwei Monate nach einem Krankenhausaufenthalt
+      im Rahmen eines Verkehrsunfalls zu einer Kontrolluntersuchung vor. Sein Arm
+      steht in Außenrotationsstellung und der Patient weist ein Kraftdefizit im Belly-Press-Test
+      auf. Auch die Adduktion des Armes ist geschwächt. Welcher der folgenden Nerven
+      ist am ehesten geschädigt?
+    en: A 30-year-old man attends the physiotherapy clinic two months after being
+      hospitalized because of a road traffic accident. He is unable to medially rotate
+      and adduct his arm and shows a deficit in the belly-press test. Which of the
+      following nerves is most likely affected?
+  right_terms:
+  - subscapular-nerve-2
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-axillaris
+  - suprascapular-nerve
+  - long-thoracic-nerve
+  question_uuid: ebcc5bc372f6d562aabbad546e661f3
+- concepts:
+  - radial-nerve
+  - nervus-radialis
+  - nervus-radialis-2
+  - corpus-humeri
+  exercise: question_bank
+  question:
+    de: Ein 25-jähriger Mann stürzt von einem Baugerüst und erleidet eine Humerusschaftfraktur
+      im mittleren Drittel. Welcher der folgenden Nerven weist das größte Risiko für
+      eine Schädigung im Rahmen einer Humerusschaftfraktur auf?
+    en: A 25-year-old man injured his arm after falling from a scaffolding and fractured
+      his humeral shaft in the middle third. Which of the following nerves has the
+      highest risk of getting damaged in a humerus shaft fracture?
+  right_terms:
+  - radial-nerve
+  wrong_terms:
+  - nervus-medianus
+  - nervus-ulnaris
+  - nervus-axillaris
+  - nervus-musculocutaneus
+  question_uuid: 4dec00380eb9a1c3a95ff6a1cc01a3b
+- concepts:
+  - radial-nerve
+  - nervus-radialis
+  - nervus-radialis-2
+  exercise: question_bank
+  question:
+    de: Ein 28-jähriger Mann klagt darüber, seit dem Aufwachen die Finger seiner linken
+      Hand nicht mehr strecken zu können. Er fügt hinzu, dass er in der letzten Nacht
+      mit seinem Arm über eine Stuhllehne hängend in einer Bar eingeschlafen sei.
+      Für die Kompression welches Nerven ist dieses Szenario typisch, was auch 'Parkbanklähmung'
+      genannt wird?
+    en: A 28-year-old man complains of a sudden onset inability to straighten the
+      fingers of his left hand after waking up. He reveals that he had fallen asleep
+      in the bar the previous night with his arm hanging over the armrest of the chair.
+      For the compression of which nerve is this scenario typical, being also called
+      'Saturday night palsy'?
+  right_terms:
+  - radial-nerve
+  wrong_terms:
+  - nervus-medianus
+  - nervus-ulnaris
+  - nervus-axillaris
+  - nervus-musculocutaneus
+  question_uuid: c40542c5693b2f2eb554b24271d2930
+- concepts:
+  - radial-nerve
+  - nervus-radialis
+  - nervus-radialis-2
+  exercise: question_bank
+  question:
+    de: Ein 25-jähriger Mann hat sich das Bein gebrochen und ist vorerst auf eine
+      Gehhilfe angewiesen. Er verwendet Achselstützen ('amerikanische Krücken') und
+      klagt nach zwei Tagen darüber, sein Handgelenk und die Finger der rechten Hand
+      nicht mehr richtig strecken zu können. Welcher Nerv ist am wahrscheinlichsten
+      von einer Druckläsion betroffen?
+    en: A 25-year-old man broke his leg and has to use crutches. He chose to use axilla
+      crutches. After using his crutches for two days he complains about the inability
+      to extend his right wrist and fingers. Which nerve is most likely compressed?
+  right_terms:
+  - radial-nerve
+  wrong_terms:
+  - nervus-medianus
+  - nervus-ulnaris
+  - nervus-axillaris
+  - nervus-musculocutaneus
+  question_uuid: 1fa532d5674e10890ae9ad07e61b7c1
+- concepts:
+  - long-thoracic-nerve
+  - long-thoracic-nerve-2
+  - nervus-thoracicus-longus
+  exercise: question_bank
+  question:
+    de: Ein 28-jähriger Mann stellt sich nach seinem Urlaub in Nepal in der orthopädischen
+      Ambulanz. Er habe eine dreiwöchige Bergwanderung im Himalaya unternommen und
+      jeden Tag seinen schweren Rucksack getragen. Nun weist er eine Medialstellung
+      des Schulterblattes (Scapula) auf, die besonders bei der Elevation des Armes
+      sowie beim Drücken gegen eine Wand mit nach vorn ausgestreckten Armen hervortritt.
+      Welche der folgenden Strukturen weist am ehesten eine Druckläsion auf?
+    en: A 28-year-old man attends the hospital after returning from his holidays in
+      Nepal. He went on a three week hiking trip in the Himalayas and carried his
+      heavy backpack during this time. Now he notices his shoulder bone (scapula)
+      medially protruding from his back, especially during elevation of the arm and
+      while pushing his extended arms against a wall. Which of the following structures
+      has most likely been compressed?
+  right_terms:
+  - long-thoracic-nerve
+  wrong_terms:
+  - suprascapular-nerve
+  - subscapular-nerve-2
+  - nervus-axillaris
+  - medial-pectoral-nerve
+  question_uuid: c9e2f760726e9637b0742106ee4ff60
+- concepts:
+  - nervus-ulnaris
+  - nervus-ulnaris-2
+  exercise: question_bank
+  question:
+    de: Ein 50-jähriger Mann wird mit Lepra (Morbus Hansen) diagnostiziert. Welcher
+      der folgenden Nerven der oberen Extremität ist am häufigsten von der charakteristischen
+      Nervenverdickung betroffen?
+    en: A 50-year-old man is diagnosed with leprosy or Hansen's disease. Which of
+      the following nerves in the upper limb is most frequently affected by the typical
+      nerve thickening in the course of this disease?
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - medial-pectoral-nerve
+  - lateral-cutaneous-nerve-of-the-forearm
+  - medial-cutaneous-nerve-of-the-forearm
+  - ramus-superficialis-des-nervus-radialis
+  question_uuid: 9bc5b3cb082d149fb22e9c50b5a671d
+- concepts:
+  - arteria-brachialis
+  - vena-mediana-cubiti
+  - median-cubital-vein-2
+  exercise: question_bank
+  question:
+    de: Ein Medizinstudent im praktischen Jahr führt eine venöse Blutentnahme der
+      mittleren Ellenbogenvene (Vena mediana cubiti) durch. Welche der folgenden Arterien
+      ist am ehesten von einer versehentlichen Punktion gefährdet, wenn der Student
+      vorher nicht prüft, ob das Gefäß einen Puls aufweist?
+    en: A medical student in his practical year draws venous blood from the median
+      cubital vein (vena mediana cubiti). Which of the following arteries is most
+      likely at risk of getting punctured, if the student does not test the vessel
+      for a pulse?
+  right_terms:
+  - arteria-brachialis
+  wrong_terms:
+  - arteria-profunda-brachii
+  - radial-artery-2
+  - arteria-ulnaris
+  - common-interosseous-artery
+  question_uuid: 3edf25889defd66200fa87ea9cdc3f9
+- concepts:
+  - nervus-ulnaris
+  - nervus-ulnaris-2
+  - epicondylus-medialis-humeri
+  exercise: question_bank
+  question:
+    de: Ein 24-jähriger Mann ist in einen Unfall verwickelt und weist im Röntgenbild
+      eine Fraktur des rechten inneren Obergelenkknorren des Oberarms (Epicondylus
+      medialis humeri) auf. Er klagt nun über einen Gefühlsverlust in der Kleinfingerregion.
+      Welcher der folgenden Nerven ist am ehesten geschädigt?
+    en: A 24-year-old man was involved in an accident and the radiograph reveals a
+      fracture of the medial epicondyle of his right humerus (epicondylus medialis
+      humeri). He complains about the loss of sensation in the area of his little
+      finger. Which of the following nerves is injured?
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - radial-nerve
+  - nervus-medianus
+  - nervus-axillaris
+  - nervus-musculocutaneus
+  question_uuid: a70c0a80bd8d1176991247f585b7db9
+- concepts:
+  - radial-nerve
+  - nervus-radialis
+  - nervus-radialis-2
+  exercise: question_bank
+  question:
+    de: Ein 15-jähriger Junge fällt auf mehrere Porzellanscherben und erleidet tiefe
+      Schnittwunden an seinem Arm. Nun klagt er darüber, sein linkes Handgelenk nicht
+      mehr strecken zu können. Welcher der folgenden Nerven wurde am wahrscheinlichsten
+      verletzt?
+    en: A 15-year-boy fell on shards of broken china and sustained slash wounds in
+      his arm. He is now unable to extend his left wrist. Which of the following nerves
+      is most likely damaged?
+  right_terms:
+  - radial-nerve
+  wrong_terms:
+  - nervus-ulnaris
+  - nervus-medianus
+  - nervus-axillaris
+  - nervus-musculocutaneus
+  question_uuid: 4daf84bdfa702308e5c8714b311c7df
+- concepts:
+  - arteria-brachialis
+  exercise: question_bank
+  question:
+    de: Ein 13-jähriges Unfallopfer erlitt eine suprakondyläre Humerusfraktur links.
+      Während der körperlichen Untersuchung klagt der Junge nun über Schmerzen und
+      Missempfindungen in seinem linken Unterarm, der außerdem blasser erscheint als
+      der rechte. Welche der folgenden Arterien wurde am ehesten im Rahmen des Unfalls
+      verletzt und führt zu der vorliegenden Symptomatik?
+    en: A 13-year-old victim of a road traffic accident sustained supracondylar fracture
+      of the humerus. On examination the boy reports pain and paresthesia in his left
+      forearm. It also appears pale compared to the other arm. Which of the following
+      arteries has most likely been injured in the accident leading to this condition?
+  right_terms:
+  - arteria-brachialis
+  wrong_terms:
+  - radial-artery-2
+  - arteria-ulnaris
+  - arteria-profunda-brachii
+  - arteria-interossea-communis
+  question_uuid: 8202f35538fea86ec2fa21b85da1af4
+- concepts:
+  - ulnar-nerve-2
+  - nervus-ulnaris
+  - nervus-ulnaris-2
+  exercise: question_bank
+  question:
+    de: Ein 12-jähriger Junge fragt seinen Arzt, warum sich sein ganzer Arm komisch
+      angefühlt habe, als er sich mit dem Ellenbogen gestoßen hat. Der Arzt erklärt
+      ihm, dass der Stoß einen Nerven getroffen hat, was auch als Musikantenknochen
+      bezeichnet wird. Welchen Nerv hat er sich gestoßen?
+    en: A 12-year-old boy asks the doctor about why he felt funny when his elbow got
+      hit accidentally. The doctor told him, that it was actually a nerve that got
+      hit and hence this nerve was also called the funny bone. Which nerve is it?
+  right_terms:
+  - ulnar-nerve-2
+  wrong_terms:
+  - nervus-medianus
+  - radial-nerve-2
+  - medial-cutaneous-nerve-of-the-forearm
+  - nervus-cutaneus-antebrachii-posterior
+  question_uuid: ef714341e70baa14b95641d9279178e
+- concepts:
+  - biceps-brachii-muscle
+  - musculus-biceps-brachii
+  - musculus-coracobrachialis
+  - musculus-brachialis
+  - nervus-musculocutaneus
+  exercise: question_bank
+  question:
+    de: Welche Muskeln werden vom Muskel-Haut-Nerven (Nervus musculocutaneus) innerviert?
+    en: Which muscles are innervated by the musculocutaneous nerve (nervus musculocutaneus)?
+  right_terms:
+  - biceps-brachii-muscle
+  - musculus-coracobrachialis
+  - musculus-brachialis
+  wrong_terms:
+  - triceps-brachii-muscle
+  - musculus-deltoideus
+  question_uuid: 983e54652dd84264572175f570620be
+- concepts:
+  - nervus-ulnaris
+  exercise: question_bank
+  question:
+    de: Die Guyon-Loge ist eine typische Stelle für die Einklemmung welches Nerven,
+      was zum klinischen Bild des Loge-de-Guyon-Syndrom führt?
+    en: The Guyon's canal is a typical place of entrapment of which nerve, leading
+      to a clinical picture referred to as the Guyon's canal syndrome?
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-medianus
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - nervus-axillaris
+  question_uuid: 12f6fed3defb30bfad8e73d01a5bb27
+- concepts:
+  - nervus-ulnaris
+  exercise: question_bank
+  question:
+    de: Häufige Ursachen für ein positives Froment-Zeichen sind Verletzungen am Ellenbogen
+      oder Einklemmungen welches Nervs?
+    en: Common causes for a positive Froment's sign are injuries of the elbow or an
+      entrapment of which nerve?
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-medianus
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - nervus-axillaris
+  question_uuid: e4bbcff8ea79c20921374afd70d29ce
+- concepts:
+  - musculus-brachioradialis
+  - nervus-radialis
+  exercise: question_bank
+  question:
+    de: Entlang welches Muskels verläuft der oberflächliche Ast des Speichennervs
+      (Nervus radialis)?
+    en: Along which muscle does the superficial branch of the radial nerve run?
+  right_terms:
+  - musculus-brachioradialis
+  wrong_terms:
+  - musculus-biceps-brachii
+  - musculus-anconeus
+  - musculus-flexor-carpi-radialis
+  - musculus-palmaris-longus
+  question_uuid: b16d50ea7c0e31f306edb2f7419cd4f
+- concepts:
+  - nervus-ulnaris
+  - musculus-anconeus
+  exercise: question_bank
+  question:
+    de: Eine anatomische Variation des Knorrenmuskels (Musculus anconeus) findet sich
+      in bis zu einem Drittel aller Menschen. Obwohl die meisten dieser Varianten
+      harmlos sind, wird eine als klinisch relevant erachtet, nämlich der Musculus
+      anconeus epitrochlearis. Dieser Muskel entspringt am inneren Obergelenkknorren
+      des Oberarms (Epicondylus medialis humeri), sodass er nun den Verlauf welches
+      Nerven kreuzt, welcher komprimiert werden kann?
+    en: An anatomical variation of the anconeus muscle is found in up to one third
+      of all humans. Even though most are harmless, there is one variation that can
+      be considered as clinically relevant, namely the anconeus epitrochlearis muscle.
+      This accessory muscle originates at the medial epicondyle of the humerus crossing
+      the course of which nerve, potentially compressing it?
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - nervus-medianus
+  - nervus-cutaneus-antebrachii-lateralis
+  question_uuid: 139413e10b955a0198c7cee03df7709
+- concepts:
+  - arteria-profunda-brachii
+  exercise: question_bank
+  question:
+    de: Welche Arterie teilt sich auf der dorsalen Seite des Humerusschaftes in eine
+      mittlere und eine radiale Kollateralarterie?
+    en: Which artery branches into a middle and a radial recurrent artery at the posterior
+      side of the shaft of the humerus?
+  right_terms:
+  - arteria-profunda-brachii
+  wrong_terms:
+  - arteria-axillaris
+  - arteria-collateralis-radialis
+  - arteria-ulnaris
+  - arteria-radialis
+  question_uuid: 169120dbdaeb7e29d40d4e95db8d00b
+- concepts:
+  - tendon-of-the-biceps-brachii-muscle-1
+  - anterior-cubital-region
+  - arteria-brachialis
+  exercise: question_bank
+  question:
+    de: Im Rahmen einer Blutdruckuntersuchung legt der Arzt sein Stethoskop auf die
+      Ellenbeuge des Patienten, um die Korotkoff-Geräusche der Oberarmarterie (Arteria
+      brachialis) auszukultieren. Diese Arterie befindet sich direkt medial welcher
+      Struktur?
+    en: While measuring blood pressure the physician puts the stethoscope on the antecubital
+      fossa to listen to the Korotkov sounds of the brachial artery. This artery is
+      located just medial to which of the following structures?
+  right_terms:
+  - tendon-of-the-biceps-brachii-muscle-1
+  wrong_terms:
+  - musculus-pronator-teres
+  - radial-nerve-2
+  - musculus-brachioradialis
+  - musculus-brachialis
+  question_uuid: 596780fc763c3807e7280bf7d32f707
+- terms:
+  - musculus-subscapularis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-subscapularis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-radialis
+  - nervus-vagus
+  - nervus-ulnaris
+  - plexus-cervicalis
+- terms:
+  - musculus-supraspinatus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-suprascapularis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-radialis
+  - nervus-subscapularis
+  - nervus-ulnaris
+  - plexus-cervicalis
+- terms:
+  - musculus-infraspinatus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-suprascapularis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-radialis
+  - nervus-subscapularis
+  - nervus-ulnaris
+  - nervus-axillaris
+- terms:
+  - musculus-teres-minor
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-axillaris
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-radialis
+  - nervus-subscapularis
+  - nervus-ulnaris
+  - nervus-suprascapularis
+- terms:
+  - musculus-deltoideus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-axillaris
+  wrong_terms:
+  - nervus-subscapularis
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - nervus-suprascapularis
+- terms:
+  - musculus-latissimus-dorsi
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-thoracodorsalis
+  wrong_terms:
+  - nervus-subscapularis
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - nervus-suprascapularis
+- terms:
+  - musculus-teres-major
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-subscapularis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-radialis
+  - nervus-vagus
+  - nervus-ulnaris
+  - plexus-cervicalis
+- terms:
+  - musculus-coracobrachialis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-musculocutaneus
+  wrong_terms:
+  - nervus-subscapularis
+  - nervus-radialis
+  - nervus-vagus
+  - nervus-ulnaris
+  - plexus-cervicalis
+- terms:
+  - musculus-supraspinatus
+  exercise: multiple_choice_text
+  relation: innervation_of
+  right_terms:
+  - nervus-suprascapularis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-radialis
+  - nervus-subscapularis
+  - nervus-ulnaris
+  - plexus-cervicalis
+- terms:
+  - musculus-teres-minor
+  exercise: multiple_choice_text
+  relation: innervation_of
+  right_terms:
+  - nervus-axillaris
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-radialis
+  - nervus-subscapularis
+  - nervus-ulnaris
+  - nervus-suprascapularis
+- terms:
+  - musculus-latissimus-dorsi
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-thoracodorsalis
+  wrong_terms:
+  - nervus-accessorius-2
+  - nervus-subscapularis
+  - nervus-pectoralis-lateralis
+  - nervus-thoracicus-longus
+  - nervus-suprascapularis
+- terms:
+  - musculus-brachialis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-musculocutaneus
+  - nervus-radialis
+  wrong_terms:
+  - nervus-ulnaris
+  - nervus-medianus
+  - nervus-axillaris
+  - nervus-thoracodorsalis
+- terms:
+  - musculus-biceps-brachii
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-musculocutaneus
+  wrong_terms:
+  - nervus-ulnaris
+  - nervus-medianus
+  - nervus-radialis
+  - nervus-axillaris
+  - nervus-thoracodorsalis
+- concepts:
+  - nervus-musculocutaneus
+  - nervus-musculocutaneus-2
+  exercise: question_bank
+  question:
+    de: Welcher Nerv entspringt aus dem Fasciculus lateralis des Plexus brachialis?
+    en: From these nerves, which one is a branch of the lateral cord of the brachial
+      plexus?
+  right_terms:
+  - nervus-musculocutaneus
+  wrong_terms:
+  - nervus-radialis
+  - nervus-ulnaris
+  - nervus-axillaris
+  - nervus-pectoralis-medialis
+  question_uuid: 67bf46ac1bccdbe8a407203a9d49fdb
+- concepts:
+  - arteria-circumflexa-scapulae
+  exercise: question_bank
+  question:
+    de: Welche Arterie stammt aus der A. subscapularis und trägt zum Rete scapulare
+      (Schulterblattanastomosen) bei?
+    en: Which artery branches from the subscapular artery (arteria subscapularis)
+      and becomes a contributing part of the scapular anastomoses?
+  right_terms:
+  - arteria-circumflexa-scapulae
+  wrong_terms:
+  - arteria-subclavia
+  - arteria-collateralis-ulnaris-superior
+  - arteria-radialis
+  - arteria-thoracoacromialis
+  question_uuid: a83cd20663f1748c05ce97e42d692db
+- concepts:
+  - nervus-suprascapularis
+  - nervus-suprascapularis-2
+  - suprascapular-notch
+  exercise: question_bank
+  question:
+    de: Die Incisura scapulae befindet sich an der Margo superior scapulae (Oberrand
+      des Schulterblatts). Welche Struktur tritt durch sie hindurch?
+    en: The suprascapular notch (incisura scapulae) is located at the superior lateral
+      border of the scapula. Which structure(s) pass(es) through this notch?
+  right_terms:
+  - nervus-suprascapularis
+  wrong_terms:
+  - nervus-ulnaris
+  - nervus-radialis
+  - nervus-pectoralis-medialis
+  - nervus-pectoralis-lateralis
+  question_uuid: b0c2afc00ac14f7e98b5f5663f2ab33
+- terms:
+  - musculus-triceps-brachii
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - nervus-ulnaris
+  - nervus-medianus
+  - nervus-musculocutaneus
+  - nervus-axillaris
+  - nervus-thoracodorsalis
+- terms:
+  - musculus-anconeus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - nervus-ulnaris
+  - nervus-medianus
+  - nervus-musculocutaneus
+  - nervus-axillaris
+  - nervus-thoracodorsalis
+- concepts:
+  - costa-i
+  - arteria-axillaris
+  exercise: question_bank
+  question:
+    de: Ab dem Übergang welcher Struktur wird die Arteria subclavia (Unterschlüsselbeinarterie)
+      als Arteria axillaris (Achselarterie) bezeichnet?
+    en: In Which structure's outer border does the subclavian artery (arteria subclavia)
+      become the axillary artery (arteria axillaris)?
+  right_terms:
+  - costa-i
+  wrong_terms:
+  - costa-ii
+  - manubrium-sterni
+  - processus-xyphoideus
+  - spina-scapulae
+  question_uuid: 4d5e3c0435763a99d9bd2686f9e16e8
+- concepts:
+  - musculus-pectoralis-minor
+  - arteria-axillaris
+  exercise: question_bank
+  question:
+    de: Die Arteria axillaris wird auf Grund welches Muskels in drei Abschnitte unterteilt?
+    en: Which muscle(s) divide(s) the axillary artery (arteria axillaris) in 3 parts?
+  right_terms:
+  - musculus-pectoralis-minor
+  wrong_terms:
+  - musculus-infraspinatus
+  - musculus-deltoideus
+  - musculus-triceps-brachii
+  - musculus-biceps-brachii
+  question_uuid: ae79f0cf24de4143c39b11ad1422639
+- concepts:
+  - arteria-thoracica-lateralis
+  - arteria-thoracoacromialis
+  - arteria-axillaris
+  exercise: question_bank
+  question:
+    de: Welche zwei Gefäße stammen aus dem zweiten Abschnitt der Arteria axillaris?
+    en: Which two vessels arise from the second part of the axillary artery (arteria
+      axillaris)?
+  right_terms:
+  - arteria-thoracica-lateralis
+  - arteria-thoracoacromialis
+  wrong_terms:
+  - arteria-brachialis
+  - arteria-profunda-brachii
+  - arteria-ulnaris
+  question_uuid: 0cf046c077aeb1d0cc49851dc98c894
+- concepts:
+  - nervus-suprascapularis
+  - nervus-suprascapularis-2
+  exercise: question_bank
+  question:
+    de: In der Vorgeschichte fiel ein Mann von der Leiter und verletzte sich am Plexus
+      brachialis (Armgeflecht). Bei der Kontrolluntersuchung fällt auf, dass er keine
+      Schulterabduktion mehr initiieren kann, vielmehr muss ihm bis ca. 45° aktiv
+      geholfen werden. Das Zwerchfell kontrahiert uneingeschränkt und eine abstehende
+      Scapula (Schulterblatt) kann ebenfalls nicht beobachtet werden. Welcher Nerv
+      könnte bei dem Mann betroffen sein?
+    en: A man falls from a high ladder and is known to have sustained injury in the
+      right brachial plexus (plexus brachialis). When he recovered, he went back to
+      the doctor who noticed that there was no winging of the scapula, and abduction
+      could not be initiated by the patient unless help was given by abducting the
+      arm through the first 45 degrees. What nerve might be injured?
+  right_terms:
+  - nervus-suprascapularis
+  wrong_terms:
+  - nervus-axillaris
+  - median-nerve
+  - nervus-radialis
+  - musculocutaneous-nerve
+  question_uuid: 4f095867c9c496d2306321f7f96916e
+- concepts:
+  - nervus-thoracicus-longus
+  - long-thoracic-nerve
+  - long-thoracic-nerve-2
+  exercise: question_bank
+  question:
+    de: Bei einem Motorradunfall landet ein 19-jähriger Mann auf seine linke Rippenseite
+      bei gleichzeitig abduziertem Arm. Bei der Untersuchung fällt eine abstehende
+      Scapula (Schulterblatt) links auf. Welcher Nerv wurde wahrscheinlich verletzt?
+    en: A 19-year-old young man has a motorcycle accident in which he lands on the
+      left lateral side of his rib cage with his left upper limb abducted. Upon examination,
+      it is found that he has "winging" of the left scapula. Which nerve was probably
+      damaged during the accident?
+  right_terms:
+  - nervus-thoracicus-longus
+  wrong_terms:
+  - nervus-accessorius-2
+  - nervus-pectoralis-lateralis
+  - nervus-radialis
+  - nervus-medianus
+  question_uuid: 4187da51b4f22175ef6741c1ba75d37
+- concepts:
+  - innervation_of-musculus-deltoideus
+  - musculus-deltoideus
+  - nervus-axillaris
+  - nervus-axillaris-2
+  exercise: question_bank
+  question:
+    de: Welche Muskeln werden durch den Nerv innerviert, der durch die laterale Achsellücke
+      tritt?
+    en: Which muscle(s) is(are) innervated by the nerve passing through the quadrangular
+      space of the posterior shoulder?
+  right_terms:
+  - musculus-deltoideus
+  - musculus-teres-minor
+  wrong_terms:
+  - musculus-infraspinatus
+  - musculus-supraspinatus
+  - musculus-subscapularis
+  question_uuid: aac9035f0e3bd36cacf940350ccb1b8
+- concepts:
+  - arteria-axillaris
+  exercise: question_bank
+  question:
+    de: Während einer OP findet die Gefäßchirurgin eine dicke, horizontal verlaufende
+      Vene. Sie schiebt sie sicher nach unten, sodass die Arterie zum Vorschein kommt,
+      an der sie den eigentlichen Eingriff durchführen wird. Die Arterie befindet
+      sich in enger Nachbarschaft zum Plexus brachialis (Armgeflecht), sodass sie
+      vorsichtig agieren muss. Um welche Arterie handelt es sich?
+    en: During surgery, a surgeon finds a large, around 2 cm in diameter vein, running
+      horizontally. The vein is intact and then is retracted downward, exposing a
+      damaged artery. The surgeon knows that the artery is found in close proximity
+      to the brachial plexus. What artery is being surgically repaired?
+  right_terms:
+  - arteria-axillaris
+  wrong_terms:
+  - arteria-brachialis
+  - arteria-radialis
+  - arteria-suprascapularis
+  - arteria-ulnaris
+  question_uuid: e1100aa616523509e61a5b8c7019c4d
+- concepts:
+  - nervus-suprascapularis
+  - nervus-suprascapularis-2
+  exercise: question_bank
+  question:
+    de: Ein Patient mit Erb-Lähmung weist einen dysfunktionalen Nerven auf, der aus
+      dem Truncus superior des Plexus brachialis (Armgeflecht) entspringt. Welcher
+      könnte dies sein?
+    en: A patient with Erb-Duchenne palsy has a dysfunctional nerve which arises from
+      the superior trunk of the brachial plexus (plexus brachialis). What nerve is
+      that?
+  right_terms:
+  - nervus-suprascapularis
+  wrong_terms:
+  - ulnar-nerve
+  - radial-nerve
+  - nervus-axillaris
+  - nervus-musculocutaneus
+  question_uuid: 90b0241ee9ca48382ef66ab3e7ff6f2
+- concepts:
+  - fasciculus-posterior
+  - fasciculus-posterior-2
+  exercise: question_bank
+  question:
+    de: Aus welchem Stamm oder Ast zweigt sich der Nervus axillaris (Achselnerv) vom
+      Plexus brachialis (Armgeflecht) ab?
+    en: Which part of the brachial plexus (plexus brachialis) does the axillary nerve
+      (nervus axillaris) arise from?
+  right_terms:
+  - fasciculus-posterior
+  wrong_terms:
+  - fasciculus-medialis
+  - fasciculus-lateralis
+  - truncus-superior-plexus-brachialis
+  - truncus-medius-plexus-brachialis
+  question_uuid: bda99606da52772d3e1c8c12cf90e76
+- concepts:
+  - arteria-circumflexa-scapulae
+  exercise: question_bank
+  question:
+    de: Eine Chirurgin hat auf Grund starker Blutungen die Arteria suprascapularis
+      auf Höhe der Margo superior der Scapula (Oberrand des Schulterblatts) ligiert.
+      Sie war sich ihrer Sache sicher, da das Versorgungsgebiet der Arteria suprascapularis
+      durch eine Anastomose mit einer umliegenden Arterie weiterhin gespeist wird.
+      Um welche Arterie handelt es sich dabei?
+    en: A surgeon tied off, due to the bleeding, the suprascapular artery (arteria
+      suprascapularis) as it crossed the top of the scapula. She did it knowing that
+      the direct collateral branches of one artery would supply the normal distribution
+      of the suprascapular artery. What was that artery?
+  right_terms:
+  - arteria-circumflexa-scapulae
+  wrong_terms:
+  - arteria-circumflexa-humeri-posterior
+  - arteria-circumflexa-humeri-anterior
+  - arteria-brachialis
+  - arteria-subclavia
+  question_uuid: 75fafde37187f7a6e91489a0233c014
+- concepts:
+  - nervus-suprascapularis
+  - nervus-suprascapularis-2
+  exercise: question_bank
+  question:
+    de: Ein Mann wird mit einer Schusswunde an der Schulter in die Notfallaufnahme
+      gebracht. Die Abduktion seines Arms zwischen 0 und 15 Grad sowie die Außenrotation
+      sind eingeschränkt. Welcher Nerv wurde wahrscheinlich verletzt?
+    en: A man is admitted to the ER with a gunshot wound to the shoulder. He is unable
+      to abduct the arm between 0 and 15 degrees, with reduced lateral rotation of
+      the humerus. Which nerve was probably injured?
+  right_terms:
+  - nervus-suprascapularis
+  wrong_terms:
+  - nervus-accessorius-2
+  - nervus-axillaris
+  - nervus-medianus
+  - nervus-ulnaris
+  question_uuid: de555ff6f080176596ef6f4571894d7
+- concepts:
+  - nervus-thoracicus-longus
+  - long-thoracic-nerve-2
+  - nodi-lymphoidei-axillares-apicales
+  exercise: question_bank
+  question:
+    de: Bei einer 52-jährigen Patientin wurde ein Mammakarzinom mit Metastasen in
+      den axillären Lymphknoten diagnostiziert. Nach einer modifizierten radikalen
+      Mastektomie steht ihre Scapula (Schulterblatt) flügelartig ab. Welcher Nerv
+      wurde am ehesten intraoperativ beschädigt?
+    en: 52-year-old female patient was diagnosed with breast cancer and metastases
+      in the axillary lymph nodes. She underwent surgery to remove the cancer and
+      the axillary lymph nodes. After recovery, she was found to have “winging” of
+      the scapula. Which nerve was likely damaged during the operation?
+  right_terms:
+  - nervus-thoracicus-longus
+  wrong_terms:
+  - nervus-pectoralis-lateralis
+  - nervus-suprascapularis
+  - nervus-axillaris
+  - median-nerve
+  question_uuid: aa9939c023b60981bd96bb846c54aba
+- concepts:
+  - truncus-inferior-plexus-brachialis
+  - subclavian-vein
+  - vena-subclavia
+  - arteria-subclavia
+  - subclavian-artery-2
+  exercise: question_bank
+  question:
+    de: Welche Strukturen werden beim Thoracic-outlet-Syndrom komprimiert?
+    en: Which of the following structures are compressed when the thoracic outlet
+      syndrome is developed?
+  right_terms:
+  - truncus-inferior-plexus-brachialis
+  - subclavian-vein
+  - subclavian-artery-2
+  wrong_terms:
+  - truncus-medius-plexus-brachialis
+  - nervus-thoracicus-longus
+  question_uuid: b68b75335f68e8444225fb76c7bc4e6
+- concepts:
+  - truncus-superior-plexus-brachialis
+  - musculus-deltoideus
+  - musculus-infraspinatus
+  - musculus-supraspinatus
+  - musculus-biceps-brachii
+  - nervus-axillaris
+  - nervus-axillaris-2
+  exercise: question_bank
+  question:
+    de: Eine Schädigung des Truncus superior des Plexus brachialis (oberer Stamm des
+      Armgeflechts) führt zur Erb-Lähmung. Welche Muskeln können im Rahmen dessen
+      betroffen?
+    en: Tear at the superior trunk of the brachial plexus (truncus superior plexus
+      brachialis) causes Erb's palsy. Which of the following muscles are affected
+      in this condition?
+  right_terms:
+  - musculus-deltoideus
+  - musculus-infraspinatus
+  - musculus-supraspinatus
+  - musculus-biceps-brachii
+  - musculus-subscapularis
+  wrong_terms:
+  - flexor-carpi-ulnaris-muscle
+  question_uuid: 7f11340f786f19bb089d27097a23905
+- concepts:
+  - arteria-circumflexa-humeri-anterior
+  - arteria-circumflexa-humeri-posterior
+  - collum-chirurgicum
+  exercise: question_bank
+  question:
+    de: Welche Arterien werden am häufigsten bei einer Fraktur entlang des Collum
+      chirurgicum (chirurgischer Hals) des Humerus beschädigt?
+    en: Which of the following arteries will be most likely damaged, after a fracture
+      at the surgical neck of the humerus (collum chirurgicum)?
+  right_terms:
+  - arteria-circumflexa-humeri-anterior
+  - arteria-circumflexa-humeri-posterior
+  wrong_terms:
+  - arteria-radialis
+  - arteria-thoracoacromialis
+  - arteria-profunda-brachii
+  question_uuid: d3eef342e45400fe34b7cae9e1c2a17
+- concepts:
+  - nervus-radialis
+  - nervus-radialis-2
+  - caput-mediale-musculus-triceps-brachii
+  - musculus-triceps-brachii
+  exercise: question_bank
+  question:
+    de: Zwischen welchen Muskeln läuft der Nervus radialis (Speichennerv) am proximalen
+      Oberarm?
+    en: At the upper arm, Which muscles does the radial nerve (nervus radialis) pass
+      between?
+  right_terms:
+  - caput-mediale-musculus-triceps-brachii
+  - caput-laterale-musculus-triceps-brachii
+  wrong_terms:
+  - caput-longum-musculus-triceps-brachii
+  - musculus-coracobrachialis
+  - musculus-pectoralis-minor
+  question_uuid: 6ba840f7203897e994714b761a7b97b
+- concepts:
+  - axillary-vein
+  - vena-axillaris
+  - vena-axillaris-2
+  - axillary-artery
+  - arteria-axillaris-2
+  exercise: question_bank
+  question:
+    de: Welche Struktur läuft lateral der Vena axillaris (Achselvene)?
+    en: Which structure runs laterally to the axillary vein (vena axillaris)?
+  right_terms:
+  - axillary-artery
+  wrong_terms:
+  - nervus-medianus
+  - musculocutaneous-nerve
+  - caput-breve-musculus-biceps-brachii
+  - musculus-coracobrachialis
+  question_uuid: 58b493ba9c20197a6e6690fa2df874c
+- concepts:
+  - axillary-nerve
+  - nervus-axillaris
+  - axillary-artery
+  - arteria-axillaris-2
+  exercise: question_bank
+  question:
+    de: Welcher Nerv läuft in der Axilla dorsal der Arteria axillaris (Achselarterie)
+      und ventral des Musculus subscapularis?
+    en: Which nerve runs posterior to the axillary artery and anterior to the subscapularis
+      muscle (musculus subscapularis) in the axilla?
+  right_terms:
+  - axillary-nerve
+  wrong_terms:
+  - lateral-pectoral-nerve
+  - medial-pectoral-nerve
+  - inferior-subscapular-nerve
+  - nervus-thoracodorsalis
+  question_uuid: d9ca3c79408a5b214343d537fbedfec
+- concepts:
+  - axillary-nerve
+  - nervus-axillaris
+  - nervus-axillaris-2
+  - nervus-cutaneus-antebrachii-lateralis
+  exercise: question_bank
+  question:
+    de: Welcher Nerv endet als Nervus cutaneus brachii lateralis superior (oberer
+      seitlicher Armhautnerv)?
+    en: Which nerve terminates as the upper lateral cutaneous nerve of the arm (nervus
+      cutaneus brachii lateralis superior) that supplies the posterior skin of the
+      arm?
+  right_terms:
+  - axillary-nerve
+  wrong_terms:
+  - dorsal-scapular-nerve
+  - musculocutaneous-nerve
+  - long-thoracic-nerve
+  - nervus-subscapularis
+  question_uuid: cbf464adf80978c02c6b7a7fde229c2
+- concepts:
+  - latissimus-dorsi-muscle
+  - nervus-thoracodorsalis
+  - nervus-thoracodorsalis-2
+  - nodi-lymphoidei-axillares-pectorales
+  exercise: question_bank
+  question:
+    de: Vier Wochen nach einer axillären Lymphonodektomie bemerkt die Patientin, dass
+      ihr Muskelrelief am Rücken und die hintere Achselfalte kleiner geworden ist
+      im Vergleich zur nichtoperierten Seite. Sie hat keinerlei muskuläre Einschränkungen
+      und kann den Rücken und die Schulter frei bewegen. Welcher Nerv wurde am ehesten
+      während des Eingriffs verletzt?
+    en: Four weeks after an axillary lymph node dissection, the patient notices that
+      the muscular relief on her back and posterior axillary fold start to diminish
+      on the operated side. However, she has no muscular restrictions and can move
+      her back and shoulder as usual. Which nerve was most likely damaged during the
+      procedure?
+  right_terms:
+  - nervus-thoracodorsalis
+  wrong_terms:
+  - musculus-teres-major
+  - accessory-nerve-branch-to-trapezius-muscle
+  - long-thoracic-nerve
+  - lateral-pectoral-nerve
+  question_uuid: f332c39310f5848fc51b36a57e6798f
+- concepts:
+  - coracobrachialis-muscle
+  - musculus-coracobrachialis
+  - musculocutaneous-nerve
+  - nervus-musculocutaneus
+  - nervus-musculocutaneus-2
+  exercise: question_bank
+  question:
+    de: Welcher Muskel wird durch den Nervus musculocutaneus (Muskel-Haut-Nerv) durchbohrt?
+    en: Which muscle is pierced by the musculocutaneous nerve (Nervus musculocutaneus)?
+  right_terms:
+  - coracobrachialis-muscle
+  wrong_terms:
+  - brachialis-muscle
+  - biceps-brachii-muscle
+  - musculus-pectoralis-minor
+  - musculus-pectoralis-major
+  question_uuid: c66f2c3644018ee9f186c6d7426cba5
+- concepts:
+  - musculocutaneous-nerve
+  - nervus-musculocutaneus
+  - nervus-musculocutaneus-2
+  exercise: question_bank
+  question:
+    de: Die Läsion welches Nervs führt zu einer Schwächung der Beugung der Schulter
+      und des Ellenbogens sowie Sensibilitätsstörungen auf der radialen Seite des
+      Unterarms?
+    en: Which nerve's lesion is characterised by a weakened flexion of the shoulder
+      and elbow, and skin sensation loss on the radial half of the forearm?
+  right_terms:
+  - musculocutaneous-nerve
+  wrong_terms:
+  - nervus-radialis
+  - nervus-ulnaris
+  - median-nerve
+  - axillary-nerve
+  question_uuid: 25f3ce5312228b4c489e852c4e67a8f
+- concepts:
+  - arteria-brachialis
+  - nervus-ulnaris
+  - nervus-medianus
+  - vena-basilica
+  - musculus-triceps-brachii
+  - biceps-brachii-muscle
+  - musculus-biceps-brachii
+  exercise: question_bank
+  question:
+    de: Welche Strukturen laufen durch die innere Bizepsrinne (Sulcus bicipitalis
+      medialis)?
+    en: Which structures run through the medial bicipital groove (Sulcus bicipitalis
+      medialis)?
+  right_terms:
+  - arteria-brachialis
+  - nervus-ulnaris
+  - median-nerve
+  - basilic-vein
+  wrong_terms:
+  - nervus-radialis
+  question_uuid: 955058b9c103215cad469fdaaeef6ab
+- concepts:
+  - biceps-brachii-muscle
+  - arteria-brachialis
+  exercise: question_bank
+  question:
+    de: Der Puls welcher Arterie kann unter dem Musculus biceps brachii (zweiköpfiger
+      Oberarmmuskel) auf der medialen Seite des Oberarms ertastet werden?
+    en: Which artery's pulse can be felt below the biceps brachii muscle (Musculus
+      biceps brachii) on the medial side of the upper arm?
+  right_terms:
+  - arteria-brachialis
+  wrong_terms:
+  - arteria-profunda-brachii
+  - arteria-axillaris
+  - arteria-thoracoacromialis
+  - arteria-collateralis-ulnaris-superior
+  question_uuid: e3a592ec402e67d2257acb731e5e4e1
+- concepts:
+  - nervus-axillaris
+  - collum-chirurgicum
+  exercise: question_bank
+  question:
+    de: Eine 75-jährige Frau mit bekannter Osteoporose stürzte in ihrer Wohnung auf
+      den Arm. Ein angefertigtes Röntgenbild zeigt eine Fraktur am Collum chirurgicum
+      des Oberarmknochens (Humerus). Zwei Monate später hat sie immer noch Schwierigkeiten
+      dabei, ihre Schulter zu abduzieren. Welcher der folgenden Nerven wurde am wahrscheinlichsten
+      von der Fraktur geschädigt?
+    en: A 75-year-old woman with osteoporosis fell on her arm while walking down the
+      stairs in her house. In the hospital, an X-ray reveals a fracture of the surgical
+      neck of the humerus (collum chirurgicum humeri). Two months later, she still
+      has difficulties abducting her shoulder. Which nerve was most likely injured
+      by the fracture?
+  right_terms:
+  - nervus-axillaris
+  wrong_terms:
+  - nervus-radialis
+  - nervus-medianus
+  - nervus-ulnaris
+  - dorsal-scapular-nerve
+  question_uuid: b309979fb4483930e4d51cf965d5607
+- concepts:
+  - suprascapular-notch-1
+  - nervus-suprascapularis
+  - musculus-supraspinatus
+  - musculus-infraspinatus
+  - supraspinatus-muscle-11
+  - infraspinatus-muscle-17
+  exercise: question_bank
+  question:
+    de: Ein 55-jähriger Mann stellt sich mit diffusem Schulterschmerz in der orthopädischen
+      Sprechstunde vor. Die körperliche Untersuchung zeigt Schmerzen während der Palpation
+      der Incisura scapulae sowie eine abgeschwächte Schulterabduktion und -außenrotation
+      bei angelegtem Arm. Das Elektromyogramm (EMG) zweier Muskeln zeigt einen auffälligen
+      Befund, sodass der behandelnde Arzt ein Incisura-Scapulae-Syndrom diagnostiziert.
+      Welche beiden Muskeln werden durch den Oberschulterblattnerv (Nervus suprascapularis)
+      innerviert und sind bei diesem Syndrom mitbetroffen?
+    en: A 55-year-old man presents to the clinic with complaints of deep and diffuse
+      posterolateral shoulder pain. Physical examination shows pain during the palpation
+      of the suprascapular notch, weakness with shoulder abduction and external rotation
+      with the elbow at side. After testing two muscles using electromyography (EMG),
+      the physician diagnoses a suprascapular notch entrapment. In this condition,
+      the suprascapular nerve is compressed in the suprascapular notch (incisura scapulae).
+      Which two muscles, innervated by the suprascapular nerve were tested by the
+      physician?
+  right_terms:
+  - musculus-supraspinatus
+  - musculus-infraspinatus
+  wrong_terms:
+  - levator-scapulae-muscle-2
+  - musculus-subscapularis
+  - musculus-teres-minor
+  question_uuid: 4e6943431cea6d19ff986e9e75ba627
+- concepts:
+  - cephalic-vein
+  - vena-cephalica
+  exercise: question_bank
+  question:
+    de: In der Schulterersatzchirurgie kann ein anteriorer Zugang zur Operation von
+      Verletzungen des langen Bizepskopfes (Caput longum musculi bicipitis brachii)
+      gewählt werden. Der Chirurg setzt dazu einen Schnitt entlang der Rinne zwischen
+      dem Deltamuskel (Musculus deltoideus) und dem großen Brustmuskel (Musculus pectoralis
+      major). Auf welches Gefäß muss der Chirurg besonders achten, um eine starke
+      Blutung zu vermeiden, da es innerhalb dieser Rinne verläuft?
+    en: In shoulder replacement surgery, an anterior approach can be used to operate
+      injuries of the long head of biceps brachii muscle (caput longum musculi bicipitis
+      brachii). An incision is made along the groove between the deltoid (musculus
+      deltoideus) and pectoralis major (musculus pectoralis major) muscles. To avoid
+      extensive bleeding, the surgeon must pay attention not to damage which of the
+      following blood vessels passing in this groove?
+  right_terms:
+  - cephalic-vein
+  wrong_terms:
+  - arteria-thoracoacromialis
+  - vena-thoracica-interna
+  - vena-basilica
+  - arteria-subclavia
+  question_uuid: 8612892875863b6644a57fdd6895586
+- concepts:
+  - musculocutaneous-nerve
+  - nervus-musculocutaneus
+  - coracobrachialis-muscle
+  exercise: question_bank
+  question:
+    de: Ein 33-jähriger Mann stellt sich bei seinem Hausarzt mit Empfindungsstörungen
+      an der radialen Seite seines Unterarms vor. Er gibt an, jeden Tag mehrere Stunden
+      im Fitnessstudio zu verbringen und mit sehr schweren Gewichten zu trainieren.
+      Die körperliche Untersuchung zeigt eine abgeschwächte Flexion im Ellenbogengelenk.
+      Der behandelnde Arzt vermutet eine Beteiligung des Musculus coracobrachialis.
+      Im Falle einer Verletzung kann welcher Nerv, der durch diesen Muskel verläuft,
+      zu den Symptomen des Patienten führen?
+    en: A 33-year-old man arrives to the physician complaining of skin sensation disturbances
+      on the radial part of the forearm. The patient states he is a gym addict and
+      that his training routine involves bench pressing with extremely heavy weights.
+      Physical examination shows a weakened flexion in the elbow, and the physician
+      suspects a pathology of the coracobrachialis muscle (musculus coracobrachialis).
+      If injured, which nerve passing through this muscle can account for his symptoms?
+  right_terms:
+  - musculocutaneous-nerve
+  wrong_terms:
+  - nervus-radialis
+  - nervus-ulnaris
+  - nervus-medianus
+  - nervus-axillaris
+  question_uuid: 69fca472b59461605ae860b93388aed
+- terms:
+  - musculus-brachioradialis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - nervus-medianus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-extensor-carpi-radialis-longus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - nervus-medianus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-extensor-carpi-radialis-brevis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - nervus-medianus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- concepts:
+  - axillary-nerve
+  - posterior-circumflex-humeral-artery-1
+  - arteria-circumflexa-humeri-posterior
+  - axillary-region
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Strukturen ziehen durch die laterale Achsellücke?
+    en: Which of the following structures pass through the quadrangular space?
+  right_terms:
+  - axillary-nerve
+  - posterior-circumflex-humeral-artery-1
+  wrong_terms:
+  - arteria-circumflexa-humeri-anterior
+  - cephalic-vein
+  - caput-mediale-musculus-triceps-brachii
+  question_uuid: 7fe8dc051bd0757ce41c2752442641c
+- concepts:
+  - nervus-radialis
+  exercise: question_bank
+  question:
+    de: Ein 16-jähriger Junge hat sich das Bein gebrochen und ist in den letzten 3
+      Wochen auf Krücken gelaufen. Er stellt sich nun im Krankenhaus mit Problemen
+      in seinem rechten Arm vor. Er kann Ellenbogen, Handgelenk und Finger nicht mehr
+      richtig strecken und klagt über Taubheit über dem dorsalen Unterarm  und dem
+      Handrücken. Welcher der folgenden Nerven wurde durch den Gebrauch der Gehhilfen
+      am ehesten in der Achsel komprimiert und führt nun zu der bestehenden Symptomatik?
+    en: A 16-year-old boy fractured his leg and has been using crutches for the last
+      3 weeks. He now presents to the hospital due to problems with his arm. He cannot
+      extend his elbow, wrist and fingers, and has a loss of sensation over the posterior
+      arm and the dorsal hand. Which of the following nerves was most likely compressed
+      in the axilla due to the use of crutches, accounting for his symptoms?
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - axillary-nerve
+  - nervus-medianus
+  - nervus-ulnaris
+  - nervus-musculocutaneus
+  question_uuid: 8eaff212f8580b7d4190190dd915351
+- terms:
+  - musculus-pronator-teres
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-medianus
+  wrong_terms:
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-flexor-carpi-radialis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-medianus
+  wrong_terms:
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-palmaris-longus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-medianus
+  wrong_terms:
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- concepts:
+  - anterior-cubital-region
+  - fossa-cubitalis
+  - vena-cephalica
+  - vena-cephalica-3
+  - vena-cephalica-antebrachii
+  - vena-basilica
+  - vena-basilica-3
+  exercise: question_bank
+  question:
+    de: Wo verläuft eine prominente Vene, die die Kopf- und Basilarvenen (Vv. cephalica
+      et basilica) miteinander verbindet?
+    en: Where is a prominent vein located that connects the cephalic and basilic vein
+      (vv. cephalica et basilica)?
+  right_terms:
+  - anterior-cubital-region
+  wrong_terms:
+  - palm-of-hand-2
+  - axillary-region
+  - posterior-cubital-region
+  - dorsum-of-hand-2
+  question_uuid: bc095174cc0dbc641c48811a7d09007
+- terms:
+  - musculus-flexor-carpi-ulnaris
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - nervus-medianus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-flexor-digitorum-superficialis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-medianus
+  wrong_terms:
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- concepts:
+  - anterior-cubital-region
+  - anterior-cubital-region-2
+  - arteria-brachialis
+  - arteria-brachialis-2
+  exercise: question_bank
+  question:
+    de: Bei der manuellen Blutdruckmessung sollen die sogenannten Korotkow-Geräusche
+      über der Oberarmarterie (Arteria brachialis) auskultiert werden. In welcher
+      Region erfolgt die Auskultation typischerweise?
+    en: During manual blood pressure measurement, the so-called Korotkoff sounds need
+      to be auscultated over the brachial artery (arteria brachialis). In what region
+      does the auscultation typically take place?
+  right_terms:
+  - anterior-cubital-region-2
+  wrong_terms:
+  - anterior-arm-region
+  - posterior-cubital-region-2
+  - posterior-arm-region
+  - axillary-region-2
+  question_uuid: 5950c315eb531e18975487debee434c
+- concepts:
+  - anterior-cubital-region
+  - vena-cephalica
+  - vena-cephalica-3
+  - vena-cephalica-antebrachii
+  - vena-basilica
+  - vena-basilica-3
+  - vena-mediana-cubiti
+  - vena-mediana-cubiti-2
+  exercise: question_bank
+  question:
+    de: Bei einer 32-jährigen Frau mit einer Schilddrüsenunterfunktion (Hypothyreose)
+      sollen die Schilddrüsenwerte kontrolliert werden. Welche Venen in der Ellenbeuge
+      (Fossa cubitalis) und am Unterarm werden am häufigsten für die Blutentnahme
+      punktiert?
+    en: In a 32-year-old woman with a low thyroid (hypothyroidism) the thyroid hormone
+      levels are to be controlled. Which veins in the cubital fossa (fossa cubitalis)
+      and forearm are most suitable for the venous puncture?
+  right_terms:
+  - vena-basilica
+  - vena-cephalica
+  - vena-mediana-cubiti
+  wrong_terms:
+  - ulnar-vein
+  - radial-vein
+  question_uuid: 330deab9614af248e1aab80af5f9449
+- concepts:
+  - arteria-subclavia
+  - clavicle
+  exercise: question_bank
+  question:
+    de: Welche Hauptarterie verläuft unter dem Schlüsselbein (Clavicula)?
+    en: Which major artery lies beneath the clavicle?
+  right_terms:
+  - arteria-subclavia
+  wrong_terms:
+  - abdominal-aorta
+  - arteria-suprascapularis
+  - arteria-axillaris
+  - arteria-brachialis
+  question_uuid: f6c4069156f0d4950b4d586617fb97e
+- concepts:
+  - arteria-subclavia
+  - anterior-scalene-muscle-6
+  - middle-scalene-muscle-4
+  exercise: question_bank
+  question:
+    de: Welche Arterie verläuft durch die hintere Skalenuslücke?
+    en: Which artery runs through the posterior scalene gap?
+  right_terms:
+  - arteria-subclavia
+  wrong_terms:
+  - arteria-cervicalis-ascendens
+  - arteria-suprascapularis
+  - arteria-thoracica-interna
+  - arteria-axillaris
+  question_uuid: 4caff0b3ebd6d7d07569f4b9a0b61aa
+- concepts:
+  - arteria-subclavia
+  - arteria-thoracica-interna
+  - arteria-vertebralis
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Arterien sind Äste der Unterschlüsselbeinarterie (Arteria
+      subclavia)?
+    en: Which of the following arteries are branches of the subclavian artery (arteria
+      subclavia)?
+  right_terms:
+  - arteria-thoracica-interna
+  - arteria-vertebralis
+  wrong_terms:
+  - arteria-carotis-interna
+  - arteria-carotis-externa
+  - arteria-thyroidea-inferior
+  question_uuid: 0c15f9fecfad18360cd27fc3bda103d
+- concepts:
+  - subscapular-artery
+  - arteria-axillaris
+  exercise: question_bank
+  question:
+    de: Welcher ist der größte Ast der Achselarterie (Arteria axillaris)?
+    en: Which is the largest branch of the axillary artery (arteria axillaris)?
+  right_terms:
+  - subscapular-artery
+  wrong_terms:
+  - arteria-vertebralis
+  - arteria-subclavia
+  - arteria-thoracica-interna
+  - arteria-thoracica-lateralis
+  question_uuid: 617e87082f99ce4e41fac6e422db752
+- concepts:
+  - arteria-axillaris
+  - arteria-circumflexa-humeri-posterior
+  - arteria-circumflexa-humeri-anterior
+  exercise: question_bank
+  question:
+    de: Aus welcher Arterie entspringt die vordere und hintere Oberarmkranzarterie
+      (Arteria circumflexa humeri anterior et posterior), die den Kopf des Oberarmknochens
+      (Caput humeri) versorgt?
+    en: From which artery do the anterior and posterior humeral circumflex artery
+      (arteria circumflexa humeri anterior et posterior) arise from, which supply
+      the head of the humerus (caput humeri)?
+  right_terms:
+  - arteria-axillaris
+  wrong_terms:
+  - brachiocephalic-trunk
+  - thyrocervical-trunk
+  - arteria-thoracica-interna
+  - arteria-vertebralis
+  question_uuid: 380ce7d6810a1c6f44307e0a32bc219
+- concepts:
+  - arteria-brachialis
+  - arteria-axillaris
+  exercise: question_bank
+  question:
+    de: Was ist die direkte Fortsetzung der Achselarterie (Arteria axillaris)?
+    en: Which is the direct continuation of the axillary artery (arteria axillaris)?
+  right_terms:
+  - arteria-brachialis
+  wrong_terms:
+  - arteria-subclavia
+  - arteria-ulnaris
+  - arteria-radialis
+  - arteria-thoracica-interna
+  question_uuid: 17e013e895c1355439d8761c1e97a2e
+- concepts:
+  - arteria-brachialis
+  - biceps-brachii-muscle
+  - triceps-brachii-muscle
+  exercise: question_bank
+  question:
+    de: Welche Arterie läuft im Sulcus bicipitalis medialis, der inneren Rinne zwischen
+      den Mm. triceps und biceps brachii (dreiköpfiger und zweiköpfiger Oberarmmuskel)?
+    en: Which artery runs in the medial bicipital sulcus, the medial groove between
+      the triceps and biceps brachii muscles?
+  right_terms:
+  - arteria-brachialis
+  wrong_terms:
+  - arteria-axillaris
+  - arteria-radialis
+  - anterior-humeral-circumflex-artery
+  - arteria-circumflexa-humeri-posterior
+  question_uuid: 714a5e40663481c1a20890c48676ad7
+- concepts:
+  - arteria-brachialis
+  - arteria-ulnaris
+  - arteria-radialis
+  exercise: question_bank
+  question:
+    de: Welches sind die Endäste der Oberarmarterie (Arteria brachialis)?
+    en: Which are the terminal branches of the brachial artery (arteria brachialis)?
+  right_terms:
+  - arteria-ulnaris
+  - arteria-radialis
+  wrong_terms:
+  - anterior-humeral-circumflex-artery
+  - arteria-circumflexa-humeri-posterior
+  - arcus-palmaris-superficialis
+  question_uuid: 0fb2e99ff5e0603d4900083fb31836f
+- concepts:
+  - arteria-brachialis
+  exercise: question_bank
+  question:
+    de: Welche Arterie des Armes wird gewöhnlich zur manuellen Messung des Blutdruckes
+      komprimiert?
+    en: Which artery of the arm is typically compressed to manually measure the blood
+      pressure?
+  right_terms:
+  - arteria-brachialis
+  wrong_terms:
+  - arteria-ulnaris
+  - arteria-radialis
+  - arteria-axillaris
+  - anterior-humeral-circumflex-artery
+  question_uuid: ae05e31272d747b59880c0347741dee
+- concepts:
+  - nervus-radialis
+  exercise: question_bank
+  question:
+    de: Ein kleiner Junge erleidet eine Oberarmfraktur. Bei der klinischen Untersuchung
+      kann er seine Hand nicht mehr strecken und sie hängt schlaff herunter. Die Schädigung
+      wessen Nerven führt zu dieser typischen “Fallhand”, da die Extensoren des Handgelenkes
+      nicht mehr innerviert werden?
+    en: A young boy suffers a fracture of the humerus. Upon clinical examination,
+      he is not able to extend his wrist. The damage of which nerve typically results
+      in wrist drop as the wrist extensors are not functioning?
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - median-nerve
+  - axillary-nerve
+  - ulnar-nerve
+  - musculocutaneous-nerve
+  question_uuid: 48f5963c4d07b5689fd3021dcf43636
+- concepts:
+  - nervus-radialis
+  - musculus-triceps-brachii
+  exercise: question_bank
+  question:
+    de: Die Schädigung wessen Nerven führt typischerweise dazu, dass der Ellenbogen
+      nicht mehr gestreckt werden kann, da der Trizeps (Musculus triceps brachii)
+      nicht mehr innerviert wird?
+    en: The damage of which nerve typically results in an inability to extend the
+      elbow due to denervation of the triceps brachii muscle?
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - median-nerve
+  - axillary-nerve
+  - nervus-ulnaris
+  - musculocutaneous-nerve
+  question_uuid: 1d61190b944b725c6d8717dde3eee05
+- concepts:
+  - nervus-radialis
+  exercise: question_bank
+  question:
+    de: Welcher Nerv innerviert alle Extensoren des Ober- und Unterarms?
+    en: Which nerve innervates all extensor muscles of the arm and forearm?
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - median-nerve
+  - axillary-nerve
+  - nervus-ulnaris
+  - musculocutaneous-nerve
+  question_uuid: 2c17e591531b360edbe86a58369465f
+- concepts:
+  - nervus-radialis
+  exercise: question_bank
+  question:
+    de: Welcher Nerv ist für die sensible Versorgung der fast gesamten Hinterseite
+      des Armes zuständig?
+    en: Which nerve is responsible for the cutaneous sensation of almost the entire
+      posterior surface of the arm and forearm?
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - median-nerve
+  - axillary-nerve
+  - nervus-ulnaris
+  - musculocutaneous-nerve
+  question_uuid: 5e024d1e5ec51a1fdf97a000ba819a5
+- concepts:
+  - nervus-ulnaris
+  - epicondylus-medialis-humeri
+  exercise: question_bank
+  question:
+    de: Welcher Nerv verläuft hinter dem Epicondylus medialis des Humerus (innerer
+      Obergelenkknorren des Oberarms)?
+    en: Which nerve passes behind the medial epicondyle (epicondylus medialis humeri)
+      of the humerus?
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-radialis
+  - median-nerve
+  - axillary-nerve
+  - musculocutaneous-nerve
+  question_uuid: 3cb036eedfba97dbce091f431647491
+- concepts:
+  - nervus-ulnaris
+  exercise: question_bank
+  question:
+    de: Ein junger Mann stürzt mit seinem Mountainbike und zieht sich eine Fraktur
+      des medialen Epicondylus des Humerus zu. In der klinischen Untersuchung kann
+      er seine Hand nicht mehr zur Faust schließen. Des Weiteren sind die Finger in
+      den Grundgelenken überstreckt, in den Mittel- und Endgelenken können sie jedoch
+      gebeugt werden. Die Schädigung welches Nerven führt zu dieser typischen “Krallenhand”?
+    en: A young man falls off his mountain bike and suffers from a fracture of the
+      medial epicondyle of the humerus. Upon clinical examination, he is unable to
+      close his hand to a fist. Furthermore, the fingers are extended in their metacarpophalangeal
+      joints but can be flexed in their proximal and distal interphalangeal joints.
+      A damage of which nerve typically leads to this so-called “clawed hand”?
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-radialis
+  - median-nerve
+  - axillary-nerve
+  - musculocutaneous-nerve
+  question_uuid: 76885e2b6dbaf2eb53bb80d424e1ca0
+- terms:
+  - musculus-flexor-digitorum-profundus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-medianus
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-flexor-pollicis-longus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-medianus
+  wrong_terms:
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-pronator-quadratus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-medianus
+  wrong_terms:
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-extensor-digitorum
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - nervus-medianus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-extensor-digiti-minimi
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - nervus-medianus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-extensor-carpi-ulnaris
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - nervus-medianus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- concepts:
+  - vena-jugularis-externa
+  - arteria-subclavia
+  - subclavian-artery-9
+  - posterior-triangle
+  exercise: question_bank
+  question:
+    de: Welche Gefäße verlaufen im hinteren Halsdreieck (Trigonum cervicale posterius)?
+    en: Which vessels that can be seen in the posterior cervical triangle (trigonum
+      cervicale posterius)?
+  right_terms:
+  - vena-jugularis-externa
+  - arteria-subclavia
+  wrong_terms:
+  - vena-jugularis-interna
+  - arteria-carotis-interna
+  - arteria-vertebralis
+  question_uuid: b5fcd3a2c6201ae0395402e8387da18
+- concepts:
+  - arteria-profunda-brachii
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Arterien ist ein Ast der Arteria brachialis (Oberarmarterie)?
+    en: Which of the following arteries is a branch of the brachial artery (arteria
+      brachialis)?
+  right_terms:
+  - arteria-profunda-brachii
+  wrong_terms:
+  - arteria-axillaris-3
+  - arteria-carotis-communis
+  - arteria-vertebralis
+  - subclavian-artery-4
+  question_uuid: ac19f58e6813f0dc34af63723e086b3
+- concepts:
+  - arteria-profunda-brachii
+  exercise: question_bank
+  question:
+    de: Welche Arterie versorgt den Musculus triceps brachii (dreiköpfiger Oberarmmuskel)?
+    en: Which artery supplies the triceps brachii muscle?
+  right_terms:
+  - arteria-profunda-brachii
+  wrong_terms:
+  - subclavian-artery-4
+  - arteria-carotis-communis
+  - arteria-vertebralis
+  - arteria-ulnaris
+  question_uuid: 43e5f5cda39e1fa751c285c92ee68a6
+- concepts:
+  - arteria-subclavia-2
+  - arteria-subclavia
+  - subclavian-artery-9
+  - middle-scalene-muscle
+  - anterior-scalene-muscle
+  exercise: question_bank
+  question:
+    de: Ein muskulöser Patient, der regelmäßig Gewichte stemmt, stellt sich wegen
+      Schmerzen und Schwäche in seinem rechten Arm vor. Bei der Untersuchung fühlt
+      sich der Arm kühl an und zeigt deutliche Zeichen einer verminderten Durchblutung.
+      Weitere Untersuchungen zeigen die Einengung einer Arterie zwischen dem vorderen
+      und mittleren Treppenmuskel (Mm. scalenus anterior et medius), welche durch
+      das regelmäßige Training hypertrophiert sind. Welche Arterie ist höchstwahrscheinlich
+      betroffen?
+    en: A muscular patient who regularly lifts weights presents with pain and weakness
+      in his right arm. Upon examination the arm is cool and there is an obvious vascular
+      insufficiency. The following tests show that a large vessel passing between
+      the anterior and middle scalene muscles is being occluded compromised by hypertrophy
+      (enlargement) of these muscles due to the exercise. Which artery is most likely
+      affected?
+  right_terms:
+  - arteria-subclavia-2
+  wrong_terms:
+  - axillary-artery
+  - arteria-carotis-communis
+  - arteria-brachialis
+  - arteria-suprascapularis
+  question_uuid: d3e391956a06f649fc0c3021fae294f
+- concepts:
+  - arteria-subclavia-4
+  - arteria-subclavia-2
+  - arteria-subclavia
+  - subclavian-artery-9
+  - brachial-plexus
+  - plexus-brachialis
+  - plexus-brachialis-3
+  exercise: question_bank
+  question:
+    de: Eine 27-jährige Frau soll in Regionalanästhesie an der Hand operiert werden.
+      Das Armgeflecht (Plexus brachialis) soll in der hinteren Skalenuslücke blockiert
+      werden. Welche Arterie verläuft neben dem Armgeflecht durch die hintere Skalenuslücke?
+    en: A 27-year-old woman is going to have surgery on her hand under regional anaesthesia.
+      The brachial plexus (plexus brachialis) is to be blocked in the posterior scalene
+      gap. Which artery passes the posterior scalene gap along with the brachial plexus?
+  right_terms:
+  - arteria-subclavia-4
+  wrong_terms:
+  - inferior-thyroid-artery
+  - arteria-cervicalis-ascendens
+  - arteria-thyroidea-superior
+  - thyrocervical-trunk
+  question_uuid: 57f32d9c13caf9a02c555fcea96ec26
+- terms:
+  - musculus-serratus-anterior
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-thoracicus-longus
+  wrong_terms:
+  - nervus-thoracodorsalis
+  - nervus-dorsalis-scapulae
+  - nervus-genitofemoralis
+  - nervus-axillaris
+  - nervus-musculocutaneus
+- terms:
+  - musculus-supinator
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - nervus-medianus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-abductor-pollicis-longus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - nervus-medianus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-extensor-pollicis-brevis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - nervus-medianus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-extensor-pollicis-longus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - nervus-medianus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-extensor-indicis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - nervus-medianus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-abductor-pollicis-brevis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-medianus
+  wrong_terms:
+  - ramus-profundus-nervi-ulnaris
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-flexor-pollicis-brevis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-medianus
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-opponens-pollicis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-medianus
+  wrong_terms:
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-flexor-digiti-minimi
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-medianus
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-opponens-digiti-minimi
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-medianus
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-abductor-digiti-minimi-hand
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-medianus
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-palmaris-brevis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-medianus
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-lumbricalis-i
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-medianus
+  wrong_terms:
+  - ramus-profundus-nervi-ulnaris
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-lumbricalis-ii
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-medianus
+  wrong_terms:
+  - ramus-profundus-nervi-ulnaris
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-lumbricalis-iii
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-medianus
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-lumbricalis-iv
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-medianus
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculi-interossei-dorsales-hand
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-medianus
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculi-interossei-palmares
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-medianus
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- concepts:
+  - nervus-thoracicus-longus
+  - nervus-thoracodorsalis
+  exercise: question_bank
+  question:
+    de: Welche Nerven sollten bei einer Brustoperation dargestellt und geschont werden,
+      da sie diese zwar nicht innervieren, aber in anatomischer Nähe zur Brust (Mamma)
+      verlaufen?
+    en: Although not intimately involved with the innervation of the breast (mamma),
+      which nerves are important to visualize as they cross through the anatomical
+      spaces of the breast and axilla, and are thus important to consider during dissection?
+  right_terms:
+  - nervus-thoracicus-longus
+  - nervus-thoracodorsalis
+  wrong_terms:
+  - nervus-axillaris
+  - nervus-radialis
+  - nervus-musculocutaneus
+  question_uuid: 75ccafa945e137ce202d061826acf32
+- concepts:
+  - plexus-brachialis
+  - nervi-supraclaviculares
+  exercise: question_bank
+  question:
+    de: Eine Verletzung welches Nerven führt zur Einschränkung der Fähigkeit der Innenrotation
+      des Humerus im Schultergelenk?
+    en: Injury to which nerve branch leads to impairment of medial rotation of the
+      humerus at the shoulder?
+  right_terms:
+  - nervus-subscapularis
+  wrong_terms:
+  - nervus-transversus-colli
+  - nervus-thoracicus-longus
+  - nervus-auricularis-magnus
+  - nervus-suprascapularis
+  question_uuid: 627c8f45550272aeb179d932fc745c3

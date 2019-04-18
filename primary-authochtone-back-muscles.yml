@@ -1,0 +1,1012 @@
+---
+- terms:
+  - musculi-interspinales
+  - musculi-interspinales-cervicis
+  exercise: easy
+- terms:
+  - musculi-interspinales-lumborum
+  - musculi-interspinales-thoracis
+  exercise: easy
+- terms:
+  - musculi-spinales-cervicis
+  - musculi-spinalis-thoracis
+  exercise: easy
+- terms:
+  - musculus-semispinalis-capitis
+  - musculus-semispinalis-cervicis
+  exercise: easy
+- terms:
+  - musculi-interspinales
+  - musculi-interspinales-cervicis
+  - musculi-interspinales-lumborum
+  - musculi-interspinales-thoracis
+  exercise: four_one
+- terms:
+  - musculi-spinales-cervicis
+  - musculi-spinalis-thoracis
+  - musculus-semispinalis-capitis
+  - musculus-semispinalis-cervicis
+  exercise: four_one
+- terms:
+  - musculi-interspinales
+  - musculi-interspinales-cervicis
+  - musculi-interspinales-lumborum
+  - musculi-interspinales-thoracis
+  exercise: identify_image
+- terms:
+  - musculi-spinales-cervicis
+  - musculi-spinalis-thoracis
+  - musculus-semispinalis-capitis
+  - musculus-semispinalis-cervicis
+  exercise: identify_image
+- terms:
+  - musculus-semispinalis-thoracis
+  - musculi-multifidi
+  exercise: easy
+- terms:
+  - musculus-iliocostalis
+  - musculus-iliocostalis-cervicis
+  exercise: easy
+- terms:
+  - musculus-iliocostalis-thoracis
+  - musculus-iliocostalis-lumborum
+  exercise: easy
+- terms:
+  - musculus-longissimus
+  - musculus-longissimus-capitis
+  exercise: easy
+- terms:
+  - musculus-semispinalis-thoracis
+  - musculi-multifidi
+  - musculus-iliocostalis
+  - musculus-iliocostalis-cervicis
+  exercise: four_one
+- terms:
+  - musculus-iliocostalis-thoracis
+  - musculus-iliocostalis-lumborum
+  - musculus-longissimus
+  - musculus-longissimus-capitis
+  exercise: four_one
+- terms:
+  - musculus-semispinalis-thoracis
+  - musculi-multifidi
+  - musculus-iliocostalis
+  - musculus-iliocostalis-cervicis
+  exercise: identify_image
+- terms:
+  - musculus-iliocostalis-thoracis
+  - musculus-iliocostalis-lumborum
+  - musculus-longissimus
+  - musculus-longissimus-capitis
+  exercise: identify_image
+- terms:
+  - musculus-longissimus-cervicis
+  - musculus-longissimus-thoracis
+  exercise: easy
+- terms:
+  - musculus-splenius-capitis
+  - musculus-splenius-cervicis
+  exercise: easy
+- terms:
+  - musculi-rotatores-breves-et-longi
+  - musculus-longissimus
+  exercise: easy
+- terms:
+  - musculi-intertransversarii-anteriores-et-posteriores-cervicis
+  - musculi-intertransversarii-mediales-et-laterales-lumborum
+  exercise: easy
+- terms:
+  - musculus-longissimus-cervicis
+  - musculus-longissimus-thoracis
+  - musculus-splenius-capitis
+  - musculus-splenius-cervicis
+  exercise: four_one
+- terms:
+  - musculi-rotatores-breves-et-longi
+  - musculus-longissimus
+  - musculi-intertransversarii-anteriores-et-posteriores-cervicis
+  - musculi-intertransversarii-mediales-et-laterales-lumborum
+  exercise: four_one
+- terms:
+  - musculi-rotatores-breves-et-longi
+  - musculus-longissimus
+  - musculi-intertransversarii-anteriores-et-posteriores-cervicis
+  - musculi-intertransversarii-mediales-et-laterales-lumborum
+  exercise: identify_image
+- terms:
+  - musculus-longissimus-cervicis
+  - musculus-longissimus-thoracis
+  - musculus-splenius-capitis
+  - musculus-splenius-cervicis
+  exercise: identify_image
+- terms:
+  - musculi-levatores-costarum
+  - musculi-interspinales-cervicis
+  exercise: easy
+- terms:
+  - musculi-interspinales
+  - musculi-levatores-costarum
+  - musculi-interspinales-lumborum
+  - musculi-interspinales-thoracis
+  exercise: four_one
+- terms:
+  - musculus-iliocostalis-thoracis
+  - musculus-iliocostalis-lumborum
+  - musculus-longissimus
+  - musculi-levatores-costarum
+  exercise: identify_image
+- terms:
+  - musculi-interspinales
+  exercise: spell_term
+- terms:
+  - musculi-interspinales-cervicis
+  exercise: spell_term
+- terms:
+  - musculi-interspinales-lumborum
+  exercise: spell_term
+- terms:
+  - musculi-interspinales-thoracis
+  exercise: spell_term
+- terms:
+  - musculi-spinales-cervicis
+  exercise: spell_term
+- terms:
+  - musculi-spinalis-thoracis
+  exercise: spell_term
+- terms:
+  - musculus-semispinalis-capitis
+  exercise: spell_term
+- terms:
+  - musculus-semispinalis-cervicis
+  exercise: spell_term
+- terms:
+  - musculus-semispinalis-thoracis
+  exercise: spell_term
+- terms:
+  - musculi-multifidi
+  exercise: spell_term
+- terms:
+  - musculus-iliocostalis
+  exercise: spell_term
+- terms:
+  - musculus-iliocostalis-cervicis
+  exercise: spell_term
+- terms:
+  - musculus-iliocostalis-thoracis
+  exercise: spell_term
+- terms:
+  - musculus-iliocostalis-lumborum
+  exercise: spell_term
+- terms:
+  - musculus-longissimus
+  exercise: spell_term
+- terms:
+  - musculus-longissimus-capitis
+  exercise: spell_term
+- terms:
+  - musculus-longissimus-cervicis
+  exercise: spell_term
+- terms:
+  - musculus-longissimus-thoracis
+  exercise: spell_term
+- terms:
+  - musculus-splenius-capitis
+  exercise: spell_term
+- terms:
+  - musculus-splenius-cervicis
+  exercise: spell_term
+- terms:
+  - musculi-rotatores-breves-et-longi
+  exercise: spell_term
+- terms:
+  - musculi-intertransversarii-anteriores-et-posteriores-cervicis
+  exercise: spell_term
+- terms:
+  - musculi-intertransversarii-mediales-et-laterales-lumborum
+  exercise: spell_term
+- terms:
+  - musculi-levatores-costarum
+  exercise: spell_term
+- concepts:
+  - rami-spinales-posteriores
+  - musculus-iliocostalis
+  exercise: question_bank
+  question:
+    de: Von welchen Nerven werden die autochthonen Rückenmuskeln versorgt?
+    en: ًWhich nerve(s) is/are responsible for the innervation of the intrinsic back
+      muscles?
+  right_terms:
+  - rami-spinales-posteriores
+  wrong_terms:
+  - ramus-anterior-nervi-spinalis-2
+  - ramus-trapezius-nervi-accessorii
+  - ramus-posterior-nervi-spinalis-2
+  question_uuid: 592ff0fe1bb2174bc6c06a09502b892
+- concepts:
+  - musculi-levatores-costarum
+  exercise: question_bank
+  question:
+    de: Welche Muskeln haben ihren Ursprung an den Querfortsätzen (Processus transversi)
+      des 7. Halswirbels (Vertebra cervicalis VII) bis 11. Brustwirbels (Vertebra
+      thoracis XI) und inserieren an den Rippen (Costae)?
+    en: What muscles originate from the transverse processes (processus transversi)
+      of the seventh cervical vertebra (vertebra cervicalis VII) to the eleventh thoracic
+      vertebra (vertebra thoracis XI) and are attached to the ribs (costae)?
+  right_terms:
+  - musculi-levatores-costarum
+  wrong_terms:
+  - musculi-interspinales
+  - musculus-splenius-cervicis
+  - musculus-semispinalis-thoracis
+  - musculi-multifidi
+  - musculus-semispinalis-cervicis
+  question_uuid: e50d822f6e47429eb40f982bc7b5f54
+- concepts:
+  - musculi-multifidi
+  exercise: question_bank
+  question:
+    de: Welche autochthonen Rückenmuskeln ziehen von den Querfortsätzen (Processus
+      transversi) zu den Dornfortsätzen (Processus spinosi) mehrere Wirbel höher?
+    en: What autochthonous back muscles run from the transverse processes (processus
+      transversi) to the spinous processes (processus spinosi) several vertebrae higher?
+  right_terms:
+  - musculi-multifidi
+  wrong_terms:
+  - musculi-rotatores-breves-et-longi
+  - musculus-iliocostalis
+  - musculus-longissimus-capitis
+  - musculus-splenius-cervicis
+  question_uuid: ca90d07a131204271fdec8d24407036
+- concepts:
+  - musculus-splenius-cervicis
+  exercise: question_bank
+  question:
+    de: Welcher Muskel hat seinen Ursprung an den Dornfortsätzen (Processus spinosi)
+      der Brustwirbel (Vertebrae thoracicae) und inseriert an den Querfortsätzen (Processus
+      transversi) der Halswirbel (Vertebrae cervicales)?
+    en: What muscle originates from the spinous processes (processus spinosi) of thoracic
+      vertebrae (vertebrae thoracicae) and inserts at the transverse processes (processus
+      transversi) of cervical vertebrae (vertebrae cervicales)?
+  right_terms:
+  - musculus-splenius-cervicis
+  wrong_terms:
+  - musculus-longissimus-cervicis
+  - musculus-iliocostalis
+  - musculi-interspinales
+  - serratus-posterior-superior-muscle
+  question_uuid: 5510b165985355dffd20b410e571ba6
+- concepts:
+  - musculi-interspinales
+  exercise: question_bank
+  question:
+    de: Welche Muskeln bewirken eine Dorsalextension des Kopfes?
+    en: What muscles cause dorsal extension of the head?
+  right_terms:
+  - musculi-interspinales
+  wrong_terms:
+  - musculi-rotatores-breves-et-longi
+  - longus-capitis-muscle
+  - longus-colli-muscle
+  - anterior-scalene-muscle
+  question_uuid: 06db4282e5fb4038309b4858cd6b0d9
+- concepts:
+  - musculi-rotatores-breves-et-longi
+  exercise: question_bank
+  question:
+    de: Welche Muskeln bewirken eine Rotation der Wirbelsäule zur Gegenseite?
+    en: What muscles cause rotation of the spine to the opposite side?
+  right_terms:
+  - musculi-rotatores-breves-et-longi
+  wrong_terms:
+  - longus-capitis-muscle
+  - musculus-longissimus-capitis
+  - longus-colli-muscle
+  - musculus-splenius-capitis
+  question_uuid: fb76f3251644f58bbd6c4c03378c9bc
+- terms:
+  - musculus-splenius-capitis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - processus-spinosus-cvii-tiii
+  - ligamentum-nuchae
+  wrong_terms:
+  - crista-occipitalis-externa
+  - protuberancia-occipitalis-externa
+  - processus-spinosus-cvii-txii
+  - protuberantia-occipitalis-interna
+- terms:
+  - musculus-splenius-capitis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - processus-mastoideus
+  - linea-nuchalis-superior
+  wrong_terms:
+  - ligamentum-nuchae
+  - linea-nuchalis-inferior
+  - upper-ribs
+  - processus-transversus-ci-civ
+- terms:
+  - musculus-splenius-capitis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - posterior-rami-of-c2-c3
+  wrong_terms:
+  - nervus-laryngeus-recurrens
+  - nervus-pectoralis-lateralis
+  - nervus-musculocutaneus
+  - nervus-thoracodorsalis
+  - nervus-accessorius-2
+- terms:
+  - musculus-splenius-cervicis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - spinous-process-t3-t6
+  wrong_terms:
+  - costae-verae
+  - ligamentum-nuchae
+  - linea-nuchalis-inferior
+  - linea-nuchalis-superior
+  - linea-nuchalis-suprema
+- terms:
+  - musculus-splenius-cervicis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - processus-transversus-ci-ciii
+  wrong_terms:
+  - processus-spinosus-cii
+  - processus-spinosus-cii-cv
+  - ligamentum-nuchae
+  - processus-mastoideus
+  - clavicula-3
+- terms:
+  - musculus-splenius-cervicis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - rami-posteriores-cvi-cviii
+  wrong_terms:
+  - nervus-accessorius-2
+  - nervus-subscapularis
+  - rami-posteriores-ti-txii
+  - rami-posteriores-ciii-civ
+  - nervus-suprascapularis
+- terms:
+  - musculus-iliocostalis-cervicis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - angulus-costae-iii-vi
+  wrong_terms:
+  - processus-transversus-cvii-tvi
+  - processus-transversus-civ-cvi
+  - angulus-costae-i-vi
+  - costae-verae
+  - processus-transversus-cii-cvi
+- terms:
+  - musculus-iliocostalis-cervicis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - processus-transversus-civ-cvi
+  wrong_terms:
+  - processus-articulares-civ-cvi
+  - processus-transversus-ci-civ
+  - processus-spinosus-cvii-ti
+  - processus-transversus-cvii-tvi
+  - costa-i-3
+- terms:
+  - musculus-iliocostalis-cervicis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - rami-posteriores-cvi-cviii
+  wrong_terms:
+  - nervus-accessorius-2
+  - nervus-thoracodorsalis
+  - nervus-suprascapularis
+  - nervus-subscapularis
+  - rami-posteriores-civ-tv
+- terms:
+  - musculus-iliocostalis-thoracis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - angulus-costae-vii-xii
+  wrong_terms:
+  - processus-transversus-ci-civ
+  - processus-transversus-cvii-tvi
+  - processus-spinosus-cvii-tiii
+  - costae-verae
+  - ligamentum-nuchae
+- terms:
+  - musculus-iliocostalis-thoracis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - angulus-costae-i-vi
+  - transverse-process-c7
+  wrong_terms:
+  - processus-transversus-ci-civ
+  - processus-articulares-civ-cvi
+  - processus-spinosus-cvii-tiii
+  - upper-ribs
+- terms:
+  - musculus-iliocostalis-thoracis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - rami-posteriores-ti-txii
+  wrong_terms:
+  - rami-posteriores-cvi-cviii
+  - nervi-intercostales-tix-txii
+  - nervi-intercostales-ti-tiv
+  - rami-posteriores-cvi-txii
+  - nervi-spinales-ciii-civ
+- terms:
+  - musculus-iliocostalis-lumborum
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - crista-sacralis-lateralis
+  - crista-iliaca
+  - fascia-thoracolumbalis
+  wrong_terms:
+  - processus-spinosus-tx-liii
+  - vertebrae-lumbales
+  - processus-spinosus-tvii-txii
+- terms:
+  - musculus-iliocostalis-lumborum
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - angle-of-ribs-5-12
+  - processus-transversus-li-liv
+  wrong_terms:
+  - angulus-costae-i-vi
+  - angulus-sterni
+  - crista-sacralis-mediana
+  - vertebrae-lumbales
+- terms:
+  - musculus-iliocostalis-lumborum
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - rami-posteriores-ti-txii
+  wrong_terms:
+  - rami-posteriores-cvi-cviii
+  - nervi-spinales-ciii-civ
+  - nervus-ilioinguinalis
+  - nervus-iliohypogastricus
+  - nervi-sacrales-s1-s5
+- terms:
+  - musculus-longissimus-capitis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - processus-transversus-ti-tv
+  - processus-articulares-civ-cvii
+  wrong_terms:
+  - linea-nuchalis-superior
+  - linea-nuchalis-inferior
+  - linea-nuchalis-suprema
+  - processus-spinosus-cii-txii
+- terms:
+  - musculus-longissimus-capitis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - processus-mastoideus
+  wrong_terms:
+  - upper-ribs
+  - costa-i-3
+  - processus-transversus-ci-ciii
+  - neck
+  - spine
+- terms:
+  - musculus-longissimus-capitis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - rami-posteriores-civ-tv
+  wrong_terms:
+  - nervi-intercostales-tix-txii
+  - rami-cutanei-laterales-nervi-intercostales
+  - nervi-supraclaviculares
+  - nervus-accessorius-2
+  - nervi-spinalis-i
+- terms:
+  - musculus-longissimus-cervicis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - transverse-process-t1-t5
+  wrong_terms:
+  - processus-spinosus-cvii-ti
+  - processus-spinosus-cvi
+  - processus-spinosus-cvii
+  - processus-spinosus-cii-cv
+  - costa-i-3
+- terms:
+  - musculus-longissimus-cervicis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - processus-transversus-cii-cvi
+  wrong_terms:
+  - angulus-costae-vii-xii
+  - processus-spinosus-cvii
+  - processus-spinosus-cvi
+  - processus-transversus-ti-tv
+  - costa-i-3
+- terms:
+  - musculus-longissimus-cervicis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - posterior-rami-c4-t4
+  wrong_terms:
+  - nervi-intercostales-ti-tiv
+  - nervi-sacrales-s1-s5
+  - nervi-thoracici-t1-t12
+  - nervi-lumbales-l1-l4
+- terms:
+  - musculus-longissimus-thoracis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - os-sacrum
+  - crista-iliaca
+  - processus-spinosus-li-lv
+  - transverse-process-l1-l5
+  wrong_terms:
+  - processus-transversus-ciii-cvi
+  - angulus-costae-ix-x
+- terms:
+  - musculus-longissimus-thoracis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - processus-transversus-ti-txii
+  - angle-of-ribs-5-12
+  wrong_terms:
+  - tuberculum-musculi-scaleni-anterioris
+  - costa-i-3
+  - processus-spinosus-cii-txii
+  - tuberculum-anterius-processus-transversi-ciii-cvi
+- terms:
+  - musculus-longissimus-thoracis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - rami-posteriores-ti-txii
+  wrong_terms:
+  - rami-posteriores-cvi-cviii
+  - nervi-spinales-ciii-civ
+  - nervus-ilioinguinalis
+  - nervus-iliohypogastricus
+  - nervi-sacrales-s1-s5
+- terms:
+  - head
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-splenius-capitis
+  - musculus-semispinalis-capitis
+  - musculus-longissimus-capitis
+  wrong_terms:
+  - musculus-serratus-posterior-inferior
+  - musculus-rhomboideus-minor
+  - musculus-splenius-cervicis
+- terms:
+  - neck
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-splenius-cervicis
+  - musculus-iliocostalis-cervicis
+  - musculus-longissimus-cervicis
+  wrong_terms:
+  - musculus-serratus-posterior-superior
+  - musculus-levator-scapulae
+  - musculus-serratus-posterior-inferior
+- terms:
+  - spine
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-iliocostalis-thoracis
+  - musculus-iliocostalis-lumborum
+  - musculus-longissimus-thoracis
+  - musculi-spinalis-thoracis
+  wrong_terms:
+  - musculus-serratus-posterior-superior
+  - musculus-serratus-posterior-inferior
+- terms:
+  - neck
+  exercise: multiple_choice_image
+  relation: bends_laterally_the
+  right_terms:
+  - musculus-iliocostalis-cervicis
+  - musculus-longissimus-cervicis
+  - musculus-semispinalis-cervicis
+  - musculus-trapezius
+  wrong_terms:
+  - musculi-multifidi
+  - musculus-latissimus-dorsi
+- terms:
+  - spine
+  exercise: multiple_choice_image
+  relation: bends_laterally_the
+  right_terms:
+  - musculus-iliocostalis-thoracis
+  - musculus-iliocostalis-lumborum
+  - musculus-longissimus-thoracis
+  - musculus-semispinalis-thoracis
+  - musculi-multifidi
+  wrong_terms:
+  - musculus-splenius-capitis
+- terms:
+  - head
+  exercise: multiple_choice_image
+  relation: bends_laterally_the
+  right_terms:
+  - musculus-longissimus-capitis
+  wrong_terms:
+  - musculus-iliocostalis-cervicis
+  - musculus-longissimus-thoracis
+  - musculus-longissimus-cervicis
+  - musculi-rotatores-breves-et-longi
+  - musculus-splenius-cervicis
+- terms:
+  - head
+  exercise: multiple_choice_image
+  relation: rotates_the
+  right_terms:
+  - musculus-splenius-capitis
+  - musculus-longissimus-capitis
+  - musculus-semispinalis-capitis
+  wrong_terms:
+  - musculus-splenius-cervicis
+  - musculus-longissimus-cervicis
+  - musculus-iliocostalis-cervicis
+- terms:
+  - neck
+  exercise: multiple_choice_image
+  relation: rotates_the
+  right_terms:
+  - musculus-splenius-cervicis
+  - musculus-semispinalis-capitis
+  wrong_terms:
+  - musculus-longissimus-thoracis
+  - musculus-semispinalis-thoracis
+  - musculus-iliocostalis-lumborum
+- terms:
+  - spine
+  exercise: multiple_choice_image
+  relation: stabilizes_the
+  right_terms:
+  - musculi-rotatores-breves-et-longi
+  wrong_terms:
+  - musculus-rhomboideus-minor
+  - musculus-splenius-capitis
+  - musculus-semispinalis-capitis
+  - musculus-iliopsoas
+  - musculus-levator-scapulae
+- concepts:
+  - musculi-intertransversarii-mediales-et-laterales-lumborum
+  exercise: question_bank
+  question:
+    de: Welche Muskelgruppe befindet sich an den Seiten der ersten bis fünften Lendenwirbel
+      und bewirkt eine Extension der Lendenwirbelsäule, sowie eine unilaterale Beugung
+      der Wirbelsäule zur gleichen Seite?
+    en: What group of muscles located at the sides of the first to fifth lumbar vertebrae
+      (vertebrae lumbales I-V) carry out lumbar spine extension and unilateral bending
+      of the spine to the same side?
+  right_terms:
+  - musculi-intertransversarii-mediales-et-laterales-lumborum
+  wrong_terms:
+  - musculus-cremaster
+  - musculus-pyramidalis
+  - musculus-quadratus-lumborum
+  - musculus-semispinalis-thoracis
+  question_uuid: 2ca80e9357857c38e5204f6620d664f
+- terms:
+  - musculi-spinales-cervicis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - ligamentum-nuchae
+  - spinous-process-c7-t1
+  wrong_terms:
+  - processus-spinosus-tvii-txii
+  - costae-v-xii
+  - angulus-costae-iii-xii
+- terms:
+  - musculi-spinales-cervicis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - spinous-processes-c2-c4
+  wrong_terms:
+  - processus-spinosus-cvii-ti
+  - processus-spinosus-cvi
+  - costae-v-xii
+  - costa-i-3
+- terms:
+  - musculi-spinales-cervicis
+  exercise: multiple_choice_text
+  relation: innervation_of
+  right_terms:
+  - rami-posteriores-cvi-txii
+  wrong_terms:
+  - nervi-spinales-ciii-civ
+  - nervus-ilioinguinalis
+  - rami-posteriores-ciii-civ
+  - nervus-iliohypogastricus
+  - nervi-sacrales-s1-s5
+- terms:
+  - musculi-spinalis-thoracis
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - spinous-process-t11-l2
+  wrong_terms:
+  - processus-spinosus-cvii-ti
+  - processus-spinosus-tiii-tviii
+  - processus-spinosus-li-lv
+  - costa-i-3
+  - processus-spinosus-cii
+- terms:
+  - musculi-spinalis-thoracis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - processus-spinosus-tii-tviii
+  wrong_terms:
+  - angulus-costae-vii-xii
+  - processus-spinosus-cvii
+  - processus-spinosus-cvi
+  - processus-transversus-ti-tv
+  - costa-i-3
+- terms:
+  - musculi-spinalis-thoracis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - rami-posteriores-ti-txii
+  wrong_terms:
+  - rami-posteriores-cvi-cviii
+  - nervi-spinales-ciii-civ
+  - nervus-ilioinguinalis
+  - nervus-iliohypogastricus
+  - nervi-sacrales-s1-s5
+- terms:
+  - musculus-semispinalis-capitis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - processus-articulares-civ-cvii
+  - processus-transversus-ti-tvi
+  wrong_terms:
+  - processus-transversus-ci-ciii
+  - neck
+  - ribs
+  - costa-i-3
+- terms:
+  - musculus-semispinalis-capitis
+  exercise: multiple_choice_text
+  relation: insertion_of
+  right_terms:
+  - os-occipitale
+  wrong_terms:
+  - ligamentum-nuchae
+  - neck
+  - vertebrae-cervicales
+  - costa-i-3
+  - processus-transversus-cvii-tvi
+- terms:
+  - musculus-semispinalis-capitis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - posterior-rami-of-spinal-nerves
+  wrong_terms:
+  - rami-posteriores-ti-txii
+  - nervi-sacrales-s1-s5
+  - nervi-spinales-ciii-civ
+  - nervus-accessorius-2
+- terms:
+  - musculus-semispinalis-cervicis
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - processus-transversus-ti-tvi
+  wrong_terms:
+  - processus-articulares-cv-cvii
+  - processus-transversus-ci-civ
+  - processus-transversus-ci-ciii
+  - neck
+  - processus-spinosus-tvii-txii
+- terms:
+  - musculus-semispinalis-cervicis
+  exercise: multiple_choice_text
+  relation: insertion_of
+  right_terms:
+  - processus-spinosus-cii-cv
+  wrong_terms:
+  - processus-articulares-civ-cvi
+  - processus-articulares-civ-cvii
+  - processus-articulares-cv-cvii
+  - processus-spinosus-txi-lii
+  - costa-i-3
+- terms:
+  - musculus-semispinalis-cervicis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - posterior-rami-of-spinal-nerves
+  wrong_terms:
+  - rami-posteriores-ti-txii
+  - nervus-transversus-colli
+  - rami-posteriores-ti-txii
+  - nervus-accessorius-2
+- terms:
+  - musculus-semispinalis-thoracis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - transverse-process-t6-t10
+  wrong_terms:
+  - processus-transversus-cvii-tvi
+  - processus-transversus-civ-cvi
+  - angulus-costae-i-vi
+  - costae-verae
+  - processus-transversus-cii-cvi
+- terms:
+  - musculus-semispinalis-thoracis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - processus-spinosus-ti-tiv
+  - processus-spinosus-cvi-cvii
+  wrong_terms:
+  - tuberculum-musculi-scaleni-anterioris
+  - costa-i-3
+  - processus-transversus-ti-tv
+  - tuberculum-anterius-processus-transversi-ciii-cvi
+- terms:
+  - musculus-semispinalis-thoracis
+  exercise: multiple_choice_text
+  relation: innervation_of
+  right_terms:
+  - posterior-rami-of-spinal-nerves
+  wrong_terms:
+  - nervus-laryngeus-recurrens
+  - nervus-pectoralis-lateralis
+  - nervus-musculocutaneus
+  - nervus-thoracodorsalis
+  - nervus-accessorius-2
+- terms:
+  - musculi-multifidi
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - os-sacrum
+  - spina-iliaca-posterior-superior
+  - processus-transversus-ti-txii
+  - processus-articulares-civ-cvii
+  wrong_terms:
+  - processus-articularis-superior-sacrum
+  - angulus-costae-ix-x
+- terms:
+  - musculi-multifidi
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - processus-spinosus-cii-txii
+  - processus-spinosus-li-lv
+  wrong_terms:
+  - processus-transversus-tvi-txii
+  - processus-transversus-atlantis
+  - tuberculum-anterius-processus-transversi-ciii-cv
+  - tuberculum-anterius-processus-transversi-cv-cvi
+- terms:
+  - musculi-multifidi
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - rami-spinales-posteriores
+  wrong_terms:
+  - nervus-laryngeus-recurrens
+  - nervus-pectoralis-lateralis
+  - nervus-musculocutaneus
+  - nervus-thoracodorsalis
+  - nervus-accessorius-2
+- terms:
+  - musculi-rotatores-breves-et-longi
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - processus-transversus-ti-txii
+  wrong_terms:
+  - processus-spinosus-cvii-ti
+  - processus-spinosus-tiii-tviii
+  - processus-spinosus-li-lv
+  - costa-i-3
+  - processus-spinosus-cii
+- terms:
+  - musculi-rotatores-breves-et-longi
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - processus-spinosus-ti-txii
+  wrong_terms:
+  - costa-i-3
+  - processus-transversus-ti-txii
+  - processus-transversus-tvi-txii
+  - processus-transversus-li-lv
+  - processus-transversus-atlantis
+- terms:
+  - musculi-rotatores-breves-et-longi
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - posterior-rami-of-spinal-nerves
+  wrong_terms:
+  - rami-posteriores-civ-cviii
+  - rami-posteriores-ciii-civ
+  - nervus-musculocutaneus
+  - nervus-thoracodorsalis
+  - nervus-accessorius-2
+- terms:
+  - neck
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-semispinalis-cervicis
+  - musculus-semispinalis-thoracis
+  - musculi-spinales-cervicis
+  - musculus-semispinalis-capitis
+  - musculi-multifidi
+  wrong_terms:
+  - musculus-trapezius
+- terms:
+  - spine
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-semispinalis-thoracis
+  - musculi-multifidi
+  - musculi-rotatores-breves-et-longi
+  wrong_terms:
+  - musculus-rhomboideus-minor
+  - musculus-rhomboideus-major
+- terms:
+  - neck
+  exercise: multiple_choice_image
+  relation: bends_laterally_the
+  right_terms:
+  - musculus-iliocostalis-cervicis
+  - musculus-longissimus-cervicis
+  - musculus-semispinalis-cervicis
+  - musculus-trapezius
+  wrong_terms:
+  - musculi-multifidi
+  - musculus-latissimus-dorsi
+- terms:
+  - spine
+  exercise: multiple_choice_image
+  relation: rotates_the
+  right_terms:
+  - musculus-semispinalis-thoracis
+  - musculi-rotatores-breves-et-longi
+  - musculi-multifidi
+  wrong_terms:
+  - musculus-iliocostalis-lumborum
+  - musculus-iliocostalis-thoracis
+  - musculus-splenius-capitis

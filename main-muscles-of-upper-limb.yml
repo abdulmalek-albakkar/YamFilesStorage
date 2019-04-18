@@ -1,0 +1,2975 @@
+---
+- terms:
+  - musculus-biceps-brachii
+  - musculus-brachialis
+  exercise: easy
+- terms:
+  - musculus-coracobrachialis
+  - musculus-deltoideus
+  exercise: easy
+- terms:
+  - musculus-infraspinatus
+  - musculus-supraspinatus
+  exercise: easy
+- terms:
+  - musculus-subscapularis
+  - musculus-triceps-brachii
+  exercise: easy
+- terms:
+  - musculus-coracobrachialis
+  - musculus-triceps-brachii
+  - musculus-biceps-brachii
+  - musculus-infraspinatus
+  exercise: four_one
+- terms:
+  - musculus-supraspinatus
+  - musculus-subscapularis
+  - musculus-brachialis
+  - musculus-deltoideus
+  exercise: four_one
+- terms:
+  - musculus-brachialis
+  - musculus-coracobrachialis
+  - musculus-triceps-brachii
+  - musculus-biceps-brachii
+  exercise: identify_image
+- terms:
+  - musculus-supraspinatus
+  - musculus-infraspinatus
+  - musculus-deltoideus
+  - musculus-subscapularis
+  exercise: identify_image
+- terms:
+  - musculus-pronator-teres
+  - musculus-pronator-quadratus
+  exercise: easy
+- terms:
+  - musculus-supinator
+  - musculus-supraspinatus
+  exercise: easy
+- terms:
+  - musculus-triceps-brachii
+  - musculus-biceps-brachii
+  exercise: easy
+- terms:
+  - musculus-flexor-carpi-radialis
+  - musculus-flexor-carpi-ulnaris
+  exercise: easy
+- terms:
+  - musculus-flexor-carpi-radialis
+  - musculus-flexor-carpi-ulnaris
+  - musculus-pronator-quadratus
+  - musculus-triceps-brachii
+  exercise: four_one
+- terms:
+  - musculus-biceps-brachii
+  - musculus-supraspinatus
+  - musculus-pronator-teres
+  - musculus-supinator
+  exercise: four_one
+- terms:
+  - musculus-supraspinatus
+  - musculus-flexor-carpi-radialis
+  - musculus-pronator-teres
+  - musculus-biceps-brachii
+  exercise: identify_image
+- terms:
+  - musculus-flexor-carpi-ulnaris
+  - musculus-pronator-quadratus
+  - musculus-triceps-brachii
+  - musculus-supinator
+  exercise: identify_image
+- terms:
+  - musculus-extensor-carpi-radialis-brevis
+  - musculus-extensor-carpi-radialis-longus
+  exercise: easy
+- terms:
+  - musculus-extensor-carpi-ulnaris
+  - musculus-extensor-digitorum
+  exercise: easy
+- terms:
+  - musculus-flexor-digitorum-superficialis
+  - musculus-flexor-digitorum-profundus
+  exercise: easy
+- terms:
+  - musculus-extensor-pollicis-brevis
+  - musculus-extensor-pollicis-longus
+  exercise: easy
+- terms:
+  - musculus-flexor-digitorum-superficialis
+  - musculus-extensor-carpi-radialis-longus
+  - musculus-extensor-carpi-radialis-brevis
+  - musculus-flexor-digitorum-profundus
+  exercise: four_one
+- terms:
+  - musculus-extensor-pollicis-longus
+  - musculus-extensor-pollicis-brevis
+  - musculus-extensor-carpi-ulnaris
+  - musculus-extensor-digitorum
+  exercise: four_one
+- terms:
+  - musculus-extensor-pollicis-brevis
+  - musculus-extensor-carpi-ulnaris
+  - musculus-extensor-carpi-radialis-brevis
+  - musculus-flexor-digitorum-profundus
+  exercise: identify_image
+- terms:
+  - musculus-flexor-digitorum-superficialis
+  - musculus-extensor-digitorum
+  - musculus-extensor-carpi-radialis-longus
+  - musculus-extensor-pollicis-longus
+  exercise: identify_image
+- terms:
+  - musculi-interossei-dorsales-hand
+  - musculi-interossei-palmares
+  exercise: easy
+- terms:
+  - musculi-lumbricales-hand
+  - musculus-palmaris-brevis
+  exercise: easy
+- terms:
+  - musculus-adductor-pollicis
+  - musculus-flexor-pollicis-brevis
+  exercise: easy
+- terms:
+  - musculus-abductor-digiti-minimi-hand
+  - musculus-flexor-digiti-minimi
+  exercise: easy
+- terms:
+  - musculus-abductor-digiti-minimi-hand
+  - musculi-interossei-dorsales-hand
+  - musculus-flexor-pollicis-brevis
+  - musculus-flexor-digiti-minimi
+  exercise: four_one
+- terms:
+  - musculi-interossei-palmares
+  - musculus-adductor-pollicis
+  - musculus-palmaris-brevis
+  - musculi-lumbricales-hand
+  exercise: four_one
+- terms:
+  - musculus-flexor-pollicis-brevis
+  - musculi-interossei-dorsales-hand
+  - musculus-flexor-digiti-minimi
+  - musculus-palmaris-brevis
+  exercise: identify_image
+- terms:
+  - musculi-interossei-palmares
+  - musculus-abductor-digiti-minimi-hand
+  - musculi-lumbricales-hand
+  - musculus-adductor-pollicis
+  exercise: identify_image
+- terms:
+  - musculus-biceps-brachii
+  exercise: spell_term
+- terms:
+  - musculus-brachialis
+  exercise: spell_term
+- terms:
+  - musculus-coracobrachialis
+  exercise: spell_term
+- terms:
+  - musculus-deltoideus
+  exercise: spell_term
+- terms:
+  - musculus-infraspinatus
+  exercise: spell_term
+- terms:
+  - musculus-supraspinatus
+  exercise: spell_term
+- terms:
+  - musculus-subscapularis
+  exercise: spell_term
+- terms:
+  - musculus-triceps-brachii
+  exercise: spell_term
+- terms:
+  - musculus-pronator-teres
+  exercise: spell_term
+- terms:
+  - musculus-pronator-quadratus
+  exercise: spell_term
+- terms:
+  - musculus-supinator
+  exercise: spell_term
+- terms:
+  - musculus-flexor-carpi-radialis
+  exercise: spell_term
+- terms:
+  - musculus-flexor-carpi-ulnaris
+  exercise: spell_term
+- terms:
+  - musculus-extensor-carpi-radialis-brevis
+  exercise: spell_term
+- terms:
+  - musculus-extensor-carpi-radialis-longus
+  exercise: spell_term
+- terms:
+  - musculus-extensor-carpi-ulnaris
+  exercise: spell_term
+- terms:
+  - musculus-extensor-digitorum
+  exercise: spell_term
+- terms:
+  - musculus-flexor-digitorum-superficialis
+  exercise: spell_term
+- terms:
+  - musculus-flexor-digitorum-profundus
+  exercise: spell_term
+- terms:
+  - musculus-extensor-pollicis-brevis
+  exercise: spell_term
+- terms:
+  - musculus-extensor-pollicis-longus
+  exercise: spell_term
+- terms:
+  - musculi-interossei-dorsales-hand
+  exercise: spell_term
+- terms:
+  - musculi-interossei-palmares
+  exercise: spell_term
+- terms:
+  - musculi-lumbricales-hand
+  exercise: spell_term
+- terms:
+  - musculus-palmaris-brevis
+  exercise: spell_term
+- terms:
+  - musculus-adductor-pollicis
+  exercise: spell_term
+- terms:
+  - musculus-flexor-pollicis-brevis
+  exercise: spell_term
+- terms:
+  - musculus-abductor-digiti-minimi-hand
+  exercise: spell_term
+- terms:
+  - musculus-flexor-digiti-minimi
+  exercise: spell_term
+- concepts:
+  - biceps-brachii-muscle
+  - musculus-biceps-brachii
+  exercise: question_bank
+  question:
+    de: Welcher Muskel besitzt zwei Köpfe?
+    en: Which muscle has two heads?
+  right_terms:
+  - biceps-brachii-muscle
+  wrong_terms:
+  - musculus-quadriceps-femoris-2
+  - triceps-brachii-muscle
+  - musculus-triceps-surae
+  - digastric-muscle-4
+  question_uuid: a84587712d7b7dd352a09facadf3a90
+- concepts:
+  - biceps-brachii-muscle
+  - musculus-biceps-brachii
+  - musculus-coracobrachialis
+  - musculus-brachialis
+  - nervus-musculocutaneus
+  exercise: question_bank
+  question:
+    de: Welche Muskeln werden vom Muskel-Haut-Nerven (Nervus musculocutaneus) innerviert?
+    en: Which muscles are innervated by the musculocutaneous nerve (nervus musculocutaneus)?
+  right_terms:
+  - biceps-brachii-muscle
+  - musculus-coracobrachialis
+  - musculus-brachialis
+  wrong_terms:
+  - triceps-brachii-muscle
+  - musculus-deltoideus
+  question_uuid: 983e54652dd84264572175f570620be
+- concepts:
+  - musculus-brachialis
+  exercise: question_bank
+  question:
+    de: Welcher Muskel ist der stärkste Beuger im Ellenbogengelenk (Articulatio cubiti)?
+    en: Which muscle is the strongest flexor in the elbow joint (articulatio cubiti)?
+  right_terms:
+  - musculus-brachialis
+  wrong_terms:
+  - biceps-brachii-muscle
+  - triceps-brachii-muscle
+  - musculus-anconeus
+  - musculus-deltoideus
+  question_uuid: 418bf077a6dee8f6c27a0179ee11140
+- concepts:
+  - musculus-coracobrachialis
+  - musculus-biceps-brachii
+  - processus-coracoideus
+  exercise: question_bank
+  question:
+    de: Welcher Muskel hat zusammen mit dem kurzen Kopf des zweiköpfigen Armmuskels
+      (Caput breve musculi bicipitis brachii) seinen Ursprung am Rabenschnabelfortsatz
+      (Processus coracoideus)?
+    en: Which muscle originates from the coracoid process (processus coracoideus)
+      just like the short head of biceps brachii muscle (caput breve musculi bicipitis
+      brachii)?
+  right_terms:
+  - musculus-coracobrachialis
+  wrong_terms:
+  - musculus-brachialis
+  - musculus-anconeus
+  - triceps-brachii-muscle
+  - teres-major-muscle
+  question_uuid: bd2bbb8ede0523fe96a78a2bfbc1d7a
+- concepts:
+  - musculus-deltoideus
+  exercise: question_bank
+  question:
+    de: Welcher Muskel ist der stärkste Abduktor im Schultergelenk (Articulatio humeri)?
+    en: Which muscle is the strongest abductor in the shoulder joint (articulatio
+      humeri)?
+  right_terms:
+  - musculus-deltoideus
+  wrong_terms:
+  - long-head-of-biceps-brachii-muscle
+  - pectoralis-major-muscle-2
+  - short-head-of-biceps-brachii-muscle
+  - musculus-coracobrachialis
+  question_uuid: 30c3a9482443995ffeea83ff16476ac
+- concepts:
+  - musculus-supraspinatus
+  exercise: question_bank
+  question:
+    de: Welcher Muskel initiiert die Abduktion im Schultergelenk (Articulatio humeri)?
+    en: Which muscle is responsible for initiating abduction in the shoulder joint
+      (articulatio humeri)?
+  right_terms:
+  - musculus-supraspinatus
+  wrong_terms:
+  - musculus-coracobrachialis
+  - musculus-deltoideus
+  - musculus-teres-minor
+  - musculus-latissimus-dorsi
+  question_uuid: 53e7e634ad09a6d7cf3c62e76a9a2c7
+- concepts:
+  - infraspinatus-muscle
+  - musculus-infraspinatus
+  exercise: question_bank
+  question:
+    de: Welcher Muskel ist hauptsächlich für die Außenrotation im Schultergelenk (Articulatio
+      humeri) verantwortlich?
+    en: Which muscle is mainly responsible for external rotation in the shoulder joint
+      (articulatio humeri)?
+  right_terms:
+  - infraspinatus-muscle
+  wrong_terms:
+  - subscapularis-muscle
+  - pectoralis-major-muscle-2
+  - musculus-latissimus-dorsi
+  - musculus-coracobrachialis
+  question_uuid: 4c67ca00fd261ffc7e0eb7ea19bb94d
+- concepts:
+  - triceps-brachii-muscle
+  - musculus-triceps-brachii
+  exercise: question_bank
+  question:
+    de: Welcher Muskel hat drei Köpfe?
+    en: Which muscle has three heads?
+  right_terms:
+  - triceps-brachii-muscle
+  wrong_terms:
+  - biceps-brachii-muscle
+  - musculus-quadriceps-femoris-2
+  - digastric-muscle-4
+  - musculus-rectus-abdominis
+  question_uuid: d8e70a6ffdc0beda8bb2a9801454268
+- concepts:
+  - biceps-brachii-muscle
+  - musculus-biceps-brachii
+  - triceps-brachii-muscle
+  - musculus-triceps-brachii
+  exercise: question_bank
+  question:
+    de: Welche Muskeln sind Gegenspieler im Ellenbogengelenk (Articulatio cubiti)?
+    en: Which muscles are antagonists in the elbow joint (articulatio cubiti)?
+  right_terms:
+  - biceps-brachii-muscle
+  - triceps-brachii-muscle
+  wrong_terms:
+  - musculus-flexor-digitorum-profundus
+  - musculus-pronator-quadratus
+  - musculus-flexor-digitorum-superficialis
+  question_uuid: 91cdd914068a1974ffae0c4db74bd37
+- concepts:
+  - musculus-pronator-teres
+  - nervus-medianus
+  - nervus-medianus-2
+  exercise: question_bank
+  question:
+    de: Welcher Muskel ist der Leitmuskel des Mittelarmnerven (Nervus medianus)?
+    en: Which muscle is the leading muscle of the median nerve (nervus medianus)?
+  right_terms:
+  - musculus-pronator-teres
+  wrong_terms:
+  - musculus-flexor-carpi-ulnaris
+  - musculus-brachioradialis
+  - musculus-extensor-digitorum
+  - musculus-abductor-pollicis-longus
+  question_uuid: 3fb8a111ffdb33931449cdeb6c82cf9
+- concepts:
+  - pronator-quadratus-muscle
+  - musculus-pronator-quadratus
+  exercise: question_bank
+  question:
+    de: Welcher Muskel ist für die Pronation in den radioulnaren Gelenken verantwortlich?
+    en: Which muscle is responsible for pronation in the radioulnar joints?
+  right_terms:
+  - pronator-quadratus-muscle
+  wrong_terms:
+  - musculus-brachioradialis
+  - musculus-supinator
+  - musculus-abductor-pollicis-longus
+  - musculus-extensor-indicis
+  question_uuid: dabd55d2e1ef0cfdb2d44ac7dbe6562
+- concepts:
+  - musculus-extensor-digitorum
+  exercise: question_bank
+  question:
+    de: Welcher der folgenden Muskeln gehört zu den oberflächlichen Extensoren?
+    en: Which muscle belongs to the superficial extensors?
+  right_terms:
+  - musculus-extensor-digitorum
+  wrong_terms:
+  - musculus-extensor-indicis
+  - musculus-supinator
+  - musculus-extensor-pollicis-brevis
+  - musculus-abductor-pollicis-longus
+  question_uuid: 82082ac62c05da6067aac603063ef03
+- concepts:
+  - musculus-flexor-digitorum-superficialis
+  exercise: question_bank
+  question:
+    de: Welcher Muskel ist für die Flexion in den Handgelenken (Articulatio manus)
+      und insbesondere für die Flexion in den Fingergrund- (Articulationes metacarpophalangeae)
+      und Mittelgelenken (Articulationes interphalangeales proximales) zuständig?
+    en: Which muscle is responsible for flexion in the wrists (articulatio manus)
+      and especially for flexion in the metacarpophalangeal (articulationes metacarpophalangeae)
+      and proximal interphalangeal joints (articulationes interphalangeales proximales)?
+  right_terms:
+  - musculus-flexor-digitorum-superficialis
+  wrong_terms:
+  - musculus-flexor-carpi-ulnaris
+  - musculus-flexor-digitorum-profundus
+  - musculus-flexor-carpi-radialis
+  - musculus-flexor-pollicis-longus
+  question_uuid: 6e13ae731a32215d9fbdb117042c481
+- concepts:
+  - musculus-flexor-digitorum-profundus
+  exercise: question_bank
+  question:
+    de: Welcher Muskel ist für die Flexion in den Handgelenken (Articulatio manus)
+      und insbesondere für die Flexion in den Fingerendgelenken (Articulationes interphalangeales
+      distales) zuständig?
+    en: Which muscle is responsible for flexion in the wrists (articulatio manus)
+      and especially for flexion in the distal interphalangeal joints (articulationes
+      interphalangeales distales)?
+  right_terms:
+  - musculus-flexor-digitorum-profundus
+  wrong_terms:
+  - musculus-flexor-carpi-ulnaris
+  - musculus-flexor-digitorum-superficialis
+  - musculus-flexor-carpi-radialis
+  - musculus-flexor-pollicis-longus
+  question_uuid: 91a49f5f524966cf11728a8cd9e52c7
+- concepts:
+  - musculus-extensor-pollicis-brevis
+  - musculus-abductor-pollicis-longus
+  exercise: question_bank
+  question:
+    de: Welcher Muskel ist neben dem langen Daumenspreizer (Musculus abductor pollicis
+      longus) für die Abduktion des Daumens zuständig?
+    en: Which muscle is responsible for abduction of the thumb in addition to the
+      abductor pollicis longus muscle (musculus abductor pollicis longus)?
+  right_terms:
+  - musculus-extensor-pollicis-brevis
+  wrong_terms:
+  - musculus-extensor-pollicis-longus
+  - musculus-extensor-indicis
+  - musculus-flexor-pollicis-longus
+  - musculus-extensor-digiti-minimi
+  question_uuid: 91cfc71ab59aa3e5eddb95f1813d19b
+- concepts:
+  - musculi-interossei-palmares
+  - musculi-interossei-dorsales-hand
+  - nervus-ulnaris
+  - nervus-ulnaris-2
+  exercise: question_bank
+  question:
+    de: Welche Mittelhandmuskeln werden vom Ellennerv (Nervus ulnaris) innerviert?
+    en: Which metacarpal muscles are innervated by the ulnar nerve (nervus ulnaris)?
+  right_terms:
+  - musculi-interossei-palmares
+  - musculi-interossei-dorsales-hand
+  wrong_terms:
+  - musculus-lumbricalis-i
+  - musculus-abductor-pollicis-brevis
+  - musculus-lumbricalis-ii
+  question_uuid: 14a2d949cde8d38eb5ae1667bab2f8a
+- concepts:
+  - median-nerve
+  - nervus-medianus
+  - nervus-medianus-2
+  - musculi-lumbricales-hand
+  exercise: question_bank
+  question:
+    de: Welcher Nerv innerviert den 1. und 2. wurmförmigen Handmuskel (Musculus lumbricalis
+      I, Musculus lumbricalis II)?
+    en: Which nerve innervates the first and second lumbrical muscles (musculus lumbricalis
+      I, musculus lumbricalis II)?
+  right_terms:
+  - median-nerve
+  wrong_terms:
+  - radial-nerve-2
+  - ulnar-nerve-2
+  - nervus-musculocutaneus
+  - nervus-axillaris
+  question_uuid: ec11cb5ccf411e4a88e0e757712a342
+- concepts:
+  - ulnar-nerve-2
+  - nervus-ulnaris
+  - nervus-ulnaris-2
+  - musculi-lumbricales-hand
+  exercise: question_bank
+  question:
+    de: Welcher Nerv innerviert den 3. und 4. wurmförmigen Handmuskel (Musculus lumbricalis
+      III, Musculus lumbricalis IV)?
+    en: Which nerve innervates the third and fourth lumbrical muscles (musculus lumbricalis
+      III, musculus lumbricalis IV)?
+  right_terms:
+  - ulnar-nerve-2
+  wrong_terms:
+  - median-nerve
+  - radial-nerve-2
+  - nervus-musculocutaneus
+  - nervus-axillaris
+  question_uuid: 672c0beeedd696f46478a91d802cac5
+- concepts:
+  - origin_of-musculi-interossei-palmares
+  - ossa-metacarpalia
+  exercise: question_bank
+  question:
+    de: Von welchen Knochen entspringen die hohlhandseitigen Zwischenknochenmuskeln
+      (Musculi interossei palmares)?
+    en: From which bones do the palmar interossei muscles arise from?
+  right_terms:
+  - ossa-metacarpalia
+  wrong_terms:
+  - os-lunatum
+  - phalanges-distales-ii-v
+  - radius
+  - ulna
+  question_uuid: b8dac72477018f318c7e2cdc6970088
+- concepts:
+  - innervation_of-musculi-interossei-palmares
+  exercise: question_bank
+  question:
+    de: Der tiefe Ast welches Nerves versorgt die hohlhandseitigen Zwischenknochenmuskeln
+      (Musculi interossei palmares)?
+    en: The deep branch of which nerve supplies the palmar interossei muscles?
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-radialis
+  - nervus-medianus
+  - nervus-axillaris
+  - nervus-thoracicus-longus
+  question_uuid: d8531019e3ab6b25742090c2689916a
+- concepts:
+  - musculus-abductor-digiti-minimi-hand
+  - musculus-flexor-digiti-minimi
+  - musculus-opponens-digiti-minimi
+  - musculus-palmaris-brevis
+  exercise: question_bank
+  question:
+    de: Die Muskulatur des Kleinfingerballens (Hypothenar) ist eine Gruppe von vier
+      kurzen Muskeln an der ellenseitigen, palmaren Seite der Hand. Welche sind die
+      vier Muskeln des Hypothenars?
+    en: The hypothenar musculature is a group of four short muscles found at the ulnar
+      side of the palm. Which are the four hypothenar muscles?
+  right_terms:
+  - musculus-abductor-digiti-minimi-hand
+  - musculus-flexor-digiti-minimi
+  - musculus-opponens-digiti-minimi
+  - musculus-palmaris-brevis
+  wrong_terms:
+  - musculus-adductor-pollicis
+  question_uuid: 7803a39598a03a6722e7e912865af55
+- concepts:
+  - musculi-lumbricales-hand
+  exercise: question_bank
+  question:
+    de: Welche sind vier kurze Handmuskeln, die tief unterhalb der Palmarfaszie in
+      der Mittelhand lokalisiert sind? Ein Merkmal dieser Muskeln ist, dass sie von
+      Sehnen anstatt von knöchernen Strukturen entspringen und somit recht bewegliche
+      Ursprungsflächen haben.
+    en: Which are the four short hand muscles located in the metacarpus deep to the
+      palmar fascia? One feature of these muscles is that they originate from tendons
+      instead of bony structures, making their origin surfaces quite moveable?
+  right_terms:
+  - musculi-lumbricales-hand
+  wrong_terms:
+  - musculi-interossei-palmares
+  - musculi-interossei-dorsales-hand
+  - musculus-flexor-carpi-radialis
+  - musculus-flexor-carpi-ulnaris
+  question_uuid: b067932ab9c7d1d3554b70e8c3897eb
+- concepts:
+  - musculus-flexor-pollicis-brevis
+  exercise: question_bank
+  question:
+    de: Welcher ist der einzige Daumenballenmuskel (Thenarmuskel) mit einer Doppelinnervation
+      vom Nervus medianus und Nervus ulnaris aufgrund seiner Wandlung während der
+      Embryogenese?
+    en: Which is the only thenar muscle receiving a double innervation by both median
+      and ulnar nerves, due to its transformation during the course of embryogenesis?
+  right_terms:
+  - musculus-flexor-pollicis-brevis
+  wrong_terms:
+  - musculus-abductor-pollicis-brevis
+  - musculus-flexor-digitorum-profundus
+  - musculus-opponens-pollicis
+  - musculus-opponens-digiti-minimi
+  question_uuid: 61681d3c1683379afd507e9e56105b9
+- concepts:
+  - musculus-abductor-pollicis-brevis
+  - musculus-adductor-pollicis
+  - musculus-flexor-pollicis-brevis
+  - musculus-opponens-pollicis
+  exercise: question_bank
+  question:
+    de: Die Thenarmuskulatur besteht aus vier Muskeln an der speichenseitigen Seite
+      der Handfläche. Sie entspringen von verschiedenen Handwurzelknochen und setzen
+      distal am Daumen an. Welche sind die Thenarmuskeln?
+    en: The thenar musculature consists of four muscles located on the radial side
+      of the palm. They originate at different carpal bones and distally attach to
+      the thumb. Which are the thenar muscles?
+  right_terms:
+  - musculus-abductor-pollicis-brevis
+  - musculus-adductor-pollicis
+  - musculus-flexor-pollicis-brevis
+  - musculus-opponens-pollicis
+  wrong_terms:
+  - musculus-flexor-digitorum-profundus
+  question_uuid: 53eb6b92221946451d7936d2658909a
+- concepts:
+  - musculus-pronator-teres
+  - anterior-cubital-region
+  exercise: question_bank
+  question:
+    de: Welcher Muskel begrenzt die Ellenbeuge (Fossa cubitalis) nach medial?
+    en: Which muscle is the medial border of the cubital fossa?
+  right_terms:
+  - musculus-pronator-teres
+  wrong_terms:
+  - musculus-triceps-brachii
+  - musculus-brachialis
+  - musculus-biceps-brachii
+  - musculus-coracobrachialis
+  question_uuid: d5d0c15d4673df391da14daec96a642
+- concepts:
+  - origin_of-musculus-abductor-pollicis-longus
+  - origin_of-musculus-extensor-pollicis-longus
+  - origin_of-musculus-extensor-indicis
+  exercise: question_bank
+  question:
+    de: Welche drei aufeinanderfolgenden Muskelursprünge können in absteigender Reihenfolge
+      direkt unterhalb des Ansatzes der Zwischenknochenmembran des Unterarms (Membrana
+      interossea antebrachii) im Verlaufe des Ellenschaftes aufgefunden werden?
+    en: Which three consecutive muscle attachments can be found in descending order
+      just below the attachment of the interosseous membrane (membrana interossea
+      antebrachii) on the shaft of the ulna?
+  right_terms:
+  - musculus-abductor-pollicis-longus
+  - musculus-extensor-pollicis-longus
+  - musculus-extensor-indicis
+  wrong_terms:
+  - musculus-flexor-carpi-ulnaris
+  - musculus-extensor-digitorum
+  question_uuid: bb6f6321f98304635400ed91ba6465e
+- concepts:
+  - musculus-flexor-digitorum-superficialis
+  - anterior-forearm-region
+  exercise: question_bank
+  question:
+    de: Unterhalb welches Muskels verlaufen die tiefen Flexoren des Unterarmes sehr
+      nah an Speiche (Radius) und Elle (Ulna) vorbei, sodass sie schwierig zu palpieren
+      sind?
+    en: Underneath which muscle do the deep flexors of the forearm run closely to
+      the radius and ulna, making them difficult to palpate?
+  right_terms:
+  - musculus-flexor-digitorum-superficialis
+  wrong_terms:
+  - musculus-pronator-teres
+  - musculus-extensor-digitorum
+  - musculus-brachioradialis
+  - musculus-abductor-pollicis-longus
+  question_uuid: 13ae4dbd0e86612dfbb3dbc8c3a319f
+- concepts:
+  - nervus-medianus
+  - musculus-flexor-digitorum-profundus
+  - musculus-flexor-pollicis-longus
+  - musculus-pronator-quadratus
+  exercise: question_bank
+  question:
+    de: Welcher Nerv innerviert alle drei tiefen Flexoren des Unterarms?
+    en: Which nerve supplies all three deep flexors of the forearm?
+  right_terms:
+  - nervus-medianus
+  wrong_terms:
+  - nervus-ulnaris
+  - nervus-radialis
+  - nervus-axillaris
+  - nervus-musculocutaneus
+  question_uuid: 342653f718ea9c14a8cd6513cfae0eb
+- concepts:
+  - musculus-supinator
+  - musculus-abductor-pollicis-longus
+  - musculus-extensor-pollicis-brevis
+  - musculus-extensor-pollicis-longus
+  - musculus-extensor-indicis
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Muskeln gehören zu den tiefen Extensoren des Unterarms?
+    en: Which of the following muscles belong to the deep extensors of the forearm?
+  right_terms:
+  - musculus-supinator
+  - musculus-abductor-pollicis-longus
+  - musculus-extensor-pollicis-brevis
+  - musculus-extensor-pollicis-longus
+  - musculus-extensor-indicis
+  wrong_terms:
+  - musculus-extensor-digitorum
+  question_uuid: cc38e599fdb35155333832964a48f46
+- concepts:
+  - musculus-extensor-digitorum
+  - extensor-digiti-minimi-muscle
+  - musculus-extensor-carpi-ulnaris
+  exercise: question_bank
+  question:
+    de: Welche Muskeln gehören zu den oberflächlichen Extensoren des Unterarms auf
+      der dorsalen Seite des Unterams?
+    en: Which muscles belong to the superficial extensors of the forearm located on
+      the posterior side of the forearm?
+  right_terms:
+  - musculus-extensor-digitorum
+  - extensor-digiti-minimi-muscle
+  - musculus-extensor-carpi-ulnaris
+  wrong_terms:
+  - musculus-extensor-carpi-radialis-brevis
+  - musculus-extensor-carpi-radialis-longus
+  question_uuid: 6b0572fd7e9c72c155d94bbda5652c5
+- concepts:
+  - nervus-radialis
+  - musculus-extensor-digitorum
+  - extensor-digiti-minimi-muscle
+  - musculus-extensor-carpi-ulnaris
+  - nervus-radialis-3
+  exercise: question_bank
+  question:
+    de: Welcher Nerv innerviert alle drei oberflächlichen Extensoren des Unterarms?
+    en: Which nerve innervates all three superficial extensors of the forearm?
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-medianus
+  - nervus-ulnaris
+  - nervus-axillaris
+  question_uuid: a62f143a50b4b5f494a909cc6234cc0
+- concepts:
+  - musculus-pronator-teres
+  - musculus-flexor-carpi-radialis
+  - musculus-flexor-carpi-ulnaris
+  - musculus-palmaris-longus
+  - musculus-flexor-digitorum-superficialis
+  exercise: question_bank
+  question:
+    de: Welche Muskeln bilden die Gruppe der oberflächlichen Flexoren des Unterarms?
+    en: Which muscles comprise the group of the superficial flexors of the forearm?
+  right_terms:
+  - musculus-pronator-teres
+  - musculus-flexor-carpi-radialis
+  - musculus-flexor-carpi-ulnaris
+  - musculus-palmaris-longus
+  - musculus-flexor-digitorum-superficialis
+  wrong_terms:
+  - musculus-pronator-quadratus
+  question_uuid: 0622f215d000fd4dcd93535589e7750
+- concepts:
+  - musculus-pronator-teres
+  exercise: question_bank
+  question:
+    de: Welcher der oberflächlichen Flexoren des Unterarms liegt am weitesten lateral?
+    en: Which muscle is the most lateral of all superficial flexors?
+  right_terms:
+  - musculus-pronator-teres
+  wrong_terms:
+  - musculus-pronator-quadratus
+  - musculus-flexor-carpi-radialis
+  - musculus-flexor-carpi-ulnaris
+  - musculus-palmaris-longus
+  question_uuid: efd6af8e5da7a0d257056c159f73284
+- concepts:
+  - musculus-flexor-carpi-ulnaris
+  exercise: question_bank
+  question:
+    de: Welcher oberflächliche Flexor des Unterarms liegt am weitesten medial und
+      ist hauptverantwortlich für die Kontur der ulnaren Seite des Unterarms?
+    en: Which muscle is the most medial of the superficial flexors, and is mainly
+      responsible for the contour of the ulnar side of the forearm?
+  right_terms:
+  - musculus-flexor-carpi-ulnaris
+  wrong_terms:
+  - musculus-pronator-quadratus
+  - musculus-flexor-carpi-radialis
+  - musculus-palmaris-longus
+  - musculus-flexor-digitorum-superficialis
+  question_uuid: 137286086857a0f40ee235c57d6a220
+- concepts:
+  - musculus-flexor-digitorum-profundus
+  - nervus-medianus
+  - nervus-ulnaris
+  exercise: question_bank
+  question:
+    de: Welcher der folgenden Unterarmmuskeln erhält eine Doppelinnervation?
+    en: Which of the following muscles in the forearm receives a dual nerve supply
+      and is hence called hybrid or composite muscle?
+  right_terms:
+  - musculus-flexor-digitorum-profundus
+  wrong_terms:
+  - musculus-flexor-digitorum-superficialis
+  - musculus-palmaris-longus
+  - musculus-pronator-teres
+  - musculus-pronator-quadratus
+  question_uuid: fb74cd669b8d2f97cd4435b0942de33
+- concepts:
+  - musculus-pronator-quadratus
+  - flexor-pollicis-longus-muscle
+  exercise: question_bank
+  question:
+    de: Ein 7-jähriger Junge leidet nach einem Sturz auf die ausgestreckte Hand mit
+      suprakondylärer Humerusfraktur unter einer ischämischen Volkmann-Kontraktur.
+      Welche der folgenden Muskeln werden in Anbetracht der Tatsache, dass die Ischämie
+      vor allem die tiefen Flexoren des Unterarms betrifft, am ehesten betroffen sein?
+    en: A 7-year-old boy developed Volkmann's ischemic contracture after he fell on
+      his outstretched hand, resulting in a supracondylar fracture of the humerus.
+      Which of the following muscles will most likely be affected, as the ischemia
+      especially affects the deep flexors of the forearm?
+  right_terms:
+  - musculus-pronator-quadratus
+  - flexor-pollicis-longus-muscle
+  wrong_terms:
+  - musculus-pronator-teres
+  - supinator-muscle
+  - flexor-pollicis-brevis-muscle
+  question_uuid: 6accb707460e524ee80e26cc3f0eed5
+- concepts:
+  - musculus-biceps-brachii
+  exercise: question_bank
+  question:
+    de: Zum Eindrehen einer Schraube werden die Supinatormuskeln aktiviert. Welcher
+      der folgenden Muskeln entwickelt demnach die stärkste Kraftentwicklung in dieser
+      Bewegung, wenn ein Handwerker eine Schraube mit Hilfe eines Schraubenziehers
+      befestigt?
+    en: The supinator muscles are responsible for movements such as tightening a screw.
+      Which of the following muscles thus provides the strongest torque, when a carpenter
+      tightens a screw with a screwdriver?
+  right_terms:
+  - musculus-biceps-brachii
+  wrong_terms:
+  - supinator-muscle
+  - musculus-anconeus
+  - triceps-brachii-muscle
+  - musculus-pronator-quadratus
+  question_uuid: 2c6fe093a66948c3f650782fdd85746
+- concepts:
+  - musculus-pronator-quadratus
+  exercise: question_bank
+  question:
+    de: Welcher der folgenden Muskeln beschränkt sich in seinem Verlauf auf das Unterarmskelett?
+    en: Which of the following muscle is limited to the forearm skeleton?
+  right_terms:
+  - musculus-pronator-quadratus
+  wrong_terms:
+  - supinator-muscle
+  - musculus-anconeus
+  - musculus-pronator-teres
+  - musculus-biceps-brachii
+  question_uuid: 1cf1b107476d3b83032767800575662
+- concepts:
+  - musculus-flexor-carpi-ulnaris
+  exercise: question_bank
+  question:
+    de: Ein Sesambein ist ein kleiner Knochen, der in eine Sehne eingewachsen ist,
+      um den Hebelarm des dazugehörigen Muskels zu vergrößern. Welcher Unterarmmuskel
+      hat ein Sesambein in seine Sehne eingelagert?
+    en: A sesamoid bone is a bone that develops in the tendon of a muscle. Which of
+      the muscles of the forearm has a sesamoid bone in its tendon?
+  right_terms:
+  - musculus-flexor-carpi-ulnaris
+  wrong_terms:
+  - musculus-palmaris-longus
+  - musculus-flexor-digitorum-superficialis
+  - musculus-flexor-carpi-radialis
+  - musculus-extensor-indicis
+  question_uuid: 69545f9a53cce4363de437647277c91
+- concepts:
+  - triceps-brachii-muscle
+  - musculus-triceps-brachii
+  exercise: question_bank
+  question:
+    de: Ein 25-jähriger Profiboxer benutzt einen Jab (abrupt geschlagene Gerade mit
+      der Führhand) mit ausgestrecktem Unterarm. Welcher der folgenden Muskeln trägt
+      am stärksten dazu bei, den Arm während dieses Schlags gestreckt zu halten?
+    en: A 25-year-old professional boxer prefers to jab with a straight elbow. Which
+      of the muscle is the most responsible for keeping the elbow extended during
+      the punch?
+  right_terms:
+  - triceps-brachii-muscle
+  wrong_terms:
+  - musculus-brachioradialis
+  - musculus-brachialis
+  - musculus-biceps-brachii
+  - supinator-muscle
+  question_uuid: 221ad222e53d547e16c0100b8ebd87a
+- concepts:
+  - nervus-medianus
+  - musculus-pronator-teres
+  exercise: question_bank
+  question:
+    de: Ein 30-jähriger Mann klagt darüber, seine Stifte beim Schreiben nicht mehr
+      fest greifen zu können. Außerdem berichtet er über Missempfindungen über der
+      Handfläche sowie den ersten drei Fingern. Er wird mit dem Pronator-teres-Syndrom
+      diagnostiziert. Welcher Nerv kann beim Durchtritt im Bereich des runden Einwärtsdrehers
+      (Musculus pronator teres) eingeklemmt werden?
+    en: A 30-year-old man complains of weak grip on a pen while writing and difficulty
+      in pinching movement with sensory changes over the palm and the first three
+      fingers. He is diagnosed with pronator teres syndrome. Which nerve can get entrapped
+      while passing through the region of the pronator teres muscle?
+  right_terms:
+  - nervus-medianus
+  wrong_terms:
+  - radial-nerve-2
+  - medial-cutaneous-nerve-of-the-forearm
+  - ulnar-nerve-2
+  - nervus-cutaneus-antebrachii-lateralis
+  question_uuid: 4e29bcaa516889333970060af47f224
+- terms:
+  - musculus-subscapularis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - fossa-subscapularis
+  wrong_terms:
+  - spina-scapulae
+  - margo-superior-scapulae
+  - margo-lateralis-scapulae
+  - margo-medialis-scapulae
+  - angulus-inferior-scapulae
+- terms:
+  - musculus-subscapularis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - tuberculum-minus
+  wrong_terms:
+  - crista-tuberculi-minoris
+  - crista-tuberculi-majoris
+  - costa-ii
+  - tuberculum-majus
+  - collum-radii
+- terms:
+  - musculus-subscapularis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-subscapularis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-radialis
+  - nervus-vagus
+  - nervus-ulnaris
+  - plexus-cervicalis
+- terms:
+  - musculus-supraspinatus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - fossa-supraspinata
+  wrong_terms:
+  - acromion
+  - processus-coracoideus
+  - corpus-humeri
+  - caput-humeri
+  - clavicula
+- terms:
+  - musculus-supraspinatus
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - tuberculum-majus
+  wrong_terms:
+  - fossa-supraspinata
+  - acromion
+  - processus-coracoideus
+  - tuberositas-deltoidea
+  - bursa-subdeltoidea-bursa-subacromialis
+- terms:
+  - musculus-supraspinatus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-suprascapularis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-radialis
+  - nervus-subscapularis
+  - nervus-ulnaris
+  - plexus-cervicalis
+- terms:
+  - musculus-infraspinatus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - fossa-infraspinata
+  wrong_terms:
+  - fossa-supraspinata
+  - spina-scapulae
+  - clavicula
+  - margo-medialis-scapulae
+  - collum-scapulae
+- terms:
+  - musculus-infraspinatus
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - tuberculum-majus
+  wrong_terms:
+  - tuberculum-minus
+  - tuberositas-deltoidea
+  - costa-i-3
+  - tuberculum-infraglenoidale
+  - cavitas-glenoidalis
+- terms:
+  - musculus-infraspinatus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-suprascapularis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-radialis
+  - nervus-subscapularis
+  - nervus-ulnaris
+  - nervus-axillaris
+- terms:
+  - musculus-deltoideus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - clavicula
+  - acromion
+  - spina-scapulae
+  wrong_terms:
+  - processus-coracoideus
+  - costa-i-3
+  - fossa-supraspinata
+- terms:
+  - musculus-deltoideus
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - tuberositas-deltoidea
+  wrong_terms:
+  - tuberculum-minus
+  - crista-tuberculi-majoris
+  - tuberculum-majus
+  - angulus-inferior-scapulae
+  - costa-i-3
+- terms:
+  - musculus-deltoideus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-axillaris
+  wrong_terms:
+  - nervus-subscapularis
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - nervus-suprascapularis
+- terms:
+  - musculus-coracobrachialis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - processus-coracoideus
+  wrong_terms:
+  - acromion
+  - angulus-inferior-scapulae
+  - corpus-claviculae
+  - spina-scapulae
+  - cavitas-glenoidalis
+- terms:
+  - musculus-coracobrachialis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - corpus-humeri
+  wrong_terms:
+  - fossa-subscapularis
+  - margo-lateralis-scapulae
+  - margo-medialis-scapulae
+  - margo-superior-scapulae
+  - costa-i-3
+- terms:
+  - musculus-coracobrachialis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-musculocutaneus
+  wrong_terms:
+  - nervus-subscapularis
+  - nervus-radialis
+  - nervus-vagus
+  - nervus-ulnaris
+  - plexus-cervicalis
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-coracobrachialis
+  - musculus-deltoideus
+  - musculus-pectoralis-major
+  wrong_terms:
+  - musculus-pectoralis-minor
+  - musculus-triceps-brachii
+  - musculus-teres-major
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-deltoideus
+  - musculus-latissimus-dorsi
+  - musculus-teres-major
+  wrong_terms:
+  - musculus-pectoralis-minor
+  - musculus-coracobrachialis
+  - musculus-subscapularis
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: internally_rotates_the
+  right_terms:
+  - musculus-deltoideus
+  - musculus-latissimus-dorsi
+  - musculus-subscapularis
+  - musculus-teres-major
+  wrong_terms:
+  - musculus-teres-minor
+  - musculus-infraspinatus
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: externally_rotates_the
+  right_terms:
+  - musculus-deltoideus
+  - musculus-infraspinatus
+  - musculus-teres-minor
+  wrong_terms:
+  - musculus-latissimus-dorsi
+  - musculus-brachialis
+  - musculus-supraspinatus
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: adducts_the
+  right_terms:
+  - musculus-coracobrachialis
+  - musculus-deltoideus
+  - musculus-latissimus-dorsi
+  - musculus-pectoralis-major
+  - musculus-teres-major
+  wrong_terms:
+  - musculus-supraspinatus
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: abducts_the
+  right_terms:
+  - musculus-deltoideus
+  - musculus-supraspinatus
+  wrong_terms:
+  - musculus-latissimus-dorsi
+  - musculus-triceps-brachii
+  - musculus-pronator-teres
+  - musculus-supinator
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: adducts_the
+  right_terms:
+  - musculus-coracobrachialis
+  - musculus-latissimus-dorsi
+  - musculus-pectoralis-major
+  - musculus-teres-major
+  wrong_terms:
+  - musculus-supraspinatus
+- terms:
+  - musculus-subscapularis
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - fossa-subscapularis
+  wrong_terms:
+  - spina-scapulae
+  - margo-superior-scapulae
+  - margo-lateralis-scapulae
+  - margo-medialis-scapulae
+  - angulus-inferior-scapulae
+- terms:
+  - musculus-supraspinatus
+  exercise: multiple_choice_text
+  relation: innervation_of
+  right_terms:
+  - nervus-suprascapularis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-radialis
+  - nervus-subscapularis
+  - nervus-ulnaris
+  - plexus-cervicalis
+- terms:
+  - musculus-infraspinatus
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - fossa-infraspinata
+  wrong_terms:
+  - fossa-supraspinata
+  - spina-scapulae
+  - clavicula
+  - margo-medialis-scapulae
+  - collum-scapulae
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: externally_rotates_the
+  right_terms:
+  - musculus-infraspinatus
+  - musculus-teres-minor
+  wrong_terms:
+  - musculus-teres-major
+  - musculus-subscapularis
+  - musculus-biceps-brachii
+  - musculus-supraspinatus
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: internally_rotates_the
+  right_terms:
+  - musculus-subscapularis
+  wrong_terms:
+  - musculus-brachialis
+  - musculus-supraspinatus
+  - musculus-teres-minor
+  - musculus-supinator
+  - musculus-extensor-indicis
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: abducts_the
+  right_terms:
+  - musculus-supraspinatus
+  wrong_terms:
+  - musculus-supinator
+  - musculus-brachialis
+  - musculus-teres-minor
+  - musculus-extensor-digitorum
+  - musculus-triceps-brachii
+- terms:
+  - musculus-brachialis
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - corpus-humeri
+  wrong_terms:
+  - trochlea-humeri
+  - collum-chirurgicum
+  - capitulum-humeri
+  - caput-humeri
+  - collum-anatomicum
+- terms:
+  - musculus-brachialis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - tuberositas-ulnae
+  wrong_terms:
+  - margo-anterior-ulnae
+  - ligamentum-collaterale-ulnare
+  - processus-styloideus-radii
+  - corpus-humeri
+  - caput-radii
+- terms:
+  - musculus-brachialis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-musculocutaneus
+  - nervus-radialis
+  wrong_terms:
+  - nervus-ulnaris
+  - nervus-medianus
+  - nervus-axillaris
+  - nervus-thoracodorsalis
+- terms:
+  - musculus-biceps-brachii
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - tuberculum-supraglenoidale
+  - processus-coracoideus
+  wrong_terms:
+  - margo-superior-scapulae
+  - collum-chirurgicum
+  - collum-scapulae
+  - caput-humeri
+- terms:
+  - musculus-biceps-brachii
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - tuberositas-radii
+  wrong_terms:
+  - margo-anterior-ulnae
+  - ligamentum-collaterale-ulnare
+  - processus-styloideus-radii
+  - corpus-humeri
+  - caput-radii
+- terms:
+  - musculus-biceps-brachii
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-musculocutaneus
+  wrong_terms:
+  - nervus-ulnaris
+  - nervus-medianus
+  - nervus-radialis
+  - nervus-axillaris
+  - nervus-thoracodorsalis
+- terms:
+  - musculus-triceps-brachii
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - tuberculum-infraglenoidale
+  - corpus-humeri
+  wrong_terms:
+  - spina-scapulae
+  - collum-chirurgicum
+  - collum-scapulae
+  - caput-humeri
+- concepts:
+  - nervus-axillaris
+  - musculus-deltoideus
+  - nervus-axillaris-2
+  exercise: question_bank
+  question:
+    de: Ein 25-jähriger Patient leidet an einer Lähmung des Musculus deltoideus (Deltamuskel).
+      Welcher Nerv ist höchstwahrscheinlich beschädigt?
+    en: A 25 year old patient is unable to move his shoulder properly. The physical
+      examination suggests a paralysis of the deltoid muscle. Which nerve may be injured?
+  right_terms:
+  - nervus-axillaris
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-radialis
+  - nervus-ulnaris
+  - nervus-thoracodorsalis
+  question_uuid: c1352fb6f26f62ee218f88bef574f35
+- terms:
+  - musculus-triceps-brachii
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - olecranon
+  wrong_terms:
+  - margo-anterior-ulnae
+  - ligamentum-collaterale-ulnare
+  - processus-styloideus-radii
+  - corpus-humeri
+  - caput-radii
+- terms:
+  - musculus-triceps-brachii
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - nervus-ulnaris
+  - nervus-medianus
+  - nervus-musculocutaneus
+  - nervus-axillaris
+  - nervus-thoracodorsalis
+- terms:
+  - elbow
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-biceps-brachii
+  - musculus-brachialis
+  wrong_terms:
+  - musculus-anconeus
+  - musculus-triceps-brachii
+  - musculus-deltoideus
+  - musculus-extensor-indicis
+- terms:
+  - articulatio-humeri
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-biceps-brachii
+  wrong_terms:
+  - musculus-anconeus
+  - musculus-triceps-brachii
+  - musculus-brachialis
+  - musculus-extensor-digiti-minimi
+  - musculus-extensor-pollicis-brevis
+- terms:
+  - elbow
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-triceps-brachii
+  - musculus-anconeus
+  wrong_terms:
+  - musculus-biceps-brachii
+  - musculus-brachialis
+  - musculus-flexor-pollicis-longus
+  - musculus-supraspinatus
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: adducts_the
+  right_terms:
+  - musculus-triceps-brachii
+  - musculus-deltoideus
+  wrong_terms:
+  - musculus-brachialis
+  - musculus-anconeus
+  - musculus-flexor-digitorum-profundus
+  - musculus-flexor-pollicis-longus
+- terms:
+  - forearm
+  exercise: multiple_choice_image
+  relation: supinates_the
+  right_terms:
+  - musculus-biceps-brachii
+  wrong_terms:
+  - musculus-brachialis
+  - musculus-anconeus
+  - musculus-triceps-brachii
+  - musculus-deltoideus
+  - musculus-coracobrachialis
+- terms:
+  - forearm
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-triceps-brachii
+  - musculus-anconeus
+  wrong_terms:
+  - musculus-biceps-brachii
+  - musculus-brachialis
+  - musculus-flexor-carpi-ulnaris
+  - musculus-flexor-carpi-radialis
+- concepts:
+  - musculus-subscapularis
+  - musculus-teres-minor
+  - musculus-infraspinatus
+  - musculus-supraspinatus
+  - infraspinatus-muscle-17
+  - supraspinatus-muscle-11
+  - teres-minor-muscle-11
+  - subscapularis-muscle-20
+  exercise: question_bank
+  question:
+    de: Welche Muskeln bilden die Rotatorenmanschette an der Schulter?
+    en: Which muscles are part of the rotator cuff of the shoulder?
+  right_terms:
+  - musculus-subscapularis
+  - musculus-teres-minor
+  - musculus-infraspinatus
+  - musculus-supraspinatus
+  wrong_terms:
+  - musculus-teres-major
+  question_uuid: b20503837b2ebae0ae6d715c9a16a25
+- concepts:
+  - insertion_of-musculus-triceps-brachii
+  - musculus-triceps-brachii
+  - posterior-arm-region
+  exercise: question_bank
+  question:
+    de: Welcher Muskel prägt die Oberflächenanatomie der Oberarmrückseite und setzt
+      am Olecranon an?
+    en: Which muscle defines the surface anatomy of the dorsal upper arm and forms
+      a thick tendon that inserts at the olecranon of the ulna?
+  right_terms:
+  - musculus-triceps-brachii
+  wrong_terms:
+  - musculus-biceps-brachii
+  - musculus-brachialis
+  - musculus-coracobrachialis
+  - musculus-deltoideus
+  question_uuid: 6da537d8bacf3c75115646b8d27f726
+- concepts:
+  - musculus-triceps-brachii
+  - biceps-brachii-muscle
+  - musculus-biceps-brachii
+  exercise: question_bank
+  question:
+    de: Der Musculus biceps brachii (zweiköpfiger Oberarmmuskel) und welcher anderer
+      Muskel bilden den Sulcus bicipitalis medialis (innere Bizepsrinne)?
+    en: In addition to the biceps brachii muscle (musculus biceps brachii), which
+      other muscle forms the medial bicipital groove (Sulcus bicipitalis medialis)?
+  right_terms:
+  - musculus-triceps-brachii
+  wrong_terms:
+  - brachioradialis-muscle
+  - deltoid-muscle
+  - brachialis-muscle
+  - coracobrachialis-muscle
+  question_uuid: ba53201d2d9a6162cfe80abf289ce93
+- concepts:
+  - musculus-triceps-brachii
+  - olecranon
+  - olecranon-8
+  - olecranon-9
+  exercise: question_bank
+  question:
+    de: Ein 26-jähriger Fahrradfahrer fällt bei einem Unfall auf seinen rechten Arm.
+      Seitdem ist sein rechter Ellenbogen geschwollen, schmerzhaft und nur eingeschränkt
+      beweglich. Du entscheidest dich für eine Röntgenuntersuchung, die eine Olecranonfraktur
+      mit proximaler Dislokation zeigt. Welcher Muskel ist dafür verantwortlich, dass
+      das gebrochene Knochenfragment in Richtung des Oberarms gezogen wird?
+    en: A 26-year-old male cyclist fell on his right arm after crashing into a car.
+      He now presents himself in the ER with a massively swollen elbow which is painful
+      and restricted in its movement. You decide to perform an X-ray which reveals
+      an olecranon fracture with proximal dislocation. Which muscle is responsible
+      for pulling the broken bone fragment towards the humerus?
+  right_terms:
+  - musculus-triceps-brachii
+  wrong_terms:
+  - biceps-brachii-muscle
+  - brachioradialis-muscle
+  - brachialis-muscle
+  - anconeus-muscle
+  question_uuid: 370d56c28c4f52f1e4bd9354da3b729
+- concepts:
+  - musculus-triceps-brachii
+  exercise: question_bank
+  question:
+    de: Der Reflex welches Muskels wird überprüft, wenn man mit dem Reflexhammer auf
+      dem dorsalen, distalen Ende des Humerus (Oberarmknochen) schlägt?
+    en: Which muscle's reflex is tested when striking the reflex hammer on the posterior,
+      distal end of the humerus?
+  right_terms:
+  - musculus-triceps-brachii
+  wrong_terms:
+  - biceps-brachii-muscle
+  - brachialis-muscle
+  - extensor-carpi-radialis-longus-muscle
+  - extensor-carpi-ulnaris-muscle
+  question_uuid: 7d71513221219f5248eb01a7917396c
+- concepts:
+  - biceps-brachii-muscle
+  - musculus-biceps-brachii
+  - tendon-of-the-biceps-brachii-muscle-1
+  exercise: question_bank
+  question:
+    de: Ein 33-jähriger Mann hört ein schnappendes Geräusch in seiner rechten Schulter,
+      als er versucht, einen Wasserkasten zu heben. Bei der körperlichen Untersuchung
+      fällt eine tastbare Delle am vorderen Oberarm auf. Darüber hinaus ist die Beugung
+      im rechten Ellenbogen geschwächt im Vergleich zur linken Seite. Die Sehne welches
+      Muskels ist wahrscheinlich rupturiert?
+    en: A 33-year old man tries to carry a heavy bottle crate when he hears a snatching
+      sound from his right shoulder. Upon physical examination, the doctor notices
+      a palpable mass on the anterior upper arm. Furthermore, flexion at the elbow
+      joint is weakened compared to the left side. Which muscle was most likely ruptured?
+  right_terms:
+  - biceps-brachii-muscle
+  wrong_terms:
+  - musculus-triceps-brachii
+  - musculus-pectoralis-minor
+  - musculus-pectoralis-major
+  - musculus-coracobrachialis
+  question_uuid: 05a0e9ba8dad3484a284e068ffa6c1f
+- concepts:
+  - acromion
+  - clavicula
+  - musculus-deltoideus
+  - musculus-trapezius
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Knochenstrukturen dienen sowohl als Ursprung des Deltamuskels
+      (Musculus deltoideus) als auch als Ansatz des Trapezmuskels (Musculus trapezius)?
+    en: Which of the following bony structures serve both as the origin of the deltoid
+      muscle (musculus deltoideus) and an insertion point of the trapezius muscle
+      (musculus trapezius)?
+  right_terms:
+  - acromion-2
+  - clavicula
+  wrong_terms:
+  - suprascapular-notch-1
+  - coracoid-process
+  - superior-border-of-the-scapula
+  question_uuid: b35142ce40244c49418887fd50ea937
+- concepts:
+  - tuberculum-majus
+  - musculus-infraspinatus
+  - musculus-teres-minor
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Muskeln setzen am großen Höcker des Oberarmknochens (Tuberculum
+      majus) an und führen eine Außenrotation des Armes im Schultergelenk aus?
+    en: Which of the following muscles attach to the greater tuberosity of the humerus
+      and externally rotate the arm in the shoulder joint?
+  right_terms:
+  - musculus-infraspinatus
+  - musculus-teres-minor
+  wrong_terms:
+  - teres-major-muscle
+  - pectoralis-minor-muscle-2
+  - subclavius-muscle
+  question_uuid: 1ed1f303f0fb88fa0383a689fffca3d
+- concepts:
+  - suprascapular-notch-1
+  - nervus-suprascapularis
+  - musculus-supraspinatus
+  - musculus-infraspinatus
+  - supraspinatus-muscle-11
+  - infraspinatus-muscle-17
+  exercise: question_bank
+  question:
+    de: Ein 55-jähriger Mann stellt sich mit diffusem Schulterschmerz in der orthopädischen
+      Sprechstunde vor. Die körperliche Untersuchung zeigt Schmerzen während der Palpation
+      der Incisura scapulae sowie eine abgeschwächte Schulterabduktion und -außenrotation
+      bei angelegtem Arm. Das Elektromyogramm (EMG) zweier Muskeln zeigt einen auffälligen
+      Befund, sodass der behandelnde Arzt ein Incisura-Scapulae-Syndrom diagnostiziert.
+      Welche beiden Muskeln werden durch den Oberschulterblattnerv (Nervus suprascapularis)
+      innerviert und sind bei diesem Syndrom mitbetroffen?
+    en: A 55-year-old man presents to the clinic with complaints of deep and diffuse
+      posterolateral shoulder pain. Physical examination shows pain during the palpation
+      of the suprascapular notch, weakness with shoulder abduction and external rotation
+      with the elbow at side. After testing two muscles using electromyography (EMG),
+      the physician diagnoses a suprascapular notch entrapment. In this condition,
+      the suprascapular nerve is compressed in the suprascapular notch (incisura scapulae).
+      Which two muscles, innervated by the suprascapular nerve were tested by the
+      physician?
+  right_terms:
+  - musculus-supraspinatus
+  - musculus-infraspinatus
+  wrong_terms:
+  - levator-scapulae-muscle-2
+  - musculus-subscapularis
+  - musculus-teres-minor
+  question_uuid: 4e6943431cea6d19ff986e9e75ba627
+- concepts:
+  - coracobrachialis-muscle
+  - musculus-biceps-brachii
+  - musculus-brachialis
+  - anterior-arm-region
+  exercise: question_bank
+  question:
+    de: Welche Muskeln befinden sich im vorderen Kompartiment des Oberarmes?
+    en: Which muscles are located in the anterior compartment of the arm?
+  right_terms:
+  - coracobrachialis-muscle
+  - musculus-biceps-brachii
+  - musculus-brachialis
+  wrong_terms:
+  - triceps-brachii-muscle
+  - musculus-anconeus
+  question_uuid: b15139df51add0bbf7baaa042675170
+- concepts:
+  - musculus-deltoideus
+  exercise: question_bank
+  question:
+    de: Der Deltamuskel (Musculus deltoideus) besteht aus einem vorderen, mittleren
+      und einem hinteren Anteil. Von welchen Knochenstrukturen entspringen diese drei
+      Anteile?
+    en: The deltoid muscle (musculus deltoideus) is composed of anterior, middle and
+      posterior parts. From which bony structures do the three parts originate?
+  right_terms:
+  - clavicle
+  - acromion-2
+  - spine-of-the-scapula
+  wrong_terms:
+  - lateral-border-of-the-scapula
+  - humerus
+  question_uuid: 1cade50535d095703231e08fd701a72
+- terms:
+  - musculus-extensor-carpi-radialis-longus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - crista-supracondylaris-lateralis
+  wrong_terms:
+  - crista-supracondylaris-medialis
+  - corpus-humeri
+  - capitulum-humeri
+  - caput-radii
+  - collum-radii
+- terms:
+  - musculus-extensor-carpi-radialis-longus
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - basis-ossis-metacarpi-ii
+  wrong_terms:
+  - phalanges-mediae-der-hand
+  - margo-posterior-radii
+  - processus-styloideus-radii
+  - basis-ossis-metacarpi-iii
+  - caput-radii
+- terms:
+  - musculus-extensor-carpi-radialis-longus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - nervus-medianus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-extensor-carpi-radialis-brevis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - epicondylus-lateralis-humeri
+  wrong_terms:
+  - corpus-humeri
+  - capitulum-humeri
+  - caput-radii
+  - epicondylus-medialis-humeri
+  - collum-radii
+- terms:
+  - musculus-extensor-carpi-radialis-brevis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - basis-ossis-metacarpi-iii
+  wrong_terms:
+  - phalanges-mediae-der-hand
+  - margo-posterior-radii
+  - processus-styloideus-radii
+  - basis-ossis-metacarpi-ii
+  - caput-radii
+- terms:
+  - musculus-extensor-carpi-radialis-brevis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - nervus-medianus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - hand
+  exercise: multiple_choice_image
+  relation: abducts_the
+  right_terms:
+  - musculus-extensor-carpi-radialis-brevis
+  - musculus-extensor-carpi-radialis-longus
+  wrong_terms:
+  - musculus-coracobrachialis
+  - musculus-extensor-carpi-ulnaris
+  - musculus-brachioradialis
+  - musculus-opponens-digiti-minimi
+- terms:
+  - elbow
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-brachioradialis
+  - musculus-pronator-teres
+  - musculus-extensor-carpi-radialis-longus
+  - musculus-extensor-carpi-radialis-brevis
+  wrong_terms:
+  - musculus-infraspinatus
+  - musculus-coracobrachialis
+- terms:
+  - elbow
+  exercise: multiple_choice_image
+  relation: weakly_flexes_the
+  right_terms:
+  - musculus-extensor-carpi-radialis-brevis
+  - musculus-extensor-carpi-radialis-longus
+  - musculus-brachioradialis
+  wrong_terms:
+  - musculus-latissimus-dorsi
+  - musculus-flexor-digiti-minimi
+  - musculus-pectoralis-major
+- terms:
+  - hand
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-extensor-carpi-radialis-brevis
+  - musculus-extensor-carpi-radialis-longus
+  wrong_terms:
+  - musculus-brachioradialis
+  - musculus-pronator-quadratus
+  - musculus-flexor-carpi-ulnaris
+  - musculus-coracobrachialis
+- terms:
+  - musculus-pronator-teres
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - epicondylus-medialis-humeri
+  - processus-coronoideus
+  wrong_terms:
+  - crista-supracondylaris-medialis
+  - tuberositas-ulnae
+  - caput-radii
+  - collum-radii
+- terms:
+  - musculus-pronator-teres
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - facies-lateralis-radii
+  wrong_terms:
+  - margo-anterior-ulnae
+  - margo-posterior-radii
+  - processus-styloideus-ulnae
+  - collum-radii
+  - margo-anterior-radii
+- terms:
+  - musculus-pronator-teres
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-medianus
+  wrong_terms:
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-flexor-carpi-radialis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - epicondylus-medialis-humeri
+  wrong_terms:
+  - processus-coronoideus
+  - crista-supracondylaris-medialis
+  - tuberositas-ulnae
+  - caput-radii
+  - collum-radii
+- terms:
+  - musculus-flexor-carpi-radialis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - basis-ossis-metacarpi-ii
+  - basis-ossis-metacarpi-iii
+  wrong_terms:
+  - aponeurosis-palmaris
+  - phalanges-mediae-der-hand
+  - margo-posterior-radii
+  - processus-styloideus-radii
+- terms:
+  - musculus-flexor-carpi-radialis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-medianus
+  wrong_terms:
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- concepts:
+  - olecranon-4
+  - tendon-of-triceps-brachii-muscle
+  - musculus-triceps-brachii
+  exercise: question_bank
+  question:
+    de: Der Trizepssehnenreflex kann ausgelöst werden, indem die Sehne des dreiköpfigen
+      Oberarmmuskels (Musculus triceps brachii) unmittelbar oberhalb ihres Ansatzes
+      mit einem Reflexhammer beklopft wird. An welcher knöchernen Struktur setzt diese
+      Sehne an?
+    en: The triceps reflex can be elicited when the triceps tendon is hit with a reflex
+      hammer just above its insertion point, thus inducing contraction of the triceps
+      brachii muscle (musculus triceps brachii). Into which bony structure does the
+      triceps tendon insert?
+  right_terms:
+  - olecranon-4
+  wrong_terms:
+  - margo-anterior-ulnae
+  - capitulum-of-the-humerus
+  - articular-facet-of-head-of-radius
+  - processus-coronoideus
+  question_uuid: cd6df686363d9b372e4910bcdea4c24
+- concepts:
+  - deltoid-region
+  - anterior-deltoid-region
+  - posterior-deltoid-region
+  - musculus-deltoideus-2
+  - musculus-deltoideus
+  exercise: question_bank
+  question:
+    de: Welche Region wird durch die Konturen des Deltamuskel (Musculus deltoideus)
+      definiert?
+    en: Which region is defined by the deltoid muscle (musculus deltoideus)?
+  right_terms:
+  - deltoid-region
+  wrong_terms:
+  - lateral-pectoral-region-3
+  - scapular-region-2
+  - suprascapular-region-4
+  - axillary-region
+  question_uuid: d794d98ce5ab9be604ee064ee66ca6b
+- terms:
+  - musculus-flexor-carpi-ulnaris
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - epicondylus-medialis-humeri
+  - olecranon
+  wrong_terms:
+  - processus-coronoideus
+  - crista-supracondylaris-medialis
+  - tuberositas-ulnae
+  - collum-radii
+- terms:
+  - musculus-flexor-carpi-ulnaris
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - hamulus-ossis-hamati
+  - basis-ossis-metacarpi-v
+  - os-pisiforme
+  wrong_terms:
+  - basis-ossis-metacarpi-ii
+  - basis-ossis-metacarpi-iii
+  - processus-styloideus-ulnae
+- terms:
+  - musculus-flexor-carpi-ulnaris
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - nervus-medianus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-flexor-digitorum-superficialis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - epicondylus-medialis-humeri
+  - processus-coronoideus
+  - facies-anterior-radii
+  wrong_terms:
+  - crista-supracondylaris-medialis
+  - tuberositas-ulnae
+  - caput-radii
+- terms:
+  - musculus-flexor-digitorum-superficialis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - phalanges-mediae-der-hand
+  wrong_terms:
+  - phalanges-distales-der-hand
+  - phalanges-proximales-der-hand
+  - processus-styloideus-ulnae
+  - ossa-metacarpalia
+  - margo-anterior-radii
+- terms:
+  - musculus-flexor-digitorum-superficialis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-medianus
+  wrong_terms:
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - hand
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-flexor-carpi-radialis
+  - musculus-flexor-carpi-ulnaris
+  - musculus-flexor-digitorum-superficialis
+  - musculus-palmaris-longus
+  wrong_terms:
+  - musculus-pronator-teres
+  - musculus-supraspinatus
+- terms:
+  - hand
+  exercise: multiple_choice_image
+  relation: abducts_the
+  right_terms:
+  - musculus-flexor-carpi-radialis
+  wrong_terms:
+  - musculus-flexor-carpi-ulnaris
+  - musculus-flexor-digitorum-superficialis
+  - musculus-palmaris-longus
+  - musculus-supinator
+  - musculus-pronator-teres
+- terms:
+  - hand
+  exercise: multiple_choice_image
+  relation: adducts_the
+  right_terms:
+  - musculus-flexor-carpi-ulnaris
+  wrong_terms:
+  - musculus-brachialis
+  - musculus-extensor-indicis
+  - musculus-flexor-carpi-radialis
+  - musculus-flexor-digitorum-superficialis
+  - musculus-triceps-brachii
+- terms:
+  - elbow
+  exercise: multiple_choice_image
+  relation: weakly_flexes_the
+  right_terms:
+  - musculus-flexor-digitorum-superficialis
+  - musculus-pronator-teres
+  - musculus-palmaris-longus
+  wrong_terms:
+  - musculus-extensor-digitorum
+  - musculus-triceps-brachii
+  - musculus-pectoralis-minor
+- terms:
+  - forearm
+  exercise: multiple_choice_image
+  relation: pronates_the
+  right_terms:
+  - musculus-pronator-teres
+  wrong_terms:
+  - musculus-extensor-digitorum
+  - musculus-flexor-digitorum-superficialis
+  - musculus-palmaris-longus
+  - musculus-flexor-carpi-radialis
+  - musculus-flexor-carpi-ulnaris
+- terms:
+  - articulationes-interphalangeales-proximales-ii-v
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-flexor-digitorum-superficialis
+  wrong_terms:
+  - musculus-extensor-indicis
+  - musculus-pronator-teres
+  - musculus-extensor-digitorum
+  - musculus-brachialis
+  - musculus-opponens-pollicis
+- terms:
+  - articulationes-metacarpophalangeales-ii-v
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-flexor-digitorum-superficialis
+  wrong_terms:
+  - musculus-flexor-pollicis-longus
+  - musculus-pronator-teres
+  - musculus-flexor-carpi-ulnaris
+  - musculus-flexor-carpi-radialis
+  - musculus-opponens-pollicis
+- concepts:
+  - nervus-radialis
+  - musculus-triceps-brachii
+  exercise: question_bank
+  question:
+    de: Die Schädigung wessen Nerven führt typischerweise dazu, dass der Ellenbogen
+      nicht mehr gestreckt werden kann, da der Trizeps (Musculus triceps brachii)
+      nicht mehr innerviert wird?
+    en: The damage of which nerve typically results in an inability to extend the
+      elbow due to denervation of the triceps brachii muscle?
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - median-nerve
+  - axillary-nerve
+  - nervus-ulnaris
+  - musculocutaneous-nerve
+  question_uuid: 1d61190b944b725c6d8717dde3eee05
+- terms:
+  - musculus-flexor-digitorum-profundus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - margo-anterior-ulnae
+  - membrana-interossea-antebrachii
+  wrong_terms:
+  - crista-supracondylaris-medialis
+  - margo-anterior-radii
+  - collum-radii
+  - facies-lateralis-radii
+- terms:
+  - musculus-flexor-digitorum-profundus
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - phalanges-distales-ii-v
+  wrong_terms:
+  - ossa-metacarpalia
+  - margo-posterior-radii
+  - phalanges-mediae-der-hand
+  - phalanges-proximales-der-hand
+  - margo-anterior-radii
+- terms:
+  - musculus-flexor-digitorum-profundus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-medianus
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-pronator-quadratus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - margo-anterior-ulnae
+  wrong_terms:
+  - processus-styloideus-ulnae
+  - margo-anterior-radii
+  - tuberositas-ulnae
+  - membrana-interossea-antebrachii
+  - facies-lateralis-radii
+- terms:
+  - musculus-pronator-quadratus
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - margo-anterior-radii
+  wrong_terms:
+  - processus-styloideus-ulnae
+  - margo-anterior-ulnae
+  - margo-posterior-radii
+  - membrana-interossea-antebrachii
+  - facies-lateralis-radii
+- terms:
+  - musculus-pronator-quadratus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-medianus
+  wrong_terms:
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - hand
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-flexor-pollicis-longus
+  - musculus-flexor-digitorum-profundus
+  wrong_terms:
+  - musculus-coracobrachialis
+  - musculus-pronator-teres
+  - musculus-extensor-carpi-radialis-brevis
+  - musculus-extensor-carpi-radialis-longus
+- terms:
+  - articulationes-interphalangeales-distales-ii-v
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-flexor-digitorum-profundus
+  wrong_terms:
+  - musculus-flexor-pollicis-longus
+  - musculus-extensor-carpi-radialis-brevis
+  - musculus-flexor-digiti-minimi
+  - musculus-pronator-teres
+  - musculus-pronator-quadratus
+- terms:
+  - articulationes-metacarpophalangeales-ii-v
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-flexor-digitorum-profundus
+  wrong_terms:
+  - musculus-flexor-pollicis-longus
+  - musculus-pronator-quadratus
+  - musculus-flexor-carpi-ulnaris
+  - musculus-coracobrachialis
+  - musculus-flexor-digiti-minimi
+- terms:
+  - forearm
+  exercise: multiple_choice_image
+  relation: pronates_the
+  right_terms:
+  - musculus-pronator-quadratus
+  wrong_terms:
+  - musculus-biceps-brachii
+  - musculus-flexor-digitorum-superficialis
+  - musculus-flexor-digiti-minimi
+  - musculus-flexor-digitorum-profundus
+  - musculus-flexor-pollicis-longus
+- terms:
+  - musculus-extensor-digitorum
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - epicondylus-lateralis-humeri
+  wrong_terms:
+  - crista-supracondylaris-medialis
+  - corpus-humeri
+  - capitulum-humeri
+  - epicondylus-medialis-humeri
+  - crista-supracondylaris-lateralis
+- terms:
+  - musculus-extensor-digitorum
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - basis-phalanges-mediae-ii-v
+  - basis-phalanges-distales-ii-v
+  wrong_terms:
+  - margo-anterior-ulnae
+  - margo-posterior-radii
+  - processus-styloideus-ulnae
+  - facies-posterior-ulnae
+- terms:
+  - musculus-extensor-digitorum
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - nervus-medianus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-extensor-carpi-ulnaris
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - epicondylus-lateralis-humeri
+  - facies-posterior-ulnae
+  wrong_terms:
+  - crista-supracondylaris-medialis
+  - corpus-humeri
+  - epicondylus-medialis-humeri
+  - crista-supracondylaris-lateralis
+- terms:
+  - musculus-extensor-carpi-ulnaris
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - basis-ossis-metacarpi-v
+  wrong_terms:
+  - basis-phalangis-proximalis-i
+  - margo-posterior-radii
+  - processus-styloideus-ulnae
+  - facies-posterior-ulnae
+  - basis-ossis-metacarpi-i
+- terms:
+  - musculus-extensor-carpi-ulnaris
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - nervus-medianus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - hand
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-extensor-carpi-ulnaris
+  wrong_terms:
+  - musculus-flexor-pollicis-longus
+  - musculus-extensor-hallucis-longus
+  - musculus-triceps-brachii
+  - musculus-palmaris-longus
+  - musculus-pronator-teres
+- terms:
+  - hand
+  exercise: multiple_choice_image
+  relation: adducts_the
+  right_terms:
+  - musculus-extensor-carpi-ulnaris
+  - musculus-extensor-digiti-minimi
+  wrong_terms:
+  - musculus-extensor-digitorum
+  - musculus-palmaris-longus
+  - musculus-supinator
+  - musculus-pronator-teres
+- terms:
+  - hand
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-extensor-digiti-minimi
+  - musculus-extensor-digitorum
+  wrong_terms:
+  - musculus-triceps-brachii
+  - musculus-extensor-hallucis-longus
+  - musculus-opponens-pollicis
+  - musculus-opponens-digiti-minimi
+- terms:
+  - fingers-ii-v
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-extensor-digitorum
+  wrong_terms:
+  - musculus-extensor-hallucis-longus
+  - musculus-flexor-digitorum-superficialis
+  - musculus-palmaris-longus
+  - musculus-extensor-pollicis-longus
+  - musculus-extensor-pollicis-brevis
+- terms:
+  - hand
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-extensor-digitorum
+  - musculus-extensor-digiti-minimi
+  wrong_terms:
+  - musculus-flexor-digitorum-superficialis
+  - musculus-pronator-teres
+  - musculus-supinator
+  - musculus-flexor-carpi-ulnaris
+- terms:
+  - musculus-supinator
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - epicondylus-lateralis-humeri
+  - ligamentum-collaterale-radiale
+  - ligamentum-anulare-radii
+  - supinator-crest-1
+  wrong_terms:
+  - epicondylus-medialis-humeri
+  - crista-supracondylaris-lateralis
+- terms:
+  - musculus-supinator
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - facies-lateralis-radii
+  wrong_terms:
+  - margo-anterior-ulnae
+  - processus-styloideus-ulnae
+  - basis-ossis-metacarpi-iii
+  - facies-posterior-ulnae
+  - collum-radii
+- terms:
+  - musculus-supinator
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - nervus-medianus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-extensor-pollicis-brevis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - facies-posterior-radii
+  - membrana-interossea-antebrachii
+  wrong_terms:
+  - facies-posterior-ulnae
+  - facies-lateralis-radii
+  - epicondylus-medialis-humeri
+  - crista-supracondylaris-lateralis
+- terms:
+  - musculus-extensor-pollicis-brevis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - basis-phalangis-proximalis-i
+  wrong_terms:
+  - basis-ossis-metacarpi-i
+  - basis-ossis-metacarpi-iii
+  - processus-styloideus-ulnae
+  - facies-posterior-ulnae
+  - aponeurosis-dorsalis-digiti-v
+- terms:
+  - musculus-extensor-pollicis-brevis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - nervus-medianus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-extensor-pollicis-longus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - facies-posterior-ulnae
+  - membrana-interossea-antebrachii
+  wrong_terms:
+  - facies-posterior-radii
+  - olecranon
+  - facies-lateralis-radii
+  - crista-supracondylaris-lateralis
+- terms:
+  - musculus-extensor-pollicis-longus
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - basis-phalangis-distalis-i
+  wrong_terms:
+  - basis-ossis-metacarpi-i
+  - basis-phalanges-distales-ii-v
+  - processus-styloideus-ulnae
+  - basis-phalangis-proximalis-i
+  - aponeurosis-dorsalis-digiti-v
+- terms:
+  - musculus-extensor-pollicis-longus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - nervus-medianus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - hand
+  exercise: multiple_choice_image
+  relation: abducts_the
+  right_terms:
+  - musculus-abductor-pollicis-longus
+  - musculus-extensor-pollicis-brevis
+  - musculus-extensor-pollicis-longus
+  wrong_terms:
+  - musculus-supinator
+  - musculus-extensor-hallucis-longus
+  - musculus-extensor-indicis
+- terms:
+  - hand
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-extensor-indicis
+  - musculus-extensor-pollicis-longus
+  wrong_terms:
+  - musculus-flexor-digitorum-superficialis
+  - musculus-flexor-carpi-radialis
+  - musculus-extensor-pollicis-brevis
+  - musculus-palmaris-longus
+- terms:
+  - articulatio-carpometacarpalis-pollicis
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-extensor-pollicis-brevis
+  - musculus-extensor-pollicis-longus
+  wrong_terms:
+  - musculus-supinator
+  - musculus-flexor-digitorum-superficialis
+  - musculus-palmaris-longus
+  - musculus-extensor-carpi-radialis-brevis
+- terms:
+  - articulatio-metacarpophalangealis-pollicis
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-extensor-pollicis-brevis
+  - musculus-extensor-pollicis-longus
+  wrong_terms:
+  - musculus-flexor-digitorum-profundus
+  - musculus-extensor-indicis
+  - musculus-palmaris-longus
+  - musculus-extensor-carpi-radialis-brevis
+- terms:
+  - articulatio-carpometacarpalis-pollicis
+  exercise: multiple_choice_image
+  relation: adducts_the
+  right_terms:
+  - musculus-extensor-pollicis-longus
+  wrong_terms:
+  - musculus-biceps-brachii
+  - musculus-palmaris-longus
+  - musculus-flexor-digitorum-superficialis
+  - musculus-supinator
+  - musculus-extensor-carpi-ulnaris
+- terms:
+  - articulatio-interphalangealis-pollicis
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-extensor-pollicis-longus
+  wrong_terms:
+  - musculus-palmaris-longus
+  - musculus-flexor-digitorum-superficialis
+  - musculus-pronator-teres
+  - musculus-extensor-digitorum
+  - musculus-extensor-carpi-radialis-brevis
+- terms:
+  - articulatio-radioulnaris
+  exercise: multiple_choice_image
+  relation: supinates_the
+  right_terms:
+  - musculus-supinator
+  - musculus-biceps-brachii
+  wrong_terms:
+  - musculus-pronator-teres
+  - musculus-triceps-brachii
+  - musculus-pronator-quadratus
+  - musculus-extensor-carpi-radialis-brevis
+- terms:
+  - musculus-adductor-pollicis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - os-metacarpale-iii
+  - basis-ossis-metacarpi-ii
+  - os-capitatum
+  wrong_terms:
+  - os-trapezium
+  - os-hamatum
+  - ligamentum-ulnocarpale-palmare
+- terms:
+  - musculus-adductor-pollicis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - basis-phalangis-proximalis-i
+  - os-sesamoideum-ulnaris
+  wrong_terms:
+  - os-metacarpale-i
+  - basis-phalangis-distalis-i
+  - ligamentum-radiocarpale-palmare
+  - retinaculum-flexorum
+- terms:
+  - musculus-adductor-pollicis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - ramus-profundus-nervi-ulnaris
+  wrong_terms:
+  - nervus-medianus
+  - nervi-digitales-proprii-nervi-medianus
+  - nervus-musculocutaneus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-flexor-pollicis-brevis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - os-trapezium
+  - os-trapezoideum
+  - retinaculum-flexorum
+  - capitate-bone
+  wrong_terms:
+  - os-scaphoideum
+  - os-hamatum
+- terms:
+  - musculus-flexor-pollicis-brevis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - basis-phalangis-proximalis-i
+  - os-sesamoideum-radialis
+  wrong_terms:
+  - os-metacarpale-i
+  - basis-phalangis-distalis-i
+  - retinaculum-flexorum
+  - ligamentum-radiocarpale-palmare
+- terms:
+  - musculus-flexor-pollicis-brevis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-medianus
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - articulatio-carpometacarpalis-pollicis
+  exercise: multiple_choice_image
+  relation: adducts_the
+  right_terms:
+  - musculus-adductor-pollicis
+  wrong_terms:
+  - musculus-abductor-pollicis-brevis
+  - musculus-opponens-pollicis
+  - musculus-extensor-carpi-radialis-brevis
+  - musculus-adductor-magnus
+  - musculus-flexor-digitorum-profundus
+- terms:
+  - articulatio-metacarpophalangealis-pollicis
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-adductor-pollicis
+  - musculus-flexor-pollicis-longus
+  - musculus-flexor-pollicis-brevis
+  wrong_terms:
+  - musculus-opponens-pollicis
+  - musculus-abductor-pollicis-brevis
+  - musculus-pronator-quadratus
+- terms:
+  - articulatio-carpometacarpalis-pollicis
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-flexor-pollicis-longus
+  - musculus-flexor-pollicis-brevis
+  wrong_terms:
+  - musculus-flexor-digitorum-profundus
+  - musculus-flexor-digiti-minimi
+  - musculus-flexor-carpi-ulnaris
+  - musculus-abductor-pollicis-longus
+- terms:
+  - musculus-flexor-digiti-minimi
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - hamulus-ossis-hamati
+  - retinaculum-flexorum
+  wrong_terms:
+  - basis-ossis-metacarpi-v
+  - os-trapezium
+  - os-triquetrum
+  - ligamentum-ulnocarpale-palmare
+- terms:
+  - musculus-flexor-digiti-minimi
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - basis-phalangis-proximalis-v
+  wrong_terms:
+  - ligamentum-metacarpale-transversum-profundum
+  - os-metacarpale-v
+  - os-hamatum
+  - retinaculum-flexorum
+  - ligamentum-ulnocarpale-palmare
+- terms:
+  - musculus-flexor-digiti-minimi
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-medianus
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-abductor-digiti-minimi-hand
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - os-pisiforme
+  wrong_terms:
+  - hamulus-ossis-hamati
+  - basis-ossis-metacarpi-v
+  - os-trapezium
+  - aponeurosis-palmaris
+  - ligamentum-ulnocarpale-palmare
+- terms:
+  - musculus-abductor-digiti-minimi-hand
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - basis-phalangis-proximalis-v
+  - aponeurosis-dorsalis-digiti-v
+  wrong_terms:
+  - ligamentum-metacarpale-transversum-profundum
+  - aponeurosis-palmaris
+  - os-metacarpale-v
+  - ligamentum-ulnocarpale-palmare
+- terms:
+  - musculus-abductor-digiti-minimi-hand
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-medianus
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculus-palmaris-brevis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - aponeurosis-palmaris
+  wrong_terms:
+  - hamulus-ossis-hamati
+  - basis-ossis-metacarpi-v
+  - os-trapezium
+  - os-triquetrum
+  - ligamentum-ulnocarpale-palmare
+- terms:
+  - musculus-palmaris-brevis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - hypothenar-region
+  wrong_terms:
+  - ligamentum-metacarpale-transversum-profundum
+  - basis-phalangis-proximalis-v
+  - aponeurosis-dorsalis-digiti-v
+  - os-metacarpale-v
+  - ligamentum-ulnocarpale-palmare
+- terms:
+  - musculus-palmaris-brevis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-medianus
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - finger-v
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-abductor-digiti-minimi-hand
+  - musculus-flexor-digiti-minimi
+  - musculus-opponens-digiti-minimi
+  wrong_terms:
+  - musculus-palmaris-brevis
+  - musculus-extensor-carpi-ulnaris
+  - musculus-opponens-pollicis
+- terms:
+  - finger-v
+  exercise: multiple_choice_image
+  relation: abducts_the
+  right_terms:
+  - musculus-abductor-digiti-minimi-hand
+  wrong_terms:
+  - musculus-abductor-pollicis-brevis
+  - musculus-opponens-pollicis
+  - musculus-extensor-carpi-radialis-brevis
+  - musculus-palmaris-longus
+  - musculus-flexor-digitorum-profundus
+- terms:
+  - articulatio-metacarpophalangealis-v
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-flexor-digiti-minimi
+  - musculus-abductor-digiti-minimi-hand
+  wrong_terms:
+  - musculus-opponens-digiti-minimi
+  - musculus-flexor-pollicis-longus
+  - musculus-opponens-pollicis
+  - musculus-pronator-quadratus
+- terms:
+  - aponeurosis-palmaris
+  exercise: multiple_choice_image
+  relation: tightens_the
+  right_terms:
+  - musculus-palmaris-brevis
+  wrong_terms:
+  - musculus-pronator-teres
+  - musculus-flexor-carpi-ulnaris
+  - musculus-abductor-pollicis-brevis
+  - musculus-flexor-digiti-minimi
+  - musculus-biceps-brachii
+- terms:
+  - musculi-lumbricales-hand
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - tendo-musculus-flexor-digitorum-profundus
+  wrong_terms:
+  - phalanges-proximales-der-hand
+  - ossa-metacarpalia
+  - ligamentum-ulnocarpale-palmare
+  - aponeurosis-palmaris
+  - retinaculum-flexorum
+- terms:
+  - musculi-interossei-dorsales-hand
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - ossa-metacarpalia
+  wrong_terms:
+  - phalanges-proximales-der-hand
+  - tendo-musculus-flexor-digitorum-profundus
+  - ligamentum-ulnocarpale-palmare
+  - aponeurosis-palmaris
+  - retinaculum-flexorum
+- terms:
+  - musculi-interossei-dorsales-hand
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-medianus
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - musculi-interossei-palmares
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - ossa-metacarpalia
+  wrong_terms:
+  - phalanges-proximales-der-hand
+  - tendo-musculus-flexor-digitorum-profundus
+  - ligamentum-ulnocarpale-palmare
+  - aponeurosis-palmaris
+  - retinaculum-flexorum
+- terms:
+  - musculi-interossei-palmares
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-medianus
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - ramus-superficialis-des-nervus-radialis
+  - nervus-cutaneus-antebrachii-posterior
+- terms:
+  - articulationes-metacarpophalangeales-ii-v
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculi-interossei-dorsales-hand
+  - musculi-lumbricales-hand
+  wrong_terms:
+  - musculus-adductor-pollicis
+  - musculus-palmaris-longus
+  - musculus-flexor-pollicis-brevis
+  - musculus-opponens-pollicis
+- terms:
+  - articulationes-interphalangeales-proximales-ii-v
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculi-interossei-dorsales-hand
+  - musculi-lumbricales-hand
+  wrong_terms:
+  - musculus-abductor-pollicis-brevis
+  - musculus-extensor-carpi-radialis-brevis
+  - musculi-interossei-palmares
+  - musculus-flexor-digitorum-profundus
+- terms:
+  - articulationes-interphalangeales-distales-ii-v
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculi-interossei-dorsales-hand
+  - musculi-lumbricales-hand
+  wrong_terms:
+  - musculus-flexor-pollicis-brevis
+  - musculi-interossei-palmares
+  - musculus-abductor-pollicis-brevis
+  - musculus-pronator-quadratus
+- terms:
+  - fingers-ii-v
+  exercise: multiple_choice_image
+  relation: abducts_the
+  right_terms:
+  - musculi-interossei-dorsales-hand
+  wrong_terms:
+  - musculus-flexor-digitorum-profundus
+  - musculus-flexor-digiti-minimi
+  - musculus-pronator-teres
+  - musculus-flexor-carpi-ulnaris
+  - musculus-abductor-pollicis-longus
+- terms:
+  - articulationes-metacarpophalangeales-ii-et-iv-v
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculi-interossei-palmares
+  wrong_terms:
+  - musculus-palmaris-longus
+  - musculus-pronator-quadratus
+  - musculus-flexor-carpi-ulnaris
+  - musculus-abductor-pollicis-brevis
+  - musculus-flexor-digiti-minimi
+- terms:
+  - articulationes-interphalangeales-proximales-ii-et-iv-v
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculi-interossei-palmares
+  wrong_terms:
+  - musculus-opponens-digiti-minimi
+  - musculus-abductor-pollicis-longus
+  - m-flexor-hallucis-brevis
+  - musculus-flexor-digitorum-profundus
+  - musculus-flexor-digiti-minimi
+- terms:
+  - articulationes-interphalangeales-distales-ii-et-iv-v
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculi-interossei-palmares
+  wrong_terms:
+  - m-flexor-hallucis-brevis
+  - musculus-pronator-teres
+  - musculus-flexor-digitorum-profundus
+  - musculus-flexor-digiti-minimi
+  - musculus-opponens-digiti-minimi

@@ -1,0 +1,743 @@
+---
+- terms:
+  - arteria-transversa-colli
+  - arteria-occipitalis
+  exercise: easy
+- terms:
+  - arteria-vertebralis
+  - vena-cervicalis-profunda
+  exercise: easy
+- terms:
+  - vena-occipitalis
+  - nervus-occipitalis-major
+  exercise: easy
+- terms:
+  - nervus-occipitalis-minor
+  - nervus-suboccipitalis
+  exercise: easy
+- terms:
+  - arteria-transversa-colli
+  - arteria-occipitalis
+  - arteria-vertebralis
+  - vena-cervicalis-profunda
+  exercise: four_one
+- terms:
+  - vena-occipitalis
+  - nervus-occipitalis-major
+  - nervus-occipitalis-minor
+  - nervus-suboccipitalis
+  exercise: four_one
+- terms:
+  - arteria-transversa-colli
+  - arteria-occipitalis
+  - arteria-vertebralis
+  - vena-cervicalis-profunda
+  exercise: identify_image
+- terms:
+  - vena-occipitalis
+  - nervus-occipitalis-major
+  - nervus-occipitalis-minor
+  - nervus-suboccipitalis
+  exercise: identify_image
+- terms:
+  - arteria-transversa-colli
+  - arteria-subcostalis
+  exercise: easy
+- terms:
+  - arteriae-intercostales-posteriores
+  - arteriae-lumbales
+  exercise: easy
+- terms:
+  - vena-subcostalis
+  - venae-intercostales-posteriores
+  exercise: easy
+- terms:
+  - venae-lumbales
+  - nervi-intercostales
+  exercise: easy
+- terms:
+  - arteria-transversa-colli
+  - arteria-subcostalis
+  - arteriae-intercostales-posteriores
+  - arteriae-lumbales
+  exercise: four_one
+- terms:
+  - vena-subcostalis
+  - venae-intercostales-posteriores
+  - venae-lumbales
+  - nervi-intercostales
+  exercise: four_one
+- terms:
+  - arteria-transversa-colli
+  - arteria-subcostalis
+  - arteriae-intercostales-posteriores
+  - arteriae-lumbales
+  exercise: identify_image
+- terms:
+  - vena-subcostalis
+  - venae-intercostales-posteriores
+  - venae-lumbales
+  - nervi-intercostales
+  exercise: identify_image
+- terms:
+  - nervi-supraclaviculares
+  - rami-cutanei-laterales-nervi-intercostales
+  exercise: easy
+- terms:
+  - venae-lumbales
+  - nervi-intercostales
+  exercise: easy
+- terms:
+  - arteriae-intercostales-posteriores
+  - arteriae-lumbales
+  exercise: easy
+- terms:
+  - arteria-vertebralis
+  - vena-cervicalis-profunda
+  exercise: easy
+- terms:
+  - nervi-supraclaviculares
+  - rami-cutanei-laterales-nervi-intercostales
+  - venae-lumbales
+  - nervi-intercostales
+  exercise: four_one
+- terms:
+  - arteriae-intercostales-posteriores
+  - arteriae-lumbales
+  - arteria-vertebralis
+  - vena-cervicalis-profunda
+  exercise: four_one
+- terms:
+  - arteriae-intercostales-posteriores
+  - arteriae-lumbales
+  - arteria-vertebralis
+  - vena-cervicalis-profunda
+  exercise: identify_image
+- terms:
+  - nervi-supraclaviculares
+  - rami-cutanei-laterales-nervi-intercostales
+  - venae-lumbales
+  - nervi-intercostales
+  exercise: identify_image
+- terms:
+  - arteria-transversa-colli
+  exercise: spell_term
+- terms:
+  - arteria-occipitalis
+  exercise: spell_term
+- terms:
+  - arteria-vertebralis
+  exercise: spell_term
+- terms:
+  - vena-cervicalis-profunda
+  exercise: spell_term
+- terms:
+  - vena-occipitalis
+  exercise: spell_term
+- terms:
+  - nervus-occipitalis-major
+  exercise: spell_term
+- terms:
+  - nervus-occipitalis-minor
+  exercise: spell_term
+- terms:
+  - nervus-suboccipitalis
+  exercise: spell_term
+- terms:
+  - arteria-subcostalis
+  exercise: spell_term
+- terms:
+  - arteriae-intercostales-posteriores
+  exercise: spell_term
+- terms:
+  - arteriae-lumbales
+  exercise: spell_term
+- terms:
+  - vena-subcostalis
+  exercise: spell_term
+- terms:
+  - venae-intercostales-posteriores
+  exercise: spell_term
+- terms:
+  - venae-lumbales
+  exercise: spell_term
+- terms:
+  - nervi-intercostales
+  exercise: spell_term
+- terms:
+  - nervi-supraclaviculares
+  exercise: spell_term
+- terms:
+  - rami-cutanei-laterales-nervi-intercostales
+  exercise: spell_term
+- concepts:
+  - arteria-vertebralis
+  - arteria-occipitalis
+  exercise: question_bank
+  question:
+    de: Von welchen Arterien werden die subokzipitalen Muskeln versorgt?
+    en: The suboccipital muscles are supplied by which arteries?
+  right_terms:
+  - arteria-vertebralis
+  - arteria-occipitalis
+  wrong_terms:
+  - arteria-spinalis-anterior
+  - arteriae-intercostales-posteriores-4
+  - ramus-anterior-nervi-spinalis-2
+  question_uuid: 779da708813c7019fd2d834240749a3
+- concepts:
+  - nervi-supraclaviculares
+  - nervi-supraclaviculares-2
+  exercise: question_bank
+  question:
+    de: Welche Nerven entspringen aus dem dritten und vierten Zervikalnerven und durchdringen
+      die Faszie nahe des Schlüsselbeins, um sich schließlich in eine anteriore, eine
+      mittlere und eine posteriore Gruppe von sensiblen Nervenästen aufzuteilen?
+    en: Which nerves arise from the third and fourth cervical nerves and pierce the
+      fascia near the clavicula to split into an anterior, middle and posterior group
+      of sensory nerves?
+  right_terms:
+  - nervi-supraclaviculares
+  wrong_terms:
+  - nervus-dorsalis-scapulae
+  - nervus-thoracicus-longus
+  - nervus-suprascapularis
+  - nervus-subclavius
+  question_uuid: 9ce90f9e05892896ab5b703964a3ba5
+- terms:
+  - musculus-rectus-capitis-posterior-minor
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-suboccipitalis
+  wrong_terms:
+  - nervus-occipitalis-minor
+  - nervus-occipitalis-major
+  - nervus-facialis
+  - nervus-hypoglossus
+  - nervus-accessorius-2
+- terms:
+  - musculus-rectus-capitis-posterior-major
+  exercise: multiple_choice_text
+  relation: innervation_of
+  right_terms:
+  - nervus-suboccipitalis
+  wrong_terms:
+  - nervus-occipitalis-minor
+  - nervus-occipitalis-major
+  - nervus-spinalis-c2
+  - nervus-hypoglossus
+  - nervus-accessorius-2
+- terms:
+  - musculus-obliquus-capitis-inferior
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-suboccipitalis
+  wrong_terms:
+  - nervus-occipitalis-minor
+  - nervus-occipitalis-major
+  - nervi-supraclaviculares
+  - nervus-hypoglossus
+  - nervus-subscapularis
+- terms:
+  - musculus-obliquus-capitis-superior
+  exercise: multiple_choice_text
+  relation: innervation_of
+  right_terms:
+  - nervus-suboccipitalis
+  wrong_terms:
+  - nervus-phrenicus
+  - nervus-occipitalis-major
+  - nervi-supraclaviculares
+  - nervus-hypoglossus
+  - nervus-subscapularis
+- concepts:
+  - nervus-occipitalis-minor
+  - nervus-auricularis-magnus
+  - nervus-transversus-colli
+  exercise: question_bank
+  question:
+    de: Welche dieser sensiblen Hautnerven entstehen aus den Verbindungen zwischen
+      den Spinalnerven C2 und C3?
+    en: Which of these sensory cutaneous nerves originate from the loops formed between
+      C2 and C3?
+  right_terms:
+  - nervus-occipitalis-minor
+  - nervus-auricularis-magnus
+  - nervus-transversus-colli
+  wrong_terms:
+  - ansa-cervicalis
+  - nervus-phrenicus
+  question_uuid: dd432c3599cc57652f3ead93ba6c40a
+- concepts:
+  - plexus-cervicalis
+  - nervus-occipitalis-minor
+  exercise: question_bank
+  question:
+    de: Welcher dieser sensiblen Hautnerven entsteht aus den Verbindungen zwischen
+      den Spinalnerven C2 und C3 des Plexus cervicalis?
+    en: Which of these is a sensory cutaneous nerve is a branch from the loop between
+      C2 and C3 of the cervical plexus (plexus cervicalis)?
+  right_terms:
+  - nervus-occipitalis-minor
+  wrong_terms:
+  - nervi-supraclaviculares
+  - nervus-dorsalis-scapulae
+  - nervus-suprascapularis
+  - nervus-subscapularis
+  question_uuid: c10c979d2ff8e0e84f8494deb61d6e5
+- concepts:
+  - arteria-subclavia
+  - arteria-thoracica-interna
+  - arteria-vertebralis
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Arterien sind Äste der Unterschlüsselbeinarterie (Arteria
+      subclavia)?
+    en: Which of the following arteries are branches of the subclavian artery (arteria
+      subclavia)?
+  right_terms:
+  - arteria-thoracica-interna
+  - arteria-vertebralis
+  wrong_terms:
+  - arteria-carotis-interna
+  - arteria-carotis-externa
+  - arteria-thyroidea-inferior
+  question_uuid: 0c15f9fecfad18360cd27fc3bda103d
+- concepts:
+  - aorta-thoracica
+  - arteriae-intercostales-posteriores
+  exercise: question_bank
+  question:
+    de: Aus welcher Arterie entspringen die unteren neun Zwischenrippenarterien (Arteriae
+      intercostales posteriores)?
+    en: From which artery do the lower nine posterior intercostal arteries (arteriae
+      intercostales posteriores) arise?
+  right_terms:
+  - aorta-thoracica
+  wrong_terms:
+  - internal-thoracic-artery-4
+  - arteria-thoracica-lateralis
+  - subclavian-artery-4
+  - celiac-trunk
+  question_uuid: 91e8ab8bfb843b0cf5c25a6235d1d68
+- concepts:
+  - spinal-cord-4
+  - foramen-magnum
+  exercise: question_bank
+  question:
+    de: Welche dieser Strukturen betreten oder verlassen den Schädel über das Foramen
+      magnum (großes Loch)?
+    en: Which of the following structures enter or exit the skull via the foramen
+      magnum?
+  right_terms:
+  - spinal-cord-4
+  - arteria-vertebralis
+  wrong_terms:
+  - nervus-facialis-2
+  - nervus-vagus-4
+  - arteria-carotis-interna
+  question_uuid: 9a44ad1912ca5ef7e0d2499dddc6160
+- terms:
+  - musculi-intercostales-externi
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervi-intercostales
+  wrong_terms:
+  - nervus-thoracicus-longus
+  - nervus-thoracodorsalis
+  - nervus-ischiadicus
+  - nervus-radialis
+  - nervus-axillaris
+- concepts:
+  - nervi-supraclaviculares
+  - musculus-sternocleidomastoideus
+  - sternocleidomastoid-muscle-12
+  - sternocleidomastoid-muscle-39
+  exercise: question_bank
+  question:
+    de: Ein junger Mann wird oberflächlich mit einem Messer am Hals verletzt. Die
+      Wunde liegt direkt hinter dem Musculus sternocleidomastoideus (Kopfwender) und
+      wenige Zentimeter über dem Schlüsselbein (Clavicula). Bei der Untersuchung gibt
+      er ein Taubheitsgefühl der Haut unter der Wunde, über dem Acromion (Schulterdach)
+      und über dem Schlüsselbein an. Welche Nerven wurden am wahrscheinlichsten verletzt?
+    en: A young man receives a shallow knife wound just behind the sternocleidomastoid
+      muscle and above the clavicle. Upon examination he states a numbness of the
+      skin below the wound and over the acromion and clavicle. Which nerves were most
+      likely injured?
+  right_terms:
+  - nervi-supraclaviculares
+  wrong_terms:
+  - transverse-cervical-nerve-3
+  - ansa-cervicalis
+  - anterior-cervical-cutaneous-nerve
+  - nervus-suprascapularis
+  question_uuid: ab54ce61fa1ceb28dd379b2d1180102
+- concepts:
+  - arteria-vertebralis
+  - arteria-vertebralis-3
+  exercise: question_bank
+  question:
+    de: Welche Struktur verläuft ab der Höhe des sechsten Halswsirbels (Vertebra cervicalis)
+      aufwärts durch die Querfortsatzlöcher (Foramina transversaria)?
+    en: Which structure enters the transverse foramina (foramina transversaria) at
+      the level of the sixth cervical vertebra and travels upwards?
+  right_terms:
+  - arteria-vertebralis
+  wrong_terms:
+  - arteria-submentalis
+  - arteria-lingualis
+  - arteria-facialis
+  - arteria-carotis-communis
+  question_uuid: 3b6cf83d227be52dd908c0669a208ea
+- terms:
+  - musculi-intercostales-interni
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervi-intercostales
+  wrong_terms:
+  - nervus-thoracicus-longus
+  - nervus-thoracodorsalis
+  - nervus-pectoralis-lateralis
+  - nervus-pectoralis-medialis
+  - nervus-dorsalis-scapulae
+- terms:
+  - musculi-subcostales
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervi-intercostales
+  wrong_terms:
+  - nervus-pectoralis-medialis
+  - nervus-subclavius
+  - nervus-pectoralis-lateralis
+  - nervus-thoracicus-longus
+  - nervus-suprascapularis
+- concepts:
+  - nervus-occipitalis-minor-2
+  exercise: question_bank
+  question:
+    de: Zusammen mit welchem Nerven tritt der Nervus occipitalis major zwischen den
+      ersten beiden Halswirbeln hervor?
+    en: The greater occipital nerve (nervus occipitalis major) emerges between the
+      first two cervical vertebrae along with which other nerve?
+  right_terms:
+  - nervus-occipitalis-minor
+  wrong_terms:
+  - nervus-supraorbitalis
+  - nervus-auricularis-magnus
+  - nervus-infratrochlearis
+  - nervus-auriculotemporalis
+  question_uuid: 0336fb7946a9b83fc8608e70980ac8e
+- concepts:
+  - nervus-occipitalis-major
+  exercise: question_bank
+  question:
+    de: Welcher Nerv tritt gemeinsam mit dem Nervus occipitalis minor zwischen den
+      ersten beiden Halswirbeln hervor?
+    en: Which nerve emerges between the first two cervical vertebrae along with the
+      lesser occipital nerve (nervus occipitalis minor)?
+  right_terms:
+  - nervus-occipitalis-major-2
+  wrong_terms:
+  - nervus-supraorbitalis
+  - nervus-auricularis-magnus
+  - nervus-infratrochlearis
+  - nervus-auriculotemporalis
+  question_uuid: 8f5deaa9a5b0250ff899d32fbf13b48
+- concepts:
+  - nervus-occipitalis-minor
+  exercise: question_bank
+  question:
+    de: Welcher Nerv wird auch "kleiner Hinterhauptnerv" genannt?
+    en: Which nerve is also known as the small occipital nerve?
+  right_terms:
+  - nervus-occipitalis-minor
+  wrong_terms:
+  - nervus-supraorbitalis
+  - nervus-auricularis-magnus
+  - nervus-occipitalis-major
+  - nervus-auriculotemporalis
+  question_uuid: 2c8af1cea1e1365ccffa99e0bfcf2f9
+- concepts:
+  - nervus-occipitalis-minor
+  exercise: question_bank
+  question:
+    de: Welcher Nerv hat seine Wurzel ausschließlich in C1 und verläuft durch das
+      Foramen intervertebrale zwischen zweitem und drittem Halswirbel?
+    en: Which nerve arises only from the root of the first cervical nerve (nervus
+      spinalis C1), and it emerges from the intervertebral foramen (foramen intervertebrale)
+      between the second and third cervical vertebrae?
+  right_terms:
+  - nervus-occipitalis-minor
+  wrong_terms:
+  - nervus-supraorbitalis
+  - nervus-auricularis-magnus
+  - nervus-occipitalis-major
+  - nervus-auriculotemporalis
+  question_uuid: f8b20268dd2d80c610d97f74d3b2ecc
+- concepts:
+  - venae-intercostales-posteriores
+  exercise: question_bank
+  question:
+    de: Die venöse Drainage der Brust geschieht vor allem durch tiefe Venen und die
+      Vena axillaris. Zum kleinen Teil wird die Brust aber auch durch andere Venen
+      drainiert, die mit den Venae vertebralis kommunizieren und daher für metastasierende
+      Tumorzellen einen Weg zur Wirbelsäule darstellt. Wie heißt diese Vene?
+    en: The venous drainage of the breast (mamma) is mainly by deep veins and by the
+      axillary veins (vena axillaris). Some drainage to which vein provides an important
+      link to vertebral veins (vena vertebralis) and hence a pathway to metastatic
+      spread to the vertebral bones?
+  right_terms:
+  - venae-intercostales-posteriores
+  wrong_terms:
+  - vena-colica-media
+  - vena-subclavia
+  - vena-thoracica-lateralis
+  - vena-thoracica-interna
+  question_uuid: 47007ec312d72bf434dc84d33ece9e5
+- concepts:
+  - venae-lumbales
+  exercise: question_bank
+  question:
+    de: Welche Venen münden in der unteren Hohlvene (Vena cava inferior) auf der Höhe
+      des ersten bis fünften Lendenwirbels (L1-5)?
+    en: Which veins join the inferior vena cava (Vena cava inferior) at the level
+      of L1-L5?
+  right_terms:
+  - venae-lumbales
+  wrong_terms:
+  - venae-hepaticae-2
+  - vena-azygos-3
+  - vena-mesenterica-superior-3
+  - vena-mesenterica-inferior
+  question_uuid: 38efe132e73bbb801e951a623b97b8e
+- concepts:
+  - venae-hepaticae-2
+  - venae-lumbales
+  - vena-iliaca-communis
+  exercise: question_bank
+  question:
+    de: Welche Venen (3) münden direkt in der unteren Hohlvene (Vena cava inferior)?
+    en: Which veins (3) drain directly into the inferior vena cava (Vena cava inferior)?
+  right_terms:
+  - venae-hepaticae-2
+  - venae-lumbales
+  - vena-iliaca-communis
+  wrong_terms:
+  - vena-azygos-3
+  - vena-hemiazygos-3
+  question_uuid: 9ba8f35302bba5de54d21ff62c38f79
+- concepts:
+  - aorta-thoracica-6
+  exercise: question_bank
+  question:
+    de: Welche dieser Arterien sind direkte Äste der Aorta thoracica (Brustaorta)?
+    en: Which arteries are direct branches of the thoracic aorta (aorta thoracica)?
+  right_terms:
+  - arteriae-intercostales-posteriores-4
+  - arteria-subcostalis
+  wrong_terms:
+  - arteriae-phrenicae-inferiores
+  - truncus-coeliacus-2
+  - arteria-thoracica-interna
+  question_uuid: 646ad9cc48cf548ed609956bd8a99e0
+- concepts:
+  - nervus-occipitalis-major
+  exercise: question_bank
+  question:
+    de: Welcher Nerv durchbohrt den Musculus trapezius, um dann oberflächlich zu verlaufen
+      und die Haut des Hinterhaupts zu innervieren? Dieser Nerv ist außerdem für die
+      sensible Innervation von Außenohr und Parotis zuständig.
+    en: Which nerve pierces the trapezius muscle (musculus trapezius), and travels
+      superiorly to innervate the skin on the posterior scalp? It also has a sensory
+      function over the ear and parotid glands, as well as the scalp.
+  right_terms:
+  - nervus-occipitalis-major
+  wrong_terms:
+  - nervus-supraorbitalis
+  - nervus-auricularis-magnus
+  - nervus-infratrochlearis
+  - nervus-auriculotemporalis
+  question_uuid: 82bd9e49741c467a54a4528b10ae1fa
+- concepts:
+  - nervus-occipitalis-minor
+  exercise: question_bank
+  question:
+    de: Welcher Nerv versorgt den seitlichen Kopfbereich hinter dem Ohr sensibel?
+    en: The function of which nerve is to provide sensory innervation to the lateral
+      area of the head posterior to the ear?
+  right_terms:
+  - nervus-occipitalis-minor
+  wrong_terms:
+  - nervus-supraorbitalis
+  - nervus-auricularis-magnus
+  - nervus-occipitalis-major
+  - nervus-auriculotemporalis
+  question_uuid: de0eb8294ab3808b344b546a38995a3
+- concepts:
+  - arteria-facialis
+  - arteria-occipitalis
+  exercise: question_bank
+  question:
+    de: Gegenüber welcher Arterie entspringt meist die Arteria occipitalis?
+    en: The occipital artery (arteria occipitalis) most commonly arises opposite to
+      which artery?
+  right_terms:
+  - arteria-facialis
+  wrong_terms:
+  - arteria-angularis
+  - arteria-meningea-media-3
+  - arteria-submentalis
+  - arteria-maxillaris
+  question_uuid: 8d0d7522dbd549ef43fcf99a025db41
+- concepts:
+  - arteria-facialis
+  - arteria-occipitalis
+  exercise: question_bank
+  question:
+    de: Gegenüber welcher Arterie entspringt meist die Arteria facialis?
+    en: Which artery most commonly arises opposite to the facial artery (arteria facialis)?
+  right_terms:
+  - arteria-occipitalis
+  wrong_terms:
+  - arteria-angularis
+  - arteria-meningea-media-3
+  - arteria-submentalis
+  - arteria-maxillaris
+  question_uuid: 15b53ae20406e61fd08b2bd8444bc4f
+- concepts:
+  - arteria-occipitalis
+  - musculus-digastricus
+  exercise: question_bank
+  question:
+    de: Unterhalb des posterioren Anteils von welchem Muskel verläuft die Arteria
+      occipitalis, um die Okzipitalregion zu erreichen?
+    en: The occipital artery (arteria occipitalis) passes underneath the posterior
+      belly of which muscle in order to access the occipital region?
+  right_terms:
+  - musculus-digastricus
+  wrong_terms:
+  - musculus-depressor-labii-inferioris
+  - musculus-procerus
+  - musculus-risorius
+  - musculus-stylohyoideus
+  question_uuid: 480b914fb1b9b8a83fdfd776fd8af8a
+- concepts:
+  - arteria-occipitalis
+  - musculus-sternocleidomastoideus
+  exercise: question_bank
+  question:
+    de: Die Arteria occipitalis versorgt die hintere Kopfhaut sowie Hals- und Rückenmuskeln.
+      Welcher der genannten Muskeln wird von ihr versorgt?
+    en: The occipital artery (arteria occipitalis) supplies the posterior scalp and
+      deep neck and back muscles, including which muscle?
+  right_terms:
+  - musculus-sternocleidomastoideus
+  wrong_terms:
+  - musculus-depressor-labii-inferioris
+  - musculus-orbicularis-oculi
+  - musculus-procerus
+  - musculus-risorius
+  question_uuid: 81575a128e49b3d4f013f7317915951
+- concepts:
+  - arteria-carotis-externa
+  - arteria-occipitalis
+  exercise: question_bank
+  question:
+    de: Der fünfte Ast der Arteria carotis externa ist die
+    en: Which is the fifth branch of the external carotid artery (arteria carotis
+      externa)?
+  right_terms:
+  - arteria-occipitalis
+  wrong_terms:
+  - arteria-maxillaris
+  - arteria-thyroidea-superior
+  - arteria-pharyngea-ascendens
+  - arteria-auricularis-posterior
+  question_uuid: 523470c51269353805a55179f2153d9
+- concepts:
+  - arteria-carotis-externa
+  exercise: question_bank
+  question:
+    de: Welcher Ast der Arteria carotis externa versorgt die hintere Region des Schädels
+      und bildet eine Rinne an der Schädelbasis?
+    en: Which branch of the external carotid artery (arteria carotis externa) supplies
+      the posterior region of the scalp and creates a groove along the base of the
+      skull as it courses?
+  right_terms:
+  - arteria-occipitalis
+  wrong_terms:
+  - arteria-facialis
+  - arteria-auricularis-posterior
+  - arteria-temporalis-superficialis
+  - arteria-maxillaris
+  question_uuid: ab9d61b5870b371c453dd3c7bc3d6c4
+- concepts:
+  - plexus-cervicalis
+  - nervus-occipitalis-minor
+  exercise: question_bank
+  question:
+    de: Welcher Ast des Plexus cervicalis versorgt die Haut der Hinterhauptsgegend
+      und des Nackens, posterosuperior der Clavicula?
+    en: Which branch of the cervical plexus (plexus cervicalis) supplies the skin
+      of the neck and the scalp, posterosuperior to the clavicle (clavicula)?
+  right_terms:
+  - nervus-occipitalis-minor
+  wrong_terms:
+  - nervus-auricularis-magnus
+  - nervi-supraclaviculares
+  - nervus-transversus-colli
+  - nervus-thoracodorsalis
+  question_uuid: 403f914dfb77ea9dca48719c848df68
+- concepts:
+  - nervi-supraclaviculares
+  exercise: question_bank
+  question:
+    de: Welche Äste des Plexus cervicalis wird nur von Ästen aus C3 und C4 gebildet?
+    en: Which branches of the cervical plexus (plexus cervicalis) are formed by just
+      the C3 and C4 nerves?
+  right_terms:
+  - nervi-supraclaviculares
+  wrong_terms:
+  - nervus-auricularis-magnus
+  - nervus-occipitalis-major
+  - nervus-phrenicus
+  - nervus-occipitalis-minor
+  question_uuid: c9aff6ab7b8b3329123783d5f71d937
+- concepts:
+  - nervi-supraclaviculares
+  exercise: question_bank
+  question:
+    de: Welche Nervenäste treten als Truncus communis von unterhalb des Musculus sternocleidomastoideus
+      hervor, bevor sie Äste zur Haut des Halses abgeben?
+    en: Which nerves emerge as a common trunk from under the sternocleidomastoid muscle
+      (musculus sternocleidomastoideus) before sending branches to the skin of the
+      neck?
+  right_terms:
+  - nervi-supraclaviculares
+  wrong_terms:
+  - nervus-transversus-colli
+  - nervus-auricularis-magnus
+  - nervus-occipitalis-minor
+  - nervus-subscapularis
+  question_uuid: 2f32b9d81fc28eb0e698d8cd191a74c
+- concepts:
+  - nervi-supraclaviculares
+  exercise: question_bank
+  question:
+    de: Welche Äste des Plexus cervicalis kreuzen das Schlüsselbein, um die Haut über
+      der Schulter zu versorgen?
+    en: Which branches of the cervical plexus (plexus cervicalis) cross the collarbone
+      to supply the skin over the shoulder?
+  right_terms:
+  - nervi-supraclaviculares
+  wrong_terms:
+  - nervus-transversus-colli
+  - nervus-phrenicus
+  - nervus-auricularis-magnus
+  - nervus-pectoralis-lateralis
+  question_uuid: a7271a2ed59e4712bbf0e78e91fe80d

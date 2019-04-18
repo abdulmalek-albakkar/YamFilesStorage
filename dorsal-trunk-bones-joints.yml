@@ -1,0 +1,917 @@
+---
+- terms:
+  - costae-verae
+  - costae-spuriae
+  exercise: easy
+- terms:
+  - corpus-costae
+  - collum-costae
+  exercise: easy
+- terms:
+  - caput-costae
+  - tuberculum-costae
+  exercise: easy
+- terms:
+  - corpus-claviculae
+  - extremitas-acromialis
+  exercise: easy
+- terms:
+  - costae-verae
+  - costae-spuriae
+  - corpus-costae
+  - collum-costae
+  exercise: four_one
+- terms:
+  - caput-costae
+  - tuberculum-costae
+  - corpus-claviculae
+  - extremitas-acromialis
+  exercise: four_one
+- terms:
+  - costae-verae
+  - costae-spuriae
+  - corpus-costae
+  - collum-costae
+  exercise: identify_image
+- terms:
+  - caput-costae
+  - tuberculum-costae
+  - corpus-claviculae
+  - extremitas-acromialis
+  exercise: identify_image
+- terms:
+  - extremitas-sternalis
+  - vertebrae-cervicales
+  exercise: easy
+- terms:
+  - vertebrae-thoracicae
+  - vertebrae-lumbales
+  exercise: easy
+- terms:
+  - extremitas-sternalis
+  - vertebrae-cervicales
+  - vertebrae-thoracicae
+  - vertebrae-lumbales
+  exercise: four_one
+- terms:
+  - extremitas-sternalis
+  - vertebrae-cervicales
+  - vertebrae-thoracicae
+  - vertebrae-lumbales
+  exercise: identify_image
+- terms:
+  - costae-verae
+  - costae-spuriae
+  exercise: easy
+- terms:
+  - floating-ribs
+  - tuberculum-costae
+  exercise: easy
+- terms:
+  - tuberculum-costae
+  - floating-ribs
+  - costae-spuriae
+  - costae-verae
+  exercise: four_one
+- terms:
+  - floating-ribs
+  - costae-spuriae
+  - tuberculum-costae
+  - costae-verae
+  exercise: identify_image
+- terms:
+  - costae-verae
+  exercise: spell_term
+- terms:
+  - costae-spuriae
+  exercise: spell_term
+- terms:
+  - corpus-costae
+  exercise: spell_term
+- terms:
+  - collum-costae
+  exercise: spell_term
+- terms:
+  - caput-costae
+  exercise: spell_term
+- terms:
+  - tuberculum-costae
+  exercise: spell_term
+- terms:
+  - corpus-claviculae
+  exercise: spell_term
+- terms:
+  - extremitas-acromialis
+  exercise: spell_term
+- terms:
+  - extremitas-sternalis
+  exercise: spell_term
+- terms:
+  - vertebrae-cervicales
+  exercise: spell_term
+- terms:
+  - vertebrae-thoracicae
+  exercise: spell_term
+- terms:
+  - vertebrae-lumbales
+  exercise: spell_term
+- terms:
+  - floating-ribs
+  exercise: spell_term
+- concepts:
+  - ribs
+  - sternum
+  - vertebrae-thoracicae
+  - cartilagines-costales-vii-xii
+  exercise: question_bank
+  question:
+    de: Der Brustkorb wird durch welche anatomischen Strukturen gebildet?
+    en: The thoracic cage is formed by which of the following anatomical features?
+  right_terms:
+  - ribs
+  - sternum
+  - vertebrae-thoracicae
+  - cartilagines-costales-vii-xii
+  wrong_terms:
+  - clavicula-3
+  question_uuid: c5d745bdf54561da7510d3ce18a838c
+- concepts:
+  - sternum
+  - vertebrae-thoracicae
+  exercise: question_bank
+  question:
+    de: Wo setzen alle echten Rippen an?
+    en: All true ribs are attached to the...?
+  right_terms:
+  - sternum
+  - vertebrae-thoracicae
+  wrong_terms:
+  - vertebrae-lumbales
+  - vertebrae-cervicales
+  - costae-spuriae
+  question_uuid: 7f53d6774b56677cf5230a38d79600d
+- concepts:
+  - vertebrae-thoracicae
+  exercise: question_bank
+  question:
+    de: Wo setzen alle falschen Rippen an?
+    en: All false ribs are attached to the...?
+  right_terms:
+  - vertebrae-thoracicae
+  wrong_terms:
+  - vertebrae-lumbales
+  - vertebrae-cervicales
+  - costae-spuriae
+  - sternum
+  question_uuid: ebcc0801c394cb8aaed148f902beba7
+- concepts:
+  - costae-verae
+  exercise: question_bank
+  question:
+    de: Mit welcher Rippengruppe ist das Sternum verbunden?
+    en: The sternum is connected to which of the following groups of ribs?
+  right_terms:
+  - costae-verae
+  wrong_terms:
+  - costae-spuriae
+  - costae-x-xii
+  question_uuid: c3c087cdd61bc578a55900f1971bdfe
+- concepts:
+  - costae-verae
+  exercise: question_bank
+  question:
+    de: Die Rippen 1-7 zählen zu den
+    en: Ribs 1-7 are considered to be
+  right_terms:
+  - costae-verae
+  wrong_terms:
+  - costae-spuriae
+  question_uuid: 159a3656cd3a236b50d085905f78b93
+- concepts:
+  - costae-spuriae
+  exercise: question_bank
+  question:
+    de: Die Rippen 8,9 und 10 zählen zu den
+    en: Ribs 8, 9 and 10 are considered to be...?
+  right_terms:
+  - costae-spuriae
+  wrong_terms:
+  - costae-verae
+  question_uuid: 1ea5f3ae05b079ab8d37c5d80233369
+- concepts:
+  - vertebrae-cervicales
+  - vertebrae-thoracicae
+  - os-coccygis
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Knochen der dorsalen Rumpfwand zählen zu den 'irregulären
+      Knochen'?
+    en: Which of the following bones of the dorsal trunk are considered to be 'irregular'
+      bones?
+  right_terms:
+  - vertebrae-cervicales
+  - vertebrae-thoracicae
+  - os-coccygis
+  wrong_terms:
+  - ribs
+  - sternum
+  - scapula
+  question_uuid: 45c2492e2a218144e05b24b67692b88
+- concepts:
+  - vertebrae-cervicales
+  exercise: question_bank
+  question:
+    de: Bei fixierter Scapula führt eine Kontraktion des Musculus levator scapulae
+      zu einer Lateralflexion der/des
+    en: When the scapula is fixed, contraction of the levator scapulae muscle (musculus
+      levator scapulae) leads to lateral flexion of the
+  right_terms:
+  - vertebrae-cervicales
+  wrong_terms:
+  - vertebrae-lumbales
+  - vertebrae-thoracicae
+  - clavicula-3
+  - sternum
+  question_uuid: d9b60a0cceb34701ae9b1ec849496e4
+- concepts:
+  - vertebrae-thoracicae
+  - fascia-thoracolumbalis
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Strukturen bilden den Ursprung der Pars vertebralis des
+      Musculus latissimus dorsi?
+    en: Which of the following anatomical structures are the origin of the vertebral
+      part of the latissimus dorsi muscle?
+  right_terms:
+  - vertebrae-thoracicae
+  - fascia-thoracolumbalis
+  wrong_terms:
+  - craniovertebral-joints
+  - vertebrae-lumbales
+  - vertebrae-cervicales
+  question_uuid: 8896ec94cfa00b26a4361f2da4f06d9
+- concepts:
+  - vertebrae-thoracicae
+  exercise: question_bank
+  question:
+    de: Die Aktivierung des Musculus serratus posterior superior auf beiden Körperseiten
+      streckt welche anatomische Struktur?
+    en: Activation of the serratus posterior superior muscle on both sides of the
+      body extends which anatomical feature?
+  right_terms:
+  - vertebrae-thoracicae
+  wrong_terms:
+  - ribs
+  - sternum
+  - vertebrae-cervicales
+  question_uuid: 385164896810c0d3b319698431ec7a8
+- concepts:
+  - vertebrae-cervicales
+  - vertebrae-thoracicae
+  exercise: question_bank
+  question:
+    de: Die Musculi rhomboidei erstrecken sich von welchen anatomischen Strukturen
+      bis zur medialen Grenze der Scapula?
+    en: The rhomboid muscles extend from which anatomical structure and on to the
+      medial border of the scapula?
+  right_terms:
+  - vertebrae-cervicales
+  - vertebrae-thoracicae
+  wrong_terms:
+  - scapula
+  - ribs
+  - sternum
+  question_uuid: 55de3cfa8c50214ca383d69ae1c95fc
+- concepts:
+  - ribs
+  - fascia-thoracolumbalis
+  - vertebrae-thoracicae
+  - vertebrae-lumbales
+  exercise: question_bank
+  question:
+    de: Die autochthonen Rückenmuskeln befinden sich in einem osteofibrösen Kanal,
+      der von welchen anatomischen Strukturen begrenzt wird?
+    en: The intrinsic back muscles are located in an osteofibrous canal bounded by
+      which anatomical structures?
+  right_terms:
+  - ribs
+  - fascia-thoracolumbalis
+  - vertebrae-thoracicae
+  - vertebrae-lumbales
+  wrong_terms:
+  - sternum
+  - scapula
+  question_uuid: 03a171698e3b30ef4aafdf8082886ec
+- concepts:
+  - vertebrae-cervicales
+  - vertebrae-lumbales
+  - vertebrae-thoracicae
+  exercise: question_bank
+  question:
+    de: Der mediale Trakt der autochthonen Rückenmuskeln erstreckt sich zwischen den
+      Processus transversi und spinosi der...?
+    en: The medial tract of the intrinsic back muscles extends between the spinal
+      and transverse processes of the...?
+  right_terms:
+  - vertebrae-cervicales
+  - vertebrae-lumbales
+  - vertebrae-thoracicae
+  wrong_terms:
+  - scapula
+  - ribs
+  - sternum
+  question_uuid: 7b6d01f9a7ea79e5ff4a7914bc5369e
+- concepts:
+  - vertebrae-cervicales
+  - vertebrae-lumbales
+  - vertebrae-thoracicae
+  exercise: question_bank
+  question:
+    de: Die autochthonen Rückenmuskeln sind von enormer Bedeutung für die Stabilisierung
+      und Bewegung welcher Strukturen?
+    en: The intrinsic back muscles are essential for the stabilisation and movement
+      of which anatomical features?
+  right_terms:
+  - vertebrae-cervicales
+  - vertebrae-lumbales
+  - vertebrae-thoracicae
+  wrong_terms:
+  - scapula
+  - ribs
+  - clavicula-3
+  question_uuid: c54e69aee1263fd7bdd492759867672
+- concepts:
+  - atlas-2
+  - atlas
+  - atlas-6
+  - vertebrae-cervicales
+  exercise: question_bank
+  question:
+    de: Wie wird der 1. Halswirbel (Vertebra cervicalis I) auch genannt?
+    en: What is the name of the first cervical vertebra (vertebra cervicalis I)?
+  right_terms:
+  - atlas-2
+  wrong_terms:
+  - dens-axis
+  - sacrum-2
+  - axis-2
+  - os-coccygis
+  question_uuid: 4bd15fe4ddb2f0aa0c0aa0f641ae86c
+- concepts:
+  - axis-2
+  - axis-5
+  - axis
+  - vertebrae-cervicales
+  exercise: question_bank
+  question:
+    de: Wie wird der 2. Halswirbel (Vertebra cervicalis II) genannt?
+    en: What is the name of the second cervical vertebra (vertebra cervicalis II)?
+  right_terms:
+  - axis-2
+  wrong_terms:
+  - os-coccygis
+  - atlas-2
+  - sacrum-2
+  - os-ilium
+  question_uuid: 682e07d1716652543ec8e1c2f836061
+- concepts:
+  - atlas-2
+  - atlas
+  - atlas-6
+  - axis-2
+  - axis-5
+  - axis
+  - vertebrae-cervicales
+  - os-occipitale
+  exercise: question_bank
+  question:
+    de: Welche Wirbel bilden zusammen mit dem Hinterhauptbein (Os occipitale) das
+      obere und untere Kopfgelenk?
+    en: What vertebrae form the upper and lower head joints together with the occipital
+      bone?
+  right_terms:
+  - atlas-2
+  - axis-2
+  wrong_terms:
+  - sacrum-2
+  - os-coccygis
+  - talus
+  question_uuid: 63759e139f5ba24565adc7fdd3e2e2b
+- concepts:
+  - thoracic-vertebrae
+  - vertebrae-thoracicae
+  - thoracic-vertebrae-1
+  - corpus-vertebrae
+  exercise: question_bank
+  question:
+    de: Welche Wirbel sind mit den Rippen verbunden?
+    en: What vertebrae are connected to the ribs?
+  right_terms:
+  - thoracic-vertebrae
+  wrong_terms:
+  - lumbar-vertebrae
+  - atlas-2
+  - vertebrae-cervicales
+  - axis-2
+  question_uuid: 93c28c1dff4557b4946dc57cba019c2
+- concepts:
+  - thoracic-vertebrae
+  - vertebrae-thoracicae
+  - thoracic-vertebrae-1
+  - corpus-vertebrae
+  - sternum
+  - sternal-body-5
+  - corpus-sterni
+  - ribs
+  - first-rib-5
+  - costae-verae
+  - costae-spuriae
+  exercise: question_bank
+  question:
+    de: Welche Knochen bilden den Brustkorb (Cavea thoracis)?
+    en: What bones form the thoracic cage (cavea thoracis)?
+  right_terms:
+  - thoracic-vertebrae
+  - sternum
+  - ribs
+  wrong_terms:
+  - vertebrae-cervicales
+  - lumbar-vertebrae
+  question_uuid: 7e2bd9ad077bb69fbcebe8f56ce751e
+- concepts:
+  - cervical-vertebrae
+  - vertebrae-cervicales
+  - cervical-spine
+  - atlas
+  - arcus-anterior-atlantis-2
+  exercise: question_bank
+  question:
+    de: Welcher Abschnitt der Wirbelsäule setzt sich aus sieben Wirbeln zusammen?
+    en: What part of the spine consists of seven vertebrae?
+  right_terms:
+  - cervical-vertebrae
+  wrong_terms:
+  - lumbar-vertebrae
+  - sacrum-2
+  - os-coccygis
+  - thoracic-vertebrae-1
+  question_uuid: e149d8570c720bc7467045c3c736cd8
+- concepts:
+  - thoracic-vertebrae-1
+  - vertebrae-thoracicae
+  - corpus-vertebrae
+  - ligamenta-interspinalia
+  - vertebral-body-3
+  exercise: question_bank
+  question:
+    de: Welcher Abschnitt der Wirbelsäule setzt sich aus zwölf Wirbeln zusammen?
+    en: What part of the spine consists of twelve vertebrae?
+  right_terms:
+  - thoracic-vertebrae-1
+  wrong_terms:
+  - cervical-vertebrae
+  - os-coccygis
+  - sacrum-2
+  - lumbar-vertebrae
+  question_uuid: 922948dbe05efe37410a491c3835fa8
+- concepts:
+  - lumbar-vertebrae
+  - lumbar-vertebrae-1
+  - vertebrae-lumbales
+  - corpus-vertebrae
+  exercise: question_bank
+  question:
+    de: Welcher Abschnitt der Wirbelsäule verbindet den Brustkorb (Cavea thoracis)
+      mit dem Becken (Pelvis)?
+    en: What part of the spine connects the thoracic cage with the pelvis?
+  right_terms:
+  - lumbar-vertebrae
+  wrong_terms:
+  - sacrum-2
+  - cervical-vertebrae
+  - thoracic-vertebrae-1
+  - os-coccygis
+  question_uuid: 76888b561e7d900b6ddf49688ed5e80
+- terms:
+  - vertebrae-cervicales
+  exercise: multiple_choice_image
+  relation: laterally_flexes_the
+  right_terms:
+  - musculus-levator-scapulae
+  wrong_terms:
+  - musculus-serratus-posterior-superior
+  - musculus-rhomboideus-minor
+  - musculus-rhomboideus-major
+  - musculus-latissimus-dorsi
+  - musculus-serratus-posterior-inferior
+- concepts:
+  - seventh-cervical-vertebra
+  - vertebrae-cervicales
+  - vertebra-prominens-2
+  exercise: question_bank
+  question:
+    de: Ein 37-jähriger Mann klagt über Schmerzen in der Halswirbelsäule (Columna
+      vertebralis cervicalis). Bei der klinischen Untersuchung dient der vorstehende
+      Wirbel (Vertebra prominens) als Orientierungspunkt. Welcher Wirbel ist gemeint?
+    en: A 37-year-old man complains of pain in his cervical spine (columna vertebralis
+      cervicalis). In the clinical examination the vertebra prominens serves as a
+      landmark. Which vertebra is meant?
+  right_terms:
+  - seventh-cervical-vertebra
+  wrong_terms:
+  - first-thoracic-vertebra-2
+  - fifth-thoracic-vertebra
+  - eighth-thoracic-vertebra
+  question_uuid: 9a9f3c13ec3a9a10fb4f87d0939e3bf
+- concepts:
+  - diaphragma
+  exercise: question_bank
+  question:
+    de: An welchen Wirbeln entspringt der posteriore Teil des Diaphragmas?
+    en: Posteriorly, the origin of the diaphragm (diaphragma) is attached to which
+      level of vertebrae?
+  right_terms:
+  - vertebrae-lumbales
+  wrong_terms:
+  - vertebrae-thoracicae
+  - vertebrae-cervicales
+  question_uuid: 7954c472ce21b1c57aff9bc76050c04
+- concepts:
+  - vertebra-lumbalis-v
+  - fifth-lumbar-vertebra-5
+  - corpus-vertebrae
+  - vertebrae-lumbales
+  exercise: question_bank
+  question:
+    de: Welcher Teil des axialen Skelettes is am häufigsten von den Krankheitsbildern
+      der Spondylolyse und Spondylolisthese betroffen?
+    en: Which part of the axial skeleton is most frequently affected by spondylolysis
+      and spondylolisthesis?
+  right_terms:
+  - vertebra-lumbalis-v
+  wrong_terms:
+  - atlas
+  - axis
+  - os-sacrum
+  - os-coccygis
+  question_uuid: d1a7b0b341c6fcd61d588cb1ea32e6f
+- concepts:
+  - vertebrae-lumbales
+  - basis-ossi-sacri
+  - sacrum-5
+  exercise: question_bank
+  question:
+    de: Im Rahmen der sogenannten Sakralisation als kongenitale Anomalie besteht die
+      Wirbelsäule aus nur vier typischen Lendenwirbeln, da der fünfte (Vertebra lumbalis
+      V) mit einer von welchen beiden knöchernen Strukturen verwachsen ist?
+    en: In the congenital anomaly of 'sacralization', the lumbar vertebral column
+      consists of only four typical lumbar vertebrae, as the fifth (vertebra lumbalis
+      V) is fused to either one of which two bony structures?
+  right_terms:
+  - os-sacrum
+  - os-ilium
+  wrong_terms:
+  - ribs
+  - vertebrae-thoracicae
+  - os-coccygis
+  question_uuid: c1b7dc23733d4051f582ab1e3911ba3
+- concepts:
+  - vertebrae-thoracicae
+  - os-sacrum
+  - os-coccygis
+  - sacrum-5
+  - corpus-vertebrae
+  exercise: question_bank
+  question:
+    de: In welchen Wirbelgruppen bilden sich physiologisch sogenannte Kyphosen in
+      der Wirbelsäule aus?
+    en: Kyphosis is the term for an exaggerated curvature physiologically found in
+      which vertebral regions?
+  right_terms:
+  - vertebrae-thoracicae
+  - os-sacrum
+  - os-coccygis
+  wrong_terms:
+  - vertebrae-lumbales
+  - vertebrae-cervicales
+  question_uuid: 7e851bf79a24d40373e137a8cd8afab
+- concepts:
+  - vertebrae-thoracicae
+  - lumbar-vertebrae-1
+  - corpus-vertebrae
+  exercise: question_bank
+  question:
+    de: In welcher Region tritt die pathologische Seitabweichung der Wirbelsäule mit
+      Rotation der Wirbelkörper um die Längsachse, auch Skoliose genannt, am häufigsten
+      auf?
+    en: In which region of the vertebral column does the abnormal lateral deviation
+      with rotation of the vertebral bodies, also known as scoliosis, most frequently
+      occur?
+  right_terms:
+  - vertebrae-thoracicae
+  wrong_terms:
+  - vertebrae-lumbales
+  - os-sacrum
+  - vertebrae-cervicales
+  - os-coccygis
+  question_uuid: 34af04473bc89f1f1faf5f78b9f5c07
+- concepts:
+  - vertebrae-cervicales
+  - cervical-spine
+  - cervical-vertebrae
+  exercise: question_bank
+  question:
+    de: Welche Wirbelkörper besitzen Querfortsatzlöcher (Foramina transversaria) im
+      Processus transversus?
+    en: Which vertebrae are characterized by the presence of transverse foramina (foramina
+      transversaria) within their transverse processes?
+  right_terms:
+  - vertebrae-cervicales
+  wrong_terms:
+  - os-sacrum
+  - os-coccygis
+  - vertebrae-lumbales
+  - vertebrae-thoracicae
+  question_uuid: 995a8fa87031a2d546dbf11dd436848
+- concepts:
+  - vertebrae-lumbales
+  - os-sacrum
+  - lumbar-vertebrae-1
+  exercise: question_bank
+  question:
+    de: Welche Wirbelregionen bestehen aus jeweils fünf Segmenten?
+    en: Which vertebral regions are comprised of five segments each?
+  right_terms:
+  - vertebrae-lumbales
+  - os-sacrum
+  wrong_terms:
+  - vertebrae-cervicales
+  - vertebrae-thoracicae
+  - os-coccygis
+  question_uuid: e01d9692786c50b4621aedfad6bfc25
+- concepts:
+  - vertebrae-cervicales
+  - cervical-spine
+  exercise: question_bank
+  question:
+    de: Welche Wirbelregion weist sieben Segmente auf?
+    en: Which part of the vertebral column features seven segments?
+  right_terms:
+  - vertebrae-cervicales
+  wrong_terms:
+  - os-sacrum
+  - os-coccygis
+  - vertebrae-lumbales
+  - vertebrae-thoracicae
+  question_uuid: ff32170e6907aae8b0b4adbc4791f99
+- concepts:
+  - pars-cardiaca-gastricae
+  exercise: question_bank
+  question:
+    de: Der Ösophagus endet an der Kardia des Magens. Diese ist auf Höhe des elften
+      Wirbels folgendes Wirbelsäulenabschnitts lokalisiert
+    en: The esophagus ends at the cardia of the stomach. It is located at the eleventh
+      level of which vertebrae?
+  right_terms:
+  - vertebrae-thoracicae
+  wrong_terms:
+  - vertebrae-cervicales
+  - foramen-vertebrale
+  - corpus-vertebrae
+  - vertebrae-lumbales
+  question_uuid: 9e5f662d9f1e6df855fe50cc0910f21
+- concepts:
+  - articulatio-zygapophysialis
+  - vertebrae-lumbales
+  - vertebrae-thoracicae
+  exercise: question_bank
+  question:
+    de: Die superioren und inferioren Gelenkflächen zweier benachbarter Wirbel artikulieren
+      miteinander, um welches Gelenk zu formen?
+    en: The superior and the inferior articular processes of adjacent vertebrae articulate
+      to form which joint?
+  right_terms:
+  - articulatio-zygapophysialis
+  wrong_terms:
+  - capsula-articularis-articulatio-zygapophysialis
+  - articulatio-atlantoaxialis-lateralis
+  - articulatio-atlantooccipitalis
+  - craniovertebral-joints
+  question_uuid: c72f6a8e4e3c99daa64919857d80ccf
+- concepts:
+  - discus-intervertebralis
+  - intervertebral-disc-5
+  - vertebrae-lumbales
+  exercise: question_bank
+  question:
+    de: Welche Struktur befindet sich zwischen zwei benachbarten Wirbelkörpern, erlaubt
+      Bewegungen der Wirbelsäule und trägt zur Stoßdämpfung bei?
+    en: Which structure is located between the bodies of two adjacent vertebrae, allows
+      movement in the spine and helps to absorb shock as well?
+  right_terms:
+  - discus-intervertebralis
+  wrong_terms:
+  - processus-transversus
+  - processus-spinosus
+  - processus-costalis
+  - processus-mammillaris
+  question_uuid: 512bdd6b4479095cede23e89220f7a0
+- concepts:
+  - vertebrae-lumbales
+  - vertebrae-cervicales
+  - lumbar-vertebrae-1
+  - cervical-spine
+  exercise: question_bank
+  question:
+    de: Welche Abschnitte der Wirbelsäule weisen physiologisch eine nach dorsal konkave
+      Form, auch Lordose genannt, auf?
+    en: Which sections of the vertebral column have a posteriorly concave curvature,
+      also referred to as lordosis?
+  right_terms:
+  - vertebrae-lumbales
+  - vertebrae-cervicales
+  wrong_terms:
+  - vertebrae-thoracicae
+  - os-sacrum
+  - os-coccygis
+  question_uuid: e077d3ab7b201cd300924c9ff994630
+- concepts:
+  - vertebrae-thoracicae
+  - thoracic-vertebrae-1
+  exercise: question_bank
+  question:
+    de: Der Rundrücken, auch Hyperkyphose genannt, bezieht sich auf eine zu starke
+      Kyphose in welchem Abschnitt der Wirbelsäule?
+    en: Dowager's hump, or roundback, is a condition that refers to an exaggerated
+      kyphotic curvature found in which section of the vertebral column?
+  right_terms:
+  - vertebrae-thoracicae
+  wrong_terms:
+  - vertebrae-lumbales
+  - vertebrae-cervicales
+  - os-coccygis
+  - os-sacrum
+  question_uuid: 55dc68d63abadfa354bc0f8f52d104d
+- concepts:
+  - vertebrae-lumbales
+  - lumbar-vertebrae-1
+  exercise: question_bank
+  question:
+    de: Das Hohlkreuz, auch Hyperlordose genannt, bezieht sich auf eine zu starke
+      Lordose in welchem Abschnitt der Wirbelsäule?
+    en: Hyperlordosis is a condition that refers to an exaggerated lordotic curvature
+      found in which section of the vertebral column?
+  right_terms:
+  - vertebrae-lumbales
+  wrong_terms:
+  - vertebrae-cervicales
+  - os-coccygis
+  - os-sacrum
+  - vertebrae-thoracicae
+  question_uuid: ea1f73bfdc05999c0086a6a5e10bd14
+- concepts:
+  - vertebrae-lumbales
+  - lumbar-vertebrae-1
+  exercise: question_bank
+  question:
+    de: Die Wirbelsäule weist physiologisch vier Krümmungen auf. In welchem Abschnitt
+      entwickelt sich die Krümmung erst nach Beginn des aufrechten Ganges und dem
+      Laufen des Kindes?
+    en: Which of the vertebral curvature sections develops when an infant begins to
+      stand and walk?
+  right_terms:
+  - vertebrae-lumbales
+  wrong_terms:
+  - vertebrae-cervicales
+  - os-coccygis
+  - os-sacrum
+  - vertebrae-thoracicae
+  question_uuid: 02b47f59e268200da1cbdd47f660ffb
+- concepts:
+  - vertebrae-thoracicae
+  - costa-i-2
+  exercise: question_bank
+  question:
+    de: Bis auf Höhe welches Teils der Wirbelsäule erstreckt sich das obere Mediastinum?
+    en: The superior mediastinum descends to the level of the horizontal plane of
+      which vertebral region?
+  right_terms:
+  - vertebrae-thoracicae
+  wrong_terms:
+  - vertebrae-cervicales
+  - vertebrae-lumbales
+  - os-sacrum
+  - os-coccygis
+  question_uuid: 7b999ab908da70372ac5040163af23a
+- concepts:
+  - vertebrae-thoracicae
+  - pericardium-3
+  exercise: question_bank
+  question:
+    de: Auf Höhe welches Wirbelsäulenabschnitts endet das mittlere untere Mediastinum?
+    en: The middle inferior mediastinum finishes in which vertebral region?
+  right_terms:
+  - vertebrae-thoracicae
+  wrong_terms:
+  - vertebrae-cervicales
+  - vertebrae-lumbales
+  - os-sacrum
+  - os-coccygis
+  question_uuid: 2c15738598c2937e16e112c0a763ff4
+- concepts:
+  - vertebrae-thoracicae
+  - diaphragma-3
+  exercise: question_bank
+  question:
+    de: Das hintere untere Mediastinum reicht am tiefsten hinab. Es erstreckt sich
+      bis auf Höhe welches Wirbelsäulenabschnitts?
+    en: The posterior inferior mediastinum extends the deepest compared to the other
+      mediastinal compartments. It extends into which vertebral region?
+  right_terms:
+  - vertebrae-thoracicae
+  wrong_terms:
+  - vertebrae-cervicales
+  - vertebrae-lumbales
+  - os-sacrum
+  - os-coccygis
+  question_uuid: e74234c56cb74bcc16a02b1dffe8ab2
+- concepts:
+  - fourth-lumbar-vertebra-8
+  - spinal-cord-26
+  - fourth-lumbar-vertebra-3
+  exercise: question_bank
+  question:
+    de: Eine 25-jährige Schwangere erhält im Rahmen der Geburtseinleitung eines Kaiserschnitts
+      eine Periduralanästhesie (PDA). Welche der folgenden Wirbelkörperhöhen ist am
+      ehesten für die Einstichstelle des Anästhesisten geeignet?
+    en: A 25-year-old pregnant lady requires epidural injection for caesarean section.
+      Which of the following levels is most suitable for the anaesthetist to perform
+      the puncture?
+  right_terms:
+  - fourth-lumbar-vertebra
+  wrong_terms:
+  - tenth-thoracic-vertebra-6
+  - first-lumbar-vertebra
+  - sacral-vertebra-2
+  - second-lumbar-vertebra-7
+  question_uuid: 7c508cdd6cb763ac64b3a1251edb0e7
+- concepts:
+  - vertebral-body-3
+  - spine-3
+  - corpus-vertebrae
+  exercise: question_bank
+  question:
+    de: Das Flugzeug eines 30-jährigen Kampfpiloten brennt nach einem technischen
+      Defekt in der Luft und er muss den Schleudersitz aktivieren. Bei dem Sturz zieht
+      er sich eine Wirbelsäulenverletzung zu und muss im Krankenhaus behandelt werden.
+      Es fällt eine Minderung der Körpergröße um 5 cm auf. Welche der folgenden Strukturen
+      wurde im Rahmen des Absturzes am ehesten zertrümmert?
+    en: A 30-year-old fighter pilot ejected from his seat close to the ground after
+      his plane caught fire and suffered an injury to his vertebral column. In the
+      hospital it was noticed that his height has decreased by 5 cms. Which of the
+      following structures have most likely been crushed?
+  right_terms:
+  - vertebral-body-3
+  wrong_terms:
+  - intervertebral-disc
+  - lamina-of-the-vertebral-arch
+  - fibrous-ring-of-intervertebral-disc
+  - nucleus-pulposus
+  question_uuid: d13fa5193b9af1e4356d8455d5b4c2b
+- concepts:
+  - ribs
+  - sternum
+  - scapula
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Knochen der Rumpfwand zählen zu den 'platten' Knochen?
+    en: Which of the following bones of the trunk are considered to be 'flat' bones?
+  right_terms:
+  - ribs
+  - sternum
+  - scapula
+  wrong_terms:
+  - vertebrae-cervicales
+  - vertebrae-thoracicae
+  - os-coccygis
+  question_uuid: '028b1e6072be34cc39cdea2e2a36160'
+- concepts:
+  - vertebral-arch-of-the-axis
+  - axis
+  exercise: question_bank
+  question:
+    de: Ein 24-jähriger Motorradfahrer wird von hinten von einem schnell fahrenden
+      Auto erfasst. Er erleidet eine schwere Halswirbelsäulenverletzung, die später
+      als Hanged-man-Fraktur diagnostiziert wird. Welche der folgenden Strukturen
+      ist bei dieser Verletzung betroffen und frakturiert?
+    en: A 24-year-old motorcyclist was hit from behind by a fast moving car. He suffered
+      a neck injury, later diagnosed as 'Hangman’s fracture'. Which of the following
+      structure is involved in this condition?
+  right_terms:
+  - vertebral-arch-of-the-axis
+  wrong_terms:
+  - anterior-arch-of-the-atlas
+  - odontoid-process-of-the-axis
+  - arcus-posterior-atlantis
+  - spinous-process-of-the-axis
+  question_uuid: f058abce812b8f2a4d2a61e59188014

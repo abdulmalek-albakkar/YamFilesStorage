@@ -1,0 +1,3021 @@
+---
+- terms:
+  - musculus-iliacus
+  - musculus-psoas-major
+  exercise: easy
+- terms:
+  - musculus-gluteus-maximus
+  - musculus-gluteus-medius
+  exercise: easy
+- terms:
+  - musculus-gluteus-minimus
+  - musculus-tensor-fasciae-latae
+  exercise: easy
+- terms:
+  - musculus-gemellus-superior
+  - musculus-gemellus-inferior
+  exercise: easy
+- terms:
+  - musculus-gluteus-maximus
+  - musculus-gluteus-medius
+  - musculus-iliacus
+  - musculus-psoas-major
+  exercise: four_one
+- terms:
+  - musculus-gemellus-superior
+  - musculus-gemellus-inferior
+  - musculus-gluteus-minimus
+  - musculus-tensor-fasciae-latae
+  exercise: four_one
+- terms:
+  - musculus-gluteus-maximus
+  - musculus-gluteus-medius
+  - musculus-iliacus
+  - musculus-psoas-major
+  exercise: identify_image
+- terms:
+  - musculus-gemellus-superior
+  - musculus-gemellus-inferior
+  - musculus-gluteus-minimus
+  - musculus-tensor-fasciae-latae
+  exercise: identify_image
+- terms:
+  - musculus-obturatorius-internus
+  - musculus-obturatorius-externus
+  exercise: easy
+- terms:
+  - musculus-quadratus-femoris
+  - musculus-piriformis
+  exercise: easy
+- terms:
+  - musculus-adductor-magnus
+  - musculus-adductor-longus
+  exercise: easy
+- terms:
+  - musculus-adductor-brevis
+  - musculus-adductor-minimus
+  exercise: easy
+- terms:
+  - musculus-quadratus-femoris
+  - musculus-piriformis
+  - musculus-obturatorius-internus
+  - musculus-obturatorius-externus
+  exercise: four_one
+- terms:
+  - musculus-adductor-brevis
+  - musculus-adductor-minimus
+  - musculus-adductor-magnus
+  - musculus-adductor-longus
+  exercise: four_one
+- terms:
+  - musculus-quadratus-femoris
+  - musculus-piriformis
+  - musculus-obturatorius-internus
+  - musculus-obturatorius-externus
+  exercise: identify_image
+- terms:
+  - musculus-adductor-brevis
+  - musculus-adductor-minimus
+  - musculus-adductor-magnus
+  - musculus-adductor-longus
+  exercise: identify_image
+- terms:
+  - musculus-pectineus
+  - musculus-rectus-femoris
+  exercise: easy
+- terms:
+  - musculus-vastus-lateralis
+  - musculus-vastus-medialis
+  exercise: easy
+- terms:
+  - musculus-vastus-intermedius
+  - musculus-quadriceps-femoris
+  exercise: easy
+- terms:
+  - musculus-sartorius
+  - musculus-biceps-femoris
+  exercise: easy
+- terms:
+  - musculus-vastus-lateralis
+  - musculus-vastus-medialis
+  - musculus-pectineus
+  - musculus-rectus-femoris
+  exercise: four_one
+- terms:
+  - musculus-quadriceps-femoris
+  - musculus-vastus-intermedius
+  - musculus-sartorius
+  - musculus-biceps-femoris
+  exercise: four_one
+- terms:
+  - musculus-vastus-lateralis
+  - musculus-vastus-medialis
+  - musculus-pectineus
+  - musculus-rectus-femoris
+  exercise: identify_image
+- terms:
+  - musculus-quadriceps-femoris
+  - musculus-vastus-intermedius
+  - musculus-sartorius
+  - musculus-biceps-femoris
+  exercise: identify_image
+- terms:
+  - musculus-semitendinosus
+  - musculus-semimembranosus
+  exercise: easy
+- terms:
+  - musculus-psoas-minor
+  - musculus-iliopsoas
+  exercise: easy
+- terms:
+  - musculus-semitendinosus
+  - musculus-semimembranosus
+  - musculus-psoas-minor
+  - musculus-iliopsoas
+  exercise: four_one
+- terms:
+  - musculus-semitendinosus
+  - musculus-semimembranosus
+  - musculus-psoas-minor
+  - musculus-iliopsoas
+  exercise: identify_image
+- terms:
+  - musculus-sartorius
+  - musculus-gracilis
+  exercise: easy
+- terms:
+  - musculus-sartorius
+  - musculus-gracilis
+  - musculus-vastus-lateralis
+  - musculus-vastus-intermedius
+  exercise: four_one
+- terms:
+  - musculus-sartorius
+  - musculus-gracilis
+  - musculus-vastus-medialis
+  - musculus-rectus-femoris
+  exercise: identify_image
+- terms:
+  - musculus-iliacus
+  exercise: spell_term
+- terms:
+  - musculus-psoas-major
+  exercise: spell_term
+- terms:
+  - musculus-gluteus-maximus
+  exercise: spell_term
+- terms:
+  - musculus-gluteus-medius
+  exercise: spell_term
+- terms:
+  - musculus-gluteus-minimus
+  exercise: spell_term
+- terms:
+  - musculus-tensor-fasciae-latae
+  exercise: spell_term
+- terms:
+  - musculus-gemellus-superior
+  exercise: spell_term
+- terms:
+  - musculus-gemellus-inferior
+  exercise: spell_term
+- terms:
+  - musculus-obturatorius-internus
+  exercise: spell_term
+- terms:
+  - musculus-obturatorius-externus
+  exercise: spell_term
+- terms:
+  - musculus-quadratus-femoris
+  exercise: spell_term
+- terms:
+  - musculus-piriformis
+  exercise: spell_term
+- terms:
+  - musculus-adductor-magnus
+  exercise: spell_term
+- terms:
+  - musculus-adductor-longus
+  exercise: spell_term
+- terms:
+  - musculus-adductor-brevis
+  exercise: spell_term
+- terms:
+  - musculus-adductor-minimus
+  exercise: spell_term
+- terms:
+  - musculus-pectineus
+  exercise: spell_term
+- terms:
+  - musculus-rectus-femoris
+  exercise: spell_term
+- terms:
+  - musculus-vastus-lateralis
+  exercise: spell_term
+- terms:
+  - musculus-vastus-medialis
+  exercise: spell_term
+- terms:
+  - musculus-vastus-intermedius
+  exercise: spell_term
+- terms:
+  - musculus-quadriceps-femoris
+  exercise: spell_term
+- terms:
+  - musculus-sartorius
+  exercise: spell_term
+- terms:
+  - musculus-biceps-femoris
+  exercise: spell_term
+- terms:
+  - musculus-semitendinosus
+  exercise: spell_term
+- terms:
+  - musculus-semimembranosus
+  exercise: spell_term
+- terms:
+  - musculus-psoas-minor
+  exercise: spell_term
+- terms:
+  - musculus-iliopsoas
+  exercise: spell_term
+- terms:
+  - musculus-gracilis
+  exercise: spell_term
+- concepts:
+  - musculus-iliopsoas
+  - musculus-rectus-femoris
+  exercise: question_bank
+  question:
+    de: Welcher Muskel ist neben dem geraden Oberschenkelmuskel (Musculus rectus femoris)
+      der kräftigste Flexor des Hüftgelenks (Articulatio coxae)?
+    en: What muscle is the strongest flexor of the hip joint (articulatio coxae) in
+      addition to the rectus femoris muscle (musculus rectus femoris)?
+  right_terms:
+  - musculus-iliopsoas
+  wrong_terms:
+  - adductor-magnus-muscle-2
+  - semitendinosus-muscle
+  - obturator-externus-muscle
+  - musculus-popliteus
+  question_uuid: f6bd46d25adc56de774e7fbc953ccde
+- concepts:
+  - musculus-gluteus-maximus
+  exercise: question_bank
+  question:
+    de: Welcher Muskel ist der größte im menschlichen Körper?
+    en: What muscle is the biggest in the human body?
+  right_terms:
+  - musculus-gluteus-maximus
+  wrong_terms:
+  - musculus-sartorius
+  - musculus-masseter
+  - biceps-brachii-muscle
+  - triceps-surae-muscle-2
+  question_uuid: 646a9c3a07ce68d61927a2c45f32e85
+- concepts:
+  - gluteus-medius-muscle-2
+  - musculus-gluteus-medius
+  - musculus-gluteus-minimus
+  - trochanter-major
+  exercise: question_bank
+  question:
+    de: Welche Glutealmuskeln setzen am großen Rollhügel (Trochanter major) an?
+    en: What gluteal muscles are attached to the greater trochanter (trochanter major)?
+  right_terms:
+  - gluteus-medius-muscle-2
+  - musculus-gluteus-minimus
+  wrong_terms:
+  - musculus-psoas-major
+  - musculus-gluteus-maximus
+  - musculus-iliacus
+  question_uuid: 3594a7ede72df4324c503d4c011dda4
+- concepts:
+  - musculus-piriformis
+  - greater-sciatic-foramen
+  exercise: question_bank
+  question:
+    de: Welcher Muskel zieht durch das großes Sitzbeinloch (Foramen ischiadicum majus)
+      und unterteilt es in zwei Teile?
+    en: What muscle runs through the greater sciatic foramen (foramen ischiadicum
+      majus) and divides it into two parts?
+  right_terms:
+  - musculus-piriformis
+  wrong_terms:
+  - obturator-externus-muscle
+  - musculus-gluteus-maximus
+  - musculus-obturatorius-internus
+  - musculus-iliopsoas
+  question_uuid: 5da2a4fdf86bd95034d5b01b6388d07
+- concepts:
+  - musculus-sartorius
+  exercise: question_bank
+  question:
+    de: Welcher Muskel ist der längste im menschlichen Körper?
+    en: What muscle is the longest in the human body?
+  right_terms:
+  - musculus-sartorius
+  wrong_terms:
+  - musculus-gracilis
+  - musculus-iliopsoas
+  - quadriceps-femoris-muscle
+  - musculus-semitendinosus
+  question_uuid: 7f54d45667f563a4afd2e20e4dfa2cb
+- concepts:
+  - musculus-sartorius
+  exercise: question_bank
+  question:
+    de: Welcher Muskel ist ein zweigelenkiger Muskel, da er über das Hüftgelenk (Articulatio
+      coxae) und das Kniegelenk (Articulatio genu) verläuft?
+    en: What muscle is a biarticular muscle as it crosses the hip (articulatio coxae)
+      and knee joints (articulatio genu)?
+  right_terms:
+  - musculus-sartorius
+  wrong_terms:
+  - soleus-muscle
+  - musculus-popliteus
+  - gluteus-medius-muscle-2
+  - musculus-adductor-longus
+  question_uuid: 693a96a9fe7807e81ad7227906b321b
+- concepts:
+  - musculus-rectus-femoris
+  - musculus-quadriceps-femoris
+  - vastus-medialis-muscle
+  - musculus-vastus-medialis
+  - vastus-intermedius-muscle-2
+  - musculus-vastus-intermedius
+  - vastus-lateralis-muscle-2
+  - musculus-vastus-lateralis
+  exercise: question_bank
+  question:
+    de: Welche Muskeln gehören zum vierköpfigen Oberschenkelmuskel (Musculus quadriceps
+      femoris)?
+    en: What muscles belong to the quadriceps femoris muscle (musculus quadriceps
+      femoris)?
+  right_terms:
+  - musculus-rectus-femoris
+  - vastus-medialis-muscle
+  - vastus-intermedius-muscle-2
+  - vastus-lateralis-muscle-2
+  wrong_terms:
+  - musculus-gastrocnemius
+  question_uuid: 3309f1365615fe03001f426b31b1f75
+- concepts:
+  - musculus-tensor-fasciae-latae
+  exercise: question_bank
+  question:
+    de: Welcher Muskel spannt das Maissiat-Band (Tractus iliotibialis)?
+    en: Which muscle stretches the iliotibial tract (tractus iliotibialis)?
+  right_terms:
+  - musculus-tensor-fasciae-latae
+  wrong_terms:
+  - musculus-semimembranosus
+  - musculus-popliteus
+  - musculus-semitendinosus
+  - musculus-sartorius
+  question_uuid: 63baff98de7fdc83c751ce3cea48841
+- concepts:
+  - musculus-gracilis
+  exercise: question_bank
+  question:
+    de: Welcher Muskel ist der einzige zweigelenkige Muskel unter den Adduktoren?
+    en: What muscle is the only biarticular muscle among the adductors?
+  right_terms:
+  - musculus-gracilis
+  wrong_terms:
+  - musculus-adductor-brevis
+  - musculus-adductor-longus
+  - musculus-adductor-magnus
+  - musculus-adductor-minimus
+  question_uuid: bf73b206ce5cd8c18970e4238bf9fc6
+- concepts:
+  - musculus-semitendinosus
+  - musculus-semimembranosus
+  - musculus-biceps-femoris
+  exercise: question_bank
+  question:
+    de: Welche Muskeln werden als ischiokrurale Muskeln bezeichnet?
+    en: What muscles are referred to as hamstring?
+  right_terms:
+  - musculus-semitendinosus
+  - musculus-semimembranosus
+  - musculus-biceps-femoris
+  wrong_terms:
+  - musculus-gracilis
+  - musculus-adductor-brevis
+  question_uuid: 2f9dcaea8e290ea761636acbd372e64
+- concepts:
+  - musculus-adductor-brevis
+  exercise: question_bank
+  question:
+    de: Welcher Muskel zählt zur mittleren Adduktorengruppe?
+    en: What muscle belongs to the intermediate adductor muscle group?
+  right_terms:
+  - musculus-adductor-brevis
+  wrong_terms:
+  - musculus-adductor-magnus
+  - musculus-pectineus
+  - musculus-gracilis
+  - musculus-adductor-minimus
+  question_uuid: f1ad8629ea67d4dc71648fc29041447
+- concepts:
+  - musculus-adductor-magnus
+  - musculus-adductor-minimus
+  exercise: question_bank
+  question:
+    de: Welche Muskeln zählen zur tiefen Adduktorengruppe?
+    en: What muscles belong to the deep adductor muscle group?
+  right_terms:
+  - musculus-adductor-magnus
+  - musculus-adductor-minimus
+  wrong_terms:
+  - musculus-gracilis
+  - musculus-adductor-brevis
+  - musculus-adductor-longus
+  question_uuid: 83a9612ed996f24c34a77f2f715dcd2
+- concepts:
+  - musculus-pectineus
+  - musculus-adductor-longus
+  - musculus-gracilis
+  exercise: question_bank
+  question:
+    de: Welche Muskeln zählen zur oberflächlichen Adduktorengruppe?
+    en: What muscles belong to the superficial adductor muscle group?
+  right_terms:
+  - musculus-pectineus
+  - musculus-adductor-longus
+  - musculus-gracilis
+  wrong_terms:
+  - musculus-adductor-magnus
+  - musculus-adductor-minimus
+  question_uuid: dc3544bed66c27023ac2cbf8270ada1
+- concepts:
+  - musculus-vastus-lateralis
+  - musculus-quadriceps-femoris
+  exercise: question_bank
+  question:
+    de: Welcher Muskel nimmt den größten Anteil des vierköpfigen Oberschenkelmuskels
+      (Musculus quadriceps femoris) ein?
+    en: What muscle is the largest part of the quadriceps femoris muscle (musculus
+      quadriceps femoris)?
+  right_terms:
+  - musculus-vastus-lateralis
+  wrong_terms:
+  - musculus-rectus-femoris
+  - musculus-vastus-intermedius
+  - musculus-vastus-medialis
+  question_uuid: c92853cecdd33d0ed05fcc128aaec86
+- terms:
+  - musculus-iliacus
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - ala-ossis-ilii-fossa-iliaca
+  wrong_terms:
+  - spina-iliaca-anterior-inferior
+  - ala-ossis-ilii-facies-glutea
+  - tuberositas-iliaca
+  - crista-iliaca
+  - tuberculum-pubicum
+- terms:
+  - musculus-iliacus
+  exercise: multiple_choice_text
+  relation: insertion_of
+  right_terms:
+  - trochanter-minor
+  wrong_terms:
+  - linea-intertrochanterica
+  - corpus-femoris
+  - trochanter-major
+  - crista-intertrochanterica
+  - ramus-superior-ossis-pubis
+- terms:
+  - musculus-iliacus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-femoralis
+  wrong_terms:
+  - nervus-cutaneus-femoris-posterior
+  - nervus-gluteus-inferior
+  - nervus-ischiadicus
+  - nervus-gluteus-superior
+  - nervus-pudendus
+- terms:
+  - musculus-psoas-major
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - trochanter-minor
+  wrong_terms:
+  - linea-intertrochanterica
+  - eminentia-iliopubica
+  - trochanter-major
+  - crista-intertrochanterica
+  - tuber-ischiadicum
+- terms:
+  - musculus-psoas-major
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - body-of-the-vertebra-t12-l4
+  - costal-process-l1-l5
+  - intervertebral-discs-t12-l4
+  wrong_terms:
+  - linea-intertrochanterica
+  - eminentia-iliopubica
+  - pubic-symphysis
+- terms:
+  - musculus-psoas-major
+  exercise: multiple_choice_text
+  relation: innervation_of
+  right_terms:
+  - anterior-rami-of-spinal-nerves-l1-l3
+  wrong_terms:
+  - nervus-ischiadicus
+  - plexus-sacralis
+  - nervus-saphenus
+  - nervus-gluteus-inferior
+  - nervus-pudendus
+- terms:
+  - musculus-psoas-minor
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - corpus-vertebrae-txii-li
+  - discus-intervertebralis-txii-li
+  wrong_terms:
+  - corpus-vertebrae-txii-liv
+  - disci-intervertebrales-txii-liv
+  - costae-spuriae
+  - os-sacrum
+- terms:
+  - musculus-psoas-minor
+  exercise: multiple_choice_text
+  relation: insertion_of
+  right_terms:
+  - linea-pectinea-ossis-pubis
+  - eminentia-iliopubica
+  wrong_terms:
+  - trochanter-minor
+  - trochanter-major
+  - crista-intertrochanterica
+  - collum-femoris
+- terms:
+  - musculus-psoas-minor
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - anterior-rami-of-spinal-nerves-l1-l3
+  wrong_terms:
+  - plexus-sacralis
+  - nervus-saphenus
+  - nervus-femoralis
+  - nervus-gluteus-inferior
+  - nervus-pudendus
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-iliacus
+  - musculus-psoas-major
+  wrong_terms:
+  - musculus-gemellus-inferior
+  - musculus-gemellus-superior
+  - musculus-gluteus-maximus
+  - musculus-obturatorius-internus
+- terms:
+  - hip-joint
+  exercise: multiple_choice_text
+  relation: externally_rotates_the
+  right_terms:
+  - musculus-iliacus
+  - musculus-psoas-major
+  wrong_terms:
+  - musculus-quadratus-lumborum
+  - musculus-tensor-fasciae-latae
+  - musculus-biceps-femoris
+  - musculus-rectus-femoris
+- terms:
+  - trunk
+  exercise: multiple_choice_text
+  relation: ventrally_flexes_the
+  right_terms:
+  - musculus-psoas-major
+  wrong_terms:
+  - musculus-tensor-fasciae-latae
+  - musculus-adductor-longus
+  - musculus-adductor-magnus
+  - musculus-pectoralis-minor
+  - musculus-iliacus
+- terms:
+  - thigh
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-iliacus
+  - musculus-psoas-major
+  wrong_terms:
+  - musculus-gemellus-inferior
+  - musculus-gemellus-superior
+  - musculus-gluteus-maximus
+  - musculus-obturatorius-externus
+- terms:
+  - thigh
+  exercise: multiple_choice_text
+  relation: externally_rotates_the
+  right_terms:
+  - musculus-iliacus
+  - musculus-psoas-major
+  wrong_terms:
+  - musculus-quadratus-lumborum
+  - musculus-tensor-fasciae-latae
+  - musculus-gracilis
+  - musculus-rectus-femoris
+- concepts:
+  - musculus-quadriceps-femoris
+  exercise: question_bank
+  question:
+    de: Welcher Muskel stabilisiert die Hüfte und das Knie, um den Körper gerade zu
+      halten?
+    en: which muscle stabilizes the hip and knee to hold the body straight?
+  right_terms:
+  - musculus-quadriceps-femoris
+  - musculus-tensor-fasciae-latae
+  wrong_terms:
+  - musculus-iliopsoas
+  - musculus-gracilis
+  - musculus-sartorius
+  - musculus-semitendinosus
+  question_uuid: 6177450855401393eac73b7e5f7f310
+- concepts:
+  - musculus-semimembranosus
+  exercise: question_bank
+  question:
+    de: Die Sehne welches Muskels teilt sich in zwei Anteile, wovon einer das Innenband
+      (Ligamentum collaterale tibiae) stärkt und der andere zum dorsalen schrägen
+      Kniekehlenband (Ligamentum popliteum obliquum) wird?
+    en: The tendon of which muscle separates into two parts, one weaving into and
+      strengthening the medial collateral ligament (ligamentum collaterale tibiae)
+      and one turning into the dorsal oblique popliteal ligament (ligamentum popliteum
+      obliquum)?
+  right_terms:
+  - musculus-semimembranosus
+  wrong_terms:
+  - musculus-gracilis
+  - musculus-tensor-fasciae-latae
+  - musculus-sartorius
+  - musculus-biceps-femoris
+  question_uuid: 4c6eee8ae35b10be1f95d0f0971d09d
+- concepts:
+  - musculus-quadriceps-femoris
+  exercise: question_bank
+  question:
+    de: Die Sehne welches Muskels neigt zu Entzündungen, aufgrund der konstanten Zugspannung,
+      der sie ausgesetzt ist?
+    en: The tendon of which muscle is prone to inflammation due to the tension that
+      is consistently exerted on it?
+  right_terms:
+  - musculus-quadriceps-femoris
+  wrong_terms:
+  - musculus-semitendinosus
+  - musculus-semimembranosus
+  - musculus-gastrocnemius
+  - musculus-soleus
+  question_uuid: 4e7146e44552331ab1128a7a6572ee4
+- concepts:
+  - musculus-semimembranosus
+  - musculus-biceps-femoris
+  - musculus-semitendinosus
+  exercise: question_bank
+  question:
+    de: Eine 42-jährige Patientin mit Dermatomyositis in ihrer Vorgeschichte kommt
+      ins Krankenhaus. Ihre Schmerzen betreffen hauptsächlich ihre unteren Gliedmaßen
+      und ihre Fähigkeit, die Hüfte zu strecken ist eingeschränkt. Die Muskelbiopsie
+      bestätigt einen akuten Entzündungsprozess in ihren Muskeln. Darüber hinaus zeigt
+      die neurologische Untersuchung eine Schwäche der Muskelgruppe der Oberschenkelmuskulatur.
+      Welche Muskeln gehören zur rückseitigen Oberschenkelmuskulatur (ischiokrurale
+      Muskulatur)?
+    en: A 42-year-old patient with a history of dermatomyositis presents into the
+      clinic with pain predominantly affecting her lower limbs and reduced ability
+      to extend her hip. Muscle biopsy confirmed an acute inflammatory process in
+      her muscles. In addition, neurological assessment showed weakness of her hamstring
+      muscle group. Which muscles belong to the hamstring muscle group (ischiocrural
+      muscles)?
+  right_terms:
+  - musculus-semimembranosus
+  - musculus-biceps-femoris
+  - musculus-semitendinosus
+  wrong_terms:
+  - musculus-gracilis
+  - musculus-quadriceps-femoris
+  question_uuid: ff435e7c61a9ad37d0009dc8059e1ce
+- concepts:
+  - pes-anserinus
+  exercise: question_bank
+  question:
+    de: Welche Muskeln bilden den Pes anserinus superficialis?
+    en: Which muscles form the pes anserinus?
+  right_terms:
+  - musculus-sartorius
+  - musculus-semitendinosus
+  - musculus-gracilis
+  wrong_terms:
+  - musculus-semimembranosus
+  - musculus-biceps-femoris
+  question_uuid: 26b734a7ee5e3aa907a4fd5560e12c2
+- concepts:
+  - musculus-quadriceps-femoris
+  exercise: question_bank
+  question:
+    de: Welches sind die vier Köpfe des vierköpfigen Oberschenkelmuskels (Musculus
+      quadriceps femoris)?
+    en: Which are the four heads of the quadriceps femoris muscle (musculus quadriceps
+      femoris)?
+  right_terms:
+  - musculus-rectus-femoris
+  - musculus-vastus-medialis
+  - musculus-vastus-lateralis
+  - musculus-vastus-intermedius
+  wrong_terms:
+  - musculus-semitendinosus
+  question_uuid: 6c3aba42dde92161e85033182ba4c0a
+- concepts:
+  - musculus-vastus-intermedius
+  exercise: question_bank
+  question:
+    de: Welcher Muskel hat einen Teil, der sich auf der Höhe der Patella aufteilt
+      und am Recessus suprapatellaris als Musculus genus articularis an der Kniegelenkskapsel
+      ansetzt?
+    en: Which muscle contains a part that splits off in the height of the patellar
+      base and inserts as the articularis genus muscle (Musculus genus articularis)
+      at the suprapatellar recess (Recessus suprapatellaris) of the knee joint capsule?
+  right_terms:
+  - musculus-vastus-intermedius
+  wrong_terms:
+  - musculus-vastus-lateralis
+  - musculus-vastus-medialis
+  - musculus-rectus-femoris
+  - musculus-semimembranosus
+  question_uuid: d36c10b0100d35bbd26cec41beec1c5
+- concepts:
+  - musculus-quadriceps-femoris
+  exercise: question_bank
+  question:
+    de: Die Sehne welches Muskels nutzt die Kniescheibe (Patella) als Sesambein?
+    en: The tendon of which muscle utilizes the patella as a sesamoid bone?
+  right_terms:
+  - musculus-quadriceps-femoris
+  wrong_terms:
+  - musculus-sartorius
+  - musculus-biceps-femoris
+  - musculus-tensor-fasciae-latae
+  - musculus-semitendinosus
+  question_uuid: 6c815233d8efd0b2f07d8405501a23c
+- concepts:
+  - musculus-quadriceps-femoris
+  exercise: question_bank
+  question:
+    de: Welcher der folgenden Muskeln dient klinisch als Referenzmuskel für die Wirbelsäulensegmente
+      von L3 und L4?
+    en: Clinically, which of the following muscles serves as the reference muscle
+      for the spinal segments of L3 and L4?
+  right_terms:
+  - musculus-quadriceps-femoris
+  wrong_terms:
+  - musculus-sartorius
+  - musculus-gracilis
+  - musculus-biceps-femoris
+  - musculus-semitendinosus
+  question_uuid: 86159165d8b319ef26e60e98bd9a1b1
+- concepts:
+  - musculus-sartorius
+  exercise: question_bank
+  question:
+    de: Ein Patient mit koronarer Herzkrankheit in der Vorgeschichte ist für eine
+      koronare Angioplastie und Stentimplantation eingeplant, um die verengten Herzkranzarterien
+      zu erweitern. Der Chirurg entscheidet sich dafür, den Eingriff über die Oberschenkelarterie
+      (Arteria femoralis) vorzunehmen. Welcher Muskel dient beim chirurgischen Zugang
+      zur Oberschenkelarterie als Leitstruktur?
+    en: A patient with a history of coronary artery disease is scheduled for a coronary
+      angioplasty and stent insertion in the attempt to widen his narrow coronary
+      arteries. The surgeon chooses to perform the procedure through the femoral artery.
+      Which muscle serves as a leading structure when surgically accessing the femoral
+      artery (arteria femoralis)?
+  right_terms:
+  - musculus-sartorius
+  wrong_terms:
+  - musculus-pectineus
+  - musculus-iliopsoas
+  - musculus-vastus-medialis
+  - musculus-vastus-lateralis
+  question_uuid: 352e99faa4c52fe8dbe8f328fcd81a5
+- terms:
+  - musculus-sartorius
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - spina-iliaca-anterior-superior
+  wrong_terms:
+  - spina-iliaca-anterior-inferior
+  - ala-ossis-ilii-fossa-iliaca
+  - tuberositas-iliaca
+  - crista-iliaca
+  - tuberculum-pubicum
+- terms:
+  - musculus-sartorius
+  exercise: multiple_choice_text
+  relation: insertion_of
+  right_terms:
+  - facies-medialis-tibiae
+  - pes-anserinus
+  wrong_terms:
+  - condylus-lateralis-tibiae
+  - corpus-femoris
+  - condylus-lateralis
+  - epicondylus-medialis
+- terms:
+  - musculus-sartorius
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-femoralis
+  wrong_terms:
+  - nervus-cutaneus-femoris-posterior
+  - nervus-saphenus
+  - nervus-ischiadicus
+  - nervus-gluteus-superior
+  - nervus-pudendus
+- terms:
+  - musculus-rectus-femoris
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - spina-iliaca-anterior-inferior
+  - sulcus-supraacetabularis
+  wrong_terms:
+  - crista-iliaca
+  - crista-obturatoria
+  - eminentia-iliopubica
+  - linea-intertrochanterica
+- terms:
+  - musculus-rectus-femoris
+  exercise: multiple_choice_text
+  relation: insertion_of
+  right_terms:
+  - patella
+  - tuberositas-tibiae
+  wrong_terms:
+  - collum-fibulae
+  - corpus-femoris
+  - caput-femoris
+  - facies-medialis-fibulae
+- terms:
+  - musculus-rectus-femoris
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-femoralis
+  wrong_terms:
+  - nervus-cutaneus-femoris-lateralis
+  - nervus-saphenus
+  - nervus-ischiadicus
+  - nervus-gluteus-inferior
+  - nervus-pudendus
+- terms:
+  - musculus-vastus-medialis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - linea-aspera
+  - linea-intertrochanterica
+  wrong_terms:
+  - spina-iliaca-anterior-inferior
+  - crista-obturatoria
+  - eminentia-iliopubica
+  - crista-intertrochanterica
+- terms:
+  - musculus-vastus-medialis
+  exercise: multiple_choice_text
+  relation: insertion_of
+  right_terms:
+  - patella
+  - tuberositas-tibiae
+  - condylus-medialis-tibiae
+  wrong_terms:
+  - margo-anterior-fibulae
+  - condylus-lateralis-tibiae
+  - facies-medialis-fibulae
+- terms:
+  - musculus-vastus-medialis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-femoralis
+  wrong_terms:
+  - nervus-cutaneus-femoris-lateralis
+  - nervus-saphenus
+  - nervus-ischiadicus
+  - nervus-gluteus-inferior
+  - nervus-cutaneus-femoris-posterior
+- terms:
+  - musculus-vastus-lateralis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - linea-aspera
+  - trochanter-major
+  wrong_terms:
+  - spina-iliaca-anterior-superior
+  - collum-femoris
+  - eminentia-iliopubica
+  - linea-intertrochanterica
+- terms:
+  - musculus-vastus-lateralis
+  exercise: multiple_choice_text
+  relation: insertion_of
+  right_terms:
+  - patella
+  - tuberositas-tibiae
+  - condylus-lateralis-tibiae
+  wrong_terms:
+  - collum-fibulae
+  - corpus-femoris
+  - facies-medialis-fibulae
+- terms:
+  - musculus-vastus-lateralis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-femoralis
+  wrong_terms:
+  - nervus-cutaneus-femoris-lateralis
+  - nervus-saphenus
+  - nervus-ischiadicus
+  - nervus-gluteus-superior
+  - nervus-cutaneus-femoris-posterior
+- terms:
+  - musculus-vastus-intermedius
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - corpus-femoris
+  wrong_terms:
+  - trochanter-major
+  - linea-aspera
+  - collum-femoris
+  - crista-iliaca
+  - linea-intertrochanterica
+- terms:
+  - musculus-vastus-intermedius
+  exercise: multiple_choice_text
+  relation: insertion_of
+  right_terms:
+  - patella
+  - tuberositas-tibiae
+  wrong_terms:
+  - collum-fibulae
+  - corpus-femoris
+  - caput-femoris
+  - facies-medialis-fibulae
+- terms:
+  - musculus-vastus-intermedius
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-femoralis
+  wrong_terms:
+  - nervi-clunium-inferiores
+  - nervus-saphenus
+  - nervus-ischiadicus
+  - nervus-gluteus-inferior
+  - nervus-cutaneus-femoris-posterior
+- terms:
+  - thigh
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-sartorius
+  - musculus-rectus-femoris
+  wrong_terms:
+  - musculus-gluteus-maximus
+  - musculus-vastus-lateralis
+  - musculus-vastus-medialis
+  - musculus-gastrocnemius
+- terms:
+  - knee
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-rectus-femoris
+  - musculus-vastus-intermedius
+  - musculus-vastus-lateralis
+  - musculus-vastus-medialis
+  wrong_terms:
+  - musculus-sartorius
+  - musculus-gluteus-medius
+- terms:
+  - thigh
+  exercise: multiple_choice_image
+  relation: abducts_the
+  right_terms:
+  - musculus-sartorius
+  wrong_terms:
+  - musculus-rectus-femoris
+  - musculus-vastus-medialis
+  - musculus-vastus-lateralis
+  - musculus-vastus-intermedius
+  - musculus-psoas-major
+- terms:
+  - thigh
+  exercise: multiple_choice_image
+  relation: externally_rotates_the
+  right_terms:
+  - musculus-sartorius
+  wrong_terms:
+  - musculus-rectus-femoris
+  - musculus-vastus-lateralis
+  - musculus-vastus-intermedius
+  - musculus-quadratus-lumborum
+- terms:
+  - knee
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-sartorius
+  wrong_terms:
+  - musculus-gluteus-maximus
+  - musculus-obturatorius-internus
+  - musculus-piriformis
+  - musculus-rectus-femoris
+  - musculus-adductor-magnus
+- terms:
+  - knee
+  exercise: multiple_choice_image
+  relation: internally_rotates_the
+  right_terms:
+  - musculus-sartorius
+  wrong_terms:
+  - musculus-rectus-femoris
+  - musculus-vastus-intermedius
+  - musculus-vastus-lateralis
+  - musculus-vastus-intermedius
+  - musculus-psoas-major
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-sartorius
+  - musculus-rectus-femoris
+  wrong_terms:
+  - musculus-obturatorius-externus
+  - musculus-vastus-lateralis
+  - musculus-semitendinosus
+  - musculus-gastrocnemius
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: externally_rotates_the
+  right_terms:
+  - musculus-sartorius
+  wrong_terms:
+  - musculus-tensor-fasciae-latae
+  - musculus-vastus-lateralis
+  - musculus-gracilis
+  - musculus-biceps-femoris
+  - musculus-rectus-femoris
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: abducts_the
+  right_terms:
+  - musculus-sartorius
+  wrong_terms:
+  - musculus-rectus-femoris
+  - musculus-iliacus
+  - musculus-adductor-longus
+  - musculus-semitendinosus
+  - musculus-psoas-major
+- terms:
+  - musculus-biceps-femoris
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - tuber-ischiadicum
+  - ligamentum-sacrotuberale
+  - linea-aspera
+  - lateral-supracondylar-line
+  wrong_terms:
+  - trochanter-major
+  - crista-obturatoria
+- terms:
+  - musculus-biceps-femoris
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - caput-fibulae
+  wrong_terms:
+  - condylus-medialis-tibiae
+  - facies-lateralis-tibiae
+  - margo-anterior-fibulae
+  - corpus-femoris
+  - fossa-intercondylaris
+- terms:
+  - musculus-biceps-femoris
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - tibial-division-of-sciatic-nerve
+  - common-fibular-division-of-sciatic-nerve
+  wrong_terms:
+  - nervus-femoralis
+  - nervus-cutaneus-femoris-posterior
+  - nervus-gluteus-inferior
+  - nervus-saphenus
+- terms:
+  - musculus-semimembranosus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - tuber-ischiadicum
+  wrong_terms:
+  - linea-aspera
+  - trochanter-major
+  - crista-intertrochanterica
+  - spina-iliaca-posterior-superior
+  - ligamentum-ischiofemorale
+- terms:
+  - musculus-semimembranosus
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - condylus-medialis-tibiae
+  - ligamentum-popliteum-obliquum
+  wrong_terms:
+  - caput-fibulae
+  - facies-lateralis-tibiae
+  - condylus-lateralis
+  - corpus-femoris
+- terms:
+  - musculus-semimembranosus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-ischiadicus
+  wrong_terms:
+  - nervus-peroneus-communis
+  - nervus-femoralis
+  - nervus-cutaneus-femoris-posterior
+  - nervus-gluteus-inferior
+  - nervus-saphenus
+- terms:
+  - musculus-semitendinosus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - tuber-ischiadicum
+  wrong_terms:
+  - corpus-femoris
+  - linea-aspera
+  - crista-iliaca
+  - spina-iliaca-anterior-inferior
+  - ligamentum-ischiofemorale
+- terms:
+  - musculus-semitendinosus
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - pes-anserinus
+  wrong_terms:
+  - ligamentum-popliteum-obliquum
+  - facies-lateralis-tibiae
+  - condylus-lateralis
+  - corpus-femoris
+  - facies-lateralis-fibulae
+- terms:
+  - musculus-semitendinosus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - tibial-division-of-sciatic-nerve
+  wrong_terms:
+  - nervus-peroneus-communis
+  - nervus-femoralis
+  - nervus-cutaneus-femoris-posterior
+  - nervus-gluteus-inferior
+  - nervus-saphenus
+- terms:
+  - thigh
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-biceps-femoris
+  - musculus-semimembranosus
+  - musculus-semitendinosus
+  wrong_terms:
+  - musculus-quadratus-femoris
+  - musculus-vastus-medialis
+  - musculus-sartorius
+- terms:
+  - knee
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-biceps-femoris
+  - musculus-semimembranosus
+  - musculus-semitendinosus
+  wrong_terms:
+  - musculus-rectus-femoris
+  - musculus-vastus-intermedius
+  - musculus-pectineus
+- terms:
+  - knee
+  exercise: multiple_choice_image
+  relation: externally_rotates_the
+  right_terms:
+  - musculus-biceps-femoris
+  wrong_terms:
+  - musculus-semimembranosus
+  - musculus-semitendinosus
+  - musculus-gracilis
+  - musculus-sartorius
+  - musculus-popliteus
+- terms:
+  - knee
+  exercise: multiple_choice_image
+  relation: internally_rotates_the
+  right_terms:
+  - musculus-semimembranosus
+  - musculus-semitendinosus
+  wrong_terms:
+  - musculus-biceps-femoris
+  - musculus-psoas-major
+  - musculus-adductor-minimus
+  - musculus-rectus-femoris
+- terms:
+  - pelvis
+  exercise: multiple_choice_image
+  relation: stabilizes_the
+  right_terms:
+  - musculus-biceps-femoris
+  - musculus-semimembranosus
+  - musculus-semitendinosus
+  wrong_terms:
+  - musculus-quadratus-femoris
+  - musculus-vastus-intermedius
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-biceps-femoris
+  - musculus-semimembranosus
+  - musculus-semitendinosus
+  wrong_terms:
+  - musculus-rectus-femoris
+  - musculus-vastus-lateralis
+  - musculus-gracilis
+- terms:
+  - musculus-obturatorius-externus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - membrana-obturatoria
+  - foramen-obturatum
+  wrong_terms:
+  - fossa-trochanterica
+  - ramus-inferior-ossis-pubis
+  - tuberositas-iliaca
+  - symphysis-pubis
+- terms:
+  - musculus-obturatorius-externus
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - fossa-trochanterica
+  wrong_terms:
+  - linea-aspera
+  - caput-femoris
+  - condylus-lateralis
+  - epicondylus-medialis
+  - eminentia-intercondylaris
+- terms:
+  - musculus-obturatorius-externus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-obturatorius
+  wrong_terms:
+  - nervus-cutaneus-femoris-posterior
+  - nervus-saphenus
+  - nervus-ischiadicus
+  - nervus-gluteus-superior
+  - nervus-pudendus
+- terms:
+  - musculus-gracilis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - ramus-inferior-ossis-pubis
+  - corpus-ossis-pubis
+  - ramus-ossis-ischii
+  wrong_terms:
+  - ramus-superior-ossis-pubis
+  - crista-obturatoria
+  - eminentia-iliopubica
+- terms:
+  - musculus-gracilis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - pes-anserinus
+  wrong_terms:
+  - collum-fibulae
+  - corpus-femoris
+  - caput-femoris
+  - facies-medialis-fibulae
+  - tuberositas-glutea
+- terms:
+  - musculus-gracilis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-obturatorius
+  wrong_terms:
+  - nervus-femoralis
+  - nervus-saphenus
+  - nervus-ischiadicus
+  - nervus-gluteus-superior
+  - nervus-pudendus
+- terms:
+  - musculus-pectineus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - superior-pubic-ramus
+  - linea-pectinea-ossis-pubis
+  wrong_terms:
+  - spina-iliaca-anterior-superior
+  - linea-intertrochanterica
+  - ramus-inferior-ossis-pubis
+- terms:
+  - musculus-pectineus
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - linea-pectinea-femoris
+  wrong_terms:
+  - fossa-trochanterica
+  - corpus-femoris
+  - trochanter-major
+  - trochanter-minor
+  - linea-intertrochanterica
+- terms:
+  - musculus-pectineus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-femoralis
+  - nervus-obturatorius
+  wrong_terms:
+  - nervus-saphenus
+  - plexus-sacralis
+  - nervus-gluteus-inferior
+  - nervus-genitofemoralis
+- terms:
+  - musculus-adductor-longus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - corpus-ossis-pubis
+  wrong_terms:
+  - linea-pectinea-ossis-pubis
+  - ramus-inferior-ossis-pubis
+  - collum-femoris
+  - eminentia-iliopubica
+  - membrana-obturatoria
+- terms:
+  - musculus-adductor-longus
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - linea-aspera
+  wrong_terms:
+  - tuberositas-glutea
+  - trochanter-minor
+  - fossa-trochanterica
+  - caput-femoris
+  - linea-intertrochanterica
+- terms:
+  - musculus-adductor-longus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-obturatorius
+  wrong_terms:
+  - nervus-femoralis
+  - nervus-genitofemoralis
+  - nervus-ischiadicus
+  - nervus-gluteus-superior
+  - nervus-ilioinguinalis
+- terms:
+  - musculus-adductor-brevis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - ramus-inferior-ossis-pubis
+  - corpus-ossis-pubis
+  wrong_terms:
+  - linea-pectinea-ossis-pubis
+  - os-ischii
+  - symphysis-pubis
+  - os-sacrum
+- terms:
+  - musculus-adductor-brevis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - linea-aspera
+  wrong_terms:
+  - tuberositas-glutea
+  - trochanter-minor
+  - fossa-trochanterica
+  - condylus-medialis-tibiae
+  - epicondylus-medialis
+- terms:
+  - musculus-adductor-brevis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-obturatorius
+  wrong_terms:
+  - nervus-saphenus
+  - plexus-sacralis
+  - nervus-gluteus-inferior
+  - nervus-genitofemoralis
+  - nervus-femoralis
+- terms:
+  - musculus-adductor-minimus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - ramus-inferior-ossis-pubis
+  wrong_terms:
+  - os-coccygis
+  - os-ischii
+  - symphysis-pubis
+  - os-sacrum
+- terms:
+  - musculus-adductor-magnus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - ramus-inferior-ossis-pubis
+  - ramus-ossis-ischii
+  - tuber-ischiadicum
+  wrong_terms:
+  - membrana-obturatoria
+  - ramus-superior-ossis-pubis
+  - linea-intertrochanterica
+- terms:
+  - musculus-adductor-magnus
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - linea-aspera
+  - tuberculum-adductorium
+  - tuberositas-glutea
+  - medial-supracondylar-line
+  wrong_terms:
+  - tuberositas-tibiae
+  - facies-medialis-fibulae
+- terms:
+  - musculus-adductor-magnus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-obturatorius
+  - tibial-division-of-sciatic-nerve
+  wrong_terms:
+  - nervi-clunium-inferiores
+  - nervus-saphenus
+  - nervus-femoralis
+  - nervus-gluteus-inferior
+- terms:
+  - thigh
+  exercise: multiple_choice_image
+  relation: adducts_the
+  right_terms:
+  - musculus-adductor-brevis
+  - musculus-adductor-magnus
+  - musculus-gracilis
+  - musculus-pectineus
+  - musculus-gluteus-maximus
+  wrong_terms:
+  - musculus-tensor-fasciae-latae
+- terms:
+  - thigh
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-adductor-brevis
+  - musculus-adductor-longus
+  - musculus-pectineus
+  - musculus-gracilis
+  wrong_terms:
+  - musculus-obturatorius-externus
+  - musculus-adductor-magnus
+- terms:
+  - pelvis
+  exercise: multiple_choice_image
+  relation: stabilizes_the
+  right_terms:
+  - musculus-adductor-brevis
+  - musculus-adductor-longus
+  - musculus-adductor-magnus
+  - musculus-pectineus
+  - musculus-gluteus-maximus
+  wrong_terms:
+  - musculus-gracilis
+- terms:
+  - knee
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-gracilis
+  wrong_terms:
+  - musculus-gluteus-maximus
+  - musculus-gluteus-medius
+  - musculus-gluteus-minimus
+  - musculus-piriformis
+  - musculus-gemellus-inferior
+- terms:
+  - knee
+  exercise: multiple_choice_image
+  relation: internally_rotates_the
+  right_terms:
+  - musculus-gracilis
+  wrong_terms:
+  - musculus-gluteus-maximus
+  - musculus-gluteus-medius
+  - musculus-gluteus-minimus
+  - musculus-piriformis
+  - musculus-gemellus-inferior
+- terms:
+  - thigh
+  exercise: multiple_choice_image
+  relation: externally_rotates_the
+  right_terms:
+  - musculus-pectineus
+  - adductor-minimus-muscle
+  - musculus-adductor-magnus
+  - musculus-biceps-femoris
+  wrong_terms:
+  - musculus-gracilis
+  - musculus-semimembranosus
+- terms:
+  - thigh
+  exercise: multiple_choice_image
+  relation: externally_rotates_the
+  right_terms:
+  - musculus-adductor-brevis
+  - musculus-adductor-longus
+  - musculus-obturatorius-externus
+  - adductor-minimus-muscle
+  - musculus-biceps-femoris
+  wrong_terms:
+  - musculus-semitendinosus
+- terms:
+  - thigh
+  exercise: multiple_choice_image
+  relation: adducts_the
+  right_terms:
+  - musculus-adductor-brevis
+  - musculus-adductor-longus
+  - musculus-adductor-magnus
+  - adductor-minimus-muscle
+  wrong_terms:
+  - musculus-piriformis
+  - musculus-tensor-fasciae-latae
+- terms:
+  - thigh
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-adductor-magnus
+  wrong_terms:
+  - musculus-adductor-longus
+  - musculus-adductor-brevis
+  - musculus-tensor-fasciae-latae
+  - musculus-gracilis
+  - musculus-obturatorius-externus
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: externally_rotates_the
+  right_terms:
+  - musculus-adductor-brevis
+  - musculus-obturatorius-externus
+  - adductor-minimus-muscle
+  - musculus-adductor-magnus
+  wrong_terms:
+  - musculus-tensor-fasciae-latae
+  - musculus-semitendinosus
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: externally_rotates_the
+  right_terms:
+  - musculus-pectineus
+  - musculus-adductor-longus
+  - musculus-obturatorius-externus
+  - musculus-biceps-femoris
+  wrong_terms:
+  - musculus-gracilis
+  - musculus-semimembranosus
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: adducts_the
+  right_terms:
+  - musculus-adductor-brevis
+  - musculus-adductor-longus
+  - musculus-adductor-magnus
+  - adductor-minimus-muscle
+  wrong_terms:
+  - musculus-piriformis
+  - musculus-tensor-fasciae-latae
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: adducts_the
+  right_terms:
+  - adductor-minimus-muscle
+  - musculus-pectineus
+  - musculus-gracilis
+  wrong_terms:
+  - musculus-gluteus-minimus
+  - musculus-piriformis
+  - musculus-tensor-fasciae-latae
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-adductor-magnus
+  wrong_terms:
+  - musculus-adductor-longus
+  - musculus-adductor-brevis
+  - musculus-tensor-fasciae-latae
+  - musculus-gracilis
+  - musculus-obturatorius-externus
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-pectineus
+  - musculus-gracilis
+  - musculus-adductor-brevis
+  - musculus-adductor-longus
+  - musculus-sartorius
+  wrong_terms:
+  - musculus-gemellus-superior
+- concepts:
+  - musculus-levator-ani
+  - musculus-levator-ani-3
+  - musculus-levator-ani-2
+  - musculus-sphincter-ani-externus
+  - musculus-sphincter-ani-externus-2
+  - musculus-sphincter-ani-externus-3
+  - tuberosity-of-the-ischium-2
+  - musculus-obturatorius-internus-2
+  - musculus-obturatorius-internus
+  exercise: question_bank
+  question:
+    de: Welche Strukturen begrenzen den infralevatorischen Raum (Fossa ischiorectalis
+      bzw. ischioanalis) von medial und lateral?
+    en: What structures bound the ischiorectal or ischioanal fossa (fossa ischiorectalis
+      or ischioanalis) medially and laterally?
+  right_terms:
+  - musculus-levator-ani
+  - musculus-sphincter-ani-externus
+  - tuberosity-of-the-ischium-2
+  - musculus-obturatorius-internus-2
+  wrong_terms:
+  - musculus-obturatorius-externus
+  question_uuid: 56448dcd06c017db2a7996a7a507c47
+- concepts:
+  - musculus-obturatorius-internus
+  - nervus-pudendus-3
+  exercise: question_bank
+  question:
+    de: Eine 35-jährige Frau klagt über Schmerzen im Bereich des Beckenbodens. Es
+      wird der Verdacht auf ein Pudenduskanal-Syndrom (Engpasssyndrom des Schamnervs)
+      gestellt. Die Faszie welches Muskels bildet den Alcock-Kanal (Canalis pudendalis),
+      durch den der Schamnerv (Nervus pudendus) verläuft?
+    en: A 35-year-old woman complains of pelvic floor pain. Pudendal canal syndrome
+      entrapment (Alcock's canal syndrome) is suspected. The fascia of which muscle
+      forms the Alcock’s canal that is passed by the pudendal nerve (nervus pudendus)?
+  right_terms:
+  - musculus-obturatorius-internus
+  wrong_terms:
+  - musculus-iliopsoas
+  - obturator-externus-muscle
+  - musculus-psoas-major
+  - musculus-gluteus-maximus
+  question_uuid: f67d7d2aa6c6d42db3db55a85c367b3
+- concepts:
+  - musculus-obturatorius-internus
+  - pudendal-nerve
+  - pudendal-nerve-3
+  - nervus-pudendus-3
+  - nervus-pudendus-2
+  - arteria-pudenda-interna-5
+  - arteria-pudenda-interna-2
+  - arteria-pudenda-interna-3
+  - arteria-pudenda-interna
+  - internal-pudendal-vein
+  - internal-pudendal-vein-3
+  exercise: question_bank
+  question:
+    de: Welche drei Strukturen verlaufen in einer Duplikatur der Faszie des Musculus
+      obturatorius internus (innerer Verstopfermuskel)?
+    en: Which three structures run in a duplicature of the fascia of the obturator
+      internus muscle (musculus obturatorius internus)?
+  right_terms:
+  - pudendal-nerve-3
+  - arteria-pudenda-interna
+  - internal-pudendal-vein
+  wrong_terms:
+  - deep-external-pudendal-artery
+  - obturator-vein
+  question_uuid: 8c709a22d5a77ea708fd08a655d0f35
+- concepts:
+  - musculus-iliopsoas
+  - nervus-femoralis
+  - lateral-femoral-cutaneous-nerve-2
+  exercise: question_bank
+  question:
+    de: Welche drei Strukturen verlassen das Becken durch die Lacuna musculorum (Muskelpforte)?
+    en: Which three structures exit the pelvis through the muscular lacuna (lacuna
+      musculorum)?
+  right_terms:
+  - musculus-iliopsoas
+  - nervus-femoralis
+  - lateral-femoral-cutaneous-nerve-2
+  wrong_terms:
+  - musculus-rectus-femoris
+  - ramus-femoralis-nervi-genitofemoralis
+  question_uuid: 992e7b1123fd04d5073235665724583
+- concepts:
+  - nervus-obturatorius
+  - musculus-adductor-longus
+  exercise: question_bank
+  question:
+    de: Eine Motorradfahrerin kommt von der Straße ab und erleidet schwere Verletzungen.
+      Im Krankenhaus wird festgestellt, dass sie sich eine Beckenringfraktur im Bereich
+      des Ramus superior ossis pubis (oberer Schambeinast) zugezogen hat. Die Funktion
+      welches Muskels sollte überprüft werden, um eine Verletzung des Nervus obturatorius
+      (Hüftlochnerv) auszuschließen?
+    en: A motorcyclist went off the road and sustained serious injuries. In the hospital
+      it is determined that she has a pelvic ring fracture in the area of the superior
+      pubic ramus (ramus superior ossis pubis). The function of which muscle should
+      be examined in order to rule out that the obturator nerve (nervus obturatorius)
+      was injured as well?
+  right_terms:
+  - musculus-adductor-longus
+  wrong_terms:
+  - musculus-piriformis
+  - musculus-gluteus-minimus
+  - musculus-rectus-femoris
+  - musculus-sartorius
+  question_uuid: 5bf6f818381edb44047e8d75515e251
+- concepts:
+  - femoral-trigone-2
+  - musculus-sartorius
+  exercise: question_bank
+  question:
+    de: Bei einer Patientin mit peripherer arterieller Verschlusskrankheit (pAVK)
+      ist auch die Arteria femoralis (Oberschenkelarterie) mitbetroffen. Operativ
+      soll nun eine hämodynamisch relevante Engstelle wieder erweitert werden. Um
+      einen Zugang zu dem Gefäß zu finden, orientiert sich die Chirurgin am Trigonum
+      femorale (Scarpa-Dreieck), durch das auch die Arteria femoralis zieht. Welcher
+      Muskel bildet die laterale Grenze des Dreiecks?
+    en: In a patient with peripheral arterial occlusive disease the femoral artery
+      is also affected. A hemodynamically significant constriction is now supposed
+      to be dilated surgically. To access the vessel, the surgeon orients herself
+      at the femoral (Scarpa's) triangle (trigonum femorale) through which the femoral
+      artery (arteria femoralis) runs. Which muscle forms the lateral side of this
+      triangle?
+  right_terms:
+  - musculus-sartorius
+  wrong_terms:
+  - musculus-rectus-femoris
+  - musculus-gracilis
+  - musculus-semitendinosus
+  - musculus-semimembranosus
+  question_uuid: 101bc00dba900a53dcfa5419c80aec5
+- concepts:
+  - musculus-gluteus-medius
+  - gluteus-medius-muscle-2
+  exercise: question_bank
+  question:
+    de: Eine Krankenschwester injiziert eine Spritze intramuskulär in die Glutealregion.
+      In welchen Muskel spritzt sie dabei?
+    en: A nursing staff administers intramuscular injection in the gluteal region
+      of a patient. Which muscle receives the injection?
+  right_terms:
+  - musculus-gluteus-medius
+  wrong_terms:
+  - musculus-gluteus-maximus
+  - musculus-gluteus-minimus
+  - musculus-piriformis
+  - musculus-tensor-fasciae-latae
+  question_uuid: 9b1b4feb8e4b57fbce0d39d3ad1e144
+- concepts:
+  - musculus-adductor-longus
+  - musculus-sartorius
+  exercise: question_bank
+  question:
+    de: Der Musculus sartorius bildet die laterale Begrenzung des Trigonum femorale
+      und das Ligamentum inguinale die superiore Begrenzung. Welche Struktur stellt
+      die mediale Begrenzung des Trigonum femorale dar?
+    en: The sartorius muscle (musculus sartorius) makes up the lateral border of the
+      femoral triangle. The inguinal ligament (ligamentum inguinale) makes up the
+      proximal border. Which structure forms the medial border of the femoral triangle?
+  right_terms:
+  - musculus-adductor-longus
+  wrong_terms:
+  - musculus-adductor-brevis
+  - musculus-adductor-magnus
+  - musculus-gracilis
+  - musculus-pectineus
+  question_uuid: 6b70bda00f7cf02f195b47d1d8367ce
+- concepts:
+  - musculus-gluteus-medius
+  - musculus-gluteus-minimus
+  - nervus-gluteus-superior
+  exercise: question_bank
+  question:
+    de: Ein Patient stellt sich mit einem positiven Trendelenburg-Zeichen vor. Welche
+      Muskeln können geschwächt oder gelähmt sein?
+    en: A patient presents with a positive Trendelenburg sign. What muscles may be
+      weak or paralysed?
+  right_terms:
+  - musculus-gluteus-medius
+  - musculus-gluteus-minimus
+  wrong_terms:
+  - musculus-adductor-longus
+  - musculus-semimembranosus
+  - musculus-semitendinosus
+  question_uuid: 114c0e6c298099ea01edc56775d9368
+- concepts:
+  - musculus-adductor-magnus
+  - musculus-biceps-femoris
+  exercise: question_bank
+  question:
+    de: Welcher Muskel liegt direkt in der Tiefe des Caput longum des Musculus biceps
+      femoris?
+    en: Which muscle is found directly deep to the long head of the biceps femoris
+      muscle (musculus biceps femoris)?
+  right_terms:
+  - musculus-adductor-magnus
+  wrong_terms:
+  - musculus-adductor-brevis
+  - musculus-adductor-longus
+  - musculus-semimembranosus
+  - musculus-quadratus-femoris
+  question_uuid: 446f061835f18bba29104dfa6a556dd
+- concepts:
+  - musculus-sartorius
+  - musculus-rectus-femoris
+  - musculus-adductor-longus
+  exercise: question_bank
+  question:
+    de: Welcher Muskel liegt oberflächlich des Musculus rectus femoris und des Musculus
+      adductor longus?
+    en: What muscle lies superficial to the rectus femoris muscle (musculus rectus
+      femoris) and the adductor longus muscle (musculus adductor longus)?
+  right_terms:
+  - musculus-sartorius
+  wrong_terms:
+  - musculus-vastus-medialis
+  - musculus-vastus-lateralis
+  - musculus-adductor-magnus
+  - musculus-iliacus
+  question_uuid: 8e218ac5a0f3812a8bd120fb213f3ed
+- concepts:
+  - musculus-gluteus-maximus
+  - musculus-biceps-femoris
+  exercise: question_bank
+  question:
+    de: Welche beiden Muskeln sind am wichtigsten für den Schutz des Ligamentum sacrotuberale
+      und Ligamentum sacrospinale vor Verletzungen?
+    en: Which two muscles are most important in protecting the sacrotuberous ligament
+      (ligamentum sacrotuberale) and sacrospinous ligament (ligamentum sacrospinale)
+      from injury?
+  right_terms:
+  - musculus-gluteus-maximus
+  - musculus-biceps-femoris
+  wrong_terms:
+  - musculus-iliacus
+  - musculus-psoas-major
+  - musculus-gemellus-superior
+  question_uuid: 70baa3d288a668768e42e457c58152a
+- concepts:
+  - musculus-piriformis
+  - nervus-ischiadicus
+  exercise: question_bank
+  question:
+    de: Wenn ein Patient unter Ischialgie leidet, kann die Verspannung oder Verkürzung
+      welches Muskels die Ursache des Problems sein?
+    en: If a patient is suffering from sciatica (sciatic neuritis), tightness of which
+      muscle may be the problem?
+  right_terms:
+  - musculus-piriformis
+  wrong_terms:
+  - musculus-psoas-major
+  - musculus-pectineus
+  - musculus-iliacus
+  - musculus-gemellus-superior
+  question_uuid: bcb5014ecb8eaa4bcbde688044bd7f2
+- concepts:
+  - musculus-semimembranosus
+  exercise: question_bank
+  question:
+    de: Welcher Muskel bildet die superiore mediale Begrenzung der Fossa poplitea?
+    en: Which muscle makes up the superior medial border of the popliteal fossa?
+  right_terms:
+  - musculus-semimembranosus
+  wrong_terms:
+  - musculus-biceps-femoris
+  - musculus-gracilis
+  - musculus-adductor-magnus
+  - musculus-adductor-longus
+  question_uuid: ef9a4707c44b2df2625f0372c1b0a3b
+- concepts:
+  - musculus-gracilis
+  exercise: question_bank
+  question:
+    de: Welcher der folgenden Muskeln ist der am weitesten medial gelegene Muskel
+      des Oberschenkels?
+    en: Which of the following is the most medially situated muscle of the thigh?
+  right_terms:
+  - musculus-gracilis
+  wrong_terms:
+  - musculus-adductor-magnus
+  - musculus-adductor-longus
+  - musculus-adductor-brevis
+  - musculus-pectineus
+  question_uuid: fdc34ac7533e51ca4da967aa10218ee
+- concepts:
+  - musculus-obturatorius-internus
+  - lesser-ischiatic-foramen
+  exercise: question_bank
+  question:
+    de: Welcher der folgenden Muskeln läuft durch das Foramen ischiadicum minus?
+    en: Which of the following muscles passes through the lesser sciatic foramen (foramen
+      ischiadicum minus)?
+  right_terms:
+  - musculus-obturatorius-internus
+  wrong_terms:
+  - musculus-obturatorius-externus
+  - musculus-piriformis
+  - musculus-gemellus-superior
+  - musculus-gemellus-inferior
+  question_uuid: 9866580072ee8f41f0e0682bd324d3f
+- concepts:
+  - innervation_of-musculus-adductor-magnus
+  - innervation_of-musculus-pectineus
+  - innervation_of-musculus-gracilis
+  - innervation_of-musculus-obturatorius-externus
+  exercise: question_bank
+  question:
+    de: Welche Muskeln werden vom Nervus obturatorius innerviert?
+    en: Which muscles are innervated by the obturator nerve (nervus obturatorius)?
+  right_terms:
+  - musculus-adductor-magnus
+  - musculus-pectineus
+  - musculus-gracilis
+  - musculus-obturatorius-externus
+  wrong_terms:
+  - musculus-obturatorius-internus
+  question_uuid: edc59b35a9dfeac7a16d4e7d2fb3713
+- concepts:
+  - abducts_the-hip-joint
+  exercise: question_bank
+  question:
+    de: Welcher Muskeln abduzieren das Hüftgelenk?
+    en: Which muscles abduct the hip joint?
+  right_terms:
+  - musculus-gluteus-medius
+  - musculus-piriformis
+  - musculus-sartorius
+  - musculus-tensor-fasciae-latae
+  wrong_terms:
+  - musculus-pectineus
+  question_uuid: bfd60564ba0c7870692b1a3799118bc
+- concepts:
+  - musculus-gluteus-medius
+  exercise: question_bank
+  question:
+    de: Welcher Muskel ist hauptsächlich für die Abduktion der Hüfte verantwortlich?
+    en: Which muscle is the primary hip abductor?
+  right_terms:
+  - musculus-gluteus-medius
+  wrong_terms:
+  - musculus-gluteus-minimus
+  - musculus-tensor-fasciae-latae
+  - musculus-sartorius
+  - musculus-rectus-femoris
+  question_uuid: 2f59fe18511928ef31ad2dd0fd93b35
+- concepts:
+  - insertion_of-musculus-gluteus-maximus
+  - insertion_of-musculus-tensor-fasciae-latae
+  exercise: question_bank
+  question:
+    de: Welche Muskeln setzen am Tractus iliotibialis an?
+    en: What muscles insert on the iliotibial tract (tractus iliotibialis)?
+  right_terms:
+  - musculus-gluteus-maximus
+  - musculus-tensor-fasciae-latae
+  wrong_terms:
+  - musculus-gluteus-minimus
+  - musculus-gluteus-medius
+  - musculus-piriformis
+  question_uuid: d173911b03471d57512cb400246e064
+- concepts:
+  - laterally_rotates_the-hip-joint
+  - flexes_the-hip-joint
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Muskeln führen eine Flexion und Außenrotation des Oberschenkels
+      aus?
+    en: Which of the following muscles act to externally rotate and flex the thigh?
+  right_terms:
+  - musculus-sartorius
+  - musculus-pectineus
+  - musculus-iliopsoas
+  wrong_terms:
+  - musculus-piriformis
+  - musculus-quadratus-femoris
+  question_uuid: ea33ab0808d2bb6b0ae3f12ab5bc669
+- concepts:
+  - origin_of-musculus-adductor-brevis
+  - origin_of-musculus-adductor-longus
+  - origin_of-musculus-adductor-magnus
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Muskeln setzen an der Linea aspera an?
+    en: Which of the following muscles insert on the linea aspera?
+  right_terms:
+  - musculus-adductor-brevis
+  - musculus-adductor-longus
+  - musculus-adductor-magnus
+  wrong_terms:
+  - musculus-gracilis
+  - musculus-piriformis
+  question_uuid: f0fdc73adbde0bd6ba9a4f9363226ca
+- concepts:
+  - musculus-gluteus-maximus
+  exercise: question_bank
+  question:
+    de: Ein Patient stellt sich mit Schwierigkeiten beim Aufstehen sowie Treppensteigen
+      vor, hat jedoch keine Probleme beim aufrechten Stehen. Der folgende Muskel ist
+      am ehesten geschwächt oder ausgefallen
+    en: A patient is having difficulties with standing up from a seated position and
+      with walking upstairs, yet there are no difficulties associated with a standing
+      position. Which of the following muscles is most likely weakened or paralyzed?
+  right_terms:
+  - musculus-gluteus-maximus
+  wrong_terms:
+  - musculus-gluteus-medius
+  - musculus-gluteus-minimus
+  - musculus-semitendinosus
+  - musculus-semimembranosus
+  question_uuid: ef63e4b8a62a51046955a8aba254d03
+- concepts:
+  - extends_the-hip-joint
+  exercise: question_bank
+  question:
+    de: Welche Muskeln beteiligen sich an der Extension des Hüftgelenkes?
+    en: Which muscles extend the hip joint?
+  right_terms:
+  - musculus-gluteus-maximus
+  - musculus-semimembranosus
+  wrong_terms:
+  - musculus-sartorius
+  - musculus-rectus-femoris
+  - musculus-tensor-fasciae-latae
+  question_uuid: 2f81ef506bb46c0bcf7401d16039c7d
+- concepts:
+  - musculus-iliopsoas
+  - os-coxae
+  - musculus-iliacus
+  - musculus-psoas-major
+  exercise: question_bank
+  question:
+    de: Der Arzt führt den Thomas-Handgriff beim Patienten aus und bemerkt dabei eine
+      eingeschränkte Streckung des Hüftgelenks. Die Verkürzung welches Muskels kann
+      beim Thomas-Handgriff zu einer unvollständigen Hüftextension führen?
+    en: After completing the Thomas maneuver on an individual, it was noted that hip
+      extension is limited. Shortening of which of the following muscles can be a
+      reason for incomplete extension of the hip joint in the Thomas test?
+  right_terms:
+  - musculus-iliopsoas
+  wrong_terms:
+  - musculus-vastus-medialis
+  - musculus-gluteus-maximus
+  - musculus-vastus-lateralis
+  - musculus-semimembranosus
+  question_uuid: ce78854454c73db63a568c70b5bdeea
+- concepts:
+  - musculus-gluteus-medius
+  - musculus-gluteus-minimus
+  - musculus-tensor-fasciae-latae
+  exercise: question_bank
+  question:
+    de: Welche Muskeln rotieren die Hüfte nach innen?
+    en: Which muscles internally rotate the hip?
+  right_terms:
+  - musculus-gluteus-medius
+  - musculus-gluteus-minimus
+  - musculus-tensor-fasciae-latae
+  wrong_terms:
+  - musculus-gluteus-maximus
+  - musculus-sartorius
+  question_uuid: 3dbb38a489533ac228d1acff222ea81
+- concepts:
+  - origin_of-musculus-gemellus-inferior
+  - origin_of-musculus-quadratus-femoris
+  - origin_of-musculus-adductor-magnus
+  - origin_of-musculus-semimembranosus
+  exercise: question_bank
+  question:
+    de: Eine Fraktur des Tuber ischiadicum beeinträchtigt die Funktion der folgenden
+      Muskeln
+    en: A fracture of the ischial tuberosity (tuber ischiadicum) would affect the
+      function of which of the following muscles?
+  right_terms:
+  - musculus-gemellus-inferior
+  - musculus-quadratus-femoris
+  - musculus-adductor-magnus
+  - musculus-semimembranosus
+  wrong_terms:
+  - musculus-gemellus-superior
+  question_uuid: 361b9d9a4726ae83ea5fb3f17fbbc54
+- concepts:
+  - musculus-rectus-femoris
+  - patellar-ligament-3
+  exercise: question_bank
+  question:
+    de: Der Q-Winkel ist der Winkel zwischen der Patellasehne und dem Kraftvektor
+      welcher Struktur?
+    en: The Q-angle is the measured angle between the patellar tendon and the alignment
+      of which of the following structures?
+  right_terms:
+  - musculus-rectus-femoris
+  wrong_terms:
+  - collum-femoris
+  - caput-femoris
+  - musculus-psoas-major
+  - musculus-gracilis
+  question_uuid: 6a4fa332f5c058b5f960bcec4f92d14
+- concepts:
+  - adducts_the-hip-joint
+  - laterally_rotates_the-hip-joint
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Muskeln können den Oberschenkel adduzieren und außenrotieren?
+    en: Which of the following muscles adduct and externally rotate the thigh?
+  right_terms:
+  - musculus-adductor-magnus
+  - musculus-adductor-brevis
+  - musculus-obturatorius-externus
+  wrong_terms:
+  - musculus-piriformis
+  - musculus-gastrocnemius
+  question_uuid: 1a2e7f42c2fe16eee2bcdda3b34d692
+- concepts:
+  - flexes_the-hip-joint
+  exercise: question_bank
+  question:
+    de: Bei der Schwungphase des Gehvorgangs wirken welche Muskeln am Hüftgekenk beim
+      Beschleunigen des Beines nach vorne?
+    en: During the swing phase of the gait cycle, the following muscles act at the
+      hip joint to assist with foot clearance and accelerating the limb forward
+  right_terms:
+  - musculus-iliacus
+  - musculus-rectus-femoris
+  - musculus-pectineus
+  wrong_terms:
+  - musculus-adductor-magnus
+  - musculus-vastus-medialis
+  question_uuid: c2a3c98b86d74ef5c9c276f86159db9
+- concepts:
+  - extends_the-hip-joint
+  exercise: question_bank
+  question:
+    de: Beim Gehvorgang führt die Kraft des Bodenkontaktes zu einer Flexion im Hüftgelenk.
+      Um eine überschießende Hüftflexion zu verhindern kontrahieren sich welche Muskeln
+      kompensatorisch?
+    en: During gait, at initial contact, the ground reaction force creates a flexion
+      moment at the hip. To prevent excessive hip flexion, which of the following
+      muscles eccentrically contract to keep the trunk upright?
+  right_terms:
+  - musculus-gluteus-maximus
+  - musculus-biceps-femoris
+  - musculus-semimembranosus
+  wrong_terms:
+  - musculus-rectus-femoris
+  - musculus-iliacus
+  question_uuid: a0a69935e534f897cfa3850b7c01d9a
+- concepts:
+  - musculus-adductor-longus
+  exercise: question_bank
+  question:
+    de: Das Trigonum femorale wird medial von welcher Struktur begrenzt?
+    en: The femoral triangle (Trigonum femorale) is bounded medially by which of the
+      following muscles?
+  right_terms:
+  - musculus-adductor-longus
+  wrong_terms:
+  - musculus-adductor-magnus
+  - musculus-adductor-brevis
+  - musculus-sartorius
+  - musculus-gracilis
+  question_uuid: 3e51a5f4ad78c3f893fe17dae3ef20e
+- concepts:
+  - musculus-pectineus
+  - musculus-iliopsoas
+  - musculus-iliacus
+  - musculus-psoas-major
+  exercise: question_bank
+  question:
+    de: Welche Muskeln bilden den Boden des Trigonum femorale?
+    en: What muscles make up the floor of the femoral triangle (trigonum femorale)?
+  right_terms:
+  - musculus-pectineus
+  - musculus-iliopsoas
+  wrong_terms:
+  - musculus-adductor-magnus
+  - musculus-adductor-brevis
+  - musculus-sartorius
+  question_uuid: f49fa2fe1c2509bb9f536dc77ebae15
+- concepts:
+  - insertion_of-musculus-adductor-magnus
+  - insertion_of-musculus-quadriceps-femoris
+  - insertion_of-musculus-gracilis
+  exercise: question_bank
+  question:
+    de: Bei einer Amputation oberhalb des Kniegelenkes am Tuberculum adductorium werden
+      welche Muskeln ihre normale Funktionalität verlieren?
+    en: If an above-knee amputation occurs at the level of the adductor tubercle (tuberculum
+      adductorium), which of the following muscles will lose their normal functionality?
+  right_terms:
+  - musculus-adductor-magnus
+  - musculus-quadriceps-femoris
+  - musculus-gracilis
+  wrong_terms:
+  - musculus-adductor-brevis
+  - musculus-pectineus
+  question_uuid: 02166b78e081983b5c6993b4c9765a0
+- concepts:
+  - musculus-psoas-major
+  - musculus-psoas-minor
+  - musculus-iliacus
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Muskeln gehören zu den inneren Hüftmuskeln?
+    en: Which of the following muscles belong to the inner hip muscles group?
+  right_terms:
+  - musculus-psoas-major
+  - musculus-psoas-minor
+  - musculus-iliacus
+  wrong_terms:
+  - musculus-pectineus
+  - musculus-gemellus-superior
+  question_uuid: 002cfaeeca3a6943f0bb3d489367d58
+- concepts:
+  - musculus-semimembranosus
+  - musculus-semitendinosus
+  - musculus-biceps-femoris
+  exercise: question_bank
+  question:
+    de: Welche Muskeln gehören zur Gruppe der posterioren Oberschenkelmuskeln?
+    en: What muscles make up the posterior thigh muscle group?
+  right_terms:
+  - musculus-semimembranosus
+  - musculus-semitendinosus
+  - musculus-biceps-femoris
+  wrong_terms:
+  - musculus-gluteus-maximus
+  - musculus-adductor-magnus
+  question_uuid: f535f574f7653ed0cb8c17ecd469a67
+- concepts:
+  - musculus-gluteus-maximus
+  exercise: question_bank
+  question:
+    de: Ein Athlet möchte seine vertikale Sprungkraft erhöhen. Welcher Hüftmuskel
+      wird für diese abrupte Bewegung primär verwendet?
+    en: An athlete wants to improve his/her vertical jump. Which hip muscle is primarily
+      used during this explosive movement?
+  right_terms:
+  - musculus-gluteus-maximus
+  wrong_terms:
+  - musculus-adductor-magnus
+  - musculus-iliopsoas
+  - musculus-sartorius
+  - musculus-rectus-femoris
+  question_uuid: 969a4df9967ebd98a9825afd7c790af
+- concepts:
+  - musculus-piriformis
+  exercise: question_bank
+  question:
+    de: Welcher Muskel liegt in der Tiefe des Musculus gluteus minimus?
+    en: What muscle is directly deep to the gluteus minimus muscle?
+  right_terms:
+  - musculus-piriformis
+  wrong_terms:
+  - musculus-gemellus-superior
+  - musculus-gemellus-inferior
+  - musculus-gluteus-medius
+  - musculus-obturatorius-internus
+  question_uuid: 7770f1fbb8ca56483f00295c65e1eca
+- concepts:
+  - ureter
+  - musculus-psoas-major
+  exercise: question_bank
+  question:
+    de: Ein 28-jähriger Patient wird mit einer Stichwunde im Lendenbereich ins Krankenhaus
+      eingeliefert. Die Ärzte vermuten aufgrund der Lage des Einstichs eine Verletzung
+      des Harnleiters (Ureter) im Retroperitonealraum. Die durchgeführte CT zeigt
+      glücklicherweise, dass der Harnleiter unverletzt blieb, stattdessen kam es zu
+      einem tiefen Schnitt des dahinter liegenden Muskels. Auf der Vorderfläche welches
+      Muskels im Lendenbereich verläuft der Harnleiter?
+    en: A 28-year-old patient is admitted to hospital with a stab wound in the lumbal
+      area. Among others, the doctors suspect an injury of the ureter in the retroperitoneal
+      space due to the location of the wound. Luckily the performed CT scan shows
+      that the ureter is not affected, however, there is a deep wound in the muscle
+      that lies directly behind it. The ureter crosses the abdominal surface of which
+      muscle?
+  right_terms:
+  - musculus-psoas-major
+  wrong_terms:
+  - musculus-rectus-abdominis
+  - musculus-iliopsoas
+  - musculus-iliacus
+  - musculus-quadratus-lumborum
+  question_uuid: a9c2e1e54647317b60edebdeea95dbf
+- concepts:
+  - musculus-quadratus-lumborum
+  - musculus-iliopsoas
+  exercise: question_bank
+  question:
+    de: Das S-förmige Colon sigmoideum liegt vor der hinteren Abdominalwand. Welche
+      der folgenden Muskeln bilden einen Teil der hinteren Abdominalwand?
+    en: The S-shaped sigmoid colon (colon sigmoideum) lies anterior to the posterior
+      abdominal wall. Which of the following muscles are part of the posterior abdominal
+      wall?
+  right_terms:
+  - musculus-quadratus-lumborum
+  - musculus-iliopsoas
+  wrong_terms:
+  - musculus-levator-ani
+  - musculus-gluteus-maximus
+  - musculus-rectus-abdominis
+  question_uuid: 61fc13579e47ff8ee1411961519f02a
+- terms:
+  - musculus-gluteus-maximus
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - os-sacrum
+  - ala-ossis-ilii-facies-glutea
+  - fascia-thoracolumbalis
+  - ligamentum-sacrotuberale
+  - coccyx-bone
+  wrong_terms:
+  - crista-intertrochanterica
+- terms:
+  - musculus-gluteus-maximus
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - tractus-iliotibialis
+  - tuberositas-glutea
+  wrong_terms:
+  - corpus-femoris
+  - trochanter-major
+  - crista-intertrochanterica
+  - spina-ischiadica
+- terms:
+  - musculus-gluteus-maximus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-gluteus-inferior
+  wrong_terms:
+  - nervus-cutaneus-femoris-posterior
+  - nervus-femoralis
+  - nervus-ischiadicus
+  - nervus-gluteus-superior
+  - nervus-pudendus
+- terms:
+  - musculus-gluteus-medius
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - ala-ossis-ilii-facies-glutea
+  wrong_terms:
+  - os-sacrum
+  - fascia-thoracolumbalis
+  - ligamentum-sacrotuberale
+  - ala-ossis-ilii-fossa-iliaca
+  - spina-iliaca-anterior-superior
+- terms:
+  - musculus-gluteus-medius
+  exercise: multiple_choice_text
+  relation: insertion_of
+  right_terms:
+  - trochanter-major
+  wrong_terms:
+  - tractus-iliotibialis
+  - linea-intertrochanterica
+  - linea-aspera
+  - crista-intertrochanterica
+  - trochanter-minor
+- terms:
+  - musculus-gluteus-medius
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-gluteus-superior
+  wrong_terms:
+  - nervus-cutaneus-femoris-posterior
+  - nervus-femoralis
+  - nervus-ischiadicus
+  - nervus-pudendus
+  - nervus-gluteus-inferior
+- terms:
+  - musculus-gluteus-minimus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - ala-ossis-ilii-facies-glutea
+  wrong_terms:
+  - crista-sacralis-mediana
+  - fascia-thoracolumbalis
+  - ligamentum-sacrotuberale
+  - ala-ossis-ilii-fossa-iliaca
+  - spina-iliaca-anterior-superior
+- terms:
+  - musculus-gluteus-minimus
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - trochanter-major
+  wrong_terms:
+  - ligamentum-sacrotuberale
+  - os-ischii
+  - tuberositas-glutea
+  - crista-intertrochanterica
+  - trochanter-minor
+- terms:
+  - musculus-gluteus-minimus
+  exercise: multiple_choice_text
+  relation: innervation_of
+  right_terms:
+  - nervus-gluteus-superior
+  wrong_terms:
+  - nervus-cutaneus-femoris-posterior
+  - nervus-femoralis
+  - nervus-ischiadicus
+  - nervus-pudendus
+  - nervus-gluteus-inferior
+- terms:
+  - musculus-tensor-fasciae-latae
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - spina-iliaca-anterior-superior
+  wrong_terms:
+  - spina-iliaca-anterior-inferior
+  - linea-arcuata
+  - linea-intertrochanterica
+  - ala-ossis-ilii-fossa-iliaca
+  - incisura-ischiadica-major
+- terms:
+  - musculus-tensor-fasciae-latae
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - tractus-iliotibialis
+  wrong_terms:
+  - corpus-femoris
+  - facies-medialis-tibiae
+  - collum-femoris
+  - condylus-medialis-tibiae
+  - trochanter-minor
+- terms:
+  - musculus-tensor-fasciae-latae
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-gluteus-superior
+  wrong_terms:
+  - nervus-cutaneus-femoris-posterior
+  - nervus-femoralis
+  - nervus-ischiadicus
+  - nervus-pudendus
+  - nervus-gluteus-inferior
+- terms:
+  - musculus-piriformis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - facies-pelvica-ossis-sacri
+  - ligamentum-sacrotuberale
+  - greater-sciatic-notch
+  wrong_terms:
+  - spina-iliaca-posterior-inferior
+  - spina-iliaca-posterior-superior
+  - ala-ossis-ilii-facies-glutea
+- terms:
+  - musculus-piriformis
+  exercise: multiple_choice_text
+  relation: insertion_of
+  right_terms:
+  - trochanter-major
+  wrong_terms:
+  - linea-intertrochanterica
+  - eminentia-iliopubica
+  - trochanter-minor
+  - crista-intertrochanterica
+  - linea-aspera
+- terms:
+  - musculus-piriformis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nerve-to-piriformis-muscle
+  wrong_terms:
+  - plexus-lumbalis
+  - nervus-saphenus
+  - nervus-femoralis
+  - nervus-gluteus-superior
+  - nervus-pudendus
+- terms:
+  - musculus-obturatorius-internus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - membrana-obturatoria
+  - ischiopubic-ramus
+  wrong_terms:
+  - spina-iliaca-posterior-inferior
+  - spina-iliaca-posterior-superior
+  - ligamentum-sacrotuberale
+  - os-sacrum
+- terms:
+  - musculus-obturatorius-internus
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - trochanter-major
+  wrong_terms:
+  - linea-pectinea-ossis-pubis
+  - trochanter-minor
+  - ligamentum-sacrotuberale
+  - ramus-ossis-ischii
+  - collum-femoris
+- terms:
+  - musculus-obturatorius-internus
+  exercise: multiple_choice_text
+  relation: innervation_of
+  right_terms:
+  - nerve-to-obturator-internus-and-superior-gemellus-muscles
+  wrong_terms:
+  - plexus-lumbalis
+  - nervus-saphenus
+  - nervus-femoralis
+  - nervi-clunium-inferiores
+  - nervus-pudendus
+- terms:
+  - musculus-gemellus-superior
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - spina-ischiadica
+  wrong_terms:
+  - spina-iliaca-posterior-inferior
+  - ala-ossis-ilii-facies-glutea
+  - membrana-obturatoria
+  - ligamentum-sacrospinale
+  - os-sacrum
+- terms:
+  - musculus-gemellus-superior
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - trochanter-major
+  wrong_terms:
+  - trochanter-minor
+  - ligamentum-sacrotuberale
+  - os-ischii
+  - collum-femoris
+  - linea-aspera
+- terms:
+  - musculus-gemellus-superior
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nerve-to-obturator-internus-and-superior-gemellus-muscles
+  wrong_terms:
+  - plexus-lumbalis
+  - nervus-saphenus
+  - nervus-femoralis
+  - nervi-clunium-inferiores
+  - nervus-pudendus
+- terms:
+  - musculus-gemellus-inferior
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - tuber-ischiadicum
+  wrong_terms:
+  - spina-ischiadica
+  - ala-ossis-ilii-facies-glutea
+  - ramus-ossis-ischii
+  - ligamentum-sacrospinale
+  - crista-sacralis-mediana
+- terms:
+  - musculus-gemellus-inferior
+  exercise: multiple_choice_text
+  relation: insertion_of
+  right_terms:
+  - trochanter-major
+  wrong_terms:
+  - eminentia-iliopubica
+  - ligamentum-sacrotuberale
+  - os-pubis
+  - linea-pectinea-ossis-pubis
+  - incisura-ischiadica-minor
+- terms:
+  - musculus-gemellus-inferior
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nerve-to-quadratus-femoris-and-inferior-gemellus-muscles
+  wrong_terms:
+  - plexus-lumbalis
+  - nervus-saphenus
+  - nervus-femoralis
+  - nervi-clunium-inferiores
+  - nervus-pudendus
+- terms:
+  - musculus-quadratus-femoris
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - tuber-ischiadicum
+  wrong_terms:
+  - spina-ischiadica
+  - incisura-ischiadica-major
+  - membrana-obturatoria
+  - fascia-thoracolumbalis
+  - os-sacrum
+- terms:
+  - musculus-quadratus-femoris
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - crista-intertrochanterica
+  wrong_terms:
+  - tuberositas-iliaca
+  - ligamentum-ischiofemorale
+  - os-pubis
+  - linea-intertrochanterica
+  - os-sacrum
+- terms:
+  - musculus-quadratus-femoris
+  exercise: multiple_choice_text
+  relation: innervation_of
+  right_terms:
+  - nerve-to-quadratus-femoris-and-inferior-gemellus-muscles
+  wrong_terms:
+  - plexus-lumbalis
+  - nervus-saphenus
+  - nervus-femoralis
+  - nervus-gluteus-inferior
+  - nervus-pudendus
+- terms:
+  - thigh
+  exercise: multiple_choice_image
+  relation: externally_rotates_the
+  right_terms:
+  - musculus-gemellus-inferior
+  - musculus-gluteus-maximus
+  - musculus-piriformis
+  - musculus-obturatorius-internus
+  wrong_terms:
+  - musculus-gluteus-medius
+  - musculus-gluteus-minimus
+- terms:
+  - thigh
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-gluteus-maximus
+  wrong_terms:
+  - musculus-gluteus-medius
+  - musculus-gluteus-minimus
+  - musculus-gracilis
+  - musculus-piriformis
+  - musculus-sartorius
+- terms:
+  - pelvis
+  exercise: multiple_choice_image
+  relation: stabilizes_the
+  right_terms:
+  - musculus-gluteus-medius
+  - musculus-gluteus-minimus
+  - musculus-gluteus-maximus
+  wrong_terms:
+  - musculus-quadratus-femoris
+  - musculus-soleus
+  - musculus-gracilis
+- terms:
+  - thigh
+  exercise: multiple_choice_image
+  relation: internally_rotates_the
+  right_terms:
+  - musculus-gluteus-medius
+  - musculus-tensor-fasciae-latae
+  - musculus-gluteus-minimus
+  - musculus-semimembranosus
+  - musculus-semitendinosus
+  wrong_terms:
+  - musculus-quadratus-femoris
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: stabilizes_the
+  right_terms:
+  - musculus-gluteus-medius
+  - musculus-gluteus-minimus
+  - musculus-gluteus-maximus
+  - musculus-obturatorius-externus
+  - musculus-gemellus-superior
+  wrong_terms:
+  - musculus-gracilis
+- terms:
+  - thigh
+  exercise: multiple_choice_image
+  relation: externally_rotates_the
+  right_terms:
+  - musculus-quadratus-femoris
+  - musculus-gemellus-superior
+  - musculus-adductor-longus
+  wrong_terms:
+  - musculus-tensor-fasciae-latae
+  - musculus-quadratus-lumborum
+  - musculus-gastrocnemius
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-gluteus-maximus
+  wrong_terms:
+  - musculus-gluteus-minimus
+  - musculus-gluteus-medius
+  - musculus-tensor-fasciae-latae
+  - musculus-obturatorius-internus
+  - musculus-sartorius
+- terms:
+  - thigh
+  exercise: multiple_choice_image
+  relation: abducts_the
+  right_terms:
+  - musculus-gluteus-medius
+  - musculus-gluteus-maximus
+  - musculus-gluteus-minimus
+  - musculus-piriformis
+  - musculus-gemellus-inferior
+  - musculus-gemellus-superior
+- terms:
+  - thigh
+  exercise: multiple_choice_image
+  relation: abducts_the
+  right_terms:
+  - musculus-gemellus-inferior
+  - musculus-gluteus-maximus
+  - musculus-gluteus-minimus
+  wrong_terms:
+  - musculus-soleus
+  - musculus-gracilis
+  - musculus-quadratus-femoris
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: externally_rotates_the
+  right_terms:
+  - musculus-gemellus-inferior
+  - musculus-gluteus-maximus
+  - musculus-piriformis
+  wrong_terms:
+  - musculus-biceps-femoris
+  - musculus-rectus-femoris
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: internally_rotates_the
+  right_terms:
+  - musculus-gluteus-medius
+  - musculus-tensor-fasciae-latae
+  - musculus-gluteus-minimus
+  - musculus-semimembranosus
+  - musculus-semitendinosus
+  wrong_terms:
+  - musculus-biceps-femoris
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: externally_rotates_the
+  right_terms:
+  - musculus-gemellus-superior
+  - musculus-obturatorius-internus
+  - musculus-quadratus-femoris
+  wrong_terms:
+  - musculus-semimembranosus
+  - musculus-semitendinosus
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: abducts_the
+  right_terms:
+  - musculus-gluteus-medius
+  - musculus-gluteus-maximus
+  - musculus-piriformis
+  wrong_terms:
+  - musculus-pectineus
+  - musculus-obturatorius-externus
+  - musculus-biceps-femoris
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: abducts_the
+  right_terms:
+  - musculus-gemellus-inferior
+  - musculus-gluteus-minimus
+  - musculus-piriformis
+  - musculus-gemellus-superior
+  wrong_terms:
+  - musculus-soleus
+  - musculus-gracilis
+- terms:
+  - trunk
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-rectus-abdominis
+  - musculus-obliquus-externus-abdominis
+  - musculus-obliquus-internus-abdominis
+  - musculus-psoas-major
+  wrong_terms:
+  - musculus-transversus-abdominis
+  - musculus-pyramidalis
+- concepts:
+  - musculus-quadriceps-femoris
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Muskeln bildet maßgeblich die seitlichen Konturen und
+      die ventrale Seite des Oberschenkels?
+    en: Which of the following muscles significantly forms the lateral contours and
+      the ventral side of the thigh?
+  right_terms:
+  - musculus-quadriceps-femoris
+  wrong_terms:
+  - musculus-biceps-femoris
+  - musculus-semitendinosus
+  - musculus-semimembranosus
+  - musculus-sartorius
+  question_uuid: ab69432456db86604f3b2301df27212
+- concepts:
+  - insertion_of-musculus-sartorius
+  - insertion_of-musculus-semitendinosus
+  - insertion_of-musculus-gracilis
+  exercise: question_bank
+  question:
+    de: Eine 26-jährige Athletin stellt sich mit Schwellungen und Schmerzen an der
+      Innenseite des Knies vor, die bei Bewegung und beim Treppensteigen zunehmen.
+      Die Ärztin erklärt ihr, dass sie eine Schleimbeutelentzündung (Bursitis) des
+      Pes anserinus entwickelt habe. Welche Muskeln haben ihren Ansatz am Pes anserinus
+      des Beines?
+    en: A 26-year-old athlete presents with swelling and pain on the inside of her
+      knee that increases with exercise and climbing the stairs. The doctor explains
+      to her that she developed pes anserine bursitis, an inflammation of the anserine
+      bursa just below the pes anserinus. Which muscles insert at the pes anserinus
+      of the leg?
+  right_terms:
+  - musculus-semitendinosus
+  - musculus-gracilis
+  - musculus-sartorius
+  wrong_terms:
+  - musculus-semimembranosus
+  - musculus-iliopsoas
+  question_uuid: 742f218399c0cbcb6e999500bce77ff
+- concepts:
+  - musculus-sartorius
+  exercise: question_bank
+  question:
+    de: Das Schenkeldreieck (Trigonum femorale) ist eine anatomische Region des Oberschenkels
+      unterhalb des Leistenbandes. Es bietet einen einfachen Zugang zu der Oberschenkelarterie
+      und -vene (Arteria et Vena femoralis) für diagnostische und therapeutische Zwecke,
+      zum Beispiel für koronare Angioplastien, Venenpunktionen oder Druckanwendungen
+      bei starken Blutungen des Beines. Welche der folgenden Muskeln bildet den seitlichen
+      Rand des Trigonum femorale?
+    en: Scarpa's triangle (trigonum femorale) is an anatomical region of the upper
+      thigh below the inguinal ligament. Scarpa's triangle provides easy access to
+      the femoral artery and vein for diagnostic and therapeutic purposes, such as
+      for coronary angioplasty, venipuncture or applying pressure in case of heavy
+      bleeding in the leg. Which of the following muscles forms the lateral border
+      of Scarpa's triangle?
+  right_terms:
+  - musculus-sartorius
+  wrong_terms:
+  - musculus-pectineus
+  - musculus-iliopsoas
+  - musculus-vastus-lateralis
+  - musculus-vastus-intermedius
+  question_uuid: 5b00ace1605824b38e8d03fd0f69a7e
+- concepts:
+  - musculus-quadriceps-femoris
+  exercise: question_bank
+  question:
+    de: Ein Patient stellt sich mit der Unfähigkeit vor, normal zu gehen und Treppen
+      zu steigen. Die Lähmung welches der folgenden Muskeln verursacht diese Symptome
+      am wahrscheinlichsten?
+    en: A patient presents with the inability to walk adequately and to climb the
+      stairs. The paralysis of which of the following muscles would most likely cause
+      these symptoms?
+  right_terms:
+  - musculus-quadriceps-femoris
+  wrong_terms:
+  - musculus-tibialis-anterior
+  - musculus-biceps-femoris
+  - musculus-gracilis
+  - musculus-sartorius
+  question_uuid: 2eeb9b67ba89bc3186053e850794802
+- terms:
+  - knee
+  exercise: multiple_choice_image
+  relation: externally_rotates_the
+  right_terms:
+  - musculus-tensor-fasciae-latae
+  - musculus-biceps-femoris
+  wrong_terms:
+  - musculus-pectineus
+  - musculus-sartorius
+  - musculus-semimembranosus
+  - musculus-semitendinosus
+- terms:
+  - lower-leg
+  exercise: multiple_choice_image
+  relation: externally_rotates_the
+  right_terms:
+  - musculus-biceps-femoris
+  - musculus-tensor-fasciae-latae
+  wrong_terms:
+  - musculus-semimembranosus
+  - musculus-semitendinosus
+  - musculus-adductor-magnus
+  - musculus-gastrocnemius
+- terms:
+  - lower-leg
+  exercise: multiple_choice_image
+  relation: internally_rotates_the
+  right_terms:
+  - musculus-semimembranosus
+  - musculus-semitendinosus
+  - musculus-sartorius
+  wrong_terms:
+  - musculus-biceps-femoris
+  - musculus-adductor-magnus
+  - musculus-gastrocnemius
+- terms:
+  - lower-leg
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-semimembranosus
+  - musculus-semitendinosus
+  - musculus-gracilis
+  - musculus-biceps-femoris
+  - musculus-gastrocnemius
+  wrong_terms:
+  - musculus-adductor-magnus

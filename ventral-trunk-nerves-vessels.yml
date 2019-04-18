@@ -1,0 +1,1010 @@
+---
+- terms:
+  - arteria-epigastrica-inferior
+  - arteria-epigastrica-superior
+  exercise: easy
+- terms:
+  - arteria-thoracica-interna
+  - arteria-thoracica-lateralis
+  exercise: easy
+- terms:
+  - arteriae-intercostales-anteriores
+  - vena-epigastrica-inferior
+  exercise: easy
+- terms:
+  - vena-epigastrica-superficialis
+  - vena-epigastrica-superior
+  exercise: easy
+- terms:
+  - arteria-epigastrica-inferior
+  - arteria-epigastrica-superior
+  - arteria-thoracica-interna
+  - arteria-thoracica-lateralis
+  exercise: four_one
+- terms:
+  - arteriae-intercostales-anteriores
+  - vena-epigastrica-inferior
+  - vena-epigastrica-superficialis
+  - vena-epigastrica-superior
+  exercise: four_one
+- terms:
+  - arteria-epigastrica-inferior
+  - arteria-epigastrica-superior
+  - arteria-thoracica-interna
+  - arteria-thoracica-lateralis
+  exercise: identify_image
+- terms:
+  - arteriae-intercostales-anteriores
+  - vena-epigastrica-inferior
+  - vena-epigastrica-superficialis
+  - vena-epigastrica-superior
+  exercise: identify_image
+- terms:
+  - vena-thoracica-interna
+  - vena-thoracoepigastrica
+  exercise: easy
+- terms:
+  - venae-intercostales-anteriores
+  - nervus-genitofemoralis
+  exercise: easy
+- terms:
+  - nervus-iliohypogastricus
+  - nervus-ilioinguinalis
+  exercise: easy
+- terms:
+  - nervus-pectoralis-lateralis
+  - nervus-pectoralis-medialis
+  exercise: easy
+- terms:
+  - vena-thoracica-interna
+  - vena-thoracoepigastrica
+  - venae-intercostales-anteriores
+  - nervus-genitofemoralis
+  exercise: four_one
+- terms:
+  - nervus-iliohypogastricus
+  - nervus-ilioinguinalis
+  - nervus-pectoralis-lateralis
+  - nervus-pectoralis-medialis
+  exercise: four_one
+- terms:
+  - vena-thoracica-interna
+  - vena-thoracoepigastrica
+  - venae-intercostales-anteriores
+  - nervus-genitofemoralis
+  exercise: identify_image
+- terms:
+  - nervus-iliohypogastricus
+  - nervus-ilioinguinalis
+  - nervus-pectoralis-lateralis
+  - nervus-pectoralis-medialis
+  exercise: identify_image
+- terms:
+  - nervus-subcostalis
+  - plexus-brachialis
+  exercise: easy
+- terms:
+  - nervus-subcostalis
+  - plexus-brachialis
+  - nervus-iliohypogastricus
+  - nervus-ilioinguinalis
+  exercise: four_one
+- terms:
+  - nervus-subcostalis
+  - plexus-brachialis
+  - nervus-iliohypogastricus
+  - nervus-ilioinguinalis
+  exercise: identify_image
+- terms:
+  - arteria-epigastrica-inferior
+  exercise: spell_term
+- terms:
+  - arteria-epigastrica-superior
+  exercise: spell_term
+- terms:
+  - arteria-thoracica-interna
+  exercise: spell_term
+- terms:
+  - arteria-thoracica-lateralis
+  exercise: spell_term
+- terms:
+  - arteriae-intercostales-anteriores
+  exercise: spell_term
+- terms:
+  - vena-epigastrica-inferior
+  exercise: spell_term
+- terms:
+  - vena-epigastrica-superficialis
+  exercise: spell_term
+- terms:
+  - vena-epigastrica-superior
+  exercise: spell_term
+- terms:
+  - vena-thoracica-interna
+  exercise: spell_term
+- terms:
+  - vena-thoracoepigastrica
+  exercise: spell_term
+- terms:
+  - venae-intercostales-anteriores
+  exercise: spell_term
+- terms:
+  - nervus-genitofemoralis
+  exercise: spell_term
+- terms:
+  - nervus-iliohypogastricus
+  exercise: spell_term
+- terms:
+  - nervus-ilioinguinalis
+  exercise: spell_term
+- terms:
+  - nervus-pectoralis-lateralis
+  exercise: spell_term
+- terms:
+  - nervus-pectoralis-medialis
+  exercise: spell_term
+- terms:
+  - nervus-subcostalis
+  exercise: spell_term
+- terms:
+  - plexus-brachialis
+  exercise: spell_term
+- concepts:
+  - plexus-brachialis
+- exercise: question_bank
+  question:
+    de: Bei einer Fraktur der oberen Rippen kann welche Struktur geschädigt werden?
+    en: If broken the upper ribs can cause damage to which of the following structures?
+  right_terms:
+  - plexus-brachialis
+  wrong_terms:
+  - pulmo-sinister
+  - pulmo-dexter
+  - diaphragma-5
+  - musculi-subcostales
+  question_uuid: ca0dde57af087950cb81af80a67015c
+- concepts:
+  - arteria-thoracica-lateralis
+  - arteria-axillaris
+  - musculus-pectoralis-minor
+  - musculus-serratus-anterior
+  exercise: question_bank
+  question:
+    de: Welcher Ast der Arteria axillaris verläuft entlang der unteren Grenze des
+      Musculus pectoralis minor und versorgt den vorderen Sägemuskel (Musculus serratus
+      anterior), die Brustmuskeln (Musculi pectorales) und das umgebende Brustgewebe
+      mit Blut?
+    en: Which branch from the axillary artery (arteria axillaris) is found along the
+      inferior margin of the pectoralis minor (musculus pectoralis minor) and supplies
+      the serratus anterior, the pectoral muscles and the breast with blood?
+  right_terms:
+  - arteria-thoracica-lateralis
+  wrong_terms:
+  - arteria-thoracoacromialis
+  - arteria-circumflexa-humeri-anterior
+  - arteria-circumflexa-humeri-posterior
+  - thoracodorsal-artery
+  question_uuid: d580989fe42ca4085741f02117c7adf
+- terms:
+  - musculus-quadratus-lumborum
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-subcostalis
+  - lumbar-nerves-l1-l4
+  wrong_terms:
+  - plexus-sacralis
+  - nervus-pudendus
+  - iliohypogastric-nerve
+  - ilioinguinal-nerve
+- terms:
+  - musculus-pectoralis-major
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-pectoralis-medialis
+  - nervus-pectoralis-lateralis
+  wrong_terms:
+  - nervus-subscapularis
+  - nervus-thoracodorsalis
+  - nervus-ulnaris
+  - nervus-suprascapularis
+- concepts:
+  - arteria-thoracica-lateralis
+  - arteria-thoracoacromialis
+  - arteria-axillaris
+  exercise: question_bank
+  question:
+    de: Welche zwei Gefäße stammen aus dem zweiten Abschnitt der Arteria axillaris?
+    en: What two vessels arise from the second part of the axillary artery (arteria
+      axillaris)?
+  right_terms:
+  - arteria-thoracica-lateralis
+  - arteria-thoracoacromialis
+  wrong_terms:
+  - arteria-brachialis
+  - arteria-profunda-brachii
+  - arteria-ulnaris
+  - arteria-radialis
+  question_uuid: 0cf046c077aeb1d0cc49851dc98c894
+- concepts:
+  - arteriae-intercostales-anteriores
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Arterien entspringen aus der inneren Brustkorbarterie
+      (Arteria thoracica interna) und der Arteria musculophrenica und versorgen die
+      Zwischenrippenräume 1-6 bzw. 7-9 (Spatia intercostalia I-VI et VII-IX)?
+    en: What arteries originating from the internal thoracic and musculophrenic arteries
+      supply the intercostal spaces 1-6 and 7-9 (spatia intercostalia I-VI et VII-IX)
+      respectively?
+  right_terms:
+  - arteriae-intercostales-anteriores
+  wrong_terms:
+  - arteriae-intercostales-posteriores
+  - arteria-epigastrica-inferior
+  - arteria-epigastrica-superior
+  - inferior-phrenic-arteries-2
+  question_uuid: b43688621df6ef628a39630719e1582
+- concepts:
+  - arteriae-intercostales-anteriores
+  exercise: question_bank
+  question:
+    de: Welche Arterien haben versorgende Äste für die Musculi intercostales, die
+      Musculi pectorales und den Musculus serratus anterior?
+    en: Which set of arteries has muscular branches supplying the intercostal muscles
+      (musculi intercostales), pectoralis muscles (musculi pectorales major et minor)
+      and serratus anterior muscle (musculus serratus anterior)?
+  right_terms:
+  - arteriae-intercostales-anteriores
+  wrong_terms:
+  - arteriae-intercostales-posteriores
+  - arteria-epigastrica-inferior
+  - arteria-epigastrica-superior
+  - arteria-thoracica-lateralis
+  question_uuid: f60b73a4caee449694d2281198a34b3
+- concepts:
+  - arteria-epigastrica-inferior
+  exercise: question_bank
+  question:
+    de: Welche Arterie entspringt aus der äußeren Darmbeinarterie (Arteria iliaca
+      externa), verläuft nach kranial und anastomosiert mit der oberen Bauchdeckenarterie
+      (Arteria epigastrica superior) sowie den unteren Zwischenrippenarterien (Arteriae
+      intercostales)?
+    en: What artery originating from the external iliac artery (arteria iliaca externa)
+      anastomoses with the superior epigastric artery and the lower intercostal arteries
+      (arteriae intercostales)?
+  right_terms:
+  - arteria-epigastrica-inferior
+  wrong_terms:
+  - arteriae-intercostales-posteriores
+  - femoral-artery-3
+  - arteria-thoracica-interna
+  - arteria-thoracica-lateralis
+  question_uuid: ff04d29435316084fc44f21c1a8b325
+- concepts:
+  - arteria-epigastrica-superior
+  exercise: question_bank
+  question:
+    de: Welcher Gefäßast der inneren Brustkorbarterie (Arteria thoracica interna)
+      anastomosiert mit der unteren Bauchdeckenarterie (Arteria epigastrica inferior)?
+    en: What branch of the internal thoracic artery (arteria thoracica interna) anastomoses
+      with the inferior epigastric artery (arteria epigastrica inferior)?
+  right_terms:
+  - arteria-epigastrica-superior
+  wrong_terms:
+  - arteriae-intercostales-posteriores
+  - arteriae-intercostales-anteriores
+  - rami-mammarii-mediales
+  - arteria-thoracica-lateralis
+  question_uuid: b9202d41cfba55b319515c4450327e8
+- concepts:
+  - arteria-thoracica-interna
+  exercise: question_bank
+  question:
+    de: Welche Arterie entspringt aus der Arteria subclavia und versorgt die Brustwand
+      und das Brustgewebe, bevor sie sich in zwei Endäste teilt?
+    en: Which artery is a branch of the subclavian artery (arteria subclavia) and
+      supplies the chest wall and the breasts before bifurcating into two terminal
+      branches?
+  right_terms:
+  - arteria-thoracica-interna
+  wrong_terms:
+  - vertebral-artery
+  - truncus-thyrocervicalis-2
+  - costocervical-trunk-2
+  - dorsal-scapular-artery
+  question_uuid: 454ca80ca0ecd302922cb13c5356d93
+- concepts:
+  - arteria-thoracica-lateralis
+  exercise: question_bank
+  question:
+    de: Welche Arterie entspringt aus der Achselarterie (Arteria axillaris), verläuft
+      am Unterrand des kleinen Brustmuskels (Musculus pectoralis minor) und versorgt
+      den Musculus serratus anterior, die Musculi pectorales und das umgebende Brustgewebe
+      mit Blut?
+    en: What artery branching from the axillary artery (arteria axillaris) is found
+      along the inferior margin of the pectoralis minor muscle (musculus pectoralis
+      minor), supplying the serratus anterior (musculus serratus anterior), the pectoral
+      muscles and the associated mammaries?
+  right_terms:
+  - arteria-thoracica-lateralis
+  wrong_terms:
+  - arteriae-intercostales-posteriores
+  - arteria-epigastrica-inferior
+  - arteria-epigastrica-superior
+  - arteria-thoracica-interna
+  question_uuid: 422dba916c0a63ff6817060e5330721
+- concepts:
+  - nervus-genitofemoralis
+  exercise: question_bank
+  question:
+    de: Welcher Nerv entspringt aus Fasern von L1 und L2 und verläuft durch den Musculus
+      psoas major, bevor er sich in zwei Äste aufteilt?
+    en: Which nerve formed from the L1 and L2 fibers runs through the anterior surface
+      of the psoas major muscle (musculus psoas major) before dividing into two branches?
+  right_terms:
+  - nervus-genitofemoralis
+  wrong_terms:
+  - nervus-iliohypogastricus
+  - nervus-ilioinguinalis
+  - nervus-subcostalis
+  - pudendal-nerve
+  question_uuid: 388ac132465b5993c095bfd2122c17b
+- concepts:
+  - nervus-iliohypogastricus
+  exercise: question_bank
+  question:
+    de: Welcher Nerv wird von den Fasern aus Th12 und L1 gebildet, und teilt sich
+      in ventrale und laterale Äste, die eine Rolle für die Innervation der Haut an
+      der lateralen Hüfte und kranial des Leistenbands (Ligamentum inguinale) spielen?
+    en: Which nerve is formed from L1 and T12 fibers, splitting into anterior and
+      lateral branches responsible for the cutaneous supply of the lateral hip and
+      the skin superior to the inguinal ligament (ligamentum inguinale)?
+  right_terms:
+  - nervus-iliohypogastricus
+  wrong_terms:
+  - ramus-genitalis-nervi-genitofemoralis
+  - ramus-femoralis-nervi-genitofemoralis
+  - nervus-pectoralis-lateralis
+  - nervus-subcostalis
+  question_uuid: 317d914b5fb2ae5142a2eb8b7ae5044
+- concepts:
+  - nervus-ilioinguinalis
+  - innervation_of-musculus-psoas-major
+  exercise: question_bank
+  question:
+    de: Welcher Nerv wird von Fasern aus L1 und Th12 gebildet und beteiligt sich an
+      der sensiblen Innervation der Leistenregion (Regio inguinalis), des Hodensacks
+      (Scrotum) und der Schamlippen (Labia)?
+    en: Which nerve is formed from L1 and T12 fibers and assists in the cutaneous
+      supply of the inguinal region, scrotum and labia?
+  right_terms:
+  - nervus-ilioinguinalis
+  wrong_terms:
+  - ramus-genitalis-nervi-genitofemoralis
+  - ramus-femoralis-nervi-genitofemoralis
+  - nervus-obturatorius
+  - nervus-subcostalis
+  question_uuid: 91aebcbb490764153022c0f74f8e0a1
+- concepts:
+  - nervus-pectoralis-lateralis
+  - innervation_of-musculus-pectoralis-major
+  - nervus-pectoralis-medialis
+  exercise: question_bank
+  question:
+    de: Welche Äste des Armgeflechts (Plexus brachialis) versorgen den großen Brustmuskel
+      (Musculus pectoralis major)?
+    en: Which nerves from the brachial plexus innervate the pectoralis major muscle
+      (musculus pectoralis major)?
+  right_terms:
+  - nervus-pectoralis-lateralis
+  - nervus-pectoralis-medialis
+  wrong_terms:
+  - nervus-subcostalis
+  - nervus-axillaris
+  - nervus-medianus
+  question_uuid: 56b2cccf9db6abcdc0be730e7a465c7
+- concepts:
+  - nervus-subcostalis
+  exercise: question_bank
+  question:
+    de: Wie ist der Name des zwölften Thorakalnervens, der verschiedene Muskeln und
+      Hautareale der unteren Bauchwand versorgt?
+    en: What is the name of the 12th thoracic nerve that supplies multiple abdominal
+      muscles as well as skin areas from the lower abdominal wall?
+  right_terms:
+  - nervus-subcostalis
+  wrong_terms:
+  - nervus-thoracodorsalis
+  - long-thoracic-nerve
+  - perforating-cutaneous-nerve
+  - nervus-iliohypogastricus
+  question_uuid: 608ea27cd2a7f5303de975fb9e86057
+- concepts:
+  - venae-intercostales-anteriores
+  exercise: question_bank
+  question:
+    de: Welche Venen drainieren die Zwischenrippenräume (Spatia intercostalia) der
+      ventralen Rumpfwand?
+    en: What veins drain the areas between the ribs in the ventral trunk region?
+  right_terms:
+  - venae-intercostales-anteriores
+  wrong_terms:
+  - vena-epigastrica-superficialis
+  - vena-epigastrica-superior
+  - common-iliac-vein
+  - vena-thoracoepigastrica
+  question_uuid: cc8a78270b48e25b38902c80116e911
+- concepts:
+  - vena-epigastrica-inferior
+  exercise: question_bank
+  question:
+    de: Welche Vene entleert sich circa 1 cm oberhalb des Leistenbandes (Ligamentum
+      inguinale) in die äußere Darmbeinvene (Vena iliaca externa)?
+    en: Which vein empties into the external iliac vein (vena iliaca externa) approximately
+      1 cm above the inguinal ligament (ligamentum inguinale)?
+  right_terms:
+  - vena-epigastrica-inferior
+  wrong_terms:
+  - venae-intercostales-anteriores
+  - vena-epigastrica-superior
+  - vena-thoracica-interna
+  - vena-thoracoepigastrica
+  question_uuid: 1131d9e6edb30c21ae517d90690ac9b
+- concepts:
+  - vena-epigastrica-superior
+  exercise: question_bank
+  question:
+    de: Welche Vene entleert sich in die innere Brustkorbvene (Vena thoracica interna)
+      und bildet eine Anastomose mit der unteren Bauchdeckenvene (Vena epigastrica
+      inferior)?
+    en: What vein empties into the internal thoracic vein (vena thoracica interna)
+      and forms an anastomosis with the inferior epigastric vein (vena epigastrica
+      inferior)?
+  right_terms:
+  - vena-epigastrica-superior
+  wrong_terms:
+  - venae-intercostales-anteriores
+  - vena-epigastrica-superficialis
+  - vena-thoracoepigastrica
+  - internal-thoracic-vein-2
+  question_uuid: 849c3bb3ebbd5fb465ce69a7c1e151a
+- concepts:
+  - vena-thoracica-interna
+  exercise: question_bank
+  question:
+    de: Welche Vene drainiert Blut aus der oberen Bauchdeckenvene (Vena epigastrica
+      superior) und entleert sich in die Arm-Kopf-Vene (Vena brachiocephalica)?
+    en: What vein drains from the superior epigastric vein (vena epigastrica superior)
+      and empties into the brachiocephalic vein (vena brachiocephalica)?
+  right_terms:
+  - vena-thoracica-interna
+  wrong_terms:
+  - venae-intercostales-anteriores
+  - vena-epigastrica-superficialis
+  - vena-epigastrica-superior
+  - vena-thoracoepigastrica
+  question_uuid: 849b4a331a58f6f2aaf578c67dacb22
+- concepts:
+  - vena-thoracoepigastrica
+  exercise: question_bank
+  question:
+    de: Welche Vene verläuft lateral die ventrale Rumpfwand herab und stellt eine
+      Verbindung zwischen der Oberschenkelvene (Vena femoralis) und der Achselvene
+      (Vena axillaris) her?
+    en: Which vein runs laterally down the ventral trunk and provides a link between
+      the femoral vein (vena femoralis) and axillary vein (vena axillaris)?
+  right_terms:
+  - vena-thoracoepigastrica
+  wrong_terms:
+  - vena-epigastrica-inferior
+  - vena-epigastrica-superficialis
+  - vena-epigastrica-superior
+  - vena-thoracica-interna
+  question_uuid: e5eddd3ced56647abdd59c7e00e4f9a
+- concepts:
+  - vena-epigastrica-inferior
+  exercise: question_bank
+  question:
+    de: Welche Vene drainiert Blut von der oberen Bauchdeckenvene (Vena epigastrica
+      superior) und entleert sich in die äußere Darmbeinvene (Vena iliaca externa)?
+    en: Which vein anastomoses with the superior epigastric vein (vena epigastrica
+      superior) and empties into the external iliac vein (vena iliaca externa)?
+  right_terms:
+  - vena-epigastrica-inferior
+  wrong_terms:
+  - vena-femoralis-2
+  - vena-iliaca-communis
+  - vena-iliaca-interna
+  - vena-testicularis
+  question_uuid: 734dd58d76e1ae75985b0d99deaa655
+- concepts:
+  - arteria-subclavia-sinistra
+  - arteriae-intercostales-anteriores
+  - arteriae-intercostales-posteriores
+  - arteria-thoracica-interna
+  exercise: question_bank
+  question:
+    de: Ein 6-jähriges Mädchen mit Turner-Syndrom wird mit einer Aortenstenose distal
+      des Abgangs der linken Unterschlüsselbeinarterie (Arteria subclavia sinistra)
+      diagnostiziert. Welches der folgenden Gefäße ist nicht an dem resultieren Umgehungskreislauf
+      beteiligt?
+    en: A 6-year-old girl with Turner syndrome is diagnosed with coarctation of the
+      aorta distal to the left subclavian artery (arteria subclavia sinistra). Which
+      of the following vessels is not responsible for maintaining collateral circulation
+      in her case?
+  right_terms:
+  - arteria-mesenterica-superior-2
+  wrong_terms:
+  - superior-epigastric-artery
+  - arteriae-intercostales-anteriores
+  - arteriae-intercostales-posteriores
+  - arteria-thoracica-interna
+  question_uuid: 8d4fea62390be923c67395749a1d5b5
+- concepts:
+  - arteria-epigastrica-inferior
+  exercise: question_bank
+  question:
+    de: Ein 75-jähriger Mann leidet unter akuten, heftigen Bauchschmerzen mit einer
+      tastbaren abdominellen Verhärtung. Ein Kontrastmittel-CT bestätigt ein Rektusscheidenhämatom.
+      Die Verletzung welcher die Fascia transversalis durchdringende Arterie kann
+      zu diesem klinischen Bild führen?
+    en: A 75-year-old man presents with acute onset abdominal pain with a palpable
+      abdominal mass. CT with intravenous (IV) contrast confirms a rectus sheath (vagina
+      musculi recti abdominis) hematoma. Injury to which artery perforating the transverse
+      fascia might result in this condition?
+  right_terms:
+  - arteria-epigastrica-inferior
+  wrong_terms:
+  - arteria-epigastrica-superior
+  - external-iliac-artery-10
+  - anterior-intercostal-arteries
+  - arteria-cremasterica
+  question_uuid: 8894b4ad77aece92e97e428afc51d37
+- concepts:
+  - parietal-peritoneum
+  - arteria-epigastrica-inferior
+  - arteria-iliaca-externa-4
+  exercise: question_bank
+  question:
+    de: Aus welcher Arterie entspringt die Arteria epigastrica inferior (untere Bauchdeckenarterie),
+      die das Peritoneum parietale (parietales Bauchfell) und die unteren Anteile
+      der oberflächlichen Bauchmuskulatur versorgt?
+    en: From which artery does the inferior epigastric artery (arteria epigastrica
+      inferior) arise, supplying the parietal peritoneum and the lower part of the
+      superficial abdominal muscles?
+  right_terms:
+  - arteria-iliaca-externa-4
+  wrong_terms:
+  - celiac-trunk
+  - arteria-mesenterica-inferior-5
+  - arteria-mesenterica-superior-5
+  - arteria-iliaca-interna-4
+  question_uuid: 689bc54c5cbc05955bb403822324316
+- concepts:
+  - great-saphenous-vein-2
+  - vena-epigastrica-superficialis
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Venen gehören zum sogenannten Venenstern?
+    en: Which of the following veins belong to the saphenofemoral junction?
+  right_terms:
+  - great-saphenous-vein-2
+  - vena-epigastrica-superficialis
+  wrong_terms:
+  - small-saphenous-vein-2
+  - popliteal-vein-2
+  - posterior-tibial-vein
+  question_uuid: eb6dd313a3565c6cb2c0cb0ee6beb51
+- concepts:
+  - nervus-iliohypogastricus
+  - lumbar-plexus
+  exercise: question_bank
+  question:
+    de: Welcher ist der erste Nerv des Plexus lumbalis?
+    en: Which is the first nerve of the lumbar plexus (plexus lumbalis)?
+  right_terms:
+  - nervus-iliohypogastricus
+  wrong_terms:
+  - ilioinguinal-nerve
+  - nervus-subcostalis
+  - genitofemoral-nerve
+  - nervus-obturatorius
+  question_uuid: 5b25687ce2122d0fe6dae1569ae7478
+- concepts:
+  - nervus-iliohypogastricus
+  - ilioinguinal-nerve
+  - lumbar-plexus
+  - musculus-transversus-abdominis
+  exercise: question_bank
+  question:
+    de: Welche zwei Nerven des Plexus lumbalis (Lendengeflecht) durchbohren den queren
+      Bauchmuskel (M. transversus abdominis) und beteiligen sich an seiner motorischen
+      Versorgung?
+    en: Which two nerves of the lumbar plexus (plexus lumbalis) pierce through the
+      transversus abdominis muscle and contribute to its motor innervation?
+  right_terms:
+  - nervus-iliohypogastricus
+  - ilioinguinal-nerve
+  wrong_terms:
+  - nervus-subcostalis
+  - genitofemoral-nerve
+  - nervus-obturatorius
+  question_uuid: 4ade518f9165253730216e9e1474803
+- concepts:
+  - nervus-iliohypogastricus
+  - ilioinguinal-nerve
+  - pubic-region
+  exercise: question_bank
+  question:
+    de: Welche Nerven versorgen sensibel die Haut oberhalb des Schambereiches?
+    en: Which nerves supply sensory fibres to the skin superior to the pubic area?
+  right_terms:
+  - nervus-iliohypogastricus
+  - ilioinguinal-nerve
+  wrong_terms:
+  - nervus-subcostalis
+  - genitofemoral-nerve
+  - nervus-obturatorius
+  question_uuid: bbdbc505e4ceb42dfa93e8903b4267d
+- concepts:
+  - nervus-iliohypogastricus
+  - appendix-vermiformis
+  exercise: question_bank
+  question:
+    de: Bei den meisten offenen Appendektomien (operative Entfernung des Wurmfortsatzes)
+      erfolgt der Einschnitt am McBurney-Punkt. Welche der folgenden Strukturen kann
+      dabei am ehesten verletzt werden aufgrund ihres Verlaufes zwischen den inneren
+      schrägen und den queren Bauchmuskeln in diesem Bereich?
+    en: In most open appendectomies (surgical removal of the appendix), the incision
+      is made at the McBurney’s point. Which of the following structures is most likely
+      to be injured due to its course between the internal oblique and transverse
+      abdominal muscles in this area?
+  right_terms:
+  - nervus-iliohypogastricus
+  wrong_terms:
+  - funiculus-spermaticus
+  - genitofemoral-nerve
+  - ilioinguinal-nerve
+  - nervus-subcostalis
+  question_uuid: 505319c2bd7b4487dbb91a12778fc89
+- concepts:
+  - vena-epigastrica-inferior
+  - deep-circumflex-iliac-vein
+  - vena-femoralis
+  - vena-iliaca-externa
+  - external-iliac-vein-5
+  - vena-iliaca-externa-dextera
+  - vena-iliaca-externa-sinistra-3
+  exercise: question_bank
+  question:
+    de: Welche Venen fließen in die äußere Darmbeinvene (Vena iliaca externa)?
+    en: What veins flow into the external iliac vein (vena iliaca externa)?
+  right_terms:
+  - vena-epigastrica-inferior
+  - deep-circumflex-iliac-vein
+  - vena-femoralis
+  wrong_terms:
+  - obturator-vein
+  - internal-pudendal-vein-3
+  question_uuid: 0f991ec5058bf31461f448751e4260c
+- concepts:
+  - external-iliac-artery-10
+  - arteria-iliaca-externa-sinistra-2
+  - arteria-iliaca-externa-sinistra
+  exercise: question_bank
+  question:
+    de: Welche beiden Arterien entspringen der Arteria iliaca externa (äußere Darmbeinarterie)
+      innerhalb des Beckens?
+    en: Which two arteries arise from the external iliac artery (arteria iliaca externa)
+      within the pelvis?
+  right_terms:
+  - deep-circumflex-iliac-artery
+  - arteria-epigastrica-inferior
+  wrong_terms:
+  - superficial-epigastric-artery
+  - arteria-pudenda-interna-5
+  - arteria-obturatoria-2
+  - arteria-glutea-inferior
+  question_uuid: 00be6fc6702a6e4d30e78dd8ae9832e
+- terms:
+  - musculus-pectoralis-major
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-pectoralis-medialis
+  - nervus-pectoralis-lateralis
+  wrong_terms:
+  - nervus-axillaris
+  - nervus-radialis
+  - nervus-dorsalis-scapulae
+  - nervus-musculocutaneus
+- terms:
+  - musculus-pectoralis-minor
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-pectoralis-medialis
+  wrong_terms:
+  - nervus-medianus
+  - nervus-axillaris
+  - nervus-ulnaris
+  - nervus-musculocutaneus
+- concepts:
+  - ureter
+  - nervus-genitofemoralis
+  exercise: question_bank
+  question:
+    de: Welcher Nerv verläuft hinter dem Harnleiter (Ureter) beim Überkreuzen der
+      bauchseitigen Oberfläche des großen Lendenmuskels (Musculus psoas major)?
+    en: Which nerve runs behind the ureter as it passes over the abdominal surface
+      of the psoas major muscle (Musculus psoas major)?
+  right_terms:
+  - nervus-genitofemoralis
+  wrong_terms:
+  - nervus-iliohypogastricus
+  - nervus-ilioinguinalis
+  - nervus-obturatorius
+  - nervus-femoralis
+  - nervus-subcostalis
+  question_uuid: 9ab612bd3c95f0ff3c9e1d113d687d0
+- concepts:
+  - arteria-thoracica-interna
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Arterien ist ein Ast der Arteria subclavia (Unterschlüsselbeinarterie)?
+    en: Which among the following arteries is a branch of the subclavian artery (arteria
+      subclavia)?
+  right_terms:
+  - arteria-thoracica-interna
+  - arteria-vertebralis
+  wrong_terms:
+  - arteria-brachialis-2
+  - arteria-profunda-brachii
+  - arteria-carotis-externa
+  question_uuid: 3a164149b06b34b075d7b470c72a60a
+- terms:
+  - musculus-rectus-abdominis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervi-intercostales-t7-t11
+  - nervus-subcostalis
+  wrong_terms:
+  - nervi-intercostales-t3-t6
+  - nervi-intercostales-t2-t7
+  - nervus-ilioinguinalis
+  - nervus-iliohypogastricus
+- terms:
+  - musculus-pyramidalis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-subcostalis
+  wrong_terms:
+  - nervi-intercostales-t3-t6
+  - nervus-gluteus-inferior
+  - nervus-pudendus
+  - nervus-genitofemoralis
+  - nervi-intercostales-t7-t11
+- terms:
+  - musculus-obliquus-externus-abdominis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervi-intercostales-t7-t11
+  - nervus-subcostalis
+  - nervus-iliohypogastricus
+  wrong_terms:
+  - nervi-intercostales-t3-t6
+  - nervus-thoracicus-longus
+  - nervi-intercostales-t2-t7
+- terms:
+  - musculus-obliquus-internus-abdominis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervi-intercostales-t7-t11
+  - nervus-subcostalis
+  - nervus-ilioinguinalis
+  - nervus-iliohypogastricus
+  wrong_terms:
+  - nervus-pudendus
+  - nervus-gluteus-inferior
+- concepts:
+  - great-saphenous-vein-2
+  - vena-epigastrica-superficialis
+  exercise: question_bank
+  question:
+    de: Ein 62-jähriger Mann stellt sich mit einer Raumforderung im Bereich der Eichel
+      (Glans penis) beim Urologen vor. Die Leistenlymphknoten (Nodi lymphoidei inguinales)
+      sind geschwollen. Nach der operativen Therapie des Primärtumors ist eine sogenannte
+      modifizierte Lymphadenektomie nach Catalona geplant. Dabei müssen die medial
+      von zwei Blutgefäßen gelegenen Lymphknoten entfernt werden. Welche Blutgefäße
+      sind gemeint?
+    en: A 62-year-old man visits the urologist with a mass in the area of the glans
+      penis. The inguinal lymph nodes (nodi lymphoidei inguinales) are swollen. After
+      surgical treatment of the primary tumor a so-called modified inguinal lymphadenectomy
+      by Catalona is planned. Therefore, the lymph nodes located medially to two blood
+      vessels have to be removed. Which blood vessels are meant?
+  right_terms:
+  - great-saphenous-vein-2
+  - vena-epigastrica-superficialis
+  wrong_terms:
+  - arteria-profunda-femoris-3
+  - popliteal-artery-2
+  - internal-iliac-vein
+  question_uuid: 0b8452b584ff6523a6c274bf4d4f7c7
+- terms:
+  - musculus-transversus-abdominis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervi-intercostales-t7-t11
+  - nervus-subcostalis
+  - nervus-ilioinguinalis
+  - nervus-iliohypogastricus
+  wrong_terms:
+  - nervus-genitofemoralis
+  - nervus-gluteus-superior
+- concepts:
+  - nervus-ilioinguinalis
+  - nervus-iliohypogastricus
+  - nervus-subcostalis
+  exercise: question_bank
+  question:
+    de: Welche Nerven verlaufen diagonal auf der Hinterseite der Nieren nach unten?
+    en: Which nerves run down across the posterior surface of the kidneys?
+  right_terms:
+  - nervus-ilioinguinalis
+  - nervus-iliohypogastricus
+  - nervus-subcostalis
+  wrong_terms:
+  - nervus-phrenicus
+  - nervus-vagus
+  question_uuid: 2ff399b25095797f1837c17b5b2d15b
+- terms:
+  - musculus-scalenus-anterior
+  exercise: multiple_choice_text
+  relation: innervation_of
+  right_terms:
+  - plexus-brachialis
+  - plexus-cervicalis
+  wrong_terms:
+  - nervus-ophthalmicus
+  - nervus-maxillaris
+  - nervus-facialis
+  - nervus-mandibularis
+- terms:
+  - musculus-scalenus-medius
+  exercise: multiple_choice_text
+  relation: innervation_of
+  right_terms:
+  - plexus-cervicalis
+  - plexus-brachialis
+  wrong_terms:
+  - nervus-suboccipitalis
+  - nervus-maxillaris
+  - nervus-occipitalis-major
+  - nervus-mandibularis
+- terms:
+  - musculus-scalenus-posterior
+  exercise: multiple_choice_text
+  relation: innervation_of
+  right_terms:
+  - plexus-brachialis
+  wrong_terms:
+  - posterior-auricular-nerve
+  - nervus-facialis
+  - nervus-maxillaris
+  - nervus-occipitalis-major
+  - nervus-mandibularis
+- concepts:
+  - arteria-thoracica-lateralis
+  exercise: question_bank
+  question:
+    de: Welche Arterie versorgt die Brust (Mamma) und gibt Äste ab, die sich um den
+      Rand des großen Brustmuskels (Musculus pectoralis major) winden sowie Äste,
+      die ihn durchbohren?
+    en: Which artery is involved in supplying the breast (mamma) and sends branches
+      that curl around the border of the pectoralis major muscle (musculus pectoralis
+      major) and other branches that pierce the muscle?
+  right_terms:
+  - arteria-thoracica-lateralis
+  wrong_terms:
+  - arteria-subclavia
+  - arteria-axillaris
+  - arteria-thoracica-interna
+  - arteria-thoracoacromialis
+  question_uuid: 27b456d52fbeefca811f3be81696781
+- concepts:
+  - arteria-thoracica-interna
+  exercise: question_bank
+  question:
+    de: Welche Arterie versorgt die Brust (Mamma) mit Blut und gibt Äste ab, die beidseitig
+      des Brustbeins (Sternum) durch die Zwischenrippenräume ziehen?
+    en: Which artery is involved in supplying the breast (mamma) and sends branches
+      through the intercostal spaces alongside the sternum?
+  right_terms:
+  - arteria-thoracica-interna
+  wrong_terms:
+  - arteria-thoracica-lateralis
+  - arteria-axillaris
+  - arteria-thoracoacromialis
+  - arteria-subclavia
+  question_uuid: a571b0a6597e95ab25362014a8b0422
+- concepts:
+  - plexus-cervicalis
+  - plexus-brachialis
+  - nervus-phrenicus
+  exercise: question_bank
+  question:
+    de: Welcher Nerv wird sowohl aus Fasern des Plexus cervicalis als auch des Plexus
+      brachialis gebildet?
+    en: Which nerve is formed by fibres from both the cervical plexus (plexus cervicalis)
+      and brachial plexus (plexus brachialis)?
+  right_terms:
+  - nervus-phrenicus
+  wrong_terms:
+  - nervus-dorsalis-scapulae
+  - nervus-pectoralis-lateralis
+  - nervus-pectoralis-medialis
+  - nervus-thoracicus-longus
+  question_uuid: 75a82f2487b0ed1d64a1675255909d2
+- concepts:
+  - nervus-phrenicus
+  - arteria-thoracica-interna
+  exercise: question_bank
+  question:
+    de: Der Nervus phrenicus verläuft hinter der Vena subclavia und vor welcher Arterie
+      (bei seinem Eintritt in den Thorax)?
+    en: The phrenic nerve (nervus phrenicus) runs posterior to the subclavian (vena
+      subclavia) and anterior to which artery as it enters the thorax?
+  right_terms:
+  - arteria-thoracica-interna
+  wrong_terms:
+  - arteria-thoracica-lateralis
+  - arteria-carotis-communis
+  - arteria-subclavia
+  - arteria-thyroidea-inferior
+  question_uuid: 8aad4ff4c7cf621425f24c1e5acde67
+- concepts:
+  - nervi-intercostales
+  exercise: question_bank
+  question:
+    de: Die zyklusabhängige Mastodynie ist eine der häufigsten Ursachen von Schmerzen
+      in den Brüsten. Die Ursache ist meist hormonell bedingt und korreliert stark
+      mit dem Zyklus der Frau. Der Schmerz kann von leicht bis stark variieren und
+      eine Druckempfindlichkeit der Brüste hervorrufen. Welche der folgenden Strukturen
+      innervieren die Haut über den Brüsten (Mammae)?
+    en: Cyclic mastalgia is one of the most common causes of breast pain. It most
+      frequently has a hormonal cause and is linked to the menstrual cycle. The pain
+      can vary from mild to severe and the breasts can be tender and sore to touch.
+      Which of the following structures innervate the overlying skin of the breasts
+      (mammae)?
+  right_terms:
+  - nervi-intercostales
+  wrong_terms:
+  - nervus-thoracodorsalis
+  - nervus-subscapularis
+  - nervus-pectoralis-medialis
+  - nervus-cutaneus-brachii-medialis
+  question_uuid: 7da68c693585abdd7e298bccbb35ecc
+- concepts:
+  - arteria-thoracica-lateralis
+  - arteria-thoracica-interna
+  - arteria-thoracoacromialis
+  exercise: question_bank
+  question:
+    de: Welche drei Arterien anastomosieren untereinander und versorgen die Brust
+      (Mamma) mit Blut?
+    en: Which three main arteries form an anastomosing network that provides the blood
+      supply of the breast (mamma)?
+  right_terms:
+  - arteria-thoracica-lateralis
+  - arteria-thoracica-interna
+  - arteria-thoracoacromialis
+  wrong_terms:
+  - arteria-axillaris
+  - arteriae-intercostales-posteriores
+  question_uuid: bf50af75efb8b1b19040c0587f8a391

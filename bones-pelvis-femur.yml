@@ -1,0 +1,1253 @@
+---
+- terms:
+  - pelvis-2
+  - os-coxae
+  exercise: easy
+- terms:
+  - ilium
+  - os-ischii
+  exercise: easy
+- terms:
+  - os-pubis
+  - crista-iliaca
+  exercise: easy
+- terms:
+  - iliac-fossa
+  - gluteal-surface-of-ilium-1
+  exercise: easy
+- terms:
+  - pelvis-2
+  - os-ischii
+  - os-pubis
+  - os-coxae
+  exercise: four_one
+- terms:
+  - crista-iliaca
+  - ilium
+  - iliac-fossa
+  - gluteal-surface-of-ilium-1
+  exercise: four_one
+- terms:
+  - ilium
+  - os-pubis
+  - os-coxae
+  - iliac-fossa
+  exercise: identify_image
+- terms:
+  - os-ischii
+  - gluteal-surface-of-ilium-1
+  - pelvis-2
+  - crista-iliaca
+  exercise: identify_image
+- terms:
+  - anterior-gluteal-line
+  - posterior-gluteal-line
+  exercise: easy
+- terms:
+  - inferior-gluteal-line
+  - linea-arcuata
+  exercise: easy
+- terms:
+  - anterior-superior-iliac-spine
+  - anterior-inferior-iliac-spine-2
+  exercise: easy
+- terms:
+  - posterior-superior-iliac-spine-2
+  - posterior-inferior-iliac-spine-2
+  exercise: easy
+- terms:
+  - posterior-gluteal-line
+  - anterior-superior-iliac-spine
+  - linea-arcuata
+  - anterior-inferior-iliac-spine-2
+  exercise: four_one
+- terms:
+  - posterior-superior-iliac-spine-2
+  - inferior-gluteal-line
+  - anterior-gluteal-line
+  - posterior-inferior-iliac-spine-2
+  exercise: four_one
+- terms:
+  - inferior-gluteal-line
+  - anterior-inferior-iliac-spine-2
+  - posterior-gluteal-line
+  - anterior-superior-iliac-spine
+  exercise: identify_image
+- terms:
+  - anterior-gluteal-line
+  - posterior-inferior-iliac-spine-2
+  - linea-arcuata
+  - posterior-superior-iliac-spine-2
+  exercise: identify_image
+- terms:
+  - iliac-tubercle
+  - tuberositas-iliaca
+  exercise: easy
+- terms:
+  - corpus-ossis-pubis
+  - crista-pubica
+  exercise: easy
+- terms:
+  - linea-pectinea-ossis-pubis
+  - crista-obturatoria
+  exercise: easy
+- terms:
+  - superior-pubic-ramus
+  - inferior-pubic-ramus
+  exercise: easy
+- terms:
+  - superior-pubic-ramus
+  - crista-obturatoria
+  - linea-pectinea-ossis-pubis
+  - inferior-pubic-ramus
+  exercise: four_one
+- terms:
+  - crista-pubica
+  - tuberositas-iliaca
+  - corpus-ossis-pubis
+  - iliac-tubercle
+  exercise: four_one
+- terms:
+  - inferior-pubic-ramus
+  - iliac-tubercle
+  - superior-pubic-ramus
+  - corpus-ossis-pubis
+  exercise: identify_image
+- terms:
+  - linea-pectinea-ossis-pubis
+  - tuberositas-iliaca
+  - crista-pubica
+  - crista-obturatoria
+  exercise: identify_image
+- terms:
+  - tuberculum-pubicum
+  - eminentia-iliopubica
+  exercise: easy
+- terms:
+  - facies-symphysialis
+  - pubic-symphysis-10
+  exercise: easy
+- terms:
+  - subpubic-angle
+  - ramus-of-the-ischium-2
+  exercise: easy
+- terms:
+  - tuberosity-of-the-ischium-2
+  - spina-ischiadica
+  exercise: easy
+- terms:
+  - facies-symphysialis
+  - tuberculum-pubicum
+  - eminentia-iliopubica
+  - pubic-symphysis-10
+  exercise: four_one
+- terms:
+  - subpubic-angle
+  - ramus-of-the-ischium-2
+  - spina-ischiadica
+  - tuberosity-of-the-ischium-2
+  exercise: four_one
+- terms:
+  - tuberculum-pubicum
+  - subpubic-angle
+  - spina-ischiadica
+  - facies-symphysialis
+  exercise: identify_image
+- terms:
+  - ramus-of-the-ischium-2
+  - pubic-symphysis-10
+  - eminentia-iliopubica
+  - tuberosity-of-the-ischium-2
+  exercise: identify_image
+- terms:
+  - greater-sciatic-notch-1
+  - lesser-sciatic-notch-1
+  exercise: easy
+- terms:
+  - greater-sciatic-foramen
+  - lesser-ischiatic-foramen
+  exercise: easy
+- terms:
+  - obturator-foramen-1
+  - facies-auricularis
+  exercise: easy
+- terms:
+  - sacroiliac-joint-5
+  - acetabulum
+  exercise: easy
+- terms:
+  - sacroiliac-joint-5
+  - acetabulum
+  - greater-sciatic-foramen
+  - obturator-foramen-1
+  exercise: four_one
+- terms:
+  - lesser-ischiatic-foramen
+  - facies-auricularis
+  - greater-sciatic-notch-1
+  - lesser-sciatic-notch-1
+  exercise: four_one
+- terms:
+  - lesser-sciatic-notch-1
+  - greater-sciatic-notch-1
+  - sacroiliac-joint-5
+  - facies-auricularis
+  exercise: identify_image
+- terms:
+  - obturator-foramen-1
+  - lesser-ischiatic-foramen
+  - greater-sciatic-foramen
+  - acetabulum
+  exercise: identify_image
+- terms:
+  - pelvis-2
+  exercise: spell_term
+- terms:
+  - os-coxae
+  exercise: spell_term
+- terms:
+  - ilium
+  exercise: spell_term
+- terms:
+  - os-ischii
+  exercise: spell_term
+- terms:
+  - os-pubis
+  exercise: spell_term
+- terms:
+  - crista-iliaca
+  exercise: spell_term
+- terms:
+  - iliac-fossa
+  exercise: spell_term
+- terms:
+  - gluteal-surface-of-ilium-1
+  exercise: spell_term
+- terms:
+  - anterior-gluteal-line
+  exercise: spell_term
+- terms:
+  - posterior-gluteal-line
+  exercise: spell_term
+- terms:
+  - inferior-gluteal-line
+  exercise: spell_term
+- terms:
+  - linea-arcuata
+  exercise: spell_term
+- terms:
+  - anterior-superior-iliac-spine
+  exercise: spell_term
+- terms:
+  - anterior-inferior-iliac-spine-2
+  exercise: spell_term
+- terms:
+  - posterior-superior-iliac-spine-2
+  exercise: spell_term
+- terms:
+  - posterior-inferior-iliac-spine-2
+  exercise: spell_term
+- terms:
+  - iliac-tubercle
+  exercise: spell_term
+- terms:
+  - tuberositas-iliaca
+  exercise: spell_term
+- terms:
+  - corpus-ossis-pubis
+  exercise: spell_term
+- terms:
+  - crista-pubica
+  exercise: spell_term
+- terms:
+  - linea-pectinea-ossis-pubis
+  exercise: spell_term
+- terms:
+  - crista-obturatoria
+  exercise: spell_term
+- terms:
+  - superior-pubic-ramus
+  exercise: spell_term
+- terms:
+  - inferior-pubic-ramus
+  exercise: spell_term
+- terms:
+  - tuberculum-pubicum
+  exercise: spell_term
+- terms:
+  - eminentia-iliopubica
+  exercise: spell_term
+- terms:
+  - facies-symphysialis
+  exercise: spell_term
+- terms:
+  - pubic-symphysis-10
+  exercise: spell_term
+- terms:
+  - subpubic-angle
+  exercise: spell_term
+- terms:
+  - ramus-of-the-ischium-2
+  exercise: spell_term
+- terms:
+  - tuberosity-of-the-ischium-2
+  exercise: spell_term
+- terms:
+  - spina-ischiadica
+  exercise: spell_term
+- terms:
+  - greater-sciatic-notch-1
+  exercise: spell_term
+- terms:
+  - lesser-sciatic-notch-1
+  exercise: spell_term
+- terms:
+  - greater-sciatic-foramen
+  exercise: spell_term
+- terms:
+  - lesser-ischiatic-foramen
+  exercise: spell_term
+- terms:
+  - obturator-foramen-1
+  exercise: spell_term
+- terms:
+  - facies-auricularis
+  exercise: spell_term
+- terms:
+  - sacroiliac-joint-5
+  exercise: spell_term
+- terms:
+  - acetabulum
+  exercise: spell_term
+- concepts:
+  - crista-iliaca
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Strukturen stellt den Ursprung der Pars iliaca des Musculus
+      latissimus dorsi dar?
+    en: Which of the following anatomical structures is the origin of the iliacal
+      part of the latissimus dorsi muscle?
+  right_terms:
+  - crista-iliaca
+  wrong_terms:
+  - tuberositas-iliaca
+  - ala-ossis-ilii-fossa-iliaca
+  - spina-iliaca-posterior-superior
+  - spina-iliaca-anterior-inferior
+  question_uuid: 01d0c9d16ab8201308d664ab96093c8
+- concepts:
+  - os-coxae
+  exercise: question_bank
+  question:
+    de: Welcher Knochen setzt sich aus dem Darmbein (Os ilium), dem Schambein (Os
+      pubis) und dem Sitzbein (Os ischii) zusammen?
+    en: What bone consists of the ilium (os ilium), the pubic bone (os pubis) and
+      the ischium (os ischii)?
+  right_terms:
+  - os-coxae
+  wrong_terms:
+  - sacrum-2
+  - hamate-bone
+  - os-coccygis
+  - parietal-bone
+  question_uuid: 82d21461fafc5dead357fbb92eaf8be
+- concepts:
+  - os-pubis
+  - pubic-symphysis-10
+  exercise: question_bank
+  question:
+    de: Welche Knochen sind über die Schambeinfuge (Symphysis pubica) verbunden?
+    en: What bones are connected via the pubic symphysis (symphysis pubica)?
+  right_terms:
+  - os-pubis
+  wrong_terms:
+  - os-coccygis
+  - sacrum-2
+  - ilium
+  - os-ischii
+  question_uuid: 84e3f9b93b6e2396a2fb2f878073baa
+- concepts:
+  - os-ischii
+  - ilium
+  - os-ilium
+  - os-pubis
+  exercise: question_bank
+  question:
+    de: Welche Knochen bilden das Hüftbein (Os coxae)?
+    en: Which bones form the hip bone (os coxae)?
+  right_terms:
+  - os-ischii
+  - ilium
+  - os-pubis
+  wrong_terms:
+  - sacrum-2
+  - os-coccygis
+  question_uuid: ea8601a1f67fa2148e1b9b5328102e0
+- concepts:
+  - musculus-piriformis
+  - greater-sciatic-foramen
+  exercise: question_bank
+  question:
+    de: Welcher Muskel zieht durch das großes Sitzbeinloch (Foramen ischiadicum majus)
+      und unterteilt es in zwei Teile?
+    en: What muscle runs through the greater sciatic foramen (foramen ischiadicum
+      majus) and divides it into two parts?
+  right_terms:
+  - musculus-piriformis
+  wrong_terms:
+  - obturator-externus-muscle
+  - musculus-gluteus-maximus
+  - musculus-obturatorius-internus
+  - musculus-iliopsoas
+  question_uuid: 5da2a4fdf86bd95034d5b01b6388d07
+- concepts:
+  - musculus-semitendinosus
+  - musculus-semimembranosus
+  - tuberosity-of-the-ischium-2
+  exercise: question_bank
+  question:
+    de: Welche Muskeln haben wie der lange Kopf des zweiköpfigen Oberschenkelmuskels
+      (Caput longum musculi bicipitis femoris) ihren Ursprung am Sitzbeinhöcker (Tuber
+      ischiadicum)?
+    en: Which muscles originate from the tuberosity of the ischium (tuber ischiadicum)
+      like the long head of biceps femoris muscle (caput longum musculi bicipitis
+      femoris)?
+  right_terms:
+  - musculus-semitendinosus
+  - musculus-semimembranosus
+  wrong_terms:
+  - musculus-adductor-longus
+  - obturator-externus-muscle
+  - musculus-adductor-minimus
+  question_uuid: fc15a0bb93d70a3c41299ef42519060
+- terms:
+  - musculus-quadratus-lumborum
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - crista-iliaca
+  wrong_terms:
+  - ala-ossis-ilii-fossa-iliaca
+  - pubic-symphysis
+  - ala-ossis-ilii-facies-glutea
+  - facies-auricularis
+  - tuberositas-iliaca
+- terms:
+  - musculus-psoas-minor
+  exercise: multiple_choice_text
+  relation: insertion_of
+  right_terms:
+  - linea-pectinea-ossis-pubis
+  - eminentia-iliopubica
+  wrong_terms:
+  - trochanter-minor
+  - trochanter-major
+  - crista-intertrochanterica
+  - collum-femoris
+- terms:
+  - musculus-latissimus-dorsi
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - processus-spinosus-tvii-txii
+  - fascia-thoracolumbalis
+  - crista-iliaca
+  - costae-ix-xii
+  - angulus-inferior-scapulae
+  wrong_terms:
+  - corpus-vertebrae-cii-civ
+- terms:
+  - musculus-iliocostalis-lumborum
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - crista-sacralis-lateralis
+  - crista-iliaca
+  - fascia-thoracolumbalis
+  wrong_terms:
+  - processus-spinosus-tx-liii
+  - vertebrae-lumbales
+  - processus-spinosus-tvii-txii
+- terms:
+  - musculus-longissimus-thoracis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - os-sacrum
+  - crista-iliaca
+  - processus-spinosus-li-lv
+  - transverse-process-l1-l5
+  wrong_terms:
+  - processus-transversus-ciii-cvi
+  - angulus-costae-ix-x
+- terms:
+  - musculus-pectineus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - superior-pubic-ramus
+  - linea-pectinea-ossis-pubis
+  wrong_terms:
+  - spina-iliaca-anterior-superior
+  - linea-intertrochanterica
+  - ramus-inferior-ossis-pubis
+- concepts:
+  - inferior-pubic-ramus
+  - external-urethral-sphincter-3
+  exercise: question_bank
+  question:
+    de: Ein Dachdecker stürzt vom Dach und verletzt sich dabei das Rückenmark auf
+      Sakralhöhe. Nach diesem Unfall ist es ihm nicht mehr möglich, willkürlich Wasser
+      zu lassen. Wo befindet sich der Ursprung des Muskels, der vom Nervus pudendus
+      (Schamnerv) versorgt wird und der Gesunden die willkürliche Miktion ermöglicht?
+    en: A roofer falls from a roof and injures the sacral spinal cord. After this
+      accident he is unable to urinate voluntarily. Where does the muscle originate
+      that is innervated by the pudendal nerve (nervus pudendus) and permits urination
+      under conscious control?
+  right_terms:
+  - inferior-pubic-ramus-6
+  wrong_terms:
+  - corpus-ossis-pubis
+  - superior-pubic-ramus-2
+  - mons-pubis-2
+  - linea-pectinea-ossis-pubis
+  question_uuid: fff845b0683db918767d556b73fbc7e
+- concepts:
+  - anterior-superior-iliac-spine
+  exercise: question_bank
+  question:
+    de: An welchem Teil des Os ilium (Darmbein) setzt das Leistenband an?
+    en: Which part of the ilium bone gives attachment to inguinal ligament?
+  right_terms:
+  - anterior-superior-iliac-spine
+  wrong_terms:
+  - iliac-tubercle
+  - eminentia-iliopubica
+  - acetabulum-2
+  - symphysis-pubis
+  question_uuid: 4b8a168ca4d33722c2600dc7e7f132a
+- concepts:
+  - anterior-superior-iliac-spine
+  exercise: question_bank
+  question:
+    de: Von welchen Teil des Os ilium (Darmbein) entspringt der Musculus sartorius?
+    en: Which part of the ilium bone gives the origin to of the sartorius muscle?
+  right_terms:
+  - anterior-superior-iliac-spine
+  wrong_terms:
+  - iliac-tubercle
+  - spina-iliaca-posterior-inferior
+  - spina-iliaca-anterior-inferior
+  - posterior-superior-iliac-spine
+  question_uuid: a430538015b3eb2b9f13eca89c19e73
+- concepts:
+  - ilium
+  exercise: question_bank
+  question:
+    de: Welches ist der größte Knochen, der an der Bildung der Hüfte beteiligt ist?
+    en: Which is the largest bone that forms the hip bone?
+  right_terms:
+  - ilium
+  wrong_terms:
+  - coccyx-bone-2
+  - os-ischii
+  - os-pubis
+  - sacrum-2
+  question_uuid: 7aaac42e32752f7b163de065655b590
+- concepts:
+  - os-pubis
+  exercise: question_bank
+  question:
+    de: Welcher Knochen liegt vor der Harnblase?
+    en: Which bone lies anterior to the urinary bladder?
+  right_terms:
+  - os-pubis
+  wrong_terms:
+  - coccyx-bone-2
+  - ilium-3
+  - axis-2
+  - os-sacrum
+  question_uuid: b37c7b5cec6f1db924019958fe3e648
+- concepts:
+  - os-pubis
+  exercise: question_bank
+  question:
+    de: Welcher zusammengesetzte Kochen des Beckens artikuliert direkt mit seinem
+      Gegenstück der anderen Seite?
+    en: Which component of the hip bone articulates with its counterpart from the
+      other side?
+  right_terms:
+  - os-pubis
+  wrong_terms:
+  - ilium-3
+  - coccyx-bone-2
+  - os-sacrum
+  - ischium-2
+  question_uuid: dd2397136fadc6e539129d36dc49551
+- concepts:
+  - pelvis
+  - pelvis-2
+  - hip-joint-2
+  exercise: question_bank
+  question:
+    de: Welche drei Knochen bilden das Becken (Pelvis)?
+    en: What three bones form the pelvis?
+  right_terms:
+  - hip-bone
+  - os-sacrum
+  - os-coccygis
+  wrong_terms:
+  - femur-2
+  - lumbar-vertebrae
+  question_uuid: af3fdb45cf2ef5c3f106d30427e9063
+- concepts:
+  - ilium
+  - os-pubis
+  - os-ischii
+  - hip-bone
+  - hip-joint-2
+  - pelvis-2
+  exercise: question_bank
+  question:
+    de: Welche Knochen vereinen sich in der Pubertät zum Hüftbein (Os coxae)?
+    en: What bones fuse together at puberty to form the hip bone (os coxae)?
+  right_terms:
+  - ilium
+  - os-pubis
+  - os-ischii
+  wrong_terms:
+  - os-coccygis
+  - os-sacrum
+  question_uuid: 0b91c40d4a8bcf52a9a84efff4a39b0
+- concepts:
+  - articulatio-sacroiliaca
+  - sacroiliac-joint-5
+  - ala-ossis-sacralis
+  - sacrum-5
+  - spine
+  - pelvis
+  - pelvis-2
+  exercise: question_bank
+  question:
+    de: Welches Gelenk verbindet die Wirbelsäule mit dem Becken (Pelvis)?
+    en: What joint connects the spine with the pelvis?
+  right_terms:
+  - articulatio-sacroiliaca
+  wrong_terms:
+  - pubic-symphysis
+  - hip-joint
+  - articulatio-zygapophysialis
+  - articulatio-sacrococcygea
+  question_uuid: 55c437dc6abc2784ba2bc4990da0f1d
+- concepts:
+  - pubic-symphysis
+  - pubic-symphysis-10
+  - hip-bone
+  - os-coxae
+  exercise: question_bank
+  question:
+    de: Über welches unechte Gelenk steht das rechte und linke Hüftbein (Ossa coxae)
+      direkt miteinander in Verbindung?
+    en: Which synarthrosis directly unites the right and left hip bones (ossa coxae)?
+  right_terms:
+  - pubic-symphysis
+  wrong_terms:
+  - articulatio-sacroiliaca
+  - hip-joint
+  - articulatio-lumbosacralis
+  - articulatio-sacrococcygea
+  question_uuid: 14731ef116fdbbafd51f9e155b70e2c
+- concepts:
+  - articulatio-sacroiliaca
+  - sacroiliac-joint-5
+  - pubic-symphysis
+  - pubic-symphysis-10
+  - pelvis
+  - pelvis-2
+  exercise: question_bank
+  question:
+    de: Welche Gelenke sind Teil des Beckenrings?
+    en: What joints form the pelvic ring?
+  right_terms:
+  - articulatio-sacroiliaca
+  - pubic-symphysis
+  wrong_terms:
+  - knee
+  - articulatio-sacrococcygea
+  - articulatio-lumbosacralis
+  question_uuid: d3e0797e87dfe26ff39ade9d04b2d5e
+- concepts:
+  - ligamentum-sacrotuberale
+  - ligamentum-sacrospinale
+  - greater-sciatic-foramen
+  exercise: question_bank
+  question:
+    de: Welche Bänder bilden die dorsomediale und kaudale Begrenzung des großen Sitzbeinlochs
+      (Foramen ischiadicum majus)?
+    en: What ligaments form the posteromedial and inferior borders of the greater
+      sciatic foramen (foramen ischiadicum majus)?
+  right_terms:
+  - ligamentum-sacrotuberale
+  - ligamentum-sacrospinale
+  wrong_terms:
+  - anterior-longitudinal-ligament-3
+  - ligamentum-inguinale
+  - anterior-sacrococcygeal-ligament
+  - ligamentum-supraspinale
+  question_uuid: d1aab1a83670c14c4ba8cd837b91262
+- concepts:
+  - pubic-symphysis
+  - pubic-symphysis-10
+  exercise: question_bank
+  question:
+    de: Welches der folgenden Gelenke ist eine Synarthrose (unechtes Gelenk)?
+    en: Which of the following joints is a synarthrosis (immobile joint)?
+  right_terms:
+  - pubic-symphysis
+  wrong_terms:
+  - tibiofibular-joint
+  - articulatio-sacroiliaca
+  - hip-joint-3
+  - knee
+  question_uuid: b22a6bd338f33dcf8650e26d835e8b2
+- concepts:
+  - ramus-superior-ossis-pubis
+  - superior-pubic-ramus
+  - ilium
+  - ischium-2
+  - os-ischii
+  - acetabulum
+  - acetabulum-2
+  exercise: question_bank
+  question:
+    de: Welche Knochen sind am Aufbau der Hüftgelenkspfanne (Acetabulum) beteiligt?
+    en: What bones form the acetabulum?
+  right_terms:
+  - ramus-superior-ossis-pubis
+  - ilium
+  - ischium-2
+  wrong_terms:
+  - inferior-pubic-ramus
+  - os-sacrum
+  question_uuid: 393383eb55e2283ce6dd0018e15d1c7
+- concepts:
+  - ischium-2
+  - os-ischii
+  - os-pubis
+  - obturator-foramen-1
+  exercise: question_bank
+  question:
+    de: Welche Knochen bilden das Hüftloch (Foramen obturatum)?
+    en: What bones form the obturator foramen (foramen obturatum)?
+  right_terms:
+  - ischium-2
+  - os-pubis
+  wrong_terms:
+  - ilium
+  - os-sacrum
+  - crista-iliaca
+  question_uuid: c342a3106958b4dde356a8275191d04
+- concepts:
+  - pubic-symphysis
+  - pubic-symphysis-10
+  - os-pubis
+  exercise: question_bank
+  question:
+    de: Eine 29-jährige Wöchnerin klagt einige Tage nach der Geburt ihres Sohnes über
+      Schmerzen im Schambereich (Regio pubica). Es wird eine Symphysenruptur (Schambeinfugenriss)
+      diagnostiziert. Welcher paarige Knochen wird durch die Schambeinfuge (Symphysis
+      pubica) verbunden?
+    en: A 29-year-old puerpera suffers from pain in the pubic region (regio pubica)
+      a few days after giving birth to her son. A pubic symphysis disruption is diagnosed.
+      Which paired bone is connected by the pubic symphysis (symphysis pubica)?
+  right_terms:
+  - os-pubis
+  wrong_terms:
+  - os-coccygis
+  - os-sacrum
+  - os-ilium
+  - femur
+  question_uuid: bd0642e801b09366ecfe9c3e1776206
+- concepts:
+  - obturator-foramen
+  - obturator-foramen-1
+  - pubic-bone-3
+  - os-pubis
+  - ischium-3
+  - os-ischii
+  exercise: question_bank
+  question:
+    de: Der Nervus obturatorius (Hüftlochnerv) sowie die Arteria und Vena obturatoria
+      ziehen durch das Foramen obturatum (Hüftloch) vom kleinen Becken zum Oberschenkel.
+      Welche beiden Knochen begrenzen dieses Foramen?
+    en: The obturator nerve as well as the obturator artery and vein pass through
+      the obturator foramen from the lesser pelvis to the thigh. Which two bones bound
+      the foramen?
+  right_terms:
+  - pubic-bone-3
+  - ischium-3
+  wrong_terms:
+  - os-sacrum
+  - coccyx-bone-2
+  - femur-2
+  question_uuid: 8f6360c29cc6960b0ad103a2541e0e0
+- concepts:
+  - inguinal-ligament
+  - anterior-superior-iliac-spine
+  - tuberculum-pubicum
+  exercise: question_bank
+  question:
+    de: Zwischen welchen beiden knöchernen Strukturen des Beckens verläuft das Leistenband
+      (Ligamentum inguinale)?
+    en: Between which two bony structures of the pelvis does the inguinal ligament
+      (ligamentum inguinale) run?
+  right_terms:
+  - anterior-superior-iliac-spine
+  - tuberculum-pubicum
+  wrong_terms:
+  - spina-iliaca-anterior-inferior
+  - iliac-tubercle
+  - eminentia-iliopubica
+  question_uuid: 0d563e74973ca2e1b1648a36ce99b88
+- concepts:
+  - symphysis-pubis
+  - pubic-symphysis-8
+  - pubic-symphysis-10
+  - promontorium
+  exercise: question_bank
+  question:
+    de: Welche beiden Strukturen begrenzen die engste Stelle des Geburtskanals, welche
+      auch als Conjugata vera bezeichnet wird?
+    en: Which two structures limit the narrowest part of the birth canal which is
+      also described as the conjugata vera?
+  right_terms:
+  - symphysis-pubis
+  - promontorium
+  wrong_terms:
+  - eminentia-iliopubica
+  - greater-sciatic-notch
+  - inferior-pubic-ramus
+  question_uuid: 812cce2d80c9198af21c3563aabf940
+- concepts:
+  - ilium-3
+  - ilium
+  - crista-iliaca
+  exercise: question_bank
+  question:
+    de: Bei einem Patienten besteht der Verdacht auf Leukämie. Um die Diagnose zu
+      bestätigen, möchte der Arzt eine Knochenmarksbiopsie durchführen. Welcher Teil
+      des Os ilium (Darmbein) ist von außen gut tastbar und eignet sich deshalb gut
+      für die Knochenmarkpunktion?
+    en: A patient is suspected to suffer from leukemia. The doctor would like to perform
+      a bone marrow biopsy in order to confirm the diagnosis. Which part of the ilium
+      can be palpated easily and is therefore a suitable site for the bone marrow
+      puncture?
+  right_terms:
+  - crista-iliaca
+  wrong_terms:
+  - iliac-fossa
+  - eminentia-iliopubica
+  - ala-ossis-ilii-facies-glutea
+  - iliac-tubercle
+  question_uuid: 61c3c8db0eef5df80c01ed72667ea55
+- concepts:
+  - articulatio-sacroiliaca
+  - sacroiliac-joint-5
+  exercise: question_bank
+  question:
+    de: Ein vierzigjähriger Patient leidet unter nächtlichen Kreuzschmerzen. Er wird
+      an einen Rheumatologen überwiesen, der einen Morbus Bechterew (Spondylitis ankylosans)
+      diagnostiziert. Welches Gelenk wird als ‘Amphiarthrose’ bezeichnet, da sich
+      die beiden Gelenkkörper nur minimal gegeneinander bewegen können, und ist meist
+      zuerst bei Beginn eines Morbus Bechterew betroffen?
+    en: A 40-year-old patient is suffering from lower back pain at night time. He
+      is referred to a rheumatologist who suspects an ankylosing spondylitis. Which
+      joint is characterized as an amphiarthrosis as both opposing bones can barely
+      move against each other and is often affected first in this disease?
+  right_terms:
+  - articulatio-sacroiliaca
+  wrong_terms:
+  - hip-joint-3
+  - articulatio-zygapophysialis
+  - articulatio-lumbosacralis
+  question_uuid: 39e38c60f18c579d10b5fb849ead19b
+- concepts:
+  - crista-iliaca-2
+  - crista-iliaca
+  exercise: question_bank
+  question:
+    de: Bei einer Patientin mit Verdacht auf eine Virusenzephalitis soll eine Lumbalpunktion
+      durchgeführt werden. Für die Punktion wird häufig der Raum zwischen dem dritten
+      und vierten Lendenwirbel gewählt. Welche knöcherne Struktur kann zur Orientierung
+      genommen werden, um den genannten Intervertebralraum zu finden?
+    en: A lumbar puncture has to be performed in a patient with a suspected viral
+      encephalitis. The puncture is often performed between the third and fourth lumbar
+      vertebrae. Which bony structure serves as a landmark to find the interspace
+      between those two lumbar vertebrae?
+  right_terms:
+  - crista-iliaca-2
+  wrong_terms:
+  - posterior-superior-iliac-spine
+  - spina-iliaca-posterior-inferior
+  - anterior-superior-iliac-spine
+  - spina-iliaca-anterior-inferior
+  question_uuid: 42e5f2146cff14ed3afa224d9746ed2
+- concepts:
+  - posterior-superior-iliac-spine
+  - posterior-superior-iliac-spine-2
+  exercise: question_bank
+  question:
+    de: Im 19. Jahrhundert beschrieb der Gynäkologe Gustav Michaelis eine nach ihm
+      benannte rautenförmige Region, die abschätzen lässt, ob das Becken einer Frau
+      breit genug für eine natürliche Geburt ist. Sie wird kranial vom dritten bis
+      vierten Lendenwirbel, kaudal von den Steißbeinwirbeln und lateral von den sogenannten
+      Lendengrübchen gebildet. Die Anhaftung der Haut an welcher knöcherner Struktur
+      des Beckens verursacht die Ausbildung der Lendengrübchen?
+    en: In the 19th century the gynaecologist Gustav Michaelis described a rhombic
+      region that allows to predict whether the pelvis of a woman is wide enough to
+      give birth. It is bordered cranially by the third and fourth lumbar vertebrae,
+      caudally by the sacral vertebrae and laterally by the back dimples (dimples
+      of Venus). The adhesion of the skin to which bony structure of the pelvis causes
+      the formation of these back dimples?
+  right_terms:
+  - posterior-superior-iliac-spine
+  wrong_terms:
+  - spina-iliaca-posterior-inferior
+  - anterior-superior-iliac-spine
+  - os-pubis
+  - iliac-tubercle
+  question_uuid: 067f5a91fe25ac06dab08f1c900a8d6
+- concepts:
+  - inguinal-ligament
+  - inguinal-region
+  - anterior-superior-iliac-spine
+  exercise: question_bank
+  question:
+    de: Ein Mann klagt über Schmerzen und einer Schwellung in der rechten Leistengegend.
+      Um einen Leistenbruch auszuschließen, inspiziert und palpiert der Arzt die Leistengegend.
+      Welches Band zieht von der Spina iliaca anterior superior (vorderer oberer Darmbeinstachel)
+      zum Tuberculum pubicum (Schambeinhöcker) und kann am Übergang vom Abdomen zur
+      unteren Extremität in der Leistenfurche (Sulcus inguinalis) palpiert werden?
+    en: A man complains about pain and a swelling in the right inguinal region. In
+      order to rule out an inguinal hernia, the doctor inspects and palpates the inguinal
+      region. Which ligament runs from the anterior superior iliac spine (spina iliaca
+      anterior superior) to the pubic tubercle (tuberculum pubicum) and can be seen
+      under the skin at the transition from the abdomen to the lower extremity?
+  right_terms:
+  - inguinal-ligament
+  wrong_terms:
+  - ischiofemoral-ligament
+  - iliofemoral-ligament
+  - ligamentum-pectineum
+  - ligamentum-sacrotuberale
+  question_uuid: d1dcc972e2a339f8d21460f0bfb619e
+- concepts:
+  - pelvic-cavity-1
+  - os-pubis
+  - os-ischii
+  - ala-ossis-sacralis
+  - os-coccygis
+  exercise: question_bank
+  question:
+    de: Eine Patientin stellt sich mit wiederkehrenden Bauchschmerzen im Krankenhaus
+      vor. Da die Koloskopie unauffällig war, wurde zusätzlich eine MRT des Abdomens
+      angefertigt. Die zuständige Radiologin geht nun die Schnittbilder durch und
+      erkennt eine Pathologie im kleinen Becken. Welche Knochen umgrenzen das kleine
+      Becken und können der Radiologin als Orientierung dienen?
+    en: A patient is admitted to the hospital due to recurrent abdominal pain. As
+      the colonoscopy did not show any abnormalities, a MRI of the abdomen was performed
+      in addition. The attending radiologist now screens the cross sections and detects
+      a pathological abnormality in the lesser pelvis. Which bones define the border
+      of the lesser pelvis and can thus serve the radiologist for orientation?
+  right_terms:
+  - pubic-bone-3
+  - ischium-3
+  - os-sacrum
+  - coccyx-bone
+  wrong_terms:
+  - vertebrae-lumbales
+  question_uuid: 5fe41c041b30d2b36348bfa0d7cd51d
+- terms:
+  - musculus-rectus-abdominis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - pubic-crest
+  - symphysis-pubis
+  wrong_terms:
+  - spina-iliaca-anterior-superior
+  - spina-iliaca-anterior-inferior
+  - os-sacrum
+  - os-ilium
+- concepts:
+  - acetabulum
+  - os-coxae
+  - acetabulum-2
+  exercise: question_bank
+  question:
+    de: Os ilium, ischium und pubis treffen an dieser knöchernen Landmarke aufeinander
+      um das Os coxae zu formen
+    en: The ilium (os ilium), ischium (os ischii), and pubic bone (os pubis) merge
+      together at this boney landmark region to form the hip bone (os-coxae)
+  right_terms:
+  - acetabulum
+  wrong_terms:
+  - spina-iliaca-anterior-superior
+  - incisura-ischiadica-major
+  - limbus-acetabuli
+  - eminentia-iliopubica
+  question_uuid: 3525a708085a996142be9a425b51018
+- concepts:
+  - spina-iliaca-anterior-superior
+  - anterior-superior-iliac-spine
+  exercise: question_bank
+  question:
+    de: Welche knöcherne Landmarke befindet sich am lateralen unteren Rand des Abdomens,
+      leicht unterhalb der Höhe des Bauchnabels?
+    en: What boney landmark is located on the lateral aspects of the abdomen, slightly
+      inferior to the height of the umbilicus?
+  right_terms:
+  - spina-iliaca-anterior-superior
+  wrong_terms:
+  - spina-iliaca-posterior-superior
+  - crista-iliaca
+  - crista-pubica
+  - trochanter-major
+  question_uuid: ce9ccdb958e15407bf1f22647a4182c
+- concepts:
+  - ligamentum-sacrotuberale
+  - posterior-superior-iliac-spine-2
+  exercise: question_bank
+  question:
+    de: Welches Band entspringt an der Spina iliaca posterior superior, dem lateralen
+      Aspekt des Os sacrums und dem Os coccygis?
+    en: What ligament originates on the posterior superior iliac spine (Spina iliaca
+      posterior superior), lateral aspect of the sacrum, and the coccyx (Os coccygis)?
+  right_terms:
+  - ligamentum-sacrotuberale
+  wrong_terms:
+  - ligamentum-sacrospinale
+  - ligamentum-iliofemorale
+  - ligamentum-ischiofemorale
+  - ligamentum-inguinale
+  question_uuid: '0930521111080c35da36796e96e69e1'
+- concepts:
+  - ligamentum-sacrotuberale
+  - ligamentum-sacrospinale
+  - sacroiliac-joint-5
+  exercise: question_bank
+  question:
+    de: Durch welche Strukturen wird das Iliosakralgelenk geschützt?
+    en: Which of the following ligaments protect the sacroiliac joint (articulatio
+      sacroiliaca)?
+  right_terms:
+  - ligamentum-sacrotuberale
+  - ligamentum-sacrospinale
+  wrong_terms:
+  - ligamentum-pubofemorale
+  - ligamentum-iliofemorale
+  - ligamentum-ischiofemorale
+  question_uuid: 7bbf2475c2c62d4b3153ac3085b6646
+- concepts:
+  - spina-iliaca-posterior-superior
+  - posterior-superior-iliac-spine-2
+  - spina-iliaca-anterior-superior
+  - anterior-superior-iliac-spine
+  exercise: question_bank
+  question:
+    de: Wie werden die tastbaren Knochenpunkte des Beckens, die an beiden Körperseiten
+      auf Hüfthöhe liegen genannt?
+    en: What are the palpable pelvic bone structures located on each side of the body
+      at the height of the waistline called?
+  right_terms:
+  - spina-iliaca-posterior-superior
+  - spina-iliaca-anterior-superior
+  wrong_terms:
+  - spina-iliaca-posterior-inferior
+  - tuber-ischiadicum
+  - crista-sacralis-lateralis
+  question_uuid: 426c5dedae80a84c14ef22e69e4b92c
+- concepts:
+  - acetabulum
+  - acetabulum-2
+  exercise: question_bank
+  question:
+    de: Die entwicklungsbedingte Hüftdysplasie ist gekennzeichnet durch eine pathologische
+      Entwicklung welcher Struktur?
+    en: Developmental hip dysplasia is characterized by an abnormal development of
+      the...?
+  right_terms:
+  - acetabulum
+  wrong_terms:
+  - ligamentum-capitis-femoris
+  - ligamentum-iliofemorale
+  - collum-femoris
+  - symphysis-pubis
+  question_uuid: 34f1acd5ac528fba48148cbbf953b74
+- concepts:
+  - os-coxae
+  - os-ischii
+  - os-pubis
+  - ilium
+  exercise: question_bank
+  question:
+    de: Aus welchen drei Knochen besteht das Os coxae?
+    en: The hip bone (os coxae) is made up of which three bones?
+  right_terms:
+  - os-ischii
+  - os-pubis
+  - os-ilium
+  wrong_terms:
+  - os-sacrum
+  - os-coccygis
+  question_uuid: a3fde28db82ec15233cf30207f2bfc2
+- concepts:
+  - tuber-ischiadicum
+  - tuberosity-of-the-ischium-2
+  exercise: question_bank
+  question:
+    de: Wie wird der Sitzbeinhöcker anatomisch genannt?
+    en: What are the sitting bones anatomically referred to as?
+  right_terms:
+  - tuber-ischiadicum
+  wrong_terms:
+  - tuberculum-pubicum
+  - spina-ischiadica
+  - spina-iliaca-posterior-inferior
+  - ala-ossis-sacralis
+  question_uuid: a70765ea98fb3ccb0b280a814fe9903
+- concepts:
+  - acetabulum
+  - acetabulum-2
+  - caput-femoris
+  exercise: question_bank
+  question:
+    de: Welche Strukturen werden bei einer vollständigen Hüftarthroplastik ersetzt?
+    en: Which structures are replaced during a total hip arthroplasty procedure
+  right_terms:
+  - acetabulum
+  - caput-femoris
+  wrong_terms:
+  - ala-ossis-ilii-fossa-iliaca
+  - os-sacrum
+  - symphysis-pubis
+  question_uuid: cbf633e9c3a830c502b5a9482c41aab
+- concepts:
+  - ligamentum-transversum-acetabuli
+  - acetabulum-2
+  - acetabulum
+  exercise: question_bank
+  question:
+    de: Welche Struktur vervollständigt den Acetabulumring, indem sie über die Incisura
+      acetabuli zieht, um die inferioren Enden des Labrum acetabuli zusammenzubringen?
+    en: The following structure completes the acetabular ring by running over the
+      acetabular notch (Incisura acetabuli) in order to join the inferior ends of
+      the acetabular labrum together
+  right_terms:
+  - ligamentum-transversum-acetabuli
+  wrong_terms:
+  - ligamentum-pubofemorale
+  - ligamentum-iliofemorale
+  - ligamentum-ischiofemorale
+  - ligamentum-capitis-femoris
+  question_uuid: 64d89092a6b6c14cc847e25caa4159c
+- terms:
+  - musculus-pyramidalis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - symphysis-pubis
+  - pubic-crest
+  wrong_terms:
+  - ramus-ossis-ischii
+  - os-ilium
+  - spina-iliaca-anterior-superior
+  - spina-iliaca-anterior-inferior
+- terms:
+  - musculus-obliquus-externus-abdominis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - linea-alba
+  - tuberculum-pubicum
+  - crista-iliaca
+  wrong_terms:
+  - os-sacrum
+  - costae-x-xii
+  - symphysis-pubis
+- terms:
+  - musculus-obliquus-internus-abdominis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - fascia-thoracolumbalis
+  - crista-iliaca
+  wrong_terms:
+  - tuberculum-pubicum
+  - trochanter-major
+  - spina-iliaca-anterior-superior
+  - os-pubis
+- terms:
+  - musculus-transversus-abdominis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - cartilagines-costales-vii-xii
+  - fascia-thoracolumbalis
+  - crista-iliaca
+  wrong_terms:
+  - os-pubis
+  - processus-xyphoideus
+  - spina-iliaca-anterior-inferior
+- concepts:
+  - spina-iliaca-anterior-superior
+  - anterior-superior-iliac-spine
+  exercise: question_bank
+  question:
+    de: Um die Beinlänge zu bestimmen, misst man vom Malleolus medialis bis zu welcher
+      knöchernen Struktur?
+    en: To measure lower extremity length, the measurement is taken from the medial
+      malleolus (malleolus medialis) to the following boney landmark
+  right_terms:
+  - spina-iliaca-anterior-superior
+  wrong_terms:
+  - spina-iliaca-anterior-inferior
+  - trochanter-major
+  - crista-iliaca
+  - tuber-ischiadicum
+  question_uuid: ec49bcca774d8d4b00c9138074e6321
+- concepts:
+  - iliac-crest
+  - crista-iliaca
+  exercise: question_bank
+  question:
+    de: Ein 35-jähriger Mann steht unter Verdacht, eine Hirnhautentzündung (Meningitis)
+      zu haben. Der behandelnde Arzt möchte eine Lumbalpunktion zur weiteren Diagnostik
+      durchführen. Dazu führt er die Nadel unterhalb des terminalen Endes des Rückenmarks
+      in den Spinalkanal ein. Welche knöcherne Landmarke hilft beim Erwachsenen bei
+      der Identifizierung der richtigen Einstichhöhe?
+    en: A 35-year-old man is suspected to suffer from meningitis. The attending physician
+      is planning a lumbar puncture to draw cerebrospinal fluid (CSF) for further
+      diagnostics. He is going to insert the needle below the level where the spinal
+      cord ends. Which bony landmark will help him in identifying the desired level
+      in an adult?
+  right_terms:
+  - iliac-crest
+  wrong_terms:
+  - posterior-inferior-iliac-spine-1
+  - ischial-spine-2
+  - apex-of-sacrum
+  - anterior-superior-iliac-spine-5
+  question_uuid: cfe3230adba8911902fb07b89a03035
+- terms:
+  - musculus-gemellus-superior
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - spina-ischiadica
+  wrong_terms:
+  - spina-iliaca-posterior-inferior
+  - ala-ossis-ilii-facies-glutea
+  - membrana-obturatoria
+  - ligamentum-sacrospinale
+  - os-sacrum

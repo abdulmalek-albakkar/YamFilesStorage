@@ -1,0 +1,376 @@
+---
+- terms:
+  - angulus-sterni
+  - articulatio-sternoclavicularis
+  exercise: easy
+- terms:
+  - articulatio-sternocostalis
+  - corpus-sterni
+  exercise: easy
+- terms:
+  - incisura-clavicularis
+  - incisura-jugularis
+  exercise: easy
+- terms:
+  - manubrium-sterni
+  - processus-xyphoideus
+  exercise: easy
+- terms:
+  - angulus-sterni
+  - articulatio-sternoclavicularis
+  - articulatio-sternocostalis
+  - corpus-sterni
+  exercise: four_one
+- terms:
+  - incisura-clavicularis
+  - incisura-jugularis
+  - manubrium-sterni
+  - processus-xyphoideus
+  exercise: four_one
+- terms:
+  - angulus-sterni
+  - articulatio-sternoclavicularis
+  - articulatio-sternocostalis
+  - corpus-sterni
+  exercise: identify_image
+- terms:
+  - incisura-clavicularis
+  - incisura-jugularis
+  - manubrium-sterni
+  - processus-xyphoideus
+  exercise: identify_image
+- terms:
+  - angulus-sterni
+  exercise: spell_term
+- terms:
+  - articulatio-sternoclavicularis
+  exercise: spell_term
+- terms:
+  - articulatio-sternocostalis
+  exercise: spell_term
+- terms:
+  - corpus-sterni
+  exercise: spell_term
+- terms:
+  - incisura-clavicularis
+  exercise: spell_term
+- terms:
+  - incisura-jugularis
+  exercise: spell_term
+- terms:
+  - manubrium-sterni
+  exercise: spell_term
+- terms:
+  - processus-xyphoideus
+  exercise: spell_term
+- concepts:
+  - processus-xyphoideus
+  - manubrium-sterni
+  - corpus-sterni
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Strukturen gehören zum Sternum?
+    en: Which of the following are aspects of the sternum?
+  right_terms:
+  - processus-xyphoideus
+  - manubrium-sterni
+  - corpus-sterni
+  wrong_terms:
+  - facies-articularis-sternalis-claviculae
+  - extremitas-sternalis
+  question_uuid: 5a2d6ac4a4b15362d13311c9c618ea8
+- concepts:
+  - thoracic-vertebrae
+  - vertebrae-thoracicae
+  - thoracic-vertebrae-1
+  - corpus-vertebrae
+  - sternum
+  - sternal-body-5
+  - corpus-sterni
+  - ribs
+  - first-rib-5
+  - costae-verae
+  - costae-spuriae
+  exercise: question_bank
+  question:
+    de: Welche Knochen bilden den Brustkorb (Cavea thoracis)?
+    en: What bones form the thoracic cage (cavea thoracis)?
+  right_terms:
+  - thoracic-vertebrae
+  - sternum
+  - ribs
+  wrong_terms:
+  - vertebrae-cervicales
+  - lumbar-vertebrae
+  question_uuid: 7e2bd9ad077bb69fbcebe8f56ce751e
+- concepts:
+  - manubrium-sterni
+  exercise: question_bank
+  question:
+    de: Wie heißt der viereckige Anteil des oberen Brustbeins (Sternum), der die beiden
+      Schlüsselbeine (Claviculae) im ventralen Rumpf verbindet?
+    en: What is the name of the quadrangular part of the sternum, connecting the two
+      clavicles (claviculae)?
+  right_terms:
+  - manubrium-sterni
+  wrong_terms:
+  - xiphoid-process
+  - corpus-sterni
+  - sternal-angle-1
+  - incisura-jugularis
+  question_uuid: 4c006f3a5927c92de2a4fd13bc70f89
+- concepts:
+  - corpus-sterni
+  - origin_of-musculus-pectoralis-major
+  exercise: question_bank
+  question:
+    de: Welcher ist der längste Teil des Brustbeins (Sternum), der als Ansatzpunkt
+      für den Großteil der 'echten' Rippen sowie als Ursprung eines Teils des großen
+      Brustmuskels (Musculus pectoralis major) dient?
+    en: Which is the longest part of the sternum, that acts as a source of attachment
+      for both the majority of the true ribs (costae verae) and a part of the pectoralis
+      major muscle (musculus pectoralis major)?
+  right_terms:
+  - corpus-sterni
+  wrong_terms:
+  - processus-xyphoideus
+  - manubrium-sterni
+  - angulus-sterni
+  - incisura-jugularis
+  question_uuid: 8d2683cfc41422dc090b25f71b46e58
+- concepts:
+  - angulus-sterni
+  exercise: question_bank
+  question:
+    de: Welcher Teil des Brustbeins (Sternum) dient auch als Ansatz der zweiten Rippe
+      und befindet sich zwischen dem Handgriff (Manubrium) und dem Brustbeinkörper
+      (Corpus sterni)?
+    en: Which of the following bony structures is formed by the junction of the manubrium
+      and the body of the sternum and also acts as the attachment site for the second
+      rib (costa II)?
+  right_terms:
+  - angulus-sterni
+  wrong_terms:
+  - processus-xyphoideus
+  - manubrium-sterni
+  - corpus-sterni
+  - incisura-jugularis
+  question_uuid: ce65cbb97177be5b9d339fcef8f01e8
+- concepts:
+  - incisura-jugularis
+  - sternum
+  exercise: question_bank
+  question:
+    de: Wie heißt der oberste Anteil des Brustbeins (Sternum), der sich an der Oberseite
+      des Brustbeinhandgriffs (Manubrium sterni) befindet?
+    en: What is the most superior portion of the sternum found at the top of the manubrium?
+  right_terms:
+  - incisura-jugularis
+  wrong_terms:
+  - angulus-sterni
+  - extremitas-sternalis
+  - articulatio-sternoclavicularis
+  - articulatio-sternocostalis
+  question_uuid: c67184ace156ee4dad0bc46d786bdda
+- concepts:
+  - angulus-sterni
+  exercise: question_bank
+  question:
+    de: Auf Höhe welcher Struktur liegt die Bifurkation der Luftröhre (Trachea) mit
+      dem Luftröhrensporn (Carina tracheae)?
+    en: The carina of the trachea (carina tracheae) lies deep to which anatomical
+      landmark?
+  right_terms:
+  - angulus-sterni
+  wrong_terms:
+  - incisura-clavicularis
+  - incisura-jugularis
+  - cartilago-cricoidea
+  - thyroid-cartilage-8
+  question_uuid: c69e59efd5040dc39d09c6d65bd05af
+- concepts:
+  - manubrium-sterni
+  - sternal-manubrium-3
+  exercise: question_bank
+  question:
+    de: Welche Struktur liegt in der oberen Brustbeingegend (Regio sternalis)?
+    en: Which structure is located in the the upper sternal region?
+  right_terms:
+  - manubrium-sterni
+  wrong_terms:
+  - clavicula
+  - costae-spuriae
+  - caput-humeri
+  - costa-ii
+  question_uuid: 4b7c5a855c45ac159d388dc2a468f68
+- concepts:
+  - manubrium-sterni
+  exercise: question_bank
+  question:
+    de: Welcher Knochen artikuliert mit dem Schlüsselbein (Clavicula)?
+    en: Which bone articulates with the clavicle?
+  right_terms:
+  - manubrium-sterni
+  wrong_terms:
+  - sternal-body-2
+  - xiphoid-process-3
+  - costa-ii
+  - hyoid-bone-2
+  question_uuid: d660205881ce5a9572b03c75e47b564
+- concepts:
+  - manubrium-sterni
+  exercise: question_bank
+  question:
+    de: Welcher Knochen artikuliert mit der ersten Rippe?
+    en: Which bone articulates with the first rib?
+  right_terms:
+  - manubrium-sterni
+  wrong_terms:
+  - sternal-body-2
+  - xiphoid-process-3
+  - scapula-3
+  - costa-ii
+  question_uuid: 4d96f7c5a2584323bce71c3a6e66855
+- concepts:
+  - diaphragma
+  exercise: question_bank
+  question:
+    de: Welche Struktur stellt den ventralen Ursprung des Zwerchfells (Diaphragma)
+      dar?
+    en: Which structure represents the anterior origin of the diaphragm (diaphragma)?
+  right_terms:
+  - processus-xyphoideus
+  wrong_terms:
+  - manubrium-sterni
+  - incisura-jugularis
+  - corpus-sterni
+  - angulus-sterni
+  question_uuid: 066e88d2f7e448084d7b3b5e6f4f639
+- concepts:
+  - diaphragma
+  exercise: question_bank
+  question:
+    de: Welche Strukturen stellen Ursprungspunkte des Zwerchfells (Diaphragma) dar?
+    en: Which structures are origin points of the diaphragm (diaphragma)?
+  right_terms:
+  - cartilagines-costales-vii-xii
+  - processus-xyphoideus
+  - vertebrae-lumbales
+  wrong_terms:
+  - vertebrae-thoracicae
+  - manubrium-sterni
+  question_uuid: f0bd49f50491b18c5e3d1f3fd63cfa6
+- terms:
+  - musculus-sternothyroideus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - manubrium-sterni
+  wrong_terms:
+  - acromion
+  - scapula-2
+  - corpus-sterni
+  - clavicula
+- terms:
+  - musculus-sternohyoideus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - manubrium-sterni
+  - articulatio-sternoclavicularis
+  wrong_terms:
+  - acromion
+  - processus-xyphoideus
+  - costa-i-3
+  - corpus-sterni
+- terms:
+  - musculus-rectus-abdominis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - cartilagines-costales-v-vii
+  - processus-xyphoideus
+  wrong_terms:
+  - manubrium-sterni
+  - angulus-sterni
+  - costa-ii
+  - costa-i-3
+- terms:
+  - musculi-transversus-thoracis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - processus-xyphoideus
+  - corpus-sterni
+  wrong_terms:
+  - clavicula
+  - costae-x-xii
+  - angulus-inferior-scapulae
+  - fossa-subscapularis
+- concepts:
+  - suprasternal-notch
+  - suprasternal-notch-3
+  exercise: question_bank
+  question:
+    de: Über welcher Knochenstruktur kreuzt das Ligamentum interclaviculare zur Gegenseite?
+    en: Along which of the following bony structures does the interclavicular ligament
+      (ligamentum interclaviculare) cross?
+  right_terms:
+  - suprasternal-notch
+  wrong_terms:
+  - subclavian-groove
+  - body-of-the-clavicle
+  - impression-for-costoclavicular-ligament
+  - acromial-facet
+  question_uuid: cdc8e0cbf68ef66d71c7803f390579f
+- concepts:
+  - extremitas-sternalis
+  exercise: question_bank
+  question:
+    de: Wie heißt das dreieckig geformte sternale Ende des Schlüsselbeins (Clavicula),
+      das die klavikuläre Seite des Brustbein-Schlüsselbein-Gelenkes (Articulatio
+      sternoclavicularis) bildet?
+    en: What is the name of the triangular sternal end of the clavicle which forms
+      the clavicular side of the sternoclavicular joint (articulatio sternoclavicularis)?
+  right_terms:
+  - extremitas-sternalis
+  wrong_terms:
+  - corpus-claviculae-2
+  - impression-for-costoclavicular-ligament
+  - acromial-articular-surface-of-clavicle
+  - incisura-jugularis
+  question_uuid: 17fb5e01cc058e79745e6f4f24d3395
+- concepts:
+  - typical-rib
+  - sternum
+  exercise: question_bank
+  question:
+    de: Welche Knochen liegen über dem Herzen?
+    en: Which bones cover the heart?
+  right_terms:
+  - sternum
+  - typical-rib
+  wrong_terms:
+  - patella-5
+  - os-sacrum
+  - os-coccygis
+  - hip-bone
+  question_uuid: 4b3d6307d8d395c33bc1ad7563bf0fd
+- concepts:
+  - sternum
+  exercise: question_bank
+  question:
+    de: Bei Patienten mit Myasthenia gravis wird häufig eine Thymektomie (chirurgische
+      Entfernung des Thymus) durchgeführt. Welchen Knochen durchtrennen Chirurgen
+      häufig beim Zugang zum oberen Mediastinum?
+    en: Patients with myasthenia gravis often undergo surgical removal of the thymus.
+      In order to gain access into the superior mediastinum, which of the following
+      bones can the surgeon incise?
+  right_terms:
+  - sternum
+  wrong_terms:
+  - costa-ii
+  - clavicle-4
+  - costa-i-3
+  - hyoid-bone-2
+  question_uuid: 556a68b33204d2cf0e850eb2b7b6ba5

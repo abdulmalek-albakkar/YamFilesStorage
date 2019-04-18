@@ -1,0 +1,1506 @@
+---
+- terms:
+  - plexus-brachialis-3
+  - plexus-cervicalis-2
+  exercise: easy
+- terms:
+  - nervus-axillaris-2
+  - nervus-medianus-2
+  exercise: easy
+- terms:
+  - nervus-radialis-2
+  - nervus-ulnaris-2
+  exercise: easy
+- terms:
+  - nervus-musculocutaneus-2
+  - nervus-subclavius
+  exercise: easy
+- terms:
+  - nervus-musculocutaneus-2
+  - plexus-brachialis-3
+  - plexus-cervicalis-2
+  - nervus-axillaris-2
+  exercise: four_one
+- terms:
+  - nervus-radialis-2
+  - nervus-subclavius
+  - nervus-medianus-2
+  - nervus-ulnaris-2
+  exercise: four_one
+- terms:
+  - nervus-musculocutaneus-2
+  - plexus-cervicalis-2
+  - nervus-radialis-2
+  - plexus-brachialis-3
+  exercise: identify_image
+- terms:
+  - nervus-medianus-2
+  - nervus-subclavius
+  - nervus-ulnaris-2
+  - nervus-axillaris-2
+  exercise: identify_image
+- terms:
+  - truncus-inferior-plexus-brachialis
+  - fasciculus-lateralis-2
+  exercise: easy
+- terms:
+  - truncus-medius-plexus-brachialis
+  - fasciculus-medialis-2
+  exercise: easy
+- terms:
+  - truncus-superior-plexus-brachialis
+  - fasciculus-posterior-2
+  exercise: easy
+- terms:
+  - nervus-cutaneus-antebrachii-medialis-2
+  - nervus-cutaneus-brachii-medialis
+  exercise: easy
+- terms:
+  - nervus-cutaneus-antebrachii-medialis-2
+  - truncus-inferior-plexus-brachialis
+  - truncus-superior-plexus-brachialis
+  - truncus-medius-plexus-brachialis
+  exercise: four_one
+- terms:
+  - nervus-cutaneus-brachii-medialis
+  - fasciculus-posterior-2
+  - fasciculus-lateralis-2
+  - fasciculus-medialis-2
+  exercise: four_one
+- terms:
+  - fasciculus-posterior-2
+  - truncus-inferior-plexus-brachialis
+  - nervus-cutaneus-brachii-medialis
+  - fasciculus-lateralis-2
+  exercise: identify_image
+- terms:
+  - nervus-cutaneus-antebrachii-medialis-2
+  - fasciculus-medialis-2
+  - truncus-superior-plexus-brachialis
+  - truncus-medius-plexus-brachialis
+  exercise: identify_image
+- terms:
+  - nervus-spinalis-c5
+  - nervus-spinalis-c6
+  exercise: easy
+- terms:
+  - nervus-subclavius
+  - nervus-radialis-2
+  exercise: easy
+- terms:
+  - nervus-spinalis-c7
+  - nervus-spinalis-c8
+  exercise: easy
+- terms:
+  - nervus-subscapularis-2
+  - nervus-suprascapularis-2
+  exercise: easy
+- terms:
+  - nervus-suprascapularis-2
+  - nervus-subscapularis-2
+  - nervus-spinalis-c6
+  - nervus-spinalis-c8
+  exercise: four_one
+- terms:
+  - nervus-spinalis-c7
+  - nervus-spinalis-c5
+  - nervus-radialis-2
+  - nervus-subclavius
+  exercise: four_one
+- terms:
+  - nervus-subscapularis-2
+  - nervus-radialis-2
+  - nervus-spinalis-c8
+  - nervus-spinalis-c5
+  exercise: identify_image
+- terms:
+  - nervus-subclavius
+  - nervus-spinalis-c7
+  - nervus-suprascapularis-2
+  - nervus-spinalis-c6
+  exercise: identify_image
+- terms:
+  - nervus-thoracodorsalis-2
+  - nervus-dorsalis-scapulae
+  exercise: easy
+- terms:
+  - nervus-spinalis-th1
+  - nervus-spinalis-th2
+  exercise: easy
+- terms:
+  - truncus-inferior-plexus-brachialis
+  - truncus-superior-plexus-brachialis
+  exercise: easy
+- terms:
+  - truncus-medius-plexus-brachialis
+  - fasciculus-medialis-2
+  exercise: easy
+- terms:
+  - truncus-superior-plexus-brachialis
+  - truncus-inferior-plexus-brachialis
+  - truncus-medius-plexus-brachialis
+  - nervus-dorsalis-scapulae
+  exercise: four_one
+- terms:
+  - nervus-thoracodorsalis-2
+  - fasciculus-medialis-2
+  - nervus-spinalis-th1
+  - nervus-spinalis-th2
+  exercise: four_one
+- terms:
+  - truncus-superior-plexus-brachialis
+  - fasciculus-medialis-2
+  - nervus-dorsalis-scapulae
+  - nervus-spinalis-th2
+  exercise: identify_image
+- terms:
+  - nervus-thoracodorsalis-2
+  - truncus-medius-plexus-brachialis
+  - truncus-inferior-plexus-brachialis
+  - nervus-spinalis-th1
+  exercise: identify_image
+- terms:
+  - inferior-subscapular-nerve
+  - nervus-dorsalis-scapulae
+  exercise: easy
+- terms:
+  - nervus-thoracodorsalis-2
+  - long-thoracic-nerve-2
+  exercise: easy
+- terms:
+  - long-thoracic-nerve-2
+  - inferior-subscapular-nerve
+  - nervus-thoracodorsalis-2
+  - nervus-dorsalis-scapulae
+  exercise: four_one
+- terms:
+  - nervus-dorsalis-scapulae
+  - long-thoracic-nerve-2
+  - inferior-subscapular-nerve
+  - nervus-thoracodorsalis-2
+  exercise: identify_image
+- terms:
+  - plexus-brachialis-3
+  exercise: spell_term
+- terms:
+  - plexus-cervicalis-2
+  exercise: spell_term
+- terms:
+  - nervus-axillaris-2
+  exercise: spell_term
+- terms:
+  - nervus-medianus-2
+  exercise: spell_term
+- terms:
+  - nervus-radialis-2
+  exercise: spell_term
+- terms:
+  - nervus-ulnaris-2
+  exercise: spell_term
+- terms:
+  - nervus-musculocutaneus-2
+  exercise: spell_term
+- terms:
+  - nervus-subclavius
+  exercise: spell_term
+- terms:
+  - truncus-inferior-plexus-brachialis
+  exercise: spell_term
+- terms:
+  - fasciculus-lateralis-2
+  exercise: spell_term
+- terms:
+  - truncus-medius-plexus-brachialis
+  exercise: spell_term
+- terms:
+  - fasciculus-medialis-2
+  exercise: spell_term
+- terms:
+  - truncus-superior-plexus-brachialis
+  exercise: spell_term
+- terms:
+  - fasciculus-posterior-2
+  exercise: spell_term
+- terms:
+  - nervus-cutaneus-antebrachii-medialis-2
+  exercise: spell_term
+- terms:
+  - nervus-cutaneus-brachii-medialis
+  exercise: spell_term
+- terms:
+  - nervus-spinalis-c5
+  exercise: spell_term
+- terms:
+  - nervus-spinalis-c6
+  exercise: spell_term
+- terms:
+  - nervus-spinalis-c7
+  exercise: spell_term
+- terms:
+  - nervus-spinalis-c8
+  exercise: spell_term
+- terms:
+  - nervus-subscapularis-2
+  exercise: spell_term
+- terms:
+  - nervus-suprascapularis-2
+  exercise: spell_term
+- terms:
+  - nervus-thoracodorsalis-2
+  exercise: spell_term
+- terms:
+  - nervus-dorsalis-scapulae
+  exercise: spell_term
+- terms:
+  - nervus-spinalis-th1
+  exercise: spell_term
+- terms:
+  - nervus-spinalis-th2
+  exercise: spell_term
+- terms:
+  - inferior-subscapular-nerve
+  exercise: spell_term
+- terms:
+  - long-thoracic-nerve-2
+  exercise: spell_term
+- concepts:
+  - nervus-dorsalis-scapulae
+  exercise: question_bank
+  question:
+    de: Bei eine Läsion welches der folgenden Nerven würde man eine Scapula alata
+      erwarten?
+    en: Where would a lesion occur if a patient experiences scapula alata?
+  right_terms:
+  - nervus-dorsalis-scapulae
+  wrong_terms:
+  - nervus-suprascapularis-2
+  - nervus-subscapularis-2
+  - nervus-thoracodorsalis-2
+  - nervus-subclavius
+  question_uuid: 85a3d95d8eaa2580ba362b47d147161
+- concepts:
+  - nervus-thoracodorsalis-2
+  exercise: question_bank
+  question:
+    de: Fehlende Muskelrelaxion am Rücken und im Bereich der hinteren Achselfalte
+      weist auf eine Läsion von welchem Nerven hin?
+    en: Missing muscular relief at the back and the posterior axillary fold indicates
+      a lesion in which nerve?
+  right_terms:
+  - nervus-thoracodorsalis-2
+  wrong_terms:
+  - nervi-intercostales-t7-t11
+  - nervus-cutaneus-antebrachii-medialis-2
+  - nervus-cutaneus-cervicalis-anterior
+  - ramus-trapezius-nervi-accessorii
+  question_uuid: 429d6fd25c1c49bc78120cb1f2afe0d
+- concepts:
+  - nervus-dorsalis-scapulae
+  exercise: question_bank
+  question:
+    de: Welcher Ast der Plexus brachialis versorgt die Musculi rhomboidei?
+    en: Which branch of the brachial plexus innervates the rhomboid muscles?
+  right_terms:
+  - nervus-dorsalis-scapulae
+  wrong_terms:
+  - nervus-axillaris
+  - nervus-cutaneus-cervicalis-anterior
+  - nervus-spinalis-c1
+  - nervus-thoracodorsalis-2
+  question_uuid: 4b681e25cb7c78e5ce9380361f91ced
+- concepts:
+  - nervus-subscapularis
+  - nervus-suprascapularis-2
+  - infrascapular-region-2
+  exercise: question_bank
+  question:
+    de: Welcher Nerv entspringt aus dem Fasciculus posterior des Plexus brachialis
+      und teilt sich auf, um die obere und untere Subscapularregion zu erreichen?
+    en: Which nerve originates from the posterior cord of the brachial plexus and
+      splits up in order to enter the upper and lower subscapular region?
+  right_terms:
+  - nervus-subscapularis
+  wrong_terms:
+  - nervus-thoracicus-longus
+  - nervus-thoracodorsalis
+  - nervus-axillaris
+  - nervus-musculocutaneus
+  question_uuid: 1a1455aca473c9e89705ff659cea005
+- concepts:
+  - nervus-thoracodorsalis
+  - nervus-thoracodorsalis-2
+  - musculus-latissimus-dorsi
+  exercise: question_bank
+  question:
+    de: Welcher Nerv entspringt aus dem Fasciculus posterior des Plexus brachialis,
+      verläuft an der Arteria subscapularis vorbei zur Hinterwand der Axilla und zum
+      Musculus latissimus dorsi?
+    en: Which nerve originates from the posterior cord of the brachial plexus, travels
+      down the subscapular artery, towards the posterior wall of the axilla and to
+      the latissimus dorsi muscle?
+  right_terms:
+  - nervus-thoracodorsalis
+  wrong_terms:
+  - nervus-thoracicus-longus
+  - nervus-subscapularis
+  - nervus-axillaris
+  - nervus-musculocutaneus
+  question_uuid: 373043f5d8b898a7fd37595d389435b
+- concepts:
+  - nervus-cutaneus-antebrachii-lateralis
+  - nervus-musculocutaneus-2
+  - nervus-musculocutaneus
+  exercise: question_bank
+  question:
+    de: Welcher Nerv stellt die Fortsetzung des Muskel-Haut-Nervs (Nervus musculocutaneus)
+      dar und zieht durch die tiefe Faszie lateral der Sehne des Musculus biceps brachii
+      in Richtung Unterarm?
+    en: Which nerve is the continuation of the musculocutaneous nerve (nervus musculocutaneus)
+      and passes through the deep fascia lateral to the biceps brachii tendon into
+      the forearm?
+  right_terms:
+  - nervus-cutaneus-antebrachii-lateralis
+  wrong_terms:
+  - nervus-subscapularis
+  - nervus-thoracodorsalis
+  - nervus-axillaris
+  - nervus-cutaneus-antebrachii-medialis
+  question_uuid: e0744fef94e26ddd39c301a89a6db8d
+- concepts:
+  - nervus-medianus
+  - nervus-medianus-2
+  exercise: question_bank
+  question:
+    de: Welcher Nerv des Plexus brachialis entspringt aus dem Fasciculus medialis
+      und lateralis und versorgt fast alle Flexoren der Unterarmmuskulatur sowie die
+      Muskeln des Daumenballens?
+    en: Which nerve of the brachial plexus originates both from the medial and lateral
+      cords and innervates almost all flexors of the forearm as well as the thenar
+      muscles?
+  right_terms:
+  - nervus-medianus
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-cutaneus-antebrachii-lateralis
+  - nervus-cutaneus-antebrachii-medialis
+  - nervus-ulnaris
+  question_uuid: cafb15731bb96e1e4ad50207b5a8435
+- concepts:
+  - nervus-ulnaris
+  - nervus-ulnaris-2
+  - arteria-axillaris
+  - olecranon
+  - olecranon-8
+  - olecranon-9
+  exercise: question_bank
+  question:
+    de: Welcher Ast des Plexus brachialis entspringt aus dem Fasciculus medialis und
+      verläuft medial der Arteria axillaris durch das Septum intermusculare brachii
+      mediale in eine Knochenrinne zwischen dem Epicondylus medialis und dem Ellenhaken
+      (Olecranon)?
+    en: Which branch of the brachial plexus originates from the medial cord (fasciculus
+      medialis), running medially to the axillary artery through the medial intermuscular
+      septum (septum intermusculare brachii mediale) and into a groove between the
+      medial epicondyle of the humerus and the olecranon?
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-radialis
+  - nervus-medianus
+  - nervus-cutaneus-antebrachii-medialis
+  - ramus-profundus-nervi-ulnaris
+  question_uuid: f17b5400a890cc536c66df7f478dc52
+- concepts:
+  - nervus-radialis
+  - nervus-radialis-2
+  exercise: question_bank
+  question:
+    de: Welcher Nerv ist der größte Ast des Plexus brachialis und stammt aus dem Fasciculus
+      posterior, von wo aus er hinter der Arteria axillaris und brachialis verläuft
+      und sich im weiteren Verlauf vorbei am Epicondylus lateralis des Oberarmknochens
+      in den Unterarm erstreckt?
+    en: Which nerve is the largest branch of the brachial plexus and originates from
+      the posterior cord, from where it runs behind the axillary and brachial artery
+      in order to reach the forearm by passing the lateral epicondyle of the humerus?
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-axillaris
+  - nervus-medianus
+  - nervus-ulnaris
+  question_uuid: 4d448a974f08b02f7ba522547780a12
+- concepts:
+  - plexus-brachialis
+  - plexus-brachialis-3
+  exercise: question_bank
+  question:
+    de: Welche Nervenansammlung ist ein Produkt der Vereinigung der ventralen Äste
+      der vier unteren Zervikalnerven (C5-C8) und des ersten Thorakalnerven (Th1)?
+    en: Which collection of nerves is a product of the union between the anterior
+      rami of the lower four cervical spinal nerves (C5-C8) and the first thoracic
+      spinal nerve (T1)?
+  right_terms:
+  - plexus-brachialis
+  wrong_terms:
+  - myenteric-plexus-5
+  - plexus-lumbalis
+  - plexus-sacralis
+  - plexus-cervicalis
+  question_uuid: 6a9965753833082cb20ed1bd2a88daa
+- concepts:
+  - truncus-superior-plexus-brachialis
+  - plexus-brachialis-3
+  exercise: question_bank
+  question:
+    de: Welcher Anteil des Plexus brachialis wird von den Segmenten C5 und C6 gebildet?
+    en: Which portion of the brachial plexus is formed by the fifth and sixth cervical
+      nerve fibers?
+  right_terms:
+  - truncus-superior-plexus-brachialis
+  wrong_terms:
+  - truncus-medius-plexus-brachialis
+  - truncus-inferior-plexus-brachialis
+  - fasciculus-lateralis
+  - fasciculus-medialis
+  question_uuid: 8f8532670b311e0f835405d68646d3b
+- concepts:
+  - truncus-medius-plexus-brachialis
+  - plexus-brachialis-3
+  exercise: question_bank
+  question:
+    de: Welcher Anteil des Plexus brachialis wird von dem Segment C7 gebildet?
+    en: Which portion of the brachial plexus is formed by the seventh cervical nerve?
+  right_terms:
+  - truncus-medius-plexus-brachialis
+  wrong_terms:
+  - truncus-superior-plexus-brachialis
+  - truncus-inferior-plexus-brachialis
+  - fasciculus-medialis
+  - fasciculus-posterior
+  question_uuid: eb0bd12652d86632058f94d4463d0a8
+- concepts:
+  - truncus-inferior-plexus-brachialis
+  - plexus-brachialis-3
+  exercise: question_bank
+  question:
+    de: Welcher Anteil des Plexus brachialis wird von den Segmenten C8 und Th1 gebildet?
+    en: Which portion of the brachial plexus is formed by the eighth cervical nerve
+      and first thoracic nerve?
+  right_terms:
+  - truncus-inferior-plexus-brachialis
+  wrong_terms:
+  - truncus-medius-plexus-brachialis
+  - truncus-superior-plexus-brachialis
+  - fasciculus-lateralis
+  - fasciculus-posterior
+  question_uuid: 37211d09d4b8edb4c3f16ff8231494d
+- concepts:
+  - fasciculus-lateralis
+  - plexus-brachialis-3
+  exercise: question_bank
+  question:
+    de: Welches Nervenbündel entspringt aus der Vereinigung des oberen und mittleren
+      Stammes (Truncus superior et medius) des Plexus brachialis?
+    en: Which collection of nerves arises from the union of the upper and middle trunks
+      of the brachial plexus?
+  right_terms:
+  - fasciculus-lateralis
+  wrong_terms:
+  - fasciculus-medialis
+  - fasciculus-posterior
+  - truncus-inferior-plexus-brachialis
+  - plexus-cervicalis
+  question_uuid: 35fb68fdc7e0b7c31c804abd9768e20
+- concepts:
+  - fasciculus-medialis
+  - plexus-brachialis-3
+  exercise: question_bank
+  question:
+    de: Welches Nervenbündel entspringt als Fortsetzung des anterioren Teils des unteren
+      Stammes (Truncus inferior) im Plexus brachialis?
+    en: Which collection of nerves arises as a continuation from the anterior division
+      of the lower trunk of the brachial plexus?
+  right_terms:
+  - fasciculus-medialis
+  wrong_terms:
+  - fasciculus-lateralis
+  - fasciculus-posterior
+  - truncus-medius-plexus-brachialis
+  - truncus-superior-plexus-brachialis
+  question_uuid: 71fb90d68bee2498b1815a9f907624f
+- concepts:
+  - nervus-suprascapularis
+  - nervus-suprascapularis-2
+  - musculus-supraspinatus
+  - musculus-infraspinatus
+  exercise: question_bank
+  question:
+    de: Welcher Nerv wird durch die Vereinigung des fünften und sechsten Zervikalnerven
+      gebildet und verläuft unterhalb des Musculus trapezius in die Fossa supraspinata,
+      wo er sich in mehrere Äste teilt, unter anderem zur motorischen Versorgung der
+      Musculi supraspinatus und infraspinatus?
+    en: Which nerve is formed from the union of the fifth and sixth cervical nerves
+      and runs under the trapezius muscle (musculus trapezius) into the supraspinatous
+      fossa (fossa supraspinata), where it splits into several branches to provide
+      motor innervation of the supra- and infraspinatus muscles?
+  right_terms:
+  - nervus-suprascapularis
+  wrong_terms:
+  - nervus-thoracicus-longus
+  - nervi-supraclaviculares
+  - nervus-subclavius
+  - nervus-dorsalis-scapulae
+  question_uuid: 23c7a8ec7c2032ab784b986fbb6701f
+- concepts:
+  - nervus-thoracicus-longus
+  - long-thoracic-nerve-2
+  - musculus-serratus-anterior
+  exercise: question_bank
+  question:
+    de: Welcher Nerv entspringt aus dem fünften, sechsten und siebten Zervikalnerv
+      und versorgt den Musculus serratus anterior?
+    en: Which nerve is formed by the fifth, sixth and seventh cervical nerves and
+      supplies the serratus anterior muscle?
+  right_terms:
+  - nervus-thoracicus-longus
+  wrong_terms:
+  - nervus-suprascapularis
+  - nervi-supraclaviculares
+  - nervus-subclavius
+  - nervus-dorsalis-scapulae
+  question_uuid: 2e29466700a72ec16b2932fefbb83fe
+- concepts:
+  - nervus-dorsalis-scapulae
+  exercise: question_bank
+  question:
+    de: Welcher Nerv entspringt aus dem fünften Zervikalnerv, tritt durch den Musculus
+      scalenus medius und endet in den Musculi rhomboidei, welche er motorisch versorgt?
+    en: Which nerve arises from the fifth cervical nerve, runs through the scalenus
+      medius muscle, under the levator scapulae muscle and ends in the rhomboid muscles
+      (musculi rhomboidei)
+  right_terms:
+  - nervus-dorsalis-scapulae
+  wrong_terms:
+  - nervus-thoracicus-longus
+  - nervus-suprascapularis
+  - nervi-supraclaviculares
+  - nervus-subclavius
+  question_uuid: 947cd550b21b7e059a5689dae4d6356
+- concepts:
+  - nervus-subclavius
+  exercise: question_bank
+  question:
+    de: Welcher Nerv entspringt aus dem fünften und sechsten Zervikalnerven, weist
+      häufig einen zarten Verbindungsast zum Zwerchfellnerv (Nervus phrenicus) auf
+      und verläuft ventral der Arteria subclavia und des unteren Stammes (Truncus
+      inferior) des Plexus brachialis?
+    en: Which nerve arises from the fifth and sixth cervical nerves and runs in front
+      of the subclavian artery (arteria subclavia) and the lower trunk of the brachial
+      plexus (truncus inferior plexus brachialis), usually being connected by a filament
+      with the phrenic nerve?
+  right_terms:
+  - nervus-subclavius
+  wrong_terms:
+  - nervi-supraclaviculares
+  - nervus-dorsalis-scapulae
+  - nervus-thoracicus-longus
+  - nervus-suprascapularis
+  question_uuid: 64e09ef3fe914c265e7d60670c6f33e
+- concepts:
+  - subscapular-nerve-2
+  - nervus-subscapularis
+  - nervus-subscapularis-2
+  exercise: question_bank
+  question:
+    de: Ein 30-jähriger Mann stellt sich zwei Monate nach einem Krankenhausaufenthalt
+      im Rahmen eines Verkehrsunfalls zu einer Kontrolluntersuchung vor. Sein Arm
+      steht in Außenrotationsstellung und der Patient weist ein Kraftdefizit im Belly-Press-Test
+      auf. Auch die Adduktion des Armes ist geschwächt. Welcher der folgenden Nerven
+      ist am ehesten geschädigt?
+    en: A 30-year-old man attends the physiotherapy clinic two months after being
+      hospitalized because of a road traffic accident. He is unable to medially rotate
+      and adduct his arm and shows a deficit in the belly-press test. Which of the
+      following nerves is most likely affected?
+  right_terms:
+  - subscapular-nerve-2
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-axillaris
+  - suprascapular-nerve
+  - long-thoracic-nerve
+  question_uuid: ebcc5bc372f6d562aabbad546e661f3
+- concepts:
+  - radial-nerve
+  - nervus-radialis
+  - nervus-radialis-2
+  - corpus-humeri
+  exercise: question_bank
+  question:
+    de: Ein 25-jähriger Mann stürzt von einem Baugerüst und erleidet eine Humerusschaftfraktur
+      im mittleren Drittel. Welcher der folgenden Nerven weist das größte Risiko für
+      eine Schädigung im Rahmen einer Humerusschaftfraktur auf?
+    en: A 25-year-old man injured his arm after falling from a scaffolding and fractured
+      his humeral shaft in the middle third. Which of the following nerves has the
+      highest risk of getting damaged in a humerus shaft fracture?
+  right_terms:
+  - radial-nerve
+  wrong_terms:
+  - nervus-medianus
+  - nervus-ulnaris
+  - nervus-axillaris
+  - nervus-musculocutaneus
+  question_uuid: 4dec00380eb9a1c3a95ff6a1cc01a3b
+- concepts:
+  - radial-nerve
+  - nervus-radialis
+  - nervus-radialis-2
+  exercise: question_bank
+  question:
+    de: Ein 28-jähriger Mann klagt darüber, seit dem Aufwachen die Finger seiner linken
+      Hand nicht mehr strecken zu können. Er fügt hinzu, dass er in der letzten Nacht
+      mit seinem Arm über eine Stuhllehne hängend in einer Bar eingeschlafen sei.
+      Für die Kompression welches Nerven ist dieses Szenario typisch, was auch 'Parkbanklähmung'
+      genannt wird?
+    en: A 28-year-old man complains of a sudden onset inability to straighten the
+      fingers of his left hand after waking up. He reveals that he had fallen asleep
+      in the bar the previous night with his arm hanging over the armrest of the chair.
+      For the compression of which nerve is this scenario typical, being also called
+      'Saturday night palsy'?
+  right_terms:
+  - radial-nerve
+  wrong_terms:
+  - nervus-medianus
+  - nervus-ulnaris
+  - nervus-axillaris
+  - nervus-musculocutaneus
+  question_uuid: c40542c5693b2f2eb554b24271d2930
+- concepts:
+  - radial-nerve
+  - nervus-radialis
+  - nervus-radialis-2
+  exercise: question_bank
+  question:
+    de: Ein 25-jähriger Mann hat sich das Bein gebrochen und ist vorerst auf eine
+      Gehhilfe angewiesen. Er verwendet Achselstützen ('amerikanische Krücken') und
+      klagt nach zwei Tagen darüber, sein Handgelenk und die Finger der rechten Hand
+      nicht mehr richtig strecken zu können. Welcher Nerv ist am wahrscheinlichsten
+      von einer Druckläsion betroffen?
+    en: A 25-year-old man broke his leg and has to use crutches. He chose to use axilla
+      crutches. After using his crutches for two days he complains about the inability
+      to extend his right wrist and fingers. Which nerve is most likely compressed?
+  right_terms:
+  - radial-nerve
+  wrong_terms:
+  - nervus-medianus
+  - nervus-ulnaris
+  - nervus-axillaris
+  - nervus-musculocutaneus
+  question_uuid: 1fa532d5674e10890ae9ad07e61b7c1
+- concepts:
+  - superior-trunk-of-brachial-plexus
+  - plexus-brachialis-3
+  exercise: question_bank
+  question:
+    de: Im Rahmen einer Zangengeburt weist das Neugeborene einen schlaff herabhängenden
+      Arm in Pronationsstellung auf, auch Erb-Lähmung genannt. Welche Struktur ist
+      am ehesten im Rahmen des Geburtstraumas geschädigt worden?
+    en: A newborn delivered through forceps delivery was referred to the neonatologist,
+      as her left arm was adducted and medially rotated, the forearm being extended
+      and pronated, which are signs for Erb's palsy. Which of the following structures
+      is most likely damaged due to the birth trauma?
+  right_terms:
+  - superior-trunk-of-brachial-plexus
+  wrong_terms:
+  - middle-trunk-of-brachial-plexus
+  - inferior-trunk-of-brachial-plexus
+  - retinaculum-flexorum
+  - cervical-plexus
+  question_uuid: 8edaa71acaf797eb5c7453166825b6b
+- concepts:
+  - long-thoracic-nerve
+  - long-thoracic-nerve-2
+  - nervus-thoracicus-longus
+  exercise: question_bank
+  question:
+    de: Ein 28-jähriger Mann stellt sich nach seinem Urlaub in Nepal in der orthopädischen
+      Ambulanz. Er habe eine dreiwöchige Bergwanderung im Himalaya unternommen und
+      jeden Tag seinen schweren Rucksack getragen. Nun weist er eine Medialstellung
+      des Schulterblattes (Scapula) auf, die besonders bei der Elevation des Armes
+      sowie beim Drücken gegen eine Wand mit nach vorn ausgestreckten Armen hervortritt.
+      Welche der folgenden Strukturen weist am ehesten eine Druckläsion auf?
+    en: A 28-year-old man attends the hospital after returning from his holidays in
+      Nepal. He went on a three week hiking trip in the Himalayas and carried his
+      heavy backpack during this time. Now he notices his shoulder bone (scapula)
+      medially protruding from his back, especially during elevation of the arm and
+      while pushing his extended arms against a wall. Which of the following structures
+      has most likely been compressed?
+  right_terms:
+  - long-thoracic-nerve
+  wrong_terms:
+  - suprascapular-nerve
+  - subscapular-nerve-2
+  - nervus-axillaris
+  - medial-pectoral-nerve
+  question_uuid: c9e2f760726e9637b0742106ee4ff60
+- concepts:
+  - nervus-ulnaris
+  - nervus-ulnaris-2
+  exercise: question_bank
+  question:
+    de: Ein 50-jähriger Mann wird mit Lepra (Morbus Hansen) diagnostiziert. Welcher
+      der folgenden Nerven der oberen Extremität ist am häufigsten von der charakteristischen
+      Nervenverdickung betroffen?
+    en: A 50-year-old man is diagnosed with leprosy or Hansen's disease. Which of
+      the following nerves in the upper limb is most frequently affected by the typical
+      nerve thickening in the course of this disease?
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - medial-pectoral-nerve
+  - lateral-cutaneous-nerve-of-the-forearm
+  - medial-cutaneous-nerve-of-the-forearm
+  - ramus-superficialis-des-nervus-radialis
+  question_uuid: 9bc5b3cb082d149fb22e9c50b5a671d
+- concepts:
+  - nervus-ulnaris
+  - nervus-ulnaris-2
+  - epicondylus-medialis-humeri
+  exercise: question_bank
+  question:
+    de: Ein 24-jähriger Mann ist in einen Unfall verwickelt und weist im Röntgenbild
+      eine Fraktur des rechten inneren Obergelenkknorren des Oberarms (Epicondylus
+      medialis humeri) auf. Er klagt nun über einen Gefühlsverlust in der Kleinfingerregion.
+      Welcher der folgenden Nerven ist am ehesten geschädigt?
+    en: A 24-year-old man was involved in an accident and the radiograph reveals a
+      fracture of the medial epicondyle of his right humerus (epicondylus medialis
+      humeri). He complains about the loss of sensation in the area of his little
+      finger. Which of the following nerves is injured?
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - radial-nerve
+  - nervus-medianus
+  - nervus-axillaris
+  - nervus-musculocutaneus
+  question_uuid: a70c0a80bd8d1176991247f585b7db9
+- concepts:
+  - radial-nerve
+  - nervus-radialis
+  - nervus-radialis-2
+  exercise: question_bank
+  question:
+    de: Ein 15-jähriger Junge fällt auf mehrere Porzellanscherben und erleidet tiefe
+      Schnittwunden an seinem Arm. Nun klagt er darüber, sein linkes Handgelenk nicht
+      mehr strecken zu können. Welcher der folgenden Nerven wurde am wahrscheinlichsten
+      verletzt?
+    en: A 15-year-boy fell on shards of broken china and sustained slash wounds in
+      his arm. He is now unable to extend his left wrist. Which of the following nerves
+      is most likely damaged?
+  right_terms:
+  - radial-nerve
+  wrong_terms:
+  - nervus-ulnaris
+  - nervus-medianus
+  - nervus-axillaris
+  - nervus-musculocutaneus
+  question_uuid: 4daf84bdfa702308e5c8714b311c7df
+- concepts:
+  - nervus-medianus
+  - nervus-medianus-2
+  exercise: question_bank
+  question:
+    de: Ein 55-jähriger Büroarbeiter ist in seinem Badezimmer ausgerutscht und auf
+      sein Handgelenk gefallen. Es sei eine Schwellung aufgetreten, die nach lokaler
+      Kälteapplikation rückläufig gewesen sei. Ein Jahr später klagt er über einen
+      abgeschwächten Händedruck und bei der körperlichen Untersuchung fällt eine Daumenballenatrophie
+      auf. Welcher Nerv ist am ehesten komprimiert und führt zu der bestehenden Symptomatik?
+    en: A 55-year-old office clerk slipped and fell on his bathroom floor, injuring
+      his wrist which resulted in swelling that subsided after local ice application.
+      One year later he suffers from weak grip and on physical examination atrophy
+      of the thenar is found. Which nerve is probably compressed, leading to this
+      condition?
+  right_terms:
+  - nervus-medianus
+  wrong_terms:
+  - radial-nerve
+  - ramus-superficialis-nervi-ulnaris
+  - ramus-superficialis-des-nervus-radialis
+  - deep-branch-of-the-ulnar-nerve
+  question_uuid: b481d8ed52e88c2fa8e1a3c0891b79a
+- concepts:
+  - nervus-medianus
+  - nervus-medianus-2
+  exercise: question_bank
+  question:
+    de: Beim Kiloh-Nevin-Syndrom, auch Nervus-interosseus-anterior-Syndrom genannt,
+      kann ein Patient mit seinem Daumen und Zeigefinger das 'Okay-Zeichen' nicht
+      formen. Dieses klinische Bild tritt im Rahmen einer Läsion des vorderen Zwischenknochennervs
+      (Nervus interosseus anterior) auf. Woher entspringt dieser Nerv?
+    en: Kiloh-Nevin syndrome or anterior interosseous syndrome is demonstrated by
+      failure to produce the 'okay' sign with the thumb and index finger. This condition
+      occurs due to lesion of the anterior interosseous nerve. Which nerve gives rise
+      to this nerve?
+  right_terms:
+  - nervus-medianus
+  wrong_terms:
+  - ulnar-nerve-2
+  - radial-nerve-2
+  - medial-cutaneous-nerve-of-the-forearm
+  - nervus-cutaneus-antebrachii-posterior
+  question_uuid: 13bab7318a0cb1a855e78dca4932bca
+- concepts:
+  - ulnar-nerve-2
+  - nervus-ulnaris
+  - nervus-ulnaris-2
+  exercise: question_bank
+  question:
+    de: Ein 12-jähriger Junge fragt seinen Arzt, warum sich sein ganzer Arm komisch
+      angefühlt habe, als er sich mit dem Ellenbogen gestoßen hat. Der Arzt erklärt
+      ihm, dass der Stoß einen Nerven getroffen hat, was auch als Musikantenknochen
+      bezeichnet wird. Welchen Nerv hat er sich gestoßen?
+    en: A 12-year-old boy asks the doctor about why he felt funny when his elbow got
+      hit accidentally. The doctor told him, that it was actually a nerve that got
+      hit and hence this nerve was also called the funny bone. Which nerve is it?
+  right_terms:
+  - ulnar-nerve-2
+  wrong_terms:
+  - nervus-medianus
+  - radial-nerve-2
+  - medial-cutaneous-nerve-of-the-forearm
+  - nervus-cutaneus-antebrachii-posterior
+  question_uuid: ef714341e70baa14b95641d9279178e
+- concepts:
+  - nervus-medianus
+  - nervus-medianus-2
+  - musculus-pronator-teres
+  exercise: question_bank
+  question:
+    de: Ein 30-jähriger Mann klagt darüber, seine Stifte beim Schreiben nicht mehr
+      fest greifen zu können. Außerdem berichtet er über Missempfindungen über der
+      Handfläche sowie den ersten drei Fingern. Er wird mit dem Pronator-teres-Syndrom
+      diagnostiziert. Welcher Nerv kann beim Durchtritt im Bereich des runden Einwärtsdrehers
+      (Musculus pronator teres) eingeklemmt werden?
+    en: A 30-year-old man complains of weak grip on a pen while writing and difficulty
+      in pinching movement with sensory changes over palm and first three fingers.
+      He is diagnosed with pronator teres syndrome. Which nerve can get entrapped
+      while passing through the region of the pronator teres muscle?
+  right_terms:
+  - nervus-medianus
+  wrong_terms:
+  - radial-nerve-2
+  - medial-cutaneous-nerve-of-the-forearm
+  - ulnar-nerve-2
+  - nervus-cutaneus-antebrachii-lateralis
+  question_uuid: 2a760533cb85e2eb0eea7313b564ce4
+- concepts:
+  - musculus-pronator-teres
+  - nervus-medianus
+  - nervus-medianus-2
+  exercise: question_bank
+  question:
+    de: Welcher Muskel ist der Leitmuskel des Mittelarmnerven (Nervus medianus)?
+    en: What muscle is the leading muscle of the median nerve (nervus medianus)?
+  right_terms:
+  - musculus-pronator-teres
+  wrong_terms:
+  - musculus-flexor-carpi-ulnaris
+  - musculus-brachioradialis
+  - musculus-extensor-digitorum
+  - musculus-abductor-pollicis-longus
+  question_uuid: 3fb8a111ffdb33931449cdeb6c82cf9
+- concepts:
+  - musculi-interossei-palmares
+  - musculi-interossei-dorsales-hand
+  - nervus-ulnaris
+  - nervus-ulnaris-2
+  exercise: question_bank
+  question:
+    de: Welche Mittelhandmuskeln werden vom Ellennerv (Nervus ulnaris) innerviert?
+    en: What metacarpal muscles are innervated by the ulnar nerve (nervus ulnaris)?
+  right_terms:
+  - musculi-interossei-palmares
+  - musculi-interossei-dorsales-hand
+  wrong_terms:
+  - musculus-lumbricalis-i
+  - musculus-abductor-pollicis-brevis
+  - musculus-lumbricalis-ii
+  question_uuid: 14a2d949cde8d38eb5ae1667bab2f8a
+- concepts:
+  - median-nerve
+  - nervus-medianus
+  - nervus-medianus-2
+  - musculi-lumbricales-hand
+  exercise: question_bank
+  question:
+    de: Welcher Nerv innerviert den 1. und 2. wurmförmigen Handmuskel (Musculus lumbricalis
+      I, Musculus lumbricalis II)?
+    en: What nerve innervates the first and second lumbrical muscles (musculus lumbricalis
+      I, musculus lumbricalis II)?
+  right_terms:
+  - median-nerve
+  wrong_terms:
+  - radial-nerve-2
+  - ulnar-nerve-2
+  - nervus-musculocutaneus
+  - nervus-axillaris
+  question_uuid: ec11cb5ccf411e4a88e0e757712a342
+- concepts:
+  - ulnar-nerve-2
+  - nervus-ulnaris
+  - nervus-ulnaris-2
+  - musculi-lumbricales-hand
+  exercise: question_bank
+  question:
+    de: Welcher Nerv innerviert den 3. und 4. wurmförmigen Handmuskel (Musculus lumbricalis
+      III, Musculus lumbricalis IV)?
+    en: What nerve innervates the third and fourth lumbrical muscles (musculus lumbricalis
+      III, musculus lumbricalis IV)?
+  right_terms:
+  - ulnar-nerve-2
+  wrong_terms:
+  - median-nerve
+  - radial-nerve-2
+  - nervus-musculocutaneus
+  - nervus-axillaris
+  question_uuid: 672c0beeedd696f46478a91d802cac5
+- terms:
+  - musculus-levator-scapulae
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-dorsalis-scapulae
+  - nervi-spinales-ciii-civ
+  - nervus-spinalis-c5
+  wrong_terms:
+  - nervus-thoracodorsalis
+  - nervus-suprascapularis
+  - nervus-subscapularis
+- terms:
+  - musculus-rhomboideus-minor
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-dorsalis-scapulae
+  wrong_terms:
+  - nervi-supraclaviculares
+  - nervus-thoracodorsalis
+  - nervus-suprascapularis
+  - nervus-subscapularis
+  - nervus-musculocutaneus
+- terms:
+  - musculus-rhomboideus-major
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-dorsalis-scapulae
+  wrong_terms:
+  - nervus-medianus
+  - nervus-musculocutaneus
+  - nervus-radialis
+  - nervus-subscapularis
+  - nervus-suprascapularis
+- concepts:
+  - nervus-axillaris
+  - musculus-deltoideus
+  - nervus-axillaris-2
+  exercise: question_bank
+  question:
+    de: Ein 25-jähriger Patient leidet an einer Lähmung des Musculus deltoideus (Deltamuskel).
+      Welcher Nerv ist höchstwahrscheinlich beschädigt?
+    en: A 25 year old patient is unable to move his shoulder properly. The physical
+      examination suggests a paralysis of the deltoid muscle. What nerve may be injured?
+  right_terms:
+  - nervus-axillaris
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-radialis
+  - nervus-ulnaris
+  - nervus-thoracodorsalis
+  question_uuid: c1352fb6f26f62ee218f88bef574f35
+- concepts:
+  - nervus-musculocutaneus
+  - nervus-musculocutaneus-2
+  exercise: question_bank
+  question:
+    de: Welcher Nerv entspringt aus dem Fasciculus lateralis des Plexus brachialis?
+    en: From these nerves, which one is a branch of the lateral cord of the brachial
+      plexus?
+  right_terms:
+  - nervus-musculocutaneus
+  wrong_terms:
+  - nervus-radialis
+  - nervus-ulnaris
+  - nervus-axillaris
+  - nervus-pectoralis-medialis
+  question_uuid: 67bf46ac1bccdbe8a407203a9d49fdb
+- concepts:
+  - innervation_of-musculus-coracobrachialis
+  - innervation_of-musculus-brachialis
+  - innervation_of-musculus-biceps-brachii
+  - musculus-coracobrachialis
+  - musculus-brachialis
+  - musculus-biceps-brachii
+  - nervus-musculocutaneus
+  - nervus-musculocutaneus-2
+  - plexus-brachialis
+  - plexus-brachialis-3
+  exercise: question_bank
+  question:
+    de: Welche Muskeln werden durch den Nervus musculocutaneus (Muskel-Haut-Nerv)
+      aktiviert?
+    en: What muscles are innervated by the musculocutaneous nerve (nervus musculocutaneus)?
+  right_terms:
+  - musculus-coracobrachialis
+  - musculus-brachialis
+  - musculus-biceps-brachii
+  wrong_terms:
+  - musculus-deltoideus
+  - musculus-triceps-brachii
+  question_uuid: 1be639f56e3878dab56721c7edd02f2
+- concepts:
+  - nervus-suprascapularis
+  - nervus-suprascapularis-2
+  - suprascapular-notch
+  exercise: question_bank
+  question:
+    de: Die Incisura scapulae befindet sich an der Margo superior scapulae (Oberrand
+      des Schulterblatts). Welche Struktur tritt durch sie hindurch?
+    en: The suprascapular notch (incisura scapulae) is located at the superior lateral
+      border of the scapula. What structure(s) pass(es) through this notch?
+  right_terms:
+  - nervus-suprascapularis
+  wrong_terms:
+  - nervus-ulnaris
+  - nervus-radialis
+  - nervus-pectoralis-medialis
+  - nervus-pectoralis-lateralis
+  question_uuid: b0c2afc00ac14f7e98b5f5663f2ab33
+- concepts:
+  - nervus-musculocutaneus
+  - nervus-musculocutaneus-2
+  - plexus-brachialis
+  - plexus-brachialis-3
+  exercise: question_bank
+  question:
+    de: Ein 30-jähriger Mann, der regelmäßig ins Fitnessstudio geht, stellt sich mit
+      Sensibilitätsstörungen auf der radialen Seite des Unterarms. Die Beugung des
+      Ellenbogens ist ebenfalls geschwächt, sodass eine Überlastung des M. coracobrachialis
+      vermutet wird. Welcher Nerv könnte dadurch komprimiert werden?
+    en: 30 year old male patient who works out regularly presents with skin sensation
+      disturbances on the radial part of the forearm, and a weakened flexion in the
+      elbow. Overuse of the coracobrachialis could be the cause. What nerve might
+      be entrapped?
+  right_terms:
+  - nervus-musculocutaneus
+  wrong_terms:
+  - nervus-ulnaris
+  - nervus-radialis
+  - nervus-pectoralis-medialis
+  - nervus-suprascapularis
+  question_uuid: d76db917e1ebecedf05919d1348a82e
+- concepts:
+  - plexus-brachialis
+  - plexus-brachialis-3
+  - arteria-axillaris
+  exercise: question_bank
+  question:
+    de: Beim Durchtritt der Axilla grenzt die Arteria axillaris lateral, dorsal und
+      medial an welches Nervengeflecht?
+    en: The axillary artery (arteria axillaris) courses through the axilla while being
+      bordered by the lateral, posterior, medial cords of what plexus?
+  right_terms:
+  - plexus-brachialis
+  wrong_terms:
+  - plexus-cervicalis
+  - plexus-sacralis
+  - plexus-lumbalis
+  - myenteric-plexus-5
+  question_uuid: 82532e81c775fd529b0b7138c6dffc3
+- concepts:
+  - nervus-thoracicus-longus
+  - long-thoracic-nerve
+  - long-thoracic-nerve-2
+  exercise: question_bank
+  question:
+    de: Ein Mann wurde bei einem Kampf an der seitlichen Brust unter dem linken Arm
+      verletzt. Bei der Erstuntersuchung fällt ein dorsales Abstehen der linken Scapula
+      (Schulterblatt) mit Verschiebung zur Körpermitte auf. Im Verlauf klagt er über
+      eine geschwächte Elevation, bspw. fällt ihm die Öffnung einer Tür schwer. Welcher
+      Nerv wurde beim Kampf vermutlich beschädigt?
+    en: A man was stabbed during a fight in the lateral chest, under the left arm.
+      Upon the first physical examination, the doctor notices that the medial border
+      of the man's scapula is projecting posteriorly and, on the injured side, is
+      found closer to the midline. During the following visit, the man complains that
+      he is not able to reach as forward as he was able to before he was stabbed.
+      Being left handed, tasks such as opening a door became a challenge. What nerve
+      was most likely injured?
+  right_terms:
+  - long-thoracic-nerve
+  wrong_terms:
+  - nervus-ulnaris
+  - median-nerve
+  - nervus-radialis
+  - musculocutaneous-nerve
+  question_uuid: bd283bf772853c08b1efae61e34cb1a
+- concepts:
+  - brachial-plexus
+  - plexus-brachialis
+  - plexus-brachialis-3
+  exercise: question_bank
+  question:
+    de: Eine Frau wurde bei einem Unfall an der vorderen Achselregion verletzt. Seitdem
+      klagt sie über eine deutliche Einschränkung der Beugung im Ellenbogen und in
+      der Schulter. Darüber hinaus spürt sie Berührungen am ventralen und lateralen
+      Unterarm nicht mehr. Welches Nervengeflecht könnte bei dem Unfall verletzt worden
+      sein?
+    en: A woman suffers a deep wound through the anterior axillary fold.  Ever since,
+      she complains about a significant weakening of the ability to flex the elbow
+      and shoulder. In addition, she lost the cutaneous sensation on the anterior
+      and lateral surfaces of the forearm. What network of nerves may have had its
+      terminal branches damaged by this wound?
+  right_terms:
+  - brachial-plexus
+  wrong_terms:
+  - ansa-cervicalis
+  - plexus-cervicalis
+  - cardiac-plexus
+  - lumbar-plexus
+  question_uuid: 3e17e081d2e99f119ec23604a8a2ddf
+- concepts:
+  - nervus-suprascapularis
+  - nervus-suprascapularis-2
+  exercise: question_bank
+  question:
+    de: In der Vorgeschichte fiel ein Mann von der Leiter und verletzte sich am Plexus
+      brachialis (Armgeflecht). Bei der Kontrolluntersuchung fällt auf, dass er keine
+      Schulterabduktion mehr initiieren kann, vielmehr muss ihm bis ca. 45° aktiv
+      geholfen werden. Das Zwerchfell kontrahiert uneingeschränkt und eine abstehende
+      Scapula (Schulterblatt) kann ebenfalls nicht beobachtet werden. Welcher Nerv
+      könnte bei dem Mann betroffen sein?
+    en: A man falls from a high ladder and is known to have sustained injury in the
+      right brachial plexus (plexus brachialis). When he recovered, he went back to
+      the doctor who noticed that there was no winging of the scapula, and abduction
+      could not be initiated by the patient unless help was given by abducting the
+      arm through the first 45 degrees. What nerve might be injured?
+  right_terms:
+  - nervus-suprascapularis
+  wrong_terms:
+  - nervus-axillaris
+  - median-nerve
+  - nervus-radialis
+  - musculocutaneous-nerve
+  question_uuid: 4f095867c9c496d2306321f7f96916e
+- concepts:
+  - nervus-thoracicus-longus
+  - long-thoracic-nerve
+  - long-thoracic-nerve-2
+  exercise: question_bank
+  question:
+    de: Bei einem Motorradunfall landet ein 19-jähriger Mann auf seine linke Rippenseite
+      bei gleichzeitig abduziertem Arm. Bei der Untersuchung fällt eine abstehende
+      Scapula (Schulterblatt) links auf. Welcher Nerv wurde wahrscheinlich verletzt?
+    en: A 19-year-old young man has a motorcycle accident in which he lands on the
+      left lateral side of his rib cage with his left upper limb abducted. Upon examination,
+      it is found that he has "winging" of the left scapula. What nerve was probably
+      damaged during the accident?
+  right_terms:
+  - nervus-thoracicus-longus
+  wrong_terms:
+  - nervus-accessorius-2
+  - nervus-pectoralis-lateralis
+  - nervus-radialis
+  - nervus-medianus
+  question_uuid: 4187da51b4f22175ef6741c1ba75d37
+- concepts:
+  - nervus-medianus
+  - median-nerve
+  - nervus-medianus-2
+  exercise: question_bank
+  question:
+    de: Ein Bauarbeiter erleidet bei einem Unfall einen tiefen Schnitt an der ventralen
+      Seite seines Handgelenks. Seitdem fühle sich die radiale Seite (Daumenseite)
+      taub an; die Handbewegungen selbst bleiben uneingeschränkt intakt. Die Äste
+      welches Nervs sind wahrscheinlich betroffen?
+    en: A construction worker has an accident where he lacerates the anterior surface
+      of his wrist. Examination shows that there is no loss of hand function. The
+      skin on the thumb side of his palm, however, is numb. What nerve's branches
+      might have been damaged?
+  right_terms:
+  - nervus-medianus
+  wrong_terms:
+  - nervus-ulnaris
+  - nervus-axillaris
+  - nervus-suprascapularis
+  - nervus-cutaneus-antebrachii-lateralis
+  question_uuid: dd666e288e7ae71f2a8a86abbedef29
+- concepts:
+  - median-nerve
+  - nervus-medianus-2
+  - nervi-digitales-proprii-nervi-medianus
+  exercise: question_bank
+  question:
+    de: Bei einer neurologischen Untersuchung stellt die Ärztin fest, dass ihr Patient
+      u.a. kein Gefühl mehr an der Fingerbeere des Zeigefingers hat. Welcher Nerv
+      könnte geschädigt sein?
+    en: A physician performs a neurological test on a patient. The test reveals no
+      cutaneous sensation on the tip of the index finger. What nerve might have a
+      portion injured?
+  right_terms:
+  - median-nerve
+  wrong_terms:
+  - ulnar-nerve
+  - radial-nerve
+  - nervus-axillaris
+  - nervus-musculocutaneus
+  question_uuid: eeed3e3fdbce8bed4be94e5aa22ca5c
+- concepts:
+  - nervus-suprascapularis
+  - nervus-suprascapularis-2
+  exercise: question_bank
+  question:
+    de: Ein Patient mit Erb-Lähmung weist einen dysfunktionalen Nerven auf, der aus
+      dem Truncus superior des Plexus brachialis (Armgeflecht) entspringt. Welcher
+      könnte dies sein?
+    en: A patient with Erb-Duchenne palsy has a dysfunctional nerve which arises from
+      the superior trunk of the brachial plexus (plexus brachialis). What nerve is
+      that?
+  right_terms:
+  - nervus-suprascapularis
+  wrong_terms:
+  - ulnar-nerve
+  - radial-nerve
+  - nervus-axillaris
+  - nervus-musculocutaneus
+  question_uuid: 90b0241ee9ca48382ef66ab3e7ff6f2
+- concepts:
+  - fasciculus-posterior
+  - fasciculus-posterior-2
+  exercise: question_bank
+  question:
+    de: Aus welchem Stamm oder Ast zweigt sich der Nervus axillaris (Achselnerv) vom
+      Plexus brachialis (Armgeflecht) ab?
+    en: What part of the brachial plexus (plexus brachialis) does the axillary nerve
+      (nervus axillaris) arise from?
+  right_terms:
+  - fasciculus-posterior
+  wrong_terms:
+  - fasciculus-medialis
+  - fasciculus-lateralis
+  - truncus-superior-plexus-brachialis
+  - truncus-medius-plexus-brachialis
+  question_uuid: bda99606da52772d3e1c8c12cf90e76
+- concepts:
+  - nervus-suprascapularis
+  - nervus-suprascapularis-2
+  exercise: question_bank
+  question:
+    de: Ein Mann wird mit einer Schusswunde an der Schulter in die Notfallaufnahme
+      gebracht. Die Abduktion seines Arms zwischen 0 und 15 Grad sowie die Außenrotation
+      sind eingeschränkt. Welcher Nerv wurde wahrscheinlich verletzt?
+    en: A man is admitted to the ER with a gunshot wound to the shoulder. He is unable
+      to abduct the arm between 0 and 15 degrees, with reduced lateral rotation of
+      the humerus. What nerve was probably injured?
+  right_terms:
+  - nervus-suprascapularis
+  wrong_terms:
+  - nervus-axillaris
+  - nervus-medianus
+  - nervus-ulnaris
+  - nervus-radialis
+  question_uuid: de555ff6f080176596ef6f4571894d7
+- concepts:
+  - nervus-thoracicus-longus
+  - long-thoracic-nerve-2
+  - nodi-lymphoidei-axillares-apicales
+  exercise: question_bank
+  question:
+    de: Bei einer 52-jährigen Patientin wurde ein Mammakarzinom mit Metastasen in
+      den axillären Lymphknoten diagnostiziert. Nach einer modifizierten radikalen
+      Mastektomie steht ihre Scapula (Schulterblatt) flügelartig ab. Welcher Nerv
+      wurde am ehesten intraoperativ beschädigt?
+    en: 52 year-old female patient was diagnosed with breast cancer and metastases
+      in the axillary lymph nodes. She underwent surgery to remove the cancer and
+      the axillary lymph nodes. After recovery, she was found to have “winging” of
+      the scapula. Which nerve was likely damaged during the operation?
+  right_terms:
+  - nervus-thoracicus-longus
+  wrong_terms:
+  - nervus-pectoralis-lateralis
+  - nervus-suprascapularis
+  - nervus-axillaris
+  - median-nerve
+  question_uuid: aa9939c023b60981bd96bb846c54aba
+- concepts:
+  - truncus-inferior-plexus-brachialis
+  - subclavian-vein
+  - vena-subclavia
+  - arteria-subclavia
+  - subclavian-artery-2
+  exercise: question_bank
+  question:
+    de: Welche Strukturen werden beim Thoracic-outlet-Syndrom komprimiert?
+    en: Which of the following structures are compressed when the thoracic outlet
+      syndrome is developed?
+  right_terms:
+  - truncus-inferior-plexus-brachialis
+  - subclavian-vein
+  - subclavian-artery-2
+  wrong_terms:
+  - truncus-medius-plexus-brachialis
+  - nervus-thoracicus-longus
+  question_uuid: b68b75335f68e8444225fb76c7bc4e6
+- concepts:
+  - axillary-nerve
+  - nervus-axillaris
+  - nervus-axillaris-2
+  - nervus-cutaneus-antebrachii-lateralis
+  exercise: question_bank
+  question:
+    de: Welcher Nerv endet als Nervus cutaneus brachii lateralis superior (oberer
+      seitlicher Armhautnerv)?
+    en: What nerve terminates as the upper lateral cutaneous nerve of the arm (nervus
+      cutaneus brachii lateralis superior) that supplies the posterior skin of the
+      arm?
+  right_terms:
+  - axillary-nerve
+  wrong_terms:
+  - dorsal-scapular-nerve
+  - musculocutaneous-nerve
+  - long-thoracic-nerve
+  - nervus-subscapularis
+  question_uuid: cbf464adf80978c02c6b7a7fde229c2
+- concepts:
+  - latissimus-dorsi-muscle
+  - nervus-thoracodorsalis
+  - nervus-thoracodorsalis-2
+  - nodi-lymphoidei-axillares-pectorales
+  exercise: question_bank
+  question:
+    de: Vier Wochen nach einer axillären Lymphonodektomie bemerkt die Patientin, dass
+      ihr Muskelrelief am Rücken und die hintere Achselfalte kleiner geworden ist
+      im Vergleich zur nichtoperierten Seite. Sie hat keinerlei muskuläre Einschränkungen
+      und kann den Rücken und die Schulter frei bewegen. Welcher Nerv wurde am ehesten
+      während des Eingriffs verletzt?
+    en: Four weeks after an axillary lymph node dissection, the patient notices that
+      the muscular relief on her back and posterior axillary fold start to diminish
+      on the operated side. However, she has no muscular restrictions and can move
+      her back and shoulder as usual. Which nerve was most likely damaged during the
+      procedure?
+  right_terms:
+  - nervus-thoracodorsalis
+  wrong_terms:
+  - musculus-teres-major
+  - accessory-nerve-branch-to-trapezius-muscle
+  - long-thoracic-nerve
+  - lateral-pectoral-nerve
+  question_uuid: f332c39310f5848fc51b36a57e6798f
+- concepts:
+  - coracobrachialis-muscle
+  - musculus-coracobrachialis
+  - musculocutaneous-nerve
+  - nervus-musculocutaneus
+  - nervus-musculocutaneus-2
+  exercise: question_bank
+  question:
+    de: Welcher Muskel wird durch den Nervus musculocutaneus (Muskel-Haut-Nerv) durchbohrt?
+    en: Which muscle is pierced by the musculocutaneous nerve (Nervus musculocutaneus)?
+  right_terms:
+  - coracobrachialis-muscle
+  wrong_terms:
+  - brachialis-muscle
+  - biceps-brachii-muscle
+  - musculus-pectoralis-minor
+  - musculus-pectoralis-major
+  question_uuid: c66f2c3644018ee9f186c6d7426cba5
+- concepts:
+  - musculocutaneous-nerve
+  - nervus-musculocutaneus
+  - nervus-musculocutaneus-2
+  exercise: question_bank
+  question:
+    de: Die Läsion welches Nervs führt zu einer Schwächung der Beugung der Schulter
+      und des Ellenbogens sowie Sensibilitätsstörungen auf der radialen Seite des
+      Unterarms?
+    en: What nerve's lesion is characterised by a weakened flexion of the shoulder
+      and elbow, and skin sensation loss on the radial half of the forearm?
+  right_terms:
+  - musculocutaneous-nerve
+  wrong_terms:
+  - nervus-radialis
+  - nervus-ulnaris
+  - median-nerve
+  - axillary-nerve
+  question_uuid: 25f3ce5312228b4c489e852c4e67a8f
+- concepts:
+  - plexus-brachialis
+  - plexus-brachialis-3
+  - plexus-cervicalis
+  - nervus-accessorius
+  - posterior-triangle
+  exercise: question_bank
+  question:
+    de: Welche Nerven findet man im hinteren Halsdreieck (Trigonum cervicale posterius)?
+    en: Which nervous structures can be found within posterior cervical triangle (Trigonum
+      cervicale posterius)?
+  right_terms:
+  - plexus-brachialis
+  - plexus-cervicalis
+  - nervus-accessorius
+  wrong_terms:
+  - nervus-vagus
+  - ansa-cervicalis
+  question_uuid: f50babaf459d8955a1c4a0694a32094
+- terms:
+  - musculus-subclavius
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-subclavius
+  wrong_terms:
+  - nervus-pectoralis-medialis
+  - nervus-radialis
+  - nervus-axillaris
+  - nervus-pectoralis-lateralis
+- concepts:
+  - nervus-axillaris
+  - collum-chirurgicum
+  exercise: question_bank
+  question:
+    de: Eine 75-jährige Frau mit bekannter Osteoporose stürzte in ihrer Wohnung auf
+      den Arm. Ein angefertigtes Röntgenbild zeigt eine Fraktur am Collum chirurgicum
+      des Oberarmknochens (Humerus). Zwei Monate später hat sie immer noch Schwierigkeiten
+      dabei, ihre Schulter zu abduzieren. Welcher der folgenden Nerven wurde am wahrscheinlichsten
+      von der Fraktur geschädigt?
+    en: A 75-year-old woman with osteoporosis fell on her arm while walking down the
+      stairs in her house. In the hospital, an X-ray reveals a fracture of the surgical
+      neck of the humerus (collum chirurgicum humeri). Two months later, she still
+      has difficulties abducting her shoulder. Which nerve was most likely injured
+      by the fracture?
+  right_terms:
+  - nervus-axillaris
+  wrong_terms:
+  - nervus-radialis
+  - nervus-medianus
+  - nervus-ulnaris
+  - dorsal-scapular-nerve
+  question_uuid: b309979fb4483930e4d51cf965d5607
+- concepts:
+  - axillary-nerve
+  - collum-chirurgicum
+  exercise: question_bank
+  question:
+    de: Welcher Nerv verläuft in enger Nachbarschaft zum Collum chirurgicum humeri
+      (chirurgischer Hals des Oberarmknochens) und kann daher bei Frakturen in diesem
+      Gebiet leicht verletzt werden?
+    en: Which nerve runs in close proximity to the surgical neck of the humerus (collum
+      chirurgicum humeri) and can therefore be easily injured due to fractures in
+      this area?
+  right_terms:
+  - axillary-nerve
+  wrong_terms:
+  - nervus-radialis
+  - median-nerve
+  - ulnar-nerve
+  - musculocutaneous-nerve
+  question_uuid: 46f90f48c656cb656f83eb66c8262e5

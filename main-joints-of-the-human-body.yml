@@ -1,0 +1,1187 @@
+---
+- terms:
+  - articulationes-carpometacarpeae
+  - articulationes-metacarpophalangeae
+  exercise: easy
+- terms:
+  - wrist
+  - elbow
+  exercise: easy
+- terms:
+  - articulatio-humeri
+  - articulatio-acromioclavicularis-2
+  exercise: easy
+- terms:
+  - articulatio-sternoclavicularis
+  - articulatio-temporomandibularis
+  exercise: easy
+- terms:
+  - articulationes-metacarpophalangeae
+  - articulatio-acromioclavicularis-2
+  - articulatio-temporomandibularis
+  - articulationes-carpometacarpeae
+  exercise: four_one
+- terms:
+  - articulatio-sternoclavicularis
+  - articulatio-humeri
+  - wrist
+  - elbow
+  exercise: four_one
+- terms:
+  - articulatio-temporomandibularis
+  - articulatio-humeri
+  - articulationes-metacarpophalangeae
+  - elbow
+  exercise: identify_image
+- terms:
+  - articulatio-acromioclavicularis-2
+  - wrist
+  - articulationes-carpometacarpeae
+  - articulatio-sternoclavicularis
+  exercise: identify_image
+- terms:
+  - articulatio-zygapophysialis
+  - articulatio-sacroiliaca
+  exercise: easy
+- terms:
+  - hip-joint
+  - knee
+  exercise: easy
+- terms:
+  - ankle
+  - articulatio-subtalaris
+  exercise: easy
+- terms:
+  - articulationes-interphalangeae-pedis
+  - articulationes-metacarpophalangeae
+  exercise: easy
+- terms:
+  - articulationes-interphalangeae-pedis
+  - articulationes-metacarpophalangeae
+  - articulatio-zygapophysialis
+  - articulatio-sacroiliaca
+  exercise: four_one
+- terms:
+  - articulatio-subtalaris
+  - hip-joint
+  - ankle
+  - knee
+  exercise: four_one
+- terms:
+  - hip-joint
+  - knee
+  - articulatio-zygapophysialis
+  - articulationes-interphalangeae-pedis
+  exercise: identify_image
+- terms:
+  - articulatio-sacroiliaca
+  - articulatio-subtalaris
+  - articulationes-metacarpophalangeae
+  - ankle
+  exercise: identify_image
+- terms:
+  - articulationes-carpometacarpeae
+  exercise: spell_term
+- terms:
+  - articulationes-metacarpophalangeae
+  exercise: spell_term
+- terms:
+  - wrist
+  exercise: spell_term
+- terms:
+  - elbow
+  exercise: spell_term
+- terms:
+  - articulatio-humeri
+  exercise: spell_term
+- terms:
+  - articulatio-acromioclavicularis-2
+  exercise: spell_term
+- terms:
+  - articulatio-sternoclavicularis
+  exercise: spell_term
+- terms:
+  - articulatio-temporomandibularis
+  exercise: spell_term
+- terms:
+  - articulatio-zygapophysialis
+  exercise: spell_term
+- terms:
+  - articulatio-sacroiliaca
+  exercise: spell_term
+- terms:
+  - hip-joint
+  exercise: spell_term
+- terms:
+  - knee
+  exercise: spell_term
+- terms:
+  - ankle
+  exercise: spell_term
+- terms:
+  - articulatio-subtalaris
+  exercise: spell_term
+- terms:
+  - articulationes-interphalangeae-pedis
+  exercise: spell_term
+- concepts:
+  - articulatio-humeri
+  exercise: question_bank
+  question:
+    de: Welches Gelenk disloziert am ehesten als Resultat eines Gelenktraumas?
+    en: Which joint is most likely to luxate as a result of joint trauma?
+  right_terms:
+  - articulatio-humeri
+  wrong_terms:
+  - knee
+  - elbow
+  - wrist
+  question_uuid: f30d97e08768ffb7845ee3f9d1c94fb
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-iliacus
+  - musculus-psoas-major
+  wrong_terms:
+  - musculus-gemellus-inferior
+  - musculus-gemellus-superior
+  - musculus-gluteus-maximus
+  - musculus-obturatorius-internus
+- terms:
+  - hip-joint
+  exercise: multiple_choice_text
+  relation: externally_rotates_the
+  right_terms:
+  - musculus-iliacus
+  - musculus-psoas-major
+  wrong_terms:
+  - musculus-quadratus-lumborum
+  - musculus-tensor-fasciae-latae
+  - musculus-biceps-femoris
+  - musculus-rectus-femoris
+- concepts:
+  - hinge-joint
+  - elbow
+  exercise: question_bank
+  question:
+    de: Zu welchem Gelenktyp wird das Humeroulnargelenk (Articulatio humeroulnaris),
+      ein Teilgelenk des Ellenbogengelenkes, gezählt?
+    en: Which type of joint does the humeroulnar joint (articulatio humeroulnaris),
+      one part of the elbow joint, belong to?
+  right_terms:
+  - hinge-joint
+  wrong_terms:
+  - ball-and-socket-joint
+  - ellipsoid-joint
+  - pivot-joint
+  - saddle-joint
+  question_uuid: 15f19cc3cb3ba859cea8945a9144061
+- concepts:
+  - knee
+  exercise: question_bank
+  question:
+    de: Ein 26-jähriger Mann erleidet einen Motorradunfall und wird in die Notaufnahme
+      gebracht. Er leidet unter starken Schmerzen, einer Schwellung und kann das Knie
+      nicht strecken. Bei der Inspektion wirkt das Knie sichtbar deformiert. Der Arzt
+      vermutet eine Luxation des Knies, bei der die Knochen, die das Kniegelenk (Articulatio
+      genus) bilden , den Kontakt zueinander verlieren. Welche Knochen befinden sich
+      im Kniegelenk?
+    en: A 26-year-old man suffers a motorcycle accident and is rushed into the emergency
+      room. He presents with severe pain, swelling and the inability to straighten
+      the knee. Upon inspection, the knee is visibly deformed. The doctor suspects
+      a dislocation of the knee, in which the bones that form the knee joint (articulatio
+      genus) lose contact with each other. Which bones are contained in the the knee
+      joint?
+  right_terms:
+  - os-femoris
+  - tibia
+  - patella
+  wrong_terms:
+  - fibula
+  - crista-intertrochanterica
+  question_uuid: a6d6b1670528cc352448a95cbacc436
+- concepts:
+  - talus-2
+  - tibia-3
+  - ankle
+  exercise: question_bank
+  question:
+    de: Das Schienbein (Tibia) bildet proximal ein Gelenk mit der unteren Fläche des
+      Oberschenkelknochen (Femur). Mit welchem Knochen artikuliert es distal?
+    en: The tibia articulates superiorly with the inferior articulating surface of
+      the femur. With which bone does it articulate inferiorly?
+  right_terms:
+  - talus-2
+  wrong_terms:
+  - calcaneus
+  - os-cuboideum
+  - os-cuneiforme-laterale
+  - os-naviculare
+  question_uuid: 2b17f73cc9494d2847b48deab45aa3f
+- concepts:
+  - extends_the-knee
+  - extension-of-knee
+  exercise: question_bank
+  question:
+    de: Welcher Muskel ist der einzige Strecker des Kniegelenks?
+    en: Which muscle is the only extensor of the knee joint?
+  right_terms:
+  - musculus-quadriceps-femoris
+  wrong_terms:
+  - musculus-biceps-femoris
+  - musculus-gracilis
+  - musculus-sartorius
+  - musculus-semitendinosus
+  - musculus-semimembranosus
+  question_uuid: 73e586b4eaefdfe573ba296a4e31fe4
+- concepts:
+  - flexes_the-ankle
+  - plantar-flexion-of-foot
+  exercise: question_bank
+  question:
+    de: Die Plantarflexion im oberen Sprunggelenk (Articulatio talocruralis), die
+      das Anheben der Ferse gegen die Schwerkraft beim Gehen oder Springen ermöglicht,
+      ist die wichtigste Funktion welcher Muskeln?
+    en: The plantar flexion in the upper ankle joint (Articulatio talocruralis), enabling
+      the lifting of the heel against gravity when walking or jumping, is the most
+      important function of which muscles?
+  right_terms:
+  - musculus-soleus
+  - musculus-gastrocnemius
+  wrong_terms:
+  - musculus-flexor-hallucis-longus
+  - musculus-flexor-digitorum-longus
+  - musculus-extensor-hallucis-longus
+  - musculus-extensor-digitorum-longus
+  question_uuid: 5fbca183ce9b8ce114592ef52a13177
+- concepts:
+  - hinge-joint
+  - pivot-joint
+  - knee
+  exercise: question_bank
+  question:
+    de: Das Kniekehlgelenk (Articulatio tibiofemorale) besteht genau genommen aus
+      zwei verschiedenen, zusammengesetzten Gelenktypen. Welche beiden Gelenktypen
+      sind dies?
+    en: The tibiofemoral joint (articulatio tibiofemorale) consists of two combined
+      types of synovial joints. Which are these?
+  right_terms:
+  - hinge-joint
+  - pivot-joint
+  wrong_terms:
+  - ball-and-socket-joint
+  - saddle-joint
+  - ellipsoid-joint
+  question_uuid: 28046f63fbc40f2d2ad1bdce3bbc25b
+- terms:
+  - elbow
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-biceps-brachii
+  - musculus-brachialis
+  wrong_terms:
+  - musculus-anconeus
+  - musculus-triceps-brachii
+  - musculus-deltoideus
+  - musculus-extensor-indicis
+- terms:
+  - articulatio-humeri
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-biceps-brachii
+  wrong_terms:
+  - musculus-anconeus
+  - musculus-triceps-brachii
+  - musculus-brachialis
+  - musculus-extensor-digiti-minimi
+  - musculus-extensor-pollicis-brevis
+- terms:
+  - elbow
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-triceps-brachii
+  - musculus-anconeus
+  wrong_terms:
+  - musculus-biceps-brachii
+  - musculus-brachialis
+  - musculus-flexor-pollicis-longus
+  - musculus-supraspinatus
+- terms:
+  - knee
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-rectus-femoris
+  - musculus-vastus-intermedius
+  - musculus-vastus-lateralis
+  - musculus-vastus-medialis
+  wrong_terms:
+  - musculus-sartorius
+  - musculus-gluteus-medius
+- terms:
+  - knee
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-sartorius
+  wrong_terms:
+  - musculus-gluteus-maximus
+  - musculus-obturatorius-internus
+  - musculus-piriformis
+  - musculus-rectus-femoris
+  - musculus-adductor-magnus
+- terms:
+  - knee
+  exercise: multiple_choice_image
+  relation: internally_rotates_the
+  right_terms:
+  - musculus-sartorius
+  wrong_terms:
+  - musculus-rectus-femoris
+  - musculus-vastus-intermedius
+  - musculus-vastus-lateralis
+  - musculus-vastus-intermedius
+  - musculus-psoas-major
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-sartorius
+  - musculus-rectus-femoris
+  wrong_terms:
+  - musculus-obturatorius-externus
+  - musculus-vastus-lateralis
+  - musculus-semitendinosus
+  - musculus-gastrocnemius
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: externally_rotates_the
+  right_terms:
+  - musculus-sartorius
+  wrong_terms:
+  - musculus-tensor-fasciae-latae
+  - musculus-vastus-lateralis
+  - musculus-gracilis
+  - musculus-biceps-femoris
+  - musculus-rectus-femoris
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: abducts_the
+  right_terms:
+  - musculus-sartorius
+  wrong_terms:
+  - musculus-rectus-femoris
+  - musculus-iliacus
+  - musculus-adductor-longus
+  - musculus-semitendinosus
+  - musculus-psoas-major
+- concepts:
+  - shoulder-joint
+  - caput-humeri
+  - cavitas-glenoidalis
+  - articulatio-humeri
+  - humerus
+  - scapula
+  - glenoid-cavity-6
+  exercise: question_bank
+  question:
+    de: Welche knöchernen Strukturen bilden das Schultergelenk?
+    en: Which structures articulate to form the ball-and-socket shoulder joint?
+  right_terms:
+  - head-of-the-humerus
+  - glenoid-cavity
+  wrong_terms:
+  - coracoid-process
+  - acromion-2
+  - epicondylus-medialis-humeri
+  question_uuid: ed3f29e0805795f41440cb492417dce
+- concepts:
+  - subtendinous-bursa-of-subscapularis
+  - subdeltoid-bursa-subacromial-bursa
+  - bursae
+  - articulatio-humeri
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Strukturen reduzieren Druck- und Reibungskräfte in der
+      Schulter?
+    en: Which of the following structures decrease friction and facilitate movements
+      of the shoulder joint (articulatio glenohumeralis)?
+  right_terms:
+  - subtendinous-bursa-of-subscapularis
+  - subdeltoid-bursa-subacromial-bursa
+  wrong_terms:
+  - bursa-anserina
+  - bursa-subtendinea-musculi-biceps-femoris
+  - suprapatellar-bursa
+  question_uuid: 7f38e65e0a11d4d625deb24f6d0c1fd
+- concepts:
+  - ellipsoid-joint
+  - radiocarpal-joint
+  - wrist
+  exercise: question_bank
+  question:
+    de: Das Radiokarpalgelenk (Articulatio radiocarpalis) ist ein Beispiel für welche
+      Gelenkart?
+    en: The radiocarpal joint (articulatio radiocarpalis) is an example of what type
+      of joint?
+  right_terms:
+  - ellipsoid-joint
+  wrong_terms:
+  - saddle-joint
+  - hinge-joint
+  - ball-and-socket-joint
+  - gliding-joint
+  question_uuid: 1a7cc09c1ef4aa25520d2373517da4f
+- concepts:
+  - shoulder-joint
+  - ball-and-socket-joint
+  - glenoid-cavity-6
+  - articulatio-humeri
+  exercise: question_bank
+  question:
+    de: Das Schultergelenk (Articulatio glenohumeralis) ist ein Beispiel für welche
+      Gelenkart?
+    en: The shoulder joint (articulatio glenohumeralis) is an example of what type
+      of joint?
+  right_terms:
+  - ball-and-socket-joint
+  wrong_terms:
+  - ellipsoid-joint
+  - saddle-joint
+  - hinge-joint
+  - pivot-joint
+  question_uuid: 7b2ba260214a64e9541dc623d6470c3
+- concepts:
+  - elbow-2
+  - hinge-joint
+  - elbow
+  - ulna-10
+  - ulna-8
+  exercise: question_bank
+  question:
+    de: Das Ellenbogengelenk (Articulatio cubiti) ist ein Beispiel für welche Gelenkart?
+    en: The elbow joint (articulatio cubiti) is an example of what type of joint?
+  right_terms:
+  - hinge-joint
+  wrong_terms:
+  - pivot-joint
+  - ellipsoid-joint
+  - ball-and-socket-joint
+  - saddle-joint
+  question_uuid: e00e80af364b1d5b12b3e53a63a4c25
+- terms:
+  - knee
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-biceps-femoris
+  - musculus-semimembranosus
+  - musculus-semitendinosus
+  wrong_terms:
+  - musculus-rectus-femoris
+  - musculus-vastus-intermedius
+  - musculus-pectineus
+- terms:
+  - knee
+  exercise: multiple_choice_image
+  relation: externally_rotates_the
+  right_terms:
+  - musculus-biceps-femoris
+  wrong_terms:
+  - musculus-semimembranosus
+  - musculus-semitendinosus
+  - musculus-gracilis
+  - musculus-sartorius
+  - musculus-popliteus
+- terms:
+  - knee
+  exercise: multiple_choice_image
+  relation: internally_rotates_the
+  right_terms:
+  - musculus-semimembranosus
+  - musculus-semitendinosus
+  wrong_terms:
+  - musculus-biceps-femoris
+  - musculus-psoas-major
+  - musculus-adductor-minimus
+  - musculus-rectus-femoris
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-biceps-femoris
+  - musculus-semimembranosus
+  - musculus-semitendinosus
+  wrong_terms:
+  - musculus-rectus-femoris
+  - musculus-vastus-lateralis
+  - musculus-gracilis
+- terms:
+  - articulatio-subtalaris
+  exercise: multiple_choice_image
+  relation: everts_the
+  right_terms:
+  - musculus-peroneus-brevis
+  - musculus-peroneus-longus
+  wrong_terms:
+  - musculus-extensor-digitorum-longus
+  - musculus-extensor-hallucis-longus
+  - musculus-tibialis-anterior
+  - musculus-flexor-hallucis-longus
+- terms:
+  - articulatio-subtalaris
+  exercise: multiple_choice_image
+  relation: inverts_the
+  right_terms:
+  - musculus-tibialis-anterior
+  wrong_terms:
+  - musculus-extensor-hallucis-longus
+  - m-extensor-hallucis-brevis
+  - musculus-semimembranosus
+  - musculus-extensor-digitorum-longus
+  - musculus-peroneus-brevis
+- terms:
+  - elbow
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-brachioradialis
+  - musculus-pronator-teres
+  - musculus-extensor-carpi-radialis-longus
+  - musculus-extensor-carpi-radialis-brevis
+  wrong_terms:
+  - musculus-infraspinatus
+  - musculus-coracobrachialis
+- terms:
+  - elbow
+  exercise: multiple_choice_image
+  relation: weakly_flexes_the
+  right_terms:
+  - musculus-extensor-carpi-radialis-brevis
+  - musculus-extensor-carpi-radialis-longus
+  - musculus-brachioradialis
+  wrong_terms:
+  - musculus-latissimus-dorsi
+  - musculus-flexor-digiti-minimi
+  - musculus-pectoralis-major
+- concepts:
+  - glenoid-labrum-of-scapula-4
+  - articulatio-humeri
+  - glenoid-cavity-6
+  exercise: question_bank
+  question:
+    de: Welcher Anteil des Schulterblattes (Scapula) dient dazu, die Gelenkpfanne
+      des Schultergelenkes (Articulatio glenohumeralis) zu vertiefen?
+    en: Which part of the shoulder serves to deepen the socket of the glenohumeral
+      joint?
+  right_terms:
+  - glenoid-labrum-of-scapula-4
+  wrong_terms:
+  - subtendinous-bursa-of-subscapularis
+  - tuberculum-supraglenoidale
+  - bursa-subdeltoidea-bursa-subacromialis
+  - caput-humeri
+  question_uuid: 62db6e4e3a24412c7d0236d50ffac45
+- terms:
+  - knee
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-gracilis
+  wrong_terms:
+  - musculus-gluteus-maximus
+  - musculus-gluteus-medius
+  - musculus-gluteus-minimus
+  - musculus-piriformis
+  - musculus-gemellus-inferior
+- terms:
+  - knee
+  exercise: multiple_choice_image
+  relation: internally_rotates_the
+  right_terms:
+  - musculus-gracilis
+  wrong_terms:
+  - musculus-gluteus-maximus
+  - musculus-gluteus-medius
+  - musculus-gluteus-minimus
+  - musculus-piriformis
+  - musculus-gemellus-inferior
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: externally_rotates_the
+  right_terms:
+  - musculus-adductor-brevis
+  - musculus-obturatorius-externus
+  - adductor-minimus-muscle
+  - musculus-adductor-magnus
+  wrong_terms:
+  - musculus-tensor-fasciae-latae
+  - musculus-semitendinosus
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: externally_rotates_the
+  right_terms:
+  - musculus-pectineus
+  - musculus-adductor-longus
+  - musculus-obturatorius-externus
+  wrong_terms:
+  - musculus-gracilis
+  - musculus-semimembranosus
+  - musculus-rectus-femoris
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: adducts_the
+  right_terms:
+  - musculus-adductor-brevis
+  - musculus-adductor-longus
+  - musculus-adductor-magnus
+  - adductor-minimus-muscle
+  wrong_terms:
+  - musculus-piriformis
+  - musculus-tensor-fasciae-latae
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: adducts_the
+  right_terms:
+  - adductor-minimus-muscle
+  - musculus-pectineus
+  - musculus-gracilis
+  wrong_terms:
+  - musculus-obturatorius-internus
+  - musculus-piriformis
+  - musculus-tensor-fasciae-latae
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-adductor-magnus
+  wrong_terms:
+  - musculus-adductor-longus
+  - musculus-adductor-brevis
+  - musculus-tensor-fasciae-latae
+  - musculus-gracilis
+  - musculus-obturatorius-externus
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-pectineus
+  - musculus-gracilis
+  - musculus-adductor-brevis
+  - musculus-adductor-longus
+  - musculus-sartorius
+  wrong_terms:
+  - musculus-gemellus-superior
+- concepts:
+  - ball-and-socket-joint
+  - articulatio-humeri
+  exercise: question_bank
+  question:
+    de: Zu welchem Gelenktyp wird das Schultergelenk (Articulatio glenohumeralis)
+      gezählt?
+    en: What kind of synovial joint is the shoulder joint (articulatio glenohumeralis)?
+  right_terms:
+  - ball-and-socket-joint
+  wrong_terms:
+  - hinge-joint
+  - pivot-joint
+  - saddle-joint
+  - gliding-joint
+  question_uuid: b84cfff1643788799015ca5d1eebcc2
+- concepts:
+  - ligamentum-sacrotuberale
+  - ligamentum-sacrospinale
+  - articulatio-sacroiliaca
+  - sacroiliac-joint-5
+  exercise: question_bank
+  question:
+    de: Welche Bänder verlaufen in der Gesäßregion (Regio glutealis)?
+    en: Which ligaments are found in the gluteal region?
+  right_terms:
+  - ligamentum-sacrotuberale
+  - ligamentum-sacrospinale
+  wrong_terms:
+  - ligamentum-inguinale
+  - ligamentum-supraspinale
+  - ligamentum-lacunare
+  question_uuid: 0fa2669a02597ba3a2f70235aa15590
+- concepts:
+  - femur
+  - os-femoris
+  - femur-2
+  - femur-8
+  - tibia
+  - tibia-3
+  - knee
+  - knee-3
+  exercise: question_bank
+  question:
+    de: Die Kondylen (Knorren) welcher Knochen sind Teil des Kniegelenks?
+    en: The condyles of which bones are characteristic structures of the knee joint?
+  right_terms:
+  - femur
+  - tibia
+  wrong_terms:
+  - fibula
+  - talus
+  - humerus
+  - radius
+  question_uuid: ed87f31c40fddd6755fd12aa1e94068
+- concepts:
+  - plantar-flexion-of-foot
+  - dorsiflexion-of-foot
+  - articulatio-talocruralis
+  - ankle
+  exercise: question_bank
+  question:
+    de: Welche Bewegungen können im oberen Sprunggelenk (Articulatio talocruralis)
+      ausgeführt werden?
+    en: What movements can be performed in the talocrural joint (articulatio talocruralis)?
+  right_terms:
+  - plantar-flexion-of-foot
+  - dorsiflexion-of-foot
+  wrong_terms:
+  - flexion-of-knee
+  - lateral-rotation-of-leg
+  - inversion-of-foot
+  - adduction-of-leg
+  question_uuid: c9a29fc61a7bc0769da5245e406e291
+- concepts:
+  - inversion-of-foot
+  - eversion-of-foot
+  - articulatio-subtalaris
+  exercise: question_bank
+  question:
+    de: Welche Bewegungen können im unteren Sprunggelenk (Articulatio subtalaris)
+      ausgeführt werden?
+    en: What movements can be performed in the subtalar joint (articulatio subtalaris)?
+  right_terms:
+  - inversion-of-foot
+  - eversion-of-foot
+  wrong_terms:
+  - internal-rotation-of-leg
+  - dorsiflexion-of-foot
+  - extension-of-knee
+  - abduction-of-leg
+  question_uuid: 950acdca88e9e7115e76d7f37d992b7
+- terms:
+  - elbow
+  exercise: multiple_choice_image
+  relation: weakly_flexes_the
+  right_terms:
+  - musculus-flexor-digitorum-superficialis
+  - musculus-pronator-teres
+  - musculus-palmaris-longus
+  wrong_terms:
+  - musculus-extensor-digitorum
+  - musculus-triceps-brachii
+  - musculus-pectoralis-minor
+- concepts:
+  - acromioclavicular-joint-2
+  - acromioclavicular-joint-3
+  - articulatio-acromioclavicularis-2
+  - clavicle-10
+  exercise: question_bank
+  question:
+    de: Ein 72-jähriger Mann ist auf seine rechte Schulter gefallen. Das laterale
+      Ende des Schlüsselbeins (Clavicula) ist nach kranial disloziert und es lässt
+      sich das sogenannte Klaviertastenphänomen bei Druck auf die Clavicula beobachten.
+      Welches Gelenk ist am wahrscheinlichsten luxiert?
+    en: A 72-year-old man fell on his right shoulder. The lateral end of the clavicle
+      (clavicula) is cranially dislocated. The so-called piano key phenomenon is present
+      when applying pressure on the clavicle. Which joint is most likely dislocated?
+  right_terms:
+  - acromioclavicular-joint-2
+  wrong_terms:
+  - shoulder-joint
+  - articulatio-sternoclavicularis
+  - articulatio-sternocostalis
+  question_uuid: d71d6650fee0501b9c322eb7519f10b
+- concepts:
+  - hip-joint
+  - ball-and-socket-joint
+  exercise: question_bank
+  question:
+    de: Zu den Kugelgelenken (Articulationes spheroideae) zählt neben dem Schultergelenk
+      noch welches andere Gelenk?
+    en: In addition to the shoulder joint, which of the following joints belongs to
+      the group of the ball-and-socket joints (articulationes spheroideae)?
+  right_terms:
+  - hip-joint
+  wrong_terms:
+  - knee
+  - ankle
+  - radiocarpal-joint
+  - articulatio-radioulnaris
+  question_uuid: a19fcc11d5c557700439a267f5c1171
+- concepts:
+  - articulatio-subtalaris
+  exercise: question_bank
+  question:
+    de: Welches Gelenk wirkt als Stoßdämpfer und ermöglicht die Inversion und Eversion
+      des Fußes?
+    en: Which joint provides shock absorption and facilitates the movements of inversion
+      and eversion of the foot?
+  right_terms:
+  - articulatio-subtalaris
+  wrong_terms:
+  - articulatio-talocruralis
+  - talonavicular-joint
+  - articulatio-metatarsophalangealis-v
+  - articulatio-metatarsophalangealis-i
+  question_uuid: 963ee6323b2720731dd6ccc44ac13fd
+- concepts:
+  - interosseous-talocalcaneal-ligament
+  - ankle
+  exercise: question_bank
+  question:
+    de: Welches Band trennt die beiden Gelenkhöhlen des unteren Sprunggelenkes (Articulatio
+      talotarsalis) voneinander?
+    en: Which ligament separates the talocalcaneal joint (articulatio talocalcanea)
+      from the talocalcaneonavicular joint (articulatio talocalcaneonavicularis)?
+  right_terms:
+  - interosseous-talocalcaneal-ligament
+  wrong_terms:
+  - posterior-talofibular-ligament
+  - dorsal-tarsometatarsal-ligaments
+  - medial-talocalcaneal-ligament
+  - long-plantar-ligament-2
+  question_uuid: 186c9b634d781af656480e4277ececc
+- concepts:
+  - articulatio-temporomandibularis
+  - squama-temporalis
+  - caput-mandibulae
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Knochen sind am Kiefergelenk (Articulatio temporomandibularis)
+      beteiligt?
+    en: Which of the following bones does the temporomandibular joint (articulatio
+      temporomandibularis) comprise?
+  right_terms:
+  - squama-temporalis
+  - caput-mandibulae
+  wrong_terms:
+  - pars-petrosa-ossis-temporalis
+  - pars-alveolaris-mandibulae
+  - corpus-mandibula-2
+  - processus-coronoideus-mandibulae
+  question_uuid: 7ff3b1632e8b0b3d2c530407fe6f913
+- concepts:
+  - articulatio-temporomandibularis
+  - mandibula
+  exercise: question_bank
+  question:
+    de: Das Kiefergelenk (Articulatio temporomandibularis) ist sehr locker, sodass
+      welcher Knochen nach ventral dislozieren kann ohne dabei die Gelenkkapsel zu
+      verletzen?
+    en: The temporomandibular joint (articulatio temporomandibularis) is so loose
+      that which bone can naturally dislocate anteriorly without damaging the joint
+      capsule?
+  right_terms:
+  - mandibula
+  wrong_terms:
+  - maxilla
+  - os-temporale
+  - os-zygomaticum
+  - os-nasale
+  - os-sphenoidale
+  question_uuid: 802e3ae98596d4fad98b6b44c17bc21
+- terms:
+  - articulatio-subtalaris
+  exercise: multiple_choice_image
+  relation: inverts_the
+  right_terms:
+  - musculus-flexor-digitorum-longus
+  - musculus-flexor-hallucis-longus
+  - musculus-tibialis-posterior
+  wrong_terms:
+  - musculus-peroneus-brevis
+  - musculus-peroneus-longus
+  - musculus-sartorius
+- terms:
+  - knee
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-gastrocnemius
+  wrong_terms:
+  - musculus-popliteus
+  - musculus-peroneus-brevis
+  - musculus-flexor-digitorum-longus
+  - musculus-tibialis-posterior
+  - musculus-flexor-hallucis-longus
+- terms:
+  - knee
+  exercise: multiple_choice_image
+  relation: internally_rotates_the
+  right_terms:
+  - musculus-popliteus
+  wrong_terms:
+  - musculus-vastus-medialis
+  - musculus-extensor-digitorum-longus
+  - musculus-extensor-hallucis-longus
+  - musculus-tibialis-anterior
+  - musculus-peroneus-longus
+- concepts:
+  - axillary-nerve
+  - articulatio-humeri
+  exercise: question_bank
+  question:
+    de: Welcher der folgenden Nerven ist durch seine enge Lage zum Schultergelenk
+      besonders gefährdet bei einer Schulterluxation verletzt zu werden?
+    en: Which of the following nerves is vulnerable to damage because of its close
+      proximity to the shoulder joint and therefore can be injured during a shoulder
+      dislocation?
+  right_terms:
+  - axillary-nerve
+  wrong_terms:
+  - nervus-radialis
+  - median-nerve
+  - ulnar-nerve
+  - musculocutaneous-nerve
+  question_uuid: 0fbb913b580782f15ce66461d0154b4
+- concepts:
+  - articulatio-sacroiliaca
+  - sacroiliac-joint-5
+  - ala-ossis-sacralis
+  - sacrum-5
+  - spine
+  - pelvis
+  - pelvis-2
+  exercise: question_bank
+  question:
+    de: Welches Gelenk verbindet die Wirbelsäule mit dem Becken (Pelvis)?
+    en: What joint connects the spine with the pelvis?
+  right_terms:
+  - articulatio-sacroiliaca
+  wrong_terms:
+  - pubic-symphysis
+  - hip-joint
+  - articulatio-zygapophysialis
+  - articulatio-sacrococcygea
+  question_uuid: 55c437dc6abc2784ba2bc4990da0f1d
+- concepts:
+  - articulatio-sacroiliaca
+  - sacroiliac-joint-5
+  - pubic-symphysis
+  - pubic-symphysis-10
+  - pelvis
+  - pelvis-2
+  exercise: question_bank
+  question:
+    de: Welche Gelenke sind Teil des Beckenrings?
+    en: What joints form the pelvic ring?
+  right_terms:
+  - articulatio-sacroiliaca
+  - pubic-symphysis
+  wrong_terms:
+  - knee
+  - articulatio-sacrococcygea
+  - articulatio-lumbosacralis
+  question_uuid: d3e0797e87dfe26ff39ade9d04b2d5e
+- concepts:
+  - articulatio-sacroiliaca
+  - sacroiliac-joint-5
+  exercise: question_bank
+  question:
+    de: Ein vierzigjähriger Patient leidet unter nächtlichen Kreuzschmerzen. Er wird
+      an einen Rheumatologen überwiesen, der einen Morbus Bechterew (Spondylitis ankylosans)
+      diagnostiziert. Welches Gelenk wird als ‘Amphiarthrose’ bezeichnet, da sich
+      die beiden Gelenkkörper nur minimal gegeneinander bewegen können, und ist meist
+      zuerst bei Beginn eines Morbus Bechterew betroffen?
+    en: A 40-year-old patient is suffering from lower back pain at night time. He
+      is referred to a rheumatologist who suspects an ankylosing spondylitis. Which
+      joint is characterized as an amphiarthrosis as both opposing bones can barely
+      move against each other and is often affected first in this disease?
+  right_terms:
+  - articulatio-sacroiliaca
+  wrong_terms:
+  - hip-joint-3
+  - articulatio-zygapophysialis
+  - articulatio-lumbosacralis
+  question_uuid: 39e38c60f18c579d10b5fb849ead19b
+- terms:
+  - musculus-sternohyoideus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - manubrium-sterni
+  - articulatio-sternoclavicularis
+  wrong_terms:
+  - acromion
+  - processus-xyphoideus
+  - costa-i-3
+  - corpus-sterni
+- concepts:
+  - flexes_the-hip-joint
+  exercise: question_bank
+  question:
+    de: Welche Muskeln führen eine Flexion im Hüftgelenk aus?
+    en: Which muscles flex the hip joint?
+  right_terms:
+  - musculus-rectus-femoris
+  - musculus-sartorius
+  - musculus-pectineus
+  wrong_terms:
+  - musculus-vastus-lateralis
+  - musculus-vastus-medialis
+  - musculus-vastus-intermedius
+  question_uuid: c7a212c4145d09aa3b4beba8e88a5de
+- concepts:
+  - extends_the-hip-joint
+  exercise: question_bank
+  question:
+    de: Welche Muskeln beteiligen sich an der Extension des Hüftgelenkes?
+    en: Which muscles extend the hip joint?
+  right_terms:
+  - musculus-gluteus-maximus
+  - musculus-semimembranosus
+  wrong_terms:
+  - musculus-sartorius
+  - musculus-rectus-femoris
+  - musculus-tensor-fasciae-latae
+  question_uuid: 2f81ef506bb46c0bcf7401d16039c7d
+- concepts:
+  - articulatio-zygapophysialis
+  - vertebrae-lumbales
+  - vertebrae-thoracicae
+  exercise: question_bank
+  question:
+    de: Die superioren und inferioren Gelenkflächen zweier benachbarter Wirbel artikulieren
+      miteinander, um welches Gelenk zu formen?
+    en: The superior and the inferior articular processes of adjacent vertebrae articulate
+      to form which joint?
+  right_terms:
+  - articulatio-zygapophysialis
+  wrong_terms:
+  - capsula-articularis-articulatio-zygapophysialis
+  - articulatio-atlantoaxialis-lateralis
+  - articulatio-atlantooccipitalis
+  - craniovertebral-joints
+  question_uuid: c72f6a8e4e3c99daa64919857d80ccf
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: stabilizes_the
+  right_terms:
+  - musculus-gluteus-medius
+  - musculus-gluteus-minimus
+  - musculus-gluteus-maximus
+  - musculus-gemellus-inferior
+  wrong_terms:
+  - musculus-sartorius
+  - musculus-gracilis
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-gluteus-maximus
+  wrong_terms:
+  - musculus-gluteus-minimus
+  - musculus-gluteus-medius
+  - musculus-tensor-fasciae-latae
+  - musculus-obturatorius-internus
+  - musculus-sartorius
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: externally_rotates_the
+  right_terms:
+  - musculus-gemellus-inferior
+  - musculus-gluteus-maximus
+  - musculus-piriformis
+  wrong_terms:
+  - musculus-biceps-femoris
+  - musculus-rectus-femoris
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: internally_rotates_the
+  right_terms:
+  - musculus-gluteus-medius
+  - musculus-tensor-fasciae-latae
+  - musculus-gluteus-minimus
+  wrong_terms:
+  - musculus-gemellus-inferior
+  - musculus-piriformis
+  - musculus-biceps-femoris
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: externally_rotates_the
+  right_terms:
+  - musculus-gemellus-superior
+  - musculus-obturatorius-internus
+  - musculus-quadratus-femoris
+  wrong_terms:
+  - musculus-semimembranosus
+  - musculus-semitendinosus
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: abducts_the
+  right_terms:
+  - musculus-gluteus-medius
+  - musculus-gluteus-maximus
+  - musculus-piriformis
+  wrong_terms:
+  - musculus-pectineus
+  - musculus-obturatorius-externus
+  - musculus-biceps-femoris
+- terms:
+  - hip-joint
+  exercise: multiple_choice_image
+  relation: abducts_the
+  right_terms:
+  - musculus-gemellus-inferior
+  - musculus-gluteus-minimus
+  - musculus-piriformis
+  - musculus-gemellus-superior
+  wrong_terms:
+  - musculus-soleus
+  - musculus-gracilis
+- terms:
+  - musculus-pterygoideus-lateralis-pars-superior
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - articulatio-temporomandibularis
+  wrong_terms:
+  - processus-coronoideus-mandibulae
+  - arcus-zygomaticus
+  - linea-obliqua-mandibulae
+  - lingula-mandibulae
+  - corpus-mandibula
+- concepts:
+  - articulatio-temporomandibularis
+  exercise: question_bank
+  question:
+    de: Welches Gelenk wird von den Kaumuskeln bewegt?
+    en: Apart from the teeth (dentes) and the tongue (lingua), certain muscles, known
+      as the masticatory muscles, partake in specific movements of which joint to
+      allow the initial stages of digestion occur?
+  right_terms:
+  - articulatio-temporomandibularis
+  wrong_terms:
+  - articulatio-sternocostalis
+  - articulatio-sternoclavicularis
+  - articulatio-atlantooccipitalis
+  - articulatio-zygapophysialis
+  - articulatio-talocruralis
+  question_uuid: b06bfa961856746446007f259059d9f

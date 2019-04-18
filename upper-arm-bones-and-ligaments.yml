@@ -1,0 +1,1398 @@
+---
+- terms:
+  - acromion
+  - caput-humeri
+  exercise: easy
+- terms:
+  - clavicula
+  - collum-anatomicum
+  exercise: easy
+- terms:
+  - collum-chirurgicum
+  - tuberculum-majus
+  exercise: easy
+- terms:
+  - tuberculum-minus
+  - corpus-humeri
+  exercise: easy
+- terms:
+  - corpus-humeri
+  - tuberculum-minus
+  - collum-chirurgicum
+  - tuberculum-majus
+  exercise: four_one
+- terms:
+  - clavicula
+  - collum-anatomicum
+  - acromion
+  - caput-humeri
+  exercise: four_one
+- terms:
+  - suprascapular-notch
+  - tuberculum-minus
+  - collum-chirurgicum
+  - tuberculum-majus
+  exercise: identify_image
+- terms:
+  - clavicula
+  - collum-anatomicum
+  - acromion
+  - caput-humeri
+  exercise: identify_image
+- terms:
+  - processus-coracoideus
+  - sulcus-intertubercularis
+  exercise: easy
+- terms:
+  - crista-tuberculi-majoris
+  - crista-tuberculi-minoris
+  exercise: easy
+- terms:
+  - crista-supracondylaris-lateralis
+  - crista-supracondylaris-medialis
+  exercise: easy
+- terms:
+  - epicondylus-lateralis-humeri
+  - epicondylus-medialis-humeri
+  exercise: easy
+- terms:
+  - processus-coracoideus
+  - sulcus-intertubercularis
+  - crista-tuberculi-majoris
+  - crista-tuberculi-minoris
+  exercise: four_one
+- terms:
+  - crista-supracondylaris-lateralis
+  - crista-supracondylaris-medialis
+  - epicondylus-lateralis-humeri
+  - suprascapular-notch
+  exercise: four_one
+- terms:
+  - processus-coracoideus
+  - sulcus-intertubercularis
+  - crista-tuberculi-majoris
+  - crista-tuberculi-minoris
+  exercise: identify_image
+- terms:
+  - crista-supracondylaris-lateralis
+  - crista-supracondylaris-medialis
+  - epicondylus-lateralis-humeri
+  - epicondylus-medialis-humeri
+  exercise: identify_image
+- terms:
+  - fossa-coronoidea
+  - fossa-radialis
+  exercise: easy
+- terms:
+  - fossa-olecrani
+  - capitulum-humeri
+  exercise: easy
+- terms:
+  - trochlea-humeri
+  - cavitas-glenoidalis
+  exercise: easy
+- terms:
+  - collum-scapulae
+  - fossa-infraspinata
+  exercise: easy
+- terms:
+  - fossa-coronoidea
+  - fossa-radialis
+  - trochlea-humeri
+  - cavitas-glenoidalis
+  exercise: four_one
+- terms:
+  - fossa-olecrani
+  - capitulum-humeri
+  - collum-scapulae
+  - fossa-infraspinata
+  exercise: four_one
+- terms:
+  - fossa-coronoidea
+  - fossa-radialis
+  - trochlea-humeri
+  - cavitas-glenoidalis
+  exercise: identify_image
+- terms:
+  - fossa-olecrani
+  - capitulum-humeri
+  - collum-scapulae
+  - fossa-infraspinata
+  exercise: identify_image
+- terms:
+  - fossa-supraspinata
+  - fossa-subscapularis
+  exercise: easy
+- terms:
+  - margo-lateralis-scapulae
+  - margo-medialis-scapulae
+  exercise: easy
+- terms:
+  - margo-superior-scapulae
+  - spina-scapulae
+  exercise: easy
+- terms:
+  - tuberculum-infraglenoidale
+  - tuberculum-supraglenoidale
+  exercise: easy
+- terms:
+  - fossa-supraspinata
+  - fossa-subscapularis
+  - margo-lateralis-scapulae
+  - margo-medialis-scapulae
+  exercise: four_one
+- terms:
+  - margo-superior-scapulae
+  - spina-scapulae
+  - tuberculum-infraglenoidale
+  - tuberculum-supraglenoidale
+  exercise: four_one
+- terms:
+  - fossa-supraspinata
+  - fossa-subscapularis
+  - suprascapular-notch
+  - margo-medialis-scapulae
+  exercise: identify_image
+- terms:
+  - margo-superior-scapulae
+  - spina-scapulae
+  - tuberculum-infraglenoidale
+  - tuberculum-supraglenoidale
+  exercise: identify_image
+- terms:
+  - ligamenta-glenohumeralia
+  - ligamentum-coracoacromiale
+  exercise: easy
+- terms:
+  - ligamentum-coracoclaviculare
+  - bursa-subdeltoidea-bursa-subacromialis
+  exercise: easy
+- terms:
+  - ligamenta-glenohumeralia
+  - ligamentum-coracoacromiale
+  - ligamentum-coracoclaviculare
+  - bursa-subdeltoidea-bursa-subacromialis
+  exercise: four_one
+- terms:
+  - ligamenta-glenohumeralia
+  - ligamentum-coracoacromiale
+  - ligamentum-coracoclaviculare
+  - bursa-subdeltoidea-bursa-subacromialis
+  exercise: identify_image
+- terms:
+  - acromion
+  exercise: spell_term
+- terms:
+  - caput-humeri
+  exercise: spell_term
+- terms:
+  - clavicula
+  exercise: spell_term
+- terms:
+  - collum-anatomicum
+  exercise: spell_term
+- terms:
+  - collum-chirurgicum
+  exercise: spell_term
+- terms:
+  - tuberculum-majus
+  exercise: spell_term
+- terms:
+  - tuberculum-minus
+  exercise: spell_term
+- terms:
+  - corpus-humeri
+  exercise: spell_term
+- terms:
+  - suprascapular-notch
+  exercise: spell_term
+- terms:
+  - processus-coracoideus
+  exercise: spell_term
+- terms:
+  - sulcus-intertubercularis
+  exercise: spell_term
+- terms:
+  - crista-tuberculi-majoris
+  exercise: spell_term
+- terms:
+  - crista-tuberculi-minoris
+  exercise: spell_term
+- terms:
+  - crista-supracondylaris-lateralis
+  exercise: spell_term
+- terms:
+  - crista-supracondylaris-medialis
+  exercise: spell_term
+- terms:
+  - epicondylus-lateralis-humeri
+  exercise: spell_term
+- terms:
+  - epicondylus-medialis-humeri
+  exercise: spell_term
+- terms:
+  - fossa-coronoidea
+  exercise: spell_term
+- terms:
+  - fossa-radialis
+  exercise: spell_term
+- terms:
+  - fossa-olecrani
+  exercise: spell_term
+- terms:
+  - capitulum-humeri
+  exercise: spell_term
+- terms:
+  - trochlea-humeri
+  exercise: spell_term
+- terms:
+  - cavitas-glenoidalis
+  exercise: spell_term
+- terms:
+  - collum-scapulae
+  exercise: spell_term
+- terms:
+  - fossa-infraspinata
+  exercise: spell_term
+- terms:
+  - fossa-supraspinata
+  exercise: spell_term
+- terms:
+  - fossa-subscapularis
+  exercise: spell_term
+- terms:
+  - margo-lateralis-scapulae
+  exercise: spell_term
+- terms:
+  - margo-medialis-scapulae
+  exercise: spell_term
+- terms:
+  - margo-superior-scapulae
+  exercise: spell_term
+- terms:
+  - spina-scapulae
+  exercise: spell_term
+- terms:
+  - tuberculum-infraglenoidale
+  exercise: spell_term
+- terms:
+  - tuberculum-supraglenoidale
+  exercise: spell_term
+- terms:
+  - ligamenta-glenohumeralia
+  exercise: spell_term
+- terms:
+  - ligamentum-coracoacromiale
+  exercise: spell_term
+- terms:
+  - ligamentum-coracoclaviculare
+  exercise: spell_term
+- terms:
+  - bursa-subdeltoidea-bursa-subacromialis
+  exercise: spell_term
+- concepts:
+  - musculus-coracobrachialis
+  - ligamentum-coracoclaviculare
+  exercise: question_bank
+  question:
+    de: Die Ruptur welcher der folgenden Strukturen kann in einer Schulterverletzung
+      resultieren?
+    en: The rupture of which of the following structures could result in a sprained
+      shoulder?
+  right_terms:
+  - musculus-coracobrachialis
+  - ligamentum-coracoclaviculare
+  wrong_terms:
+  - tractus-iliotibialis
+  - epicondylus-medialis-humeri
+  - epicondylus-lateralis-humeri
+  question_uuid: cb77613a10eb4eab499d7df0f035dac
+- concepts:
+  - scapula-3
+  - scapula
+  - humerus
+  - clavicula
+  exercise: question_bank
+  question:
+    de: Welcher Knochen ist mit dem Oberarmknochen (Humerus) und dem Schlüsselbein
+      (Clavicula) gelenkig verbunden?
+    en: What bone is connected to the humerus and clavicle (clavicula) by joints?
+  right_terms:
+  - scapula-3
+  wrong_terms:
+  - ulna-3
+  - radius-3
+  - sacrum-2
+  - tibia-6
+  question_uuid: b8b7a86f4feaa77e9e4b8fd2604d532
+- concepts:
+  - clavicle-8
+  - clavicula
+  exercise: question_bank
+  question:
+    de: Über und unter welchem Knochen kann man am ehesten geschwollene Lymphknoten
+      tasten?
+    en: Above and below of which of the following bones swollen lymph nodes can most
+      likely be palpated?
+  right_terms:
+  - clavicle-8
+  wrong_terms:
+  - scapula-3
+  - humerus-4
+  - ulna-3
+  - radius-3
+  question_uuid: a966447180e98007a3bab0203b535c4
+- concepts:
+  - humerus-4
+  - humerus
+  - corpus-humeri
+  exercise: question_bank
+  question:
+    de: Welcher Knochen bildet mit dem Schulterblatt (Scapula) das Schultergelenk?
+    en: What bone forms the shoulder joint together with the scapula?
+  right_terms:
+  - humerus-4
+  wrong_terms:
+  - clavicle-8
+  - radius-3
+  - ulna-3
+  - sternum-4
+  question_uuid: 83101375beb56078e2067aa845c268d
+- concepts:
+  - trochlea-humeri
+  - anterior-cubital-region
+  exercise: question_bank
+  question:
+    de: Welche Struktur des Ellenbogens ist für die leichte physiologische Abweichung
+      des gestreckten Armes nach lateral (cubitus valgus) verantwortlich, welche vermeidet,
+      dass der Arm beim Laufen gegen die Hüfte stößt?
+    en: Which structure in the elbow is responsible for the lateral deviation of the
+      extended forearm forming the carrying angle at the elbow?
+  right_terms:
+  - trochlea-humeri
+  wrong_terms:
+  - olecranon
+  - medial-epicondyle-of-the-humerus
+  - lateral-epicondyle-of-the-humerus
+  - capitulum-humeri
+  question_uuid: 8d64aaed00d2f244121a1f9c2983a21
+- terms:
+  - musculus-subscapularis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - fossa-subscapularis
+  wrong_terms:
+  - spina-scapulae
+  - margo-superior-scapulae
+  - margo-lateralis-scapulae
+  - margo-medialis-scapulae
+  - angulus-inferior-scapulae
+- terms:
+  - musculus-subscapularis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - tuberculum-minus
+  wrong_terms:
+  - crista-tuberculi-minoris
+  - crista-tuberculi-majoris
+  - costa-ii
+  - tuberculum-majus
+  - collum-radii
+- terms:
+  - musculus-supraspinatus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - fossa-supraspinata
+  wrong_terms:
+  - acromion
+  - processus-coracoideus
+  - corpus-humeri
+  - caput-humeri
+  - clavicula
+- terms:
+  - musculus-supraspinatus
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - tuberculum-majus
+  wrong_terms:
+  - fossa-supraspinata
+  - acromion
+  - processus-coracoideus
+  - tuberositas-deltoidea
+  - bursa-subdeltoidea-bursa-subacromialis
+- terms:
+  - musculus-infraspinatus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - fossa-infraspinata
+  wrong_terms:
+  - fossa-supraspinata
+  - spina-scapulae
+  - clavicula
+  - margo-medialis-scapulae
+  - collum-scapulae
+- terms:
+  - musculus-infraspinatus
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - tuberculum-majus
+  wrong_terms:
+  - tuberculum-minus
+  - tuberositas-deltoidea
+  - costa-i-3
+  - tuberculum-infraglenoidale
+  - cavitas-glenoidalis
+- terms:
+  - musculus-teres-minor
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - margo-lateralis-scapulae
+  wrong_terms:
+  - margo-medialis-scapulae
+  - fossa-subscapularis
+  - collum-scapulae
+  - margo-superior-scapulae
+  - spina-scapulae
+- terms:
+  - musculus-teres-minor
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - tuberculum-majus
+  wrong_terms:
+  - tuberculum-minus
+  - sulcus-intertubercularis
+  - corpus-claviculae
+  - facies-anterior-radii
+  - costa-i-3
+- terms:
+  - musculus-deltoideus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - clavicula
+  - acromion
+  - spina-scapulae
+  wrong_terms:
+  - processus-coracoideus
+  - costa-i-3
+  - fossa-supraspinata
+- terms:
+  - musculus-latissimus-dorsi
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - sulcus-intertubercularis
+  wrong_terms:
+  - crista-tuberculi-majoris
+  - corpus-vertebrae-ti-tiii
+  - linea-obliqua-mandibulae
+  - cartilages-costales-ii-iv
+- terms:
+  - musculus-teres-major
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - angulus-inferior-scapulae
+  - margo-lateralis-scapulae
+  wrong_terms:
+  - fossa-subscapularis
+  - margo-superior-scapulae
+  - spina-scapulae
+  - acromion
+- terms:
+  - musculus-teres-major
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - crista-tuberculi-minoris
+  wrong_terms:
+  - crista-tuberculi-majoris
+  - tuberculum-majus
+  - margo-lateralis-scapulae
+  - margo-superior-scapulae
+  - collum-scapulae
+- terms:
+  - musculus-pectoralis-major
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - clavicula
+  - sternum
+  - cartilages-costales-i-iv
+  wrong_terms:
+  - acromion
+  - caput-humeri 
+  - crista-supracondylaris-medialis
+- terms:
+  - musculus-pectoralis-major
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - sulcus-intertubercularis
+  wrong_terms:
+  - crista-tuberculi-minoris
+  - corpus-vertebrae-ti-tiii
+  - margo-medialis-scapulae
+  - cartilages-costales-ii-iv
+  - costa-i-3
+- terms:
+  - musculus-coracobrachialis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - processus-coracoideus
+  wrong_terms:
+  - acromion
+  - angulus-inferior-scapulae
+  - corpus-claviculae
+  - spina-scapulae
+  - cavitas-glenoidalis
+- terms:
+  - musculus-coracobrachialis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - corpus-humeri
+  wrong_terms:
+  - fossa-subscapularis
+  - margo-lateralis-scapulae
+  - margo-medialis-scapulae
+  - margo-superior-scapulae
+  - costa-i-3
+- terms:
+  - musculus-subscapularis
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - fossa-subscapularis
+  wrong_terms:
+  - spina-scapulae
+  - margo-superior-scapulae
+  - margo-lateralis-scapulae
+  - margo-medialis-scapulae
+  - angulus-inferior-scapulae
+- terms:
+  - musculus-infraspinatus
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - fossa-infraspinata
+  wrong_terms:
+  - fossa-supraspinata
+  - spina-scapulae
+  - clavicula
+  - margo-medialis-scapulae
+  - collum-scapulae
+- terms:
+  - musculus-trapezius
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - acromion
+  - clavicula
+  - spina-scapulae
+  wrong_terms:
+  - angulus-inferior-scapulae
+  - caput-humeri
+  - spine
+- terms:
+  - musculus-latissimus-dorsi
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - sulcus-intertubercularis
+  wrong_terms:
+  - caput-humeri
+  - angulus-inferior-scapulae
+  - angulus-costae-iii-xii
+  - upper-ribs
+- terms:
+  - musculus-rhomboideus-minor
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - root-of-spine-of-scapula
+  wrong_terms:
+  - margo-lateralis-scapulae
+  - margo-superior-scapulae
+  - scapula
+  - fossa-subscapularis
+  - upper-ribs
+- terms:
+  - musculus-rhomboideus-major
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - margo-medialis-scapulae
+  wrong_terms:
+  - spina-scapulae
+  - corpus-claviculae
+  - margo-superior-scapulae
+  - ribs
+  - fossa-subscapularis
+- terms:
+  - corpus-humeri
+  exercise: multiple_choice_image
+  relation: adducts_the
+  right_terms:
+  - musculus-latissimus-dorsi
+  wrong_terms:
+  - musculus-trapezius
+  - musculus-rhomboideus-minor
+  - musculus-rhomboideus-major
+  - musculus-levator-scapulae
+  - musculus-serratus-posterior-inferior
+- terms:
+  - corpus-humeri
+  exercise: multiple_choice_image
+  relation: medially_rotates_the
+  right_terms:
+  - musculus-latissimus-dorsi
+  wrong_terms:
+  - musculus-serratus-posterior-superior
+  - musculus-rhomboideus-minor
+  - musculus-rhomboideus-major
+  - musculus-levator-scapulae
+  - musculus-serratus-posterior-inferior
+- terms:
+  - musculus-brachialis
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - corpus-humeri
+  wrong_terms:
+  - trochlea-humeri
+  - collum-chirurgicum
+  - capitulum-humeri
+  - caput-humeri
+  - collum-anatomicum
+- terms:
+  - musculus-biceps-brachii
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - tuberculum-supraglenoidale
+  - processus-coracoideus
+  wrong_terms:
+  - margo-superior-scapulae
+  - collum-chirurgicum
+  - collum-scapulae
+  - caput-humeri
+- terms:
+  - caput-longum-musculus-biceps-brachii
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - tuberculum-supraglenoidale
+  wrong_terms:
+  - margo-superior-scapulae
+  - processus-coracoideus
+  - collum-chirurgicum
+  - collum-scapulae
+  - caput-humeri
+- terms:
+  - caput-breve-musculus-biceps-brachii
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - processus-coracoideus
+  wrong_terms:
+  - margo-superior-scapulae
+  - tuberculum-supraglenoidale
+  - collum-chirurgicum
+  - collum-scapulae
+  - caput-humeri
+- terms:
+  - musculus-triceps-brachii
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - tuberculum-infraglenoidale
+  - corpus-humeri
+  wrong_terms:
+  - spina-scapulae
+  - collum-chirurgicum
+  - collum-scapulae
+  - caput-humeri
+- concepts:
+  - processus-coracoideus
+  - coracoid-process-3
+  exercise: question_bank
+  question:
+    de: Welche knöcherne Struktur lässt sich im Sulcus deltoideopectoralis zwischen
+      dem Musculus deltoideus (Deltamuskel) und Musculus pectoralis major (großer
+      Brustmuskel) ertasten?
+    en: What bony projection is palpable in the deltopectoral groove between the deltoid
+      and pectoralis major muscles?
+  right_terms:
+  - processus-coracoideus
+  wrong_terms:
+  - olecranon
+  - costa-i
+  - facies-articularis-sternalis-claviculae
+  - spina-scapulae
+  question_uuid: bd58b8e6b22517109292f306f97e9d6
+- terms:
+  - caput-longum-musculus-triceps-brachii
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - tuberculum-infraglenoidale
+  wrong_terms:
+  - spina-scapulae
+  - collum-chirurgicum
+  - corpus-humeri
+  - collum-scapulae
+  - caput-humeri
+- terms:
+  - caput-mediale-musculus-triceps-brachii
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - corpus-humeri
+  wrong_terms:
+  - spina-scapulae
+  - tuberculum-infraglenoidale
+  - collum-chirurgicum
+  - collum-scapulae
+  - caput-humeri
+- concepts:
+  - caput-humeri
+  - facies-articularis-acromialis-claviculae
+  exercise: question_bank
+  question:
+    de: Mit welchen knöchernen Strukturen artikuliert die Scapula?
+    en: What bony structures does the scapula articulate with?
+  right_terms:
+  - caput-humeri
+  - facies-articularis-acromialis-claviculae
+  wrong_terms:
+  - costa-i-3
+  - facies-articularis-sternalis-claviculae
+  - collum-anatomicum
+  question_uuid: f35d96a7b462ca74eb2a3ee185f28c7
+- terms:
+  - caput-laterale-musculus-triceps-brachii
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - corpus-humeri
+  wrong_terms:
+  - spina-scapulae
+  - tuberculum-infraglenoidale
+  - collum-chirurgicum
+  - collum-scapulae
+  - caput-humeri
+- terms:
+  - musculus-anconeus
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - epicondylus-lateralis-humeri
+  wrong_terms:
+  - trochlea-humeri
+  - collum-radii
+  - fossa-radialis
+  - epicondylus-medialis-humeri
+  - corpus-humeri
+- concepts:
+  - cavitas-glenoidalis
+  - glenoid-cavity-6
+  - articulatio-humeri
+  - caput-humeri
+  - scapula
+  exercise: question_bank
+  question:
+    de: Welche knöchernen Strukturen bilden gemeinsam das Schultergelenk?
+    en: What bony structures come together to form the shoulder joint?
+  right_terms:
+  - cavitas-glenoidalis
+  - caput-humeri
+  wrong_terms:
+  - capitulum-humeri
+  - spina-scapulae
+  - processus-coracoideus
+  question_uuid: 2abf377c7bf5d3d22b1cb92b9c6ea5a
+- concepts:
+  - ligamenta-glenohumeralia
+  - ligamentum-coracoacromiale
+  - ligamentum-coracoclaviculare
+  - coracohumeral-ligament
+  - coracoacromial-ligament-1
+  exercise: question_bank
+  question:
+    de: Welche Bänder unterstützen das Schultergelenk?
+    en: What ligaments are responsible mainly for reinforcing the shoulder joint?
+  right_terms:
+  - ligamenta-glenohumeralia
+  - ligamentum-coracoacromiale
+  - ligamentum-coracoclaviculare
+  wrong_terms:
+  - ligamentum-anulare-radii
+  - ligamentum-collaterale-radiale
+  question_uuid: 9244b8f7be5c75739d4abfa0e2ed48c
+- concepts:
+  - ligamentum-coracoacromiale
+  - coracoacromial-ligament-1
+  exercise: question_bank
+  question:
+    de: Welches Band überdacht das Schultergelenk und ist häufig Auslöser eines Impingement-Syndroms?
+    en: Which ligament overlies the shoulder joint and is frequently involved in rotator
+      cuff impingement?
+  right_terms:
+  - ligamentum-coracoacromiale
+  wrong_terms:
+  - ligamentum-coracoclaviculare
+  - ligamenta-glenohumeralia
+  - ligamentum-collaterale-ulnare
+  - ligamentum-collaterale-radiale
+  question_uuid: 5f2a7679e0594ff6482976d50af34f1
+- concepts:
+  - acromion
+  exercise: question_bank
+  question:
+    de: Die radiologische Untersuchung eines Patienten ergibt, dass die knöcherne
+      Struktur, die das Schultergelenk überdacht, gebrochen ist. Um welche handelt
+      es sich?
+    en: A patient is sent to radiology where radiographs reveal that the structure
+      which forms the tip of the shoulder is fractured. What part of the scapula was
+      fractured?
+  right_terms:
+  - acromion
+  wrong_terms:
+  - processus-coracoideus
+  - collum-scapulae
+  - spina-scapulae
+  - margo-superior-scapulae
+  question_uuid: d1077bc6485a7913765a061adddf410
+- concepts:
+  - acromion-2
+  - acromion
+  exercise: question_bank
+  question:
+    de: Welche der folgenden knöchernen Strukturen erstreckt sich von der Schultergräte
+      (Spina scapulae) nach vorne?
+    en: Which of the following bony structures extends anteriorly from the spine of
+      the scapula (spina scapulae)?
+  right_terms:
+  - acromion-2
+  wrong_terms:
+  - clavicula
+  - suprascapular-notch-1
+  - coracoid-process
+  - superior-border-of-the-scapula
+  question_uuid: 594b5294fadce6fdb72a8e53715003c
+- concepts:
+  - shoulder-joint
+  - caput-humeri
+  - cavitas-glenoidalis
+  - articulatio-humeri
+  - humerus
+  - scapula
+  - glenoid-cavity-6
+  exercise: question_bank
+  question:
+    de: Welche knöchernen Strukturen bilden das Schultergelenk?
+    en: Which structures articulate to form the ball-and-socket shoulder joint?
+  right_terms:
+  - head-of-the-humerus
+  - glenoid-cavity
+  wrong_terms:
+  - coracoid-process
+  - acromion-2
+  - epicondylus-medialis-humeri
+  question_uuid: ed3f29e0805795f41440cb492417dce
+- concepts:
+  - anatomical-neck-of-the-humerus
+  - collum-anatomicum
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Knochenstrukturen stellt eine Verengung des Oberarmknochens
+      (Humerus) zwischen Oberarmkopf (Caput humeri) und Tuberculum majus dar?
+    en: Which of the following bony structures is a constriction of the humerus between
+      the head (caput humeri) and greater tubercle (tuberculum majus)?
+  right_terms:
+  - anatomical-neck-of-the-humerus
+  wrong_terms:
+  - tuberculum-minus
+  - surgical-neck-of-the-humerus
+  - deltoid-tuberosity
+  - sulcus-intertubercularis
+  question_uuid: 7dc07db17d4f568a277ac7440ae42b5
+- concepts:
+  - conoid-ligament
+  - ligamentum-coracoclaviculare
+  exercise: question_bank
+  question:
+    de: Das Ligamentum coracoclaviculare hat zwei Anteile. Das laterale Segment wird
+      als Ligamentum trapezoideum bezeichnet. Welches der folgenden Bänder ist das
+      mediale Segment?
+    en: The coracoclavicular ligament (ligamentum coracoclaviculare) consists of two
+      components. The lateral segment is the trapezoid ligament (ligamentum trapezoideum).
+      Which of the following ligaments is the medial segment?
+  right_terms:
+  - conoid-ligament
+  wrong_terms:
+  - oblique-cord
+  - nuchal-ligament-3
+  - conus-elasticus
+  - ligamentum-flavum-3
+  question_uuid: 89d828a4c4ddc94b700fecaa69cab10
+- concepts:
+  - superior-glenohumeral-ligament
+  - ligamenta-glenohumeralia
+  exercise: question_bank
+  question:
+    de: Die vollständige Schulteradduktion führt zu einer maximalen Anspannung welches
+      der folgenden Bänder?
+    en: Full adduction of the shoulder joint (articulatio glenohumeralis) causes maximal
+      tension in which of the following ligaments?
+  right_terms:
+  - superior-glenohumeral-ligament
+  wrong_terms:
+  - middle-glenohumeral-ligament
+  - inferior-glenohumeral-ligament
+  - coracohumeral-ligament
+  - ligamentum-coracoclaviculare
+  question_uuid: 62869431323aeba22624f4391812534
+- terms:
+  - musculus-brachioradialis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - crista-supracondylaris-lateralis
+  wrong_terms:
+  - crista-supracondylaris-medialis
+  - corpus-humeri
+  - capitulum-humeri
+  - caput-radii
+  - collum-radii
+- terms:
+  - musculus-extensor-carpi-radialis-longus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - crista-supracondylaris-lateralis
+  wrong_terms:
+  - crista-supracondylaris-medialis
+  - corpus-humeri
+  - capitulum-humeri
+  - caput-radii
+  - collum-radii
+- terms:
+  - musculus-extensor-carpi-radialis-brevis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - epicondylus-lateralis-humeri
+  wrong_terms:
+  - corpus-humeri
+  - capitulum-humeri
+  - caput-radii
+  - epicondylus-medialis-humeri
+  - collum-radii
+- terms:
+  - musculus-pronator-teres
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - epicondylus-medialis-humeri
+  - processus-coronoideus
+  wrong_terms:
+  - crista-supracondylaris-medialis
+  - tuberositas-ulnae
+  - caput-radii
+  - collum-radii
+- terms:
+  - musculus-flexor-carpi-radialis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - epicondylus-medialis-humeri
+  wrong_terms:
+  - processus-coronoideus
+  - crista-supracondylaris-medialis
+  - tuberositas-ulnae
+  - caput-radii
+  - collum-radii
+- terms:
+  - musculus-palmaris-longus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - epicondylus-medialis-humeri
+  wrong_terms:
+  - processus-coronoideus
+  - crista-supracondylaris-medialis
+  - tuberositas-ulnae
+  - caput-radii
+  - collum-radii
+- concepts:
+  - tendon-of-subscapularis-muscle-2
+  - processus-coracoideus
+  - subscapularis-muscle-20
+  exercise: question_bank
+  question:
+    de: Das sogenannte Impingement-Syndrom tritt auf, wenn Sehnen der Rotatorenmanschette
+      während Schulterbewegungen eingeengt und komprimiert werden. Ein Typ ist das
+      subcoracoidale Impingement, das durch Schmerzen im vorderen Anteil der Schulter
+      bei Adduktion, Innenrotation und Anteversion durch die Einengung des Raumes
+      zwischen dem Rabenschnabelfortsatz (Processus coracoideus) und dem kleinen Höcker
+      (Tuberculum minus) gekennzeichnet ist. Welche Struktur ist am ehesten beim subcoracoidalen
+      Impingement betroffen?
+    en: A shoulder impingement syndrome occurs when tendons of the rotator cuff muscles
+      become trapped and compressed during shoulder movement. One type is a subcoracoid
+      impingement, in which pain at the anterior aspect of the shoulder is induced
+      by adduction, internal rotation and forward flexion due to narrowing of the
+      space between the tip of the coracoid process (processus coracoideus) and the
+      lesser tubercle (tuberculum minus). Which structure is most commonly affected
+      in subcoracoid impingement?
+  right_terms:
+  - tendon-of-subscapularis-muscle-2
+  wrong_terms:
+  - inferior-glenohumeral-ligament
+  - tendon-of-supraspinatus-muscle
+  - tendon-of-infraspinatus-muscle
+  - tendon-of-the-brachioradialis-muscle-4
+  question_uuid: b955f601dd8425d7e85f41f36b6087b
+- concepts:
+  - suprascapular-region
+  - spina-scapulae
+  - spina-scapulae-2
+  - spine-of-the-scapula-3
+  exercise: question_bank
+  question:
+    de: Welche Struktur der Scapula (Schulterblatt) stellt die untere Grenze der Regio
+      suprascapularis (Oberschulterblattgegend) dar?
+    en: Which anatomical landmark constitutes the inferior border of the suprascapular
+      region?
+  right_terms:
+  - spina-scapulae
+  wrong_terms:
+  - angulus-inferior-scapulae
+  - margo-medialis-scapulae
+  - margo-lateralis-scapulae
+  - margo-superior-scapulae
+  question_uuid: e0e4753dfa3913fc79adb352bf18121
+- concepts:
+  - interscapular-region
+  - interscapular-region-2
+  - margo-medialis-scapulae
+  - margo-medialis-scapulae-2
+  exercise: question_bank
+  question:
+    de: Zwischen welcher Struktur des linken und rechten Schulterblattes (Scapula)
+      erstreckt sich die Zwischenschulterblattgegend (Regio interscapularis)?
+    en: Between what structure of the left and right scapula does the interscapular
+      region span?
+  right_terms:
+  - margo-medialis-scapulae
+  wrong_terms:
+  - margo-superior-scapulae
+  - margo-lateralis-scapulae
+  - angulus-inferior-scapulae
+  - glenoid-cavity
+  question_uuid: fd91c1e4e491b7ad6afb6e304db44a7
+- terms:
+  - musculus-flexor-carpi-ulnaris
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - epicondylus-medialis-humeri
+  - olecranon
+  wrong_terms:
+  - processus-coronoideus
+  - crista-supracondylaris-medialis
+  - tuberositas-ulnae
+  - collum-radii
+- terms:
+  - musculus-flexor-digitorum-superficialis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - epicondylus-medialis-humeri
+  - processus-coronoideus
+  - facies-anterior-radii
+  wrong_terms:
+  - crista-supracondylaris-medialis
+  - tuberositas-ulnae
+  - caput-radii
+- concepts:
+  - axillary-nerve
+  - collum-chirurgicum
+  exercise: question_bank
+  question:
+    de: Welcher Nerv verläuft in enger Nachbarschaft zum Collum chirurgicum humeri
+      (chirurgischer Hals des Oberarmknochens) und kann daher bei Frakturen in diesem
+      Gebiet leicht verletzt werden?
+    en: Which nerve runs in close proximity to the surgical neck of the humerus (collum
+      chirurgicum humeri) and can therefore be easily injured due to fractures in
+      this area?
+  right_terms:
+  - axillary-nerve
+  wrong_terms:
+  - nervus-radialis
+  - median-nerve
+  - ulnar-nerve
+  - musculocutaneous-nerve
+  question_uuid: 46f90f48c656cb656f83eb66c8262e5
+- concepts:
+  - nervus-ulnaris
+  - epicondylus-medialis-humeri
+  exercise: question_bank
+  question:
+    de: Welcher Nerv verläuft hinter dem Epicondylus medialis des Humerus (innerer
+      Obergelenkknorren des Oberarms)?
+    en: Which nerve passes behind the medial epicondyle (epicondylus medialis humeri)
+      of the humerus?
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-radialis
+  - median-nerve
+  - axillary-nerve
+  - musculocutaneous-nerve
+  question_uuid: 3cb036eedfba97dbce091f431647491
+- concepts:
+  - processus-coracoideus
+  exercise: question_bank
+  question:
+    de: Welche Struktur ist ein Beispiel für eine atavistische Epiphyse?
+    en: Which structure is an example of an atavistic epiphysis?
+  right_terms:
+  - processus-coracoideus
+  wrong_terms:
+  - acromion-2
+  - xiphoid-process-3
+  - tuberculum-supraglenoidale
+  - tuberculum-infraglenoidale
+  question_uuid: 1cade538cb1a9c18b798e035375c851
+- concepts:
+  - tuberculum-majus
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Strukturen bildet den Ansatz für die Muskeln, die an
+      der Bildung der Rotatorenmanschette beteiligt sind?
+    en: Which of the following structures gives the attachment to muscles that form
+      the rotator cuff?
+  right_terms:
+  - tuberculum-majus
+  wrong_terms:
+  - head-of-the-humerus
+  - trochanter-major
+  - collum-anatomicum
+  - collum-chirurgicum
+  question_uuid: 71c1614f0945573e8262caa49f59055
+- concepts:
+  - tuberculum-majus
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Strukturen liegt lateral des Sulcus intertubercularis
+      (Zwischenhöckerrinne)?
+    en: Which of the following structures lies lateral to bicipital groove (sulcus
+      intertubercularis)?
+  right_terms:
+  - tuberculum-majus
+  wrong_terms:
+  - lesser-tuberosity
+  - collum-anatomicum
+  - collum-chirurgicum
+  - head-of-the-humerus
+  question_uuid: fb70f597a1b6919b9b9cb0b5518343f
+- concepts:
+  - caput-humeri
+  exercise: question_bank
+  question:
+    de: Welcher Teil des Humerus (Oberarmknochen) ist an der Bildung des Schultergelenks
+      beteiligt?
+    en: What part of the humerus takes part in forming the shoulder joint?
+  right_terms:
+  - caput-humeri
+  wrong_terms:
+  - tuberculum-majus
+  - tuberculum-minus
+  - trochlea-humeri
+  - capitulum-humeri
+  question_uuid: b7e6a41d705a39b4c09c8326042836c
+- concepts:
+  - caput-humeri
+  exercise: question_bank
+  question:
+    de: Welcher der folgenden Abschnitte bildet den größten am Humerus (Oberarmkopf)?
+    en: Which of the following structures is the largest part of the humerus?
+  right_terms:
+  - caput-humeri
+  wrong_terms:
+  - tuberculum-majus
+  - tuberculum-minus
+  - capitulum-humeri
+  - deltoid-tuberosity
+  question_uuid: 3919731be2ffe682cab1e043b8ebd8e
+- concepts:
+  - caput-humeri
+  exercise: question_bank
+  question:
+    de: Welcher Teil des Humerus (Oberarmknochen) artikuliert mit der Scapula (Schulterblatt)?
+    en: Which part of humerus articulates with scapula?
+  right_terms:
+  - caput-humeri
+  wrong_terms:
+  - epicondylus-lateralis-humeri
+  - deltoid-tuberosity
+  - capitulum-humeri
+  - collum-chirurgicum
+  question_uuid: 7ce4bdc9599d50451a5f00fec030a3d
+- concepts:
+  - fossa-subscapularis
+  exercise: question_bank
+  question:
+    de: Welche Struktur befindet sich auf der anterioren Seite der Scapula (Schulterblatt)?
+    en: Which structure is present on the anterior surface of the scapula bone?
+  right_terms:
+  - fossa-subscapularis
+  wrong_terms:
+  - acromion
+  - spina-scapulae
+  - fossa-supraspinata
+  - fossa-infraspinata
+  question_uuid: 3ccd8343536581df8f0b56006305ee2
+- terms:
+  - musculus-extensor-digitorum
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - epicondylus-lateralis-humeri
+  wrong_terms:
+  - crista-supracondylaris-medialis
+  - corpus-humeri
+  - capitulum-humeri
+  - epicondylus-medialis-humeri
+  - crista-supracondylaris-lateralis
+- terms:
+  - musculus-extensor-digiti-minimi
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - epicondylus-lateralis-humeri
+  wrong_terms:
+  - crista-supracondylaris-medialis
+  - corpus-humeri
+  - capitulum-humeri
+  - epicondylus-medialis-humeri
+  - crista-supracondylaris-lateralis
+- terms:
+  - musculus-extensor-carpi-ulnaris
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - epicondylus-lateralis-humeri
+  - facies-posterior-ulnae
+  wrong_terms:
+  - crista-supracondylaris-medialis
+  - corpus-humeri
+  - epicondylus-medialis-humeri
+  - crista-supracondylaris-lateralis
+- terms:
+  - musculus-omohyoideus
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - margo-superior-scapulae
+  wrong_terms:
+  - collum-scapulae
+  - fossa-subscapularis
+  - margo-lateralis-scapulae
+  - margo-medialis-scapulae
+  - angulus-inferior-scapulae
+- terms:
+  - musculus-pectoralis-major
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - clavicula
+  - sternum
+  - cartilages-costales-i-iv
+  wrong_terms:
+  - acromion
+  - caput-humeri 
+  - crista-supracondylaris-medialis
+- terms:
+  - musculus-pectoralis-major
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - sulcus-intertubercularis
+  wrong_terms:
+  - tuberculum-majus
+  - fossa-subscapularis
+  - processus-coracoideus
+  - tuberculum-minus
+  - angulus-costae-iii-xii
+- terms:
+  - musculus-pectoralis-minor
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - processus-coracoideus
+  wrong_terms:
+  - acromion
+  - clavicula
+  - scapula
+  - caput-humeri
+  - costa-ii
+- terms:
+  - musculus-subclavius
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - clavicula
+  wrong_terms:
+  - processus-coracoideus
+  - sternum
+  - costa-ii
+  - acromion
+  - ligamentum-coracoacromiale
+- terms:
+  - musculus-serratus-anterior
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - margo-medialis-scapulae
+  wrong_terms:
+  - processus-xyphoideus
+  - processus-coracoideus
+  - acromion
+  - tuberculum-infraglenoidale
+  - clavicula
+- terms:
+  - clavicula
+  exercise: multiple_choice_image
+  relation: stabilizes_the
+  right_terms:
+  - musculus-subclavius
+  wrong_terms:
+  - musculus-pectoralis-minor
+  - musculus-pectoralis-major
+  - musculus-deltoideus
+  - musculus-sternocleidomastoideus
+  - musculi-intercostales-externi
+- terms:
+  - musculus-supinator
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - epicondylus-lateralis-humeri
+  - ligamentum-collaterale-radiale
+  - ligamentum-anulare-radii
+  - supinator-crest-1
+  wrong_terms:
+  - epicondylus-medialis-humeri
+  - crista-supracondylaris-lateralis

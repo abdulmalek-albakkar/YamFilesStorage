@@ -1,0 +1,549 @@
+---
+- terms:
+  - os-femoris
+  - corpus-femoris
+  exercise: easy
+- terms:
+  - caput-femoris
+  - collum-femoris
+  exercise: easy
+- terms:
+  - trochanter-major
+  - trochanter-minor
+  exercise: easy
+- terms:
+  - linea-intertrochanterica
+  - crista-intertrochanterica
+  exercise: easy
+- terms:
+  - trochanter-major
+  - trochanter-minor
+  - os-femoris
+  - linea-intertrochanterica
+  exercise: four_one
+- terms:
+  - corpus-femoris
+  - collum-femoris
+  - caput-femoris
+  - crista-intertrochanterica
+  exercise: four_one
+- terms:
+  - collum-femoris
+  - crista-intertrochanterica
+  - linea-intertrochanterica
+  - caput-femoris
+  exercise: identify_image
+- terms:
+  - trochanter-minor
+  - corpus-femoris
+  - trochanter-major
+  - os-femoris
+  exercise: identify_image
+- terms:
+  - linea-aspera
+  - fossa-intercondylaris
+  exercise: easy
+- terms:
+  - condylus-lateralis
+  - medial-condyle-of-the-femur
+  exercise: easy
+- terms:
+  - epicondylus-lateralis
+  - epicondylus-medialis
+  exercise: easy
+- terms:
+  - tuberculum-adductorium
+  - os-femoris
+  exercise: easy
+- terms:
+  - condylus-lateralis
+  - epicondylus-lateralis
+  - medial-condyle-of-the-femur
+  - epicondylus-medialis
+  exercise: four_one
+- terms:
+  - tuberculum-adductorium
+  - fossa-intercondylaris
+  - linea-aspera
+  - os-femoris
+  exercise: four_one
+- terms:
+  - fossa-intercondylaris
+  - epicondylus-medialis
+  - condylus-lateralis
+  - epicondylus-lateralis
+  exercise: identify_image
+- terms:
+  - linea-aspera
+  - os-femoris
+  - medial-condyle-of-the-femur
+  - tuberculum-adductorium
+  exercise: identify_image
+- terms:
+  - pectineal-line-of-femur-1
+  - spiral-line-of-the-femur-2
+  exercise: easy
+- terms:
+  - linea-aspera
+  - linea-intertrochanterica
+  exercise: easy
+- terms:
+  - linea-intertrochanterica
+  - spiral-line-of-the-femur-2
+  - linea-aspera
+  - pectineal-line-of-femur-1
+  exercise: four_one
+- terms:
+  - linea-aspera
+  - pectineal-line-of-femur-1
+  - linea-intertrochanterica
+  - spiral-line-of-the-femur-2
+  exercise: identify_image
+- terms:
+  - os-femoris
+  exercise: spell_term
+- terms:
+  - corpus-femoris
+  exercise: spell_term
+- terms:
+  - caput-femoris
+  exercise: spell_term
+- terms:
+  - collum-femoris
+  exercise: spell_term
+- terms:
+  - trochanter-major
+  exercise: spell_term
+- terms:
+  - trochanter-minor
+  exercise: spell_term
+- terms:
+  - linea-intertrochanterica
+  exercise: spell_term
+- terms:
+  - crista-intertrochanterica
+  exercise: spell_term
+- terms:
+  - linea-aspera
+  exercise: spell_term
+- terms:
+  - fossa-intercondylaris
+  exercise: spell_term
+- terms:
+  - condylus-lateralis
+  exercise: spell_term
+- terms:
+  - medial-condyle-of-the-femur
+  exercise: spell_term
+- terms:
+  - epicondylus-lateralis
+  exercise: spell_term
+- terms:
+  - epicondylus-medialis
+  exercise: spell_term
+- terms:
+  - tuberculum-adductorium
+  exercise: spell_term
+- terms:
+  - pectineal-line-of-femur-1
+  exercise: spell_term
+- terms:
+  - spiral-line-of-the-femur-2
+  exercise: spell_term
+- concepts:
+  - femur-2
+  - os-femoris
+  - hip-joint-2
+  exercise: question_bank
+  question:
+    de: Welcher Knochen bildet mit dem Hüftbein (Os coxae) das Hüftgelenk (Articulatio
+      coxae)?
+    en: What bone forms the hip joint (articulatio coxae) with the hip bone (os coxae)?
+  right_terms:
+  - femur-2
+  wrong_terms:
+  - fibula-3
+  - calcaneus
+  - tibia-3
+  - os-naviculare
+  question_uuid: 824751b63bea7da0f91b049d31da57d
+- concepts:
+  - gluteus-medius-muscle-2
+  - musculus-gluteus-medius
+  - musculus-gluteus-minimus
+  - trochanter-major
+  exercise: question_bank
+  question:
+    de: Welche Glutealmuskeln setzen am großen Rollhügel (Trochanter major) an?
+    en: What gluteal muscles are attached to the greater trochanter (trochanter major)?
+  right_terms:
+  - gluteus-medius-muscle-2
+  - musculus-gluteus-minimus
+  wrong_terms:
+  - musculus-psoas-major
+  - musculus-gluteus-maximus
+  - musculus-iliacus
+  question_uuid: 3594a7ede72df4324c503d4c011dda4
+- terms:
+  - musculus-iliacus
+  exercise: multiple_choice_text
+  relation: insertion_of
+  right_terms:
+  - trochanter-minor
+  wrong_terms:
+  - linea-intertrochanterica
+  - corpus-femoris
+  - trochanter-major
+  - crista-intertrochanterica
+  - ramus-superior-ossis-pubis
+- terms:
+  - musculus-psoas-major
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - trochanter-minor
+  wrong_terms:
+  - linea-intertrochanterica
+  - eminentia-iliopubica
+  - trochanter-major
+  - crista-intertrochanterica
+  - tuber-ischiadicum
+- concepts:
+  - knee
+  exercise: question_bank
+  question:
+    de: Ein 26-jähriger Mann erleidet einen Motorradunfall und wird in die Notaufnahme
+      gebracht. Er leidet unter starken Schmerzen, einer Schwellung und kann das Knie
+      nicht strecken. Bei der Inspektion wirkt das Knie sichtbar deformiert. Der Arzt
+      vermutet eine Luxation des Knies, bei der die Knochen, die das Kniegelenk (Articulatio
+      genus) bilden , den Kontakt zueinander verlieren. Welche Knochen befinden sich
+      im Kniegelenk?
+    en: A 26-year-old man suffers a motorcycle accident and is rushed into the emergency
+      room. He presents with severe pain, swelling and the inability to straighten
+      the knee. Upon inspection, the knee is visibly deformed. The doctor suspects
+      a dislocation of the knee, in which the bones that form the knee joint (articulatio
+      genus) lose contact with each other. Which bones are contained in the the knee
+      joint?
+  right_terms:
+  - os-femoris
+  - tibia
+  - patella
+  wrong_terms:
+  - fibula
+  - crista-intertrochanterica
+  question_uuid: a6d6b1670528cc352448a95cbacc436
+- concepts:
+  - os-femoris
+  exercise: question_bank
+  question:
+    de: Welche Teile des Femurs tragen zu den Gelenkflächen des Tibiofemoralgelenks
+      (Articulatio femorotibialis) bei?
+    en: Which parts of the femur contribute to the articulating surfaces of the tibiofemoral
+      joint (articulatio femorotibialis)?
+  right_terms:
+  - condylus-lateralis
+  - condylus-medialis
+  wrong_terms:
+  - collum-femoris
+  - head-of-the-femur-2
+  - eminentia-intercondylaris
+  question_uuid: 50a8e7347e0559b1ae67f73b7126adb
+- terms:
+  - musculus-vastus-medialis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - linea-aspera
+  - linea-intertrochanterica
+  wrong_terms:
+  - spina-iliaca-anterior-inferior
+  - crista-obturatoria
+  - eminentia-iliopubica
+  - crista-intertrochanterica
+- terms:
+  - musculus-vastus-lateralis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - linea-aspera
+  - trochanter-major
+  wrong_terms:
+  - spina-iliaca-anterior-superior
+  - collum-femoris
+  - eminentia-iliopubica
+  - linea-intertrochanterica
+- terms:
+  - musculus-vastus-intermedius
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - corpus-femoris
+  wrong_terms:
+  - trochanter-major
+  - linea-aspera
+  - collum-femoris
+  - crista-iliaca
+  - linea-intertrochanterica
+- terms:
+  - musculus-biceps-femoris
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - tuber-ischiadicum
+  - ligamentum-sacrotuberale
+  - linea-aspera
+  - spina-ischiadica
+  wrong_terms:
+  - trochanter-major
+  - crista-obturatoria
+- terms:
+  - musculus-adductor-longus
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - linea-aspera
+  wrong_terms:
+  - tuberositas-glutea
+  - trochanter-minor
+  - fossa-trochanterica
+  - caput-femoris
+  - linea-intertrochanterica
+- terms:
+  - musculus-adductor-brevis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - linea-aspera
+  wrong_terms:
+  - tuberositas-glutea
+  - trochanter-minor
+  - fossa-trochanterica
+  - condylus-medialis-tibiae
+  - epicondylus-medialis
+- terms:
+  - musculus-adductor-magnus
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - linea-aspera
+  - tuberculum-adductorium
+  - medial-supracondylar-line
+  - tuberositas-glutea
+  wrong_terms:
+  - tuberositas-tibiae
+  - facies-medialis-fibulae
+- terms:
+  - adductor-minimus-muscle
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - linea-aspera
+  - tuberositas-glutea
+  wrong_terms:
+  - trochanter-minor
+  - fossa-trochanterica
+  - condylus-medialis-tibiae
+  - epicondylus-medialis
+- concepts:
+  - femur
+  - os-femoris
+  - femur-2
+  - femur-8
+  - tibia
+  - tibia-3
+  - knee
+  - knee-3
+  exercise: question_bank
+  question:
+    de: Die Kondylen (Knorren) welcher Knochen sind Teil des Kniegelenks?
+    en: The condyles of which bones are characteristic structures of the knee joint?
+  right_terms:
+  - femur
+  - tibia
+  wrong_terms:
+  - fibula
+  - talus
+  - humerus
+  - radius
+  question_uuid: ed87f31c40fddd6755fd12aa1e94068
+- terms:
+  - musculus-popliteus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - condylus-lateralis
+  - meniscus-lateralis
+  wrong_terms:
+  - meniscus-medialis
+  - collum-fibulae
+  - corpus-femoris
+  - membrana-interossea-cruris
+- terms:
+  - musculus-gastrocnemius
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - epicondylus-medialis
+  - epicondylus-lateralis
+  wrong_terms:
+  - condylus-medialis-tibiae
+  - membrana-interossea-cruris
+  - condylus-lateralis-tibiae
+  - facies-posterior-fibulae
+- terms:
+  - musculus-plantaris
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - epicondylus-lateralis
+  wrong_terms:
+  - meniscus-medialis
+  - membrana-interossea-cruris
+  - condylus-lateralis-tibiae
+  - facies-posterior-fibulae
+  - epicondylus-medialis
+- concepts:
+  - linea-pectinea-femoris
+  - pectineal-line-of-femur-1
+  - crista-intertrochanterica
+  - tuberositas-glutea
+  exercise: question_bank
+  question:
+    de: Welche der folgenden knöchernen Landmarken können nicht von der anterioren
+      Ansicht des Femurs und Os coxae gesehen werden?
+    en: Which of the following boney landmarks can not be viewed from the anterior
+      aspect of the femur and hip bone (os coxae)?
+  right_terms:
+  - linea-pectinea-femoris
+  - crista-intertrochanterica
+  - tuberositas-glutea
+  wrong_terms:
+  - tuberculum-pubicum
+  - linea-intertrochanterica
+  - ala-ossis-ilii-fossa-iliaca
+  question_uuid: aa913c149c9b8dbf73dfd88b1834e60
+- concepts:
+  - trochanter-major
+  exercise: question_bank
+  question:
+    de: Welche knöcherne Struktur ist bei aufrechtem Stehen mit locker hängenden Armen
+      etwa auf Handgelenkshöhe tastbar?
+    en: When standing upright with your arms to the side, which boney landmark is
+      palpable at approximately the height of the wrist?
+  right_terms:
+  - trochanter-major
+  wrong_terms:
+  - fossa-trochanterica
+  - spina-iliaca-anterior-inferior
+  - spina-iliaca-anterior-superior
+  - crista-iliaca
+  - tuberositas-glutea
+  question_uuid: 676781091422b47a4bed8b077cd3077
+- concepts:
+  - acetabulum
+  - acetabulum-2
+  - caput-femoris
+  exercise: question_bank
+  question:
+    de: Welche Strukturen werden bei einer vollständigen Hüftarthroplastik ersetzt?
+    en: Which structures are replaced during a total hip arthroplasty procedure?
+  right_terms:
+  - acetabulum
+  - caput-femoris
+  wrong_terms:
+  - ala-ossis-ilii-fossa-iliaca
+  - corpus-femoris
+  - symphysis-pubis
+  question_uuid: cbf633e9c3a830c502b5a9482c41aab
+- concepts:
+  - corpus-femoris
+  exercise: question_bank
+  question:
+    de: Der CCD-Winkel des Femurs wird gemessen als Winkel zwischen dem Femurhals
+      und welcher Struktur?
+    en: The femur angle of inclination is measured using the angle of femoral neck
+      in relation to the following
+  right_terms:
+  - corpus-femoris
+  wrong_terms:
+  - caput-femoris
+  - ligamentum-patellae
+  - musculus-rectus-femoris
+  - musculus-gracilis
+  question_uuid: 35c70337c461d9d0c5f99992a8f4e77
+- concepts:
+  - crista-intertrochanterica
+  exercise: question_bank
+  question:
+    de: Die Knochenkante der posterioren Seite des Femurs, die die beiden Trochanter
+      verbindet, trägt welchen Namen?
+    en: What is the bone ridge on the posterior aspect of the femur that connects
+      the two trochanters called?
+  right_terms:
+  - crista-intertrochanterica
+  wrong_terms:
+  - linea-intertrochanterica
+  - linea-pectinea-femoris
+  - linea-aspera
+  - fossa-trochanterica
+  question_uuid: cecce596150ab6c48a6f14e8685f848
+- terms:
+  - musculus-gluteus-medius
+  exercise: multiple_choice_text
+  relation: insertion_of
+  right_terms:
+  - trochanter-major
+  wrong_terms:
+  - tractus-iliotibialis
+  - linea-intertrochanterica
+  - linea-aspera
+  - crista-intertrochanterica
+  - trochanter-minor
+- terms:
+  - musculus-gluteus-minimus
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - trochanter-major
+  wrong_terms:
+  - ligamentum-sacrotuberale
+  - os-ischii
+  - tuberositas-glutea
+  - crista-intertrochanterica
+  - trochanter-minor
+- terms:
+  - musculus-piriformis
+  exercise: multiple_choice_text
+  relation: insertion_of
+  right_terms:
+  - trochanter-major
+  wrong_terms:
+  - linea-intertrochanterica
+  - eminentia-iliopubica
+  - trochanter-minor
+  - crista-intertrochanterica
+  - linea-aspera
+- terms:
+  - musculus-obturatorius-internus
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - trochanter-major
+  wrong_terms:
+  - tuberositas-iliaca
+  - trochanter-minor
+  - ligamentum-sacrotuberale
+  - ramus-ossis-ischii
+  - collum-femoris
+- terms:
+  - musculus-quadratus-femoris
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - crista-intertrochanterica
+  wrong_terms:
+  - tuberositas-iliaca
+  - ligamentum-ischiofemorale
+  - os-pubis
+  - linea-intertrochanterica
+  - os-sacrum

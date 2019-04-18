@@ -1,0 +1,1530 @@
+---
+- terms:
+  - musculus-supraspinatus
+  - musculus-infraspinatus
+  exercise: easy
+- terms:
+  - musculus-teres-minor
+  - musculus-teres-major
+  exercise: easy
+- terms:
+  - musculus-subscapularis
+  - musculus-deltoideus
+  exercise: easy
+- terms:
+  - musculus-coracobrachialis
+  - musculus-biceps-brachii
+  exercise: easy
+- terms:
+  - musculus-teres-minor
+  - musculus-teres-major
+  - musculus-supraspinatus
+  - musculus-infraspinatus
+  exercise: four_one
+- terms:
+  - musculus-subscapularis
+  - musculus-deltoideus
+  - musculus-coracobrachialis
+  - musculus-biceps-brachii
+  exercise: four_one
+- terms:
+  - musculus-teres-minor
+  - musculus-teres-major
+  - musculus-supraspinatus
+  - musculus-infraspinatus
+  exercise: identify_image
+- terms:
+  - musculus-subscapularis
+  - musculus-deltoideus
+  - musculus-coracobrachialis
+  - musculus-biceps-brachii
+  exercise: identify_image
+- terms:
+  - musculus-brachialis
+  - musculus-triceps-brachii
+  exercise: easy
+- terms:
+  - musculus-anconeus
+  - musculus-biceps-brachii
+  exercise: easy
+- terms:
+  - musculus-anconeus
+  - musculus-biceps-brachii
+  - musculus-brachialis
+  - musculus-triceps-brachii
+  exercise: four_one
+- terms:
+  - musculus-anconeus
+  - musculus-biceps-brachii
+  - musculus-brachialis
+  - musculus-triceps-brachii
+  exercise: identify_image
+- terms:
+  - musculus-supraspinatus
+  exercise: spell_term
+- terms:
+  - musculus-infraspinatus
+  exercise: spell_term
+- terms:
+  - musculus-teres-minor
+  exercise: spell_term
+- terms:
+  - musculus-teres-major
+  exercise: spell_term
+- terms:
+  - musculus-subscapularis
+  exercise: spell_term
+- terms:
+  - musculus-deltoideus
+  exercise: spell_term
+- terms:
+  - musculus-coracobrachialis
+  exercise: spell_term
+- terms:
+  - musculus-biceps-brachii
+  exercise: spell_term
+- terms:
+  - musculus-brachialis
+  exercise: spell_term
+- terms:
+  - musculus-triceps-brachii
+  exercise: spell_term
+- terms:
+  - musculus-anconeus
+  exercise: spell_term
+- concepts:
+  - musculus-coracobrachialis
+  - ligamentum-coracoclaviculare
+  exercise: question_bank
+  question:
+    de: Die Ruptur welcher der folgenden Strukturen kann in einer Schulterverletzung
+      resultieren?
+    en: The rupture of which of the following structures could result in a sprained
+      shoulder?
+  right_terms:
+  - musculus-coracobrachialis
+  - ligamentum-coracoclaviculare
+  wrong_terms:
+  - tractus-iliotibialis
+  - epicondylus-medialis-humeri
+  - epicondylus-lateralis-humeri
+  question_uuid: cb77613a10eb4eab499d7df0f035dac
+- concepts:
+  - musculus-supraspinatus
+  - musculus-infraspinatus
+  - musculus-teres-minor
+  - musculus-subscapularis
+  exercise: question_bank
+  question:
+    de: Welcher Muskel senkt die Wahrscheinlichkeit einer superioren Dislokation der
+      Schulter?
+    en: Which muscles reduce the likelihood of anterior dislocation of the shoulder?
+  right_terms:
+  - musculus-supraspinatus
+  - musculus-infraspinatus
+  - musculus-teres-minor
+  - musculus-subscapularis
+  wrong_terms:
+  - musculus-pectoralis-major-2
+  question_uuid: 2dc607bfceeb3990079b23500701bce
+- concepts:
+  - musculus-latissimus-dorsi
+  - musculus-teres-major
+  exercise: question_bank
+  question:
+    de: Welche Muskeln bilden die hintere Achselfalte?
+    en: Which muscles form the posterior axillary fold in the armpit?
+  right_terms:
+  - musculus-teres-major
+  - musculus-latissimus-dorsi
+  wrong_terms:
+  - musculus-teres-minor
+  - musculus-levator-scapulae
+  - musculus-rhomboideus-major
+  question_uuid: 962f8e19941a54505d1e01e95408d40
+- concepts:
+  - nervus-suprascapularis
+  - nervus-suprascapularis-2
+  - musculus-supraspinatus
+  - musculus-infraspinatus
+  exercise: question_bank
+  question:
+    de: Welcher Nerv wird durch die Vereinigung des fünften und sechsten Zervikalnerven
+      gebildet und verläuft unterhalb des Musculus trapezius in die Fossa supraspinata,
+      wo er sich in mehrere Äste teilt, unter anderem zur motorischen Versorgung der
+      Musculi supraspinatus und infraspinatus?
+    en: Which nerve is formed from the union of the fifth and sixth cervical nerves
+      and runs under the trapezius muscle (musculus trapezius) into the supraspinatous
+      fossa (fossa supraspinata), where it splits into several branches to provide
+      motor innervation of the supra- and infraspinatus muscles?
+  right_terms:
+  - nervus-suprascapularis
+  wrong_terms:
+  - nervus-thoracicus-longus
+  - nervi-supraclaviculares
+  - nervus-subclavius
+  - nervus-dorsalis-scapulae
+  question_uuid: 23c7a8ec7c2032ab784b986fbb6701f
+- concepts:
+  - biceps-brachii-muscle
+  - musculus-biceps-brachii
+  exercise: question_bank
+  question:
+    de: Welcher Muskel besitzt zwei Köpfe?
+    en: Which muscle has two heads?
+  right_terms:
+  - biceps-brachii-muscle
+  wrong_terms:
+  - musculus-quadriceps-femoris-2
+  - triceps-brachii-muscle
+  - musculus-triceps-surae
+  - digastric-muscle-4
+  question_uuid: a84587712d7b7dd352a09facadf3a90
+- concepts:
+  - biceps-brachii-muscle
+  - musculus-biceps-brachii
+  - musculus-coracobrachialis
+  - musculus-brachialis
+  - nervus-musculocutaneus
+  exercise: question_bank
+  question:
+    de: Welche Muskeln werden vom Muskel-Haut-Nerven (Nervus musculocutaneus) innerviert?
+    en: Which muscles are innervated by the musculocutaneous nerve (nervus musculocutaneus)?
+  right_terms:
+  - biceps-brachii-muscle
+  - musculus-coracobrachialis
+  - musculus-brachialis
+  wrong_terms:
+  - triceps-brachii-muscle
+  - musculus-deltoideus
+  question_uuid: 983e54652dd84264572175f570620be
+- concepts:
+  - musculus-brachialis
+  exercise: question_bank
+  question:
+    de: Welcher Muskel ist der stärkste Beuger im Ellenbogengelenk (Articulatio cubiti)?
+    en: Which muscle is the strongest flexor in the elbow joint (articulatio cubiti)?
+  right_terms:
+  - musculus-brachialis
+  wrong_terms:
+  - biceps-brachii-muscle
+  - triceps-brachii-muscle
+  - musculus-anconeus
+  - musculus-deltoideus
+  question_uuid: 418bf077a6dee8f6c27a0179ee11140
+- concepts:
+  - musculus-deltoideus
+  exercise: question_bank
+  question:
+    de: Welcher Muskel ist der stärkste Abduktor im Schultergelenk (Articulatio humeri)?
+    en: Which muscle is the strongest abductor in the shoulder joint (articulatio
+      humeri)?
+  right_terms:
+  - musculus-deltoideus
+  wrong_terms:
+  - long-head-of-biceps-brachii-muscle
+  - pectoralis-major-muscle-2
+  - short-head-of-biceps-brachii-muscle
+  - musculus-coracobrachialis
+  question_uuid: 30c3a9482443995ffeea83ff16476ac
+- concepts:
+  - musculus-supraspinatus
+  exercise: question_bank
+  question:
+    de: Welcher Muskel initiiert die Abduktion im Schultergelenk (Articulatio humeri)?
+    en: Which muscle is responsible for initiating abduction in the shoulder joint
+      (articulatio humeri)?
+  right_terms:
+  - musculus-supraspinatus
+  wrong_terms:
+  - musculus-coracobrachialis
+  - musculus-deltoideus
+  - musculus-teres-minor
+  - musculus-latissimus-dorsi
+  question_uuid: 53e7e634ad09a6d7cf3c62e76a9a2c7
+- concepts:
+  - triceps-brachii-muscle
+  - musculus-triceps-brachii
+  exercise: question_bank
+  question:
+    de: Welcher Muskel hat drei Köpfe?
+    en: Which muscle has three heads?
+  right_terms:
+  - triceps-brachii-muscle
+  wrong_terms:
+  - biceps-brachii-muscle
+  - musculus-quadriceps-femoris-2
+  - digastric-muscle-4
+  - musculus-rectus-abdominis
+  question_uuid: d8e70a6ffdc0beda8bb2a9801454268
+- concepts:
+  - biceps-brachii-muscle
+  - musculus-biceps-brachii
+  - triceps-brachii-muscle
+  - musculus-triceps-brachii
+  exercise: question_bank
+  question:
+    de: Welche Muskeln sind Gegenspieler im Ellenbogengelenk (Articulatio cubiti)?
+    en: Which muscles are antagonists in the elbow joint (articulatio cubiti)?
+  right_terms:
+  - biceps-brachii-muscle
+  - triceps-brachii-muscle
+  wrong_terms:
+  - musculus-flexor-digitorum-profundus
+  - musculus-pronator-quadratus
+  - musculus-flexor-digitorum-superficialis
+  question_uuid: 91cdd914068a1974ffae0c4db74bd37
+- concepts:
+  - musculus-anconeus
+  - musculus-triceps-brachii
+  exercise: question_bank
+  question:
+    de: Sowohl morphologisch als auch funktionell stellt der Knorrenmuskel (Musculus
+      anconeus) eine Fortsetzung welches Muskels dar? Sie werden nicht nur vom gleichen
+      Nerv versorgt, sondern sind auch beide häufig entweder teilweise oder sogar
+      komplett vereint.
+    en: Both morphologically and functionally the anconeus muscle constitutes a continuation
+      of which muscle?
+  right_terms:
+  - musculus-triceps-brachii
+  wrong_terms:
+  - musculus-pronator-teres
+  - musculus-flexor-carpi-ulnaris
+  - musculus-palmaris-longus
+  - musculus-pronator-quadratus
+  question_uuid: 644555ab434807e8a9076831df2c22f
+- concepts:
+  - nervus-ulnaris
+  - musculus-anconeus
+  exercise: question_bank
+  question:
+    de: Eine anatomische Variation des Knorrenmuskels (Musculus anconeus) findet sich
+      in bis zu einem Drittel aller Menschen. Obwohl die meisten dieser Varianten
+      harmlos sind, wird eine als klinisch relevant erachtet, nämlich der Musculus
+      anconeus epitrochlearis. Dieser Muskel entspringt am inneren Obergelenkknorren
+      des Oberarms (Epicondylus medialis humeri), sodass er nun den Verlauf welches
+      Nerven kreuzt, welcher komprimiert werden kann?
+    en: An anatomical variation of the anconeus muscle is found in up to one third
+      of all humans. Even though most are harmless, there is one variation that can
+      be considered as clinically relevant, namely the anconeus epitrochlearis muscle.
+      This accessory muscle originates at the medial epicondyle of the humerus crossing
+      the course of which nerve, potentially compressing it?
+  right_terms:
+  - nervus-ulnaris
+  wrong_terms:
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - nervus-medianus
+  - nervus-cutaneus-antebrachii-lateralis
+  question_uuid: 139413e10b955a0198c7cee03df7709
+- concepts:
+  - musculus-biceps-brachii
+  exercise: question_bank
+  question:
+    de: Zum Eindrehen einer Schraube werden die Supinatormuskeln aktiviert. Welcher
+      der folgenden Muskeln entwickelt demnach die stärkste Kraftentwicklung in dieser
+      Bewegung, wenn ein Handwerker eine Schraube mit Hilfe eines Schraubenziehers
+      befestigt?
+    en: The supinator muscles are responsible for movements such as tightening a screw.
+      Which of the following muscles thus provides the strongest torque, when a carpenter
+      tightens a screw with a screwdriver?
+  right_terms:
+  - musculus-biceps-brachii
+  wrong_terms:
+  - supinator-muscle
+  - musculus-anconeus
+  - triceps-brachii-muscle
+  - musculus-pronator-quadratus
+  question_uuid: 2c6fe093a66948c3f650782fdd85746
+- concepts:
+  - triceps-brachii-muscle
+  - musculus-triceps-brachii
+  exercise: question_bank
+  question:
+    de: Ein 25-jähriger Profiboxer benutzt einen Jab (abrupt geschlagene Gerade mit
+      der Führhand) mit ausgestrecktem Unterarm. Welcher der folgenden Muskeln trägt
+      am stärksten dazu bei, den Arm während dieses Schlags gestreckt zu halten?
+    en: A 25-year-old professional boxer prefers to jab with a straight elbow. Which
+      of the following muscles is mostly responsible for keeping the elbow extended
+      during the punch?
+  right_terms:
+  - triceps-brachii-muscle
+  wrong_terms:
+  - musculus-brachioradialis
+  - musculus-brachialis
+  - musculus-biceps-brachii
+  - supinator-muscle
+  question_uuid: 221ad222e53d547e16c0100b8ebd87a
+- terms:
+  - musculus-subscapularis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - fossa-subscapularis
+  wrong_terms:
+  - spina-scapulae
+  - margo-superior-scapulae
+  - margo-lateralis-scapulae
+  - margo-medialis-scapulae
+  - angulus-inferior-scapulae
+- terms:
+  - musculus-subscapularis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - tuberculum-minus
+  wrong_terms:
+  - crista-tuberculi-minoris
+  - crista-tuberculi-majoris
+  - costa-ii
+  - tuberculum-majus
+  - collum-radii
+- terms:
+  - musculus-subscapularis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-subscapularis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-radialis
+  - nervus-vagus
+  - nervus-ulnaris
+  - plexus-cervicalis
+- terms:
+  - musculus-supraspinatus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - fossa-supraspinata
+  wrong_terms:
+  - acromion
+  - processus-coracoideus
+  - corpus-humeri
+  - caput-humeri
+  - clavicula
+- terms:
+  - musculus-supraspinatus
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - tuberculum-majus
+  wrong_terms:
+  - fossa-supraspinata
+  - acromion
+  - processus-coracoideus
+  - tuberositas-deltoidea
+  - bursa-subdeltoidea-bursa-subacromialis
+- terms:
+  - musculus-supraspinatus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-suprascapularis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-radialis
+  - nervus-subscapularis
+  - nervus-ulnaris
+  - plexus-cervicalis
+- terms:
+  - musculus-infraspinatus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - fossa-infraspinata
+  wrong_terms:
+  - fossa-supraspinata
+  - spina-scapulae
+  - clavicula
+  - margo-medialis-scapulae
+  - collum-scapulae
+- terms:
+  - musculus-infraspinatus
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - tuberculum-majus
+  wrong_terms:
+  - tuberculum-minus
+  - tuberositas-deltoidea
+  - costa-i-3
+  - tuberculum-infraglenoidale
+  - cavitas-glenoidalis
+- terms:
+  - musculus-infraspinatus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-suprascapularis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-radialis
+  - nervus-subscapularis
+  - nervus-ulnaris
+  - nervus-axillaris
+- terms:
+  - musculus-teres-minor
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - margo-lateralis-scapulae
+  wrong_terms:
+  - margo-medialis-scapulae
+  - fossa-subscapularis
+  - collum-scapulae
+  - margo-superior-scapulae
+  - spina-scapulae
+- terms:
+  - musculus-teres-minor
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - tuberculum-majus
+  wrong_terms:
+  - tuberculum-minus
+  - sulcus-intertubercularis
+  - corpus-claviculae
+  - facies-anterior-radii
+  - costa-i-3
+- terms:
+  - musculus-teres-minor
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-axillaris
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-radialis
+  - nervus-subscapularis
+  - nervus-ulnaris
+  - nervus-suprascapularis
+- terms:
+  - musculus-deltoideus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - clavicula
+  - acromion
+  - spina-scapulae
+  wrong_terms:
+  - processus-coracoideus
+  - costa-i-3
+  - fossa-supraspinata
+- terms:
+  - musculus-deltoideus
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - tuberositas-deltoidea
+  wrong_terms:
+  - tuberculum-minus
+  - crista-tuberculi-majoris
+  - tuberculum-majus
+  - angulus-inferior-scapulae
+  - costa-i-3
+- terms:
+  - musculus-deltoideus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-axillaris
+  wrong_terms:
+  - nervus-subscapularis
+  - nervus-radialis
+  - nervus-musculocutaneus
+  - nervus-ulnaris
+  - nervus-suprascapularis
+- terms:
+  - musculus-teres-major
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - angulus-inferior-scapulae
+  - margo-lateralis-scapulae
+  wrong_terms:
+  - fossa-subscapularis
+  - margo-superior-scapulae
+  - spina-scapulae
+  - acromion
+- terms:
+  - musculus-teres-major
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - crista-tuberculi-minoris
+  wrong_terms:
+  - crista-tuberculi-majoris
+  - tuberculum-majus
+  - margo-lateralis-scapulae
+  - margo-superior-scapulae
+  - collum-scapulae
+- terms:
+  - musculus-teres-major
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-subscapularis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-radialis
+  - nervus-vagus
+  - nervus-ulnaris
+  - plexus-cervicalis
+- terms:
+  - musculus-coracobrachialis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - processus-coracoideus
+  wrong_terms:
+  - acromion
+  - angulus-inferior-scapulae
+  - corpus-claviculae
+  - spina-scapulae
+  - cavitas-glenoidalis
+- terms:
+  - musculus-coracobrachialis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - corpus-humeri
+  wrong_terms:
+  - fossa-subscapularis
+  - margo-lateralis-scapulae
+  - margo-medialis-scapulae
+  - margo-superior-scapulae
+  - costa-i-3
+- terms:
+  - musculus-coracobrachialis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-musculocutaneus
+  wrong_terms:
+  - nervus-subscapularis
+  - nervus-radialis
+  - nervus-vagus
+  - nervus-ulnaris
+  - plexus-cervicalis
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-coracobrachialis
+  - musculus-deltoideus
+  - musculus-pectoralis-major
+  wrong_terms:
+  - musculus-pectoralis-minor
+  - musculus-triceps-brachii
+  - musculus-teres-major
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-deltoideus
+  - musculus-latissimus-dorsi
+  - musculus-teres-major
+  wrong_terms:
+  - musculus-pectoralis-minor
+  - musculus-coracobrachialis
+  - musculus-subscapularis
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: internally_rotates_the
+  right_terms:
+  - musculus-deltoideus
+  - musculus-latissimus-dorsi
+  - musculus-subscapularis
+  - musculus-teres-major
+  wrong_terms:
+  - musculus-teres-minor
+  - musculus-infraspinatus
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: externally_rotates_the
+  right_terms:
+  - musculus-deltoideus
+  - musculus-infraspinatus
+  - musculus-teres-minor
+  wrong_terms:
+  - musculus-latissimus-dorsi
+  - musculus-brachialis
+  - musculus-supraspinatus
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: adducts_the
+  right_terms:
+  - musculus-coracobrachialis
+  - musculus-deltoideus
+  - musculus-latissimus-dorsi
+  - musculus-pectoralis-major
+  - musculus-teres-major
+  wrong_terms:
+  - musculus-supraspinatus
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: abducts_the
+  right_terms:
+  - musculus-deltoideus
+  - musculus-supraspinatus
+  wrong_terms:
+  - musculus-latissimus-dorsi
+  - musculus-triceps-brachii
+  - musculus-pronator-teres
+  - musculus-supinator
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: weakly_adducts_the
+  right_terms:
+  - musculus-teres-minor
+  wrong_terms:
+  - musculus-coracobrachialis
+  - musculus-subscapularis
+  - musculus-teres-major
+  - musculus-extensor-indicis
+  - musculus-pectoralis-minor
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: adducts_the
+  right_terms:
+  - musculus-coracobrachialis
+  - musculus-infraspinatus
+  - musculus-latissimus-dorsi
+  - musculus-pectoralis-major
+  - musculus-teres-major
+  wrong_terms:
+  - musculus-supraspinatus
+- terms:
+  - musculus-subscapularis
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - fossa-subscapularis
+  wrong_terms:
+  - spina-scapulae
+  - margo-superior-scapulae
+  - margo-lateralis-scapulae
+  - margo-medialis-scapulae
+  - angulus-inferior-scapulae
+- terms:
+  - musculus-supraspinatus
+  exercise: multiple_choice_text
+  relation: innervation_of
+  right_terms:
+  - nervus-suprascapularis
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-radialis
+  - nervus-subscapularis
+  - nervus-ulnaris
+  - plexus-cervicalis
+- terms:
+  - musculus-infraspinatus
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - fossa-infraspinata
+  wrong_terms:
+  - fossa-supraspinata
+  - spina-scapulae
+  - clavicula
+  - margo-medialis-scapulae
+  - collum-scapulae
+- terms:
+  - musculus-teres-minor
+  exercise: multiple_choice_text
+  relation: innervation_of
+  right_terms:
+  - nervus-axillaris
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-radialis
+  - nervus-subscapularis
+  - nervus-ulnaris
+  - nervus-suprascapularis
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: externally_rotates_the
+  right_terms:
+  - musculus-infraspinatus
+  - musculus-teres-minor
+  wrong_terms:
+  - musculus-teres-major
+  - musculus-subscapularis
+  - musculus-biceps-brachii
+  - musculus-supraspinatus
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: internally_rotates_the
+  right_terms:
+  - musculus-subscapularis
+  wrong_terms:
+  - musculus-brachialis
+  - musculus-supraspinatus
+  - musculus-teres-minor
+  - musculus-supinator
+  - musculus-extensor-indicis
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: abducts_the
+  right_terms:
+  - musculus-supraspinatus
+  wrong_terms:
+  - musculus-supinator
+  - musculus-brachialis
+  - musculus-teres-minor
+  - musculus-extensor-digitorum
+  - musculus-triceps-brachii
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: weakly_adducts_the
+  right_terms:
+  - musculus-teres-minor
+  wrong_terms:
+  - musculus-subscapularis
+  - musculus-brachialis
+  - musculus-pectoralis-minor
+  - musculus-extensor-indicis
+  - musculus-infraspinatus
+- terms:
+  - musculus-brachialis
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - corpus-humeri
+  wrong_terms:
+  - trochlea-humeri
+  - collum-chirurgicum
+  - capitulum-humeri
+  - caput-humeri
+  - collum-anatomicum
+- terms:
+  - musculus-brachialis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - tuberositas-ulnae
+  wrong_terms:
+  - margo-anterior-ulnae
+  - ligamentum-collaterale-ulnare
+  - processus-styloideus-radii
+  - corpus-humeri
+  - caput-radii
+- terms:
+  - musculus-brachialis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-musculocutaneus
+  - nervus-radialis
+  wrong_terms:
+  - nervus-ulnaris
+  - nervus-medianus
+  - nervus-axillaris
+  - nervus-thoracodorsalis
+- terms:
+  - musculus-biceps-brachii
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - tuberculum-supraglenoidale
+  - processus-coracoideus
+  wrong_terms:
+  - margo-superior-scapulae
+  - collum-chirurgicum
+  - collum-scapulae
+  - caput-humeri
+- terms:
+  - musculus-biceps-brachii
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - tuberositas-radii
+  wrong_terms:
+  - margo-anterior-ulnae
+  - ligamentum-collaterale-ulnare
+  - processus-styloideus-radii
+  - corpus-humeri
+  - caput-radii
+- terms:
+  - musculus-biceps-brachii
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-musculocutaneus
+  wrong_terms:
+  - nervus-ulnaris
+  - nervus-medianus
+  - nervus-radialis
+  - nervus-axillaris
+  - nervus-thoracodorsalis
+- terms:
+  - musculus-triceps-brachii
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - tuberculum-infraglenoidale
+  - corpus-humeri
+  wrong_terms:
+  - spina-scapulae
+  - collum-chirurgicum
+  - collum-scapulae
+  - caput-humeri
+- concepts:
+  - nervus-axillaris
+  - musculus-deltoideus
+  - nervus-axillaris-2
+  exercise: question_bank
+  question:
+    de: Ein 25-jähriger Patient leidet an einer Lähmung des Musculus deltoideus (Deltamuskel).
+      Welcher Nerv ist höchstwahrscheinlich beschädigt?
+    en: A 25 year old patient is unable to move his shoulder properly. The physical
+      examination suggests a paralysis of the deltoid muscle. What nerve may be injured?
+  right_terms:
+  - nervus-axillaris
+  wrong_terms:
+  - nervus-musculocutaneus
+  - nervus-radialis
+  - nervus-ulnaris
+  - nervus-thoracodorsalis
+  question_uuid: c1352fb6f26f62ee218f88bef574f35
+- terms:
+  - musculus-triceps-brachii
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - olecranon
+  wrong_terms:
+  - margo-anterior-ulnae
+  - ligamentum-collaterale-ulnare
+  - processus-styloideus-radii
+  - corpus-humeri
+  - caput-radii
+- terms:
+  - musculus-triceps-brachii
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - nervus-ulnaris
+  - nervus-medianus
+  - nervus-musculocutaneus
+  - nervus-axillaris
+  - nervus-thoracodorsalis
+- terms:
+  - musculus-anconeus
+  exercise: multiple_choice_text
+  relation: origin_of
+  right_terms:
+  - epicondylus-lateralis-humeri
+  wrong_terms:
+  - trochlea-humeri
+  - collum-radii
+  - fossa-radialis
+  - epicondylus-medialis-humeri
+  - corpus-humeri
+- terms:
+  - musculus-anconeus
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - olecranon
+  wrong_terms:
+  - capitulum-humeri
+  - trochlea-humeri
+  - fossa-radialis
+  - epicondylus-medialis-humeri
+  - corpus-humeri
+- terms:
+  - musculus-anconeus
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - nervus-ulnaris
+  - nervus-medianus
+  - nervus-musculocutaneus
+  - nervus-axillaris
+  - nervus-thoracodorsalis
+- terms:
+  - elbow
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-biceps-brachii
+  - musculus-brachialis
+  wrong_terms:
+  - musculus-anconeus
+  - musculus-triceps-brachii
+  - musculus-deltoideus
+  - musculus-extensor-indicis
+- terms:
+  - articulatio-humeri
+  exercise: multiple_choice_image
+  relation: flexes_the
+  right_terms:
+  - musculus-biceps-brachii
+  wrong_terms:
+  - musculus-anconeus
+  - musculus-triceps-brachii
+  - musculus-brachialis
+  - musculus-extensor-digiti-minimi
+  - musculus-extensor-pollicis-brevis
+- terms:
+  - elbow
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-triceps-brachii
+  - musculus-anconeus
+  wrong_terms:
+  - musculus-biceps-brachii
+  - musculus-brachialis
+  - musculus-flexor-pollicis-longus
+  - musculus-supraspinatus
+- terms:
+  - arm
+  exercise: multiple_choice_image
+  relation: adducts_the
+  right_terms:
+  - musculus-triceps-brachii
+  - musculus-deltoideus
+  wrong_terms:
+  - musculus-brachialis
+  - musculus-anconeus
+  - musculus-flexor-digitorum-profundus
+  - musculus-flexor-pollicis-longus
+- terms:
+  - forearm
+  exercise: multiple_choice_image
+  relation: supinates_the
+  right_terms:
+  - musculus-biceps-brachii
+  wrong_terms:
+  - musculus-brachialis
+  - musculus-anconeus
+  - musculus-triceps-brachii
+  - musculus-deltoideus
+  - musculus-coracobrachialis
+- terms:
+  - forearm
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-triceps-brachii
+  - musculus-anconeus
+  wrong_terms:
+  - musculus-biceps-brachii
+  - musculus-brachialis
+  - musculus-flexor-carpi-ulnaris
+  - musculus-flexor-carpi-radialis
+- concepts:
+  - musculus-subscapularis
+  - musculus-teres-minor
+  - musculus-infraspinatus
+  - musculus-supraspinatus
+  - infraspinatus-muscle-17
+  - supraspinatus-muscle-11
+  - teres-minor-muscle-11
+  - subscapularis-muscle-20
+  exercise: question_bank
+  question:
+    de: Welche Muskeln bilden die Rotatorenmanschette an der Schulter?
+    en: What muscles constitute the rotator cuff?
+  right_terms:
+  - musculus-subscapularis
+  - musculus-teres-minor
+  - musculus-infraspinatus
+  - musculus-supraspinatus
+  wrong_terms:
+  - musculus-teres-major
+  question_uuid: b20503837b2ebae0ae6d715c9a16a25
+- concepts:
+  - insertion_of-musculus-triceps-brachii
+  - musculus-triceps-brachii
+  - posterior-arm-region
+  exercise: question_bank
+  question:
+    de: Welcher Muskel prägt die Oberflächenanatomie der Oberarmrückseite und setzt
+      am Olecranon an?
+    en: What muscle defines the surface anatomy of the dorsal upper arm and forms
+      a thick tendon that inserts at the olecranon of the ulna?
+  right_terms:
+  - musculus-triceps-brachii
+  wrong_terms:
+  - musculus-biceps-brachii
+  - musculus-brachialis
+  - musculus-coracobrachialis
+  - musculus-teres-minor
+  question_uuid: 6da537d8bacf3c75115646b8d27f726
+- concepts:
+  - innervation_of-musculus-deltoideus
+  - musculus-deltoideus
+  - nervus-axillaris
+  - nervus-axillaris-2
+  exercise: question_bank
+  question:
+    de: Welche Muskeln werden durch den Nerv innerviert, der durch die laterale Achsellücke
+      tritt?
+    en: What muscles are innervated by the nerve passing through the quadrangular
+      space of the posterior shoulder?
+  right_terms:
+  - musculus-deltoideus
+  - musculus-teres-minor
+  wrong_terms:
+  - musculus-infraspinatus
+  - musculus-supraspinatus
+  - musculus-subscapularis
+  question_uuid: aac9035f0e3bd36cacf940350ccb1b8
+- concepts:
+  - truncus-superior-plexus-brachialis
+  - musculus-deltoideus
+  - musculus-infraspinatus
+  - musculus-supraspinatus
+  - musculus-biceps-brachii
+  - nervus-axillaris
+  - nervus-axillaris-2
+  exercise: question_bank
+  question:
+    de: Eine Schädigung des Truncus superior des Plexus brachialis (oberer Stamm des
+      Armgeflechts) führt zur Erb-Lähmung. Welche Muskeln können im Rahmen dessen
+      betroffen?
+    en: Tear at the superior trunk of the brachial plexus (truncus superior plexus
+      brachialis) causes Erb's palsy. Which of the following muscles can be affected
+      in this condition?
+  right_terms:
+  - musculus-deltoideus
+  - musculus-infraspinatus
+  - musculus-supraspinatus
+  - musculus-biceps-brachii
+  wrong_terms:
+  - flexor-carpi-ulnaris-muscle
+  question_uuid: 7f11340f786f19bb089d27097a23905
+- concepts:
+  - nervus-radialis
+  - nervus-radialis-2
+  - caput-mediale-musculus-triceps-brachii
+  - musculus-triceps-brachii
+  exercise: question_bank
+  question:
+    de: Zwischen welchen Muskeln läuft der Nervus radialis (Speichennerv) am proximalen
+      Oberarm?
+    en: At the upper arm, in between which muscles does the radial nerve (nervus radialis)
+      pass through?
+  right_terms:
+  - caput-mediale-musculus-triceps-brachii
+  - caput-laterale-musculus-triceps-brachii
+  wrong_terms:
+  - caput-longum-musculus-triceps-brachii
+  - musculus-coracobrachialis
+  - musculus-pectoralis-minor
+  question_uuid: 6ba840f7203897e994714b761a7b97b
+- concepts:
+  - musculus-teres-minor
+  - musculus-teres-major
+  - musculus-triceps-brachii
+  - caput-longum-musculus-triceps-brachii
+  exercise: question_bank
+  question:
+    de: Welche Muskeln begrenzen die mediale Achsellücke (foramen axillare mediale)?
+    en: Which muscles form the boundaries of the triangular space (foramen axillare
+      mediale)?
+  right_terms:
+  - musculus-teres-minor
+  - musculus-teres-major
+  - caput-longum-musculus-triceps-brachii
+  wrong_terms:
+  - caput-longum-musculus-biceps-brachii
+  - caput-breve-musculus-biceps-brachii
+  question_uuid: 4716426dc6bb5bb616d3170f0e5bef2
+- concepts:
+  - musculus-pectoralis-major
+  - musculus-teres-major
+  - musculus-latissimus-dorsi
+  - latissimus-dorsi-muscle
+  exercise: question_bank
+  question:
+    de: Welcher Muskel setzt am Humerus zwischen dem Musculus pectoralis major (großer
+      Brustmuskel) und Musculus teres major (großer Rundmuskel) an?
+    en: Which muscle inserts on the humerus between the pectoralis major and teres
+      major muscle?
+  right_terms:
+  - latissimus-dorsi-muscle
+  wrong_terms:
+  - coracobrachialis-muscle
+  - brachialis-muscle
+  - deltoid-muscle
+  - musculus-subscapularis
+  question_uuid: c42b9a900920400991b8bda2dd193e2
+- concepts:
+  - musculus-triceps-brachii
+  exercise: question_bank
+  question:
+    de: Welcher Muskel überdeckt den Sulcus nervi radialis, eine Rinne für den Nervus
+      radialis (Speichennerv) am Humerus (Oberarmknochen)?
+    en: Which muscle overlies the radial sulcus (sulcus nervi radialis), a depression
+      for the radial nerve located on the humerus?
+  right_terms:
+  - musculus-triceps-brachii
+  wrong_terms:
+  - brachioradialis-muscle
+  - musculus-pectoralis-minor
+  - musculus-pectoralis-major
+  - musculus-teres-minor
+  question_uuid: d2976c2917dc2307866069a09531df9
+- concepts:
+  - musculus-triceps-brachii
+  - biceps-brachii-muscle
+  - musculus-biceps-brachii
+  exercise: question_bank
+  question:
+    de: Der Musculus biceps brachii (zweiköpfiger Oberarmmuskel) und welcher anderer
+      Muskel bilden den Sulcus bicipitalis medialis (innere Bizepsrinne)?
+    en: In addition to the biceps brachii muscle (musculus biceps brachii), what other
+      muscle forms the medial bicipital groove (Sulcus bicipitalis medialis)?
+  right_terms:
+  - musculus-triceps-brachii
+  wrong_terms:
+  - brachioradialis-muscle
+  - deltoid-muscle
+  - brachialis-muscle
+  - coracobrachialis-muscle
+  question_uuid: ba53201d2d9a6162cfe80abf289ce93
+- concepts:
+  - musculus-triceps-brachii
+  - olecranon
+  - olecranon-8
+  - olecranon-9
+  exercise: question_bank
+  question:
+    de: Ein 26-jähriger Fahrradfahrer fällt bei einem Unfall auf seinen rechten Arm.
+      Seitdem ist sein rechter Ellenbogen geschwollen, schmerzhaft und nur eingeschränkt
+      beweglich. Du entscheidest dich für eine Röntgenuntersuchung, die eine Olecranonfraktur
+      mit proximaler Dislokation zeigt. Welcher Muskel ist dafür verantwortlich, dass
+      das gebrochene Knochenfragment in Richtung des Oberarms gezogen wird?
+    en: A 26-year-old male cyclist fell on his right arm after crashing into a car.
+      He now presents himself in the ER with a massively swollen elbow which is painful
+      and restricted in its movement. The doctor decides to perform an X-ray which
+      reveals an olecranon fracture with proximal dislocation. Which muscle is responsible
+      for pulling the broken bone fragment towards the humerus?
+  right_terms:
+  - musculus-triceps-brachii
+  wrong_terms:
+  - biceps-brachii-muscle
+  - brachioradialis-muscle
+  - brachialis-muscle
+  - anconeus-muscle
+  question_uuid: 370d56c28c4f52f1e4bd9354da3b729
+- concepts:
+  - musculus-triceps-brachii
+  exercise: question_bank
+  question:
+    de: Der Reflex welches Muskels wird überprüft, wenn man mit dem Reflexhammer auf
+      dem dorsalen, distalen Ende des Humerus (Oberarmknochen) schlägt?
+    en: Which muscle's reflex is tested when striking the reflex hammer on the posterior,
+      distal end of the humerus?
+  right_terms:
+  - musculus-triceps-brachii
+  wrong_terms:
+  - biceps-brachii-muscle
+  - brachialis-muscle
+  - extensor-carpi-radialis-longus-muscle
+  - extensor-carpi-ulnaris-muscle
+  question_uuid: 7d71513221219f5248eb01a7917396c
+- concepts:
+  - coracobrachialis-muscle
+  - musculus-coracobrachialis
+  - musculocutaneous-nerve
+  - nervus-musculocutaneus
+  - nervus-musculocutaneus-2
+  exercise: question_bank
+  question:
+    de: Welcher Muskel wird durch den Nervus musculocutaneus (Muskel-Haut-Nerv) durchbohrt?
+    en: Which muscle is pierced by the musculocutaneous nerve (Nervus musculocutaneus)?
+  right_terms:
+  - coracobrachialis-muscle
+  wrong_terms:
+  - brachialis-muscle
+  - biceps-brachii-muscle
+  - musculus-pectoralis-minor
+  - musculus-pectoralis-major
+  question_uuid: c66f2c3644018ee9f186c6d7426cba5
+- concepts:
+  - caput-longum-musculus-biceps-brachii
+  - musculus-biceps-brachii
+  exercise: question_bank
+  question:
+    de: Die Sehne welches Muskels läuft durch den Sulcus intertubercularis humeri
+      (Zwischenhöckerrine des Oberarmknochens)?
+    en: Which muscle's tendon runs through the intertubercular groove of the humerus
+      (sulcus intertubercularis humeri)?
+  right_terms:
+  - caput-longum-musculus-biceps-brachii
+  wrong_terms:
+  - caput-breve-musculus-biceps-brachii
+  - coracobrachialis-muscle
+  - brachialis-muscle
+  - musculus-supraspinatus
+  question_uuid: 39d3366951bc1388efd5a3ef5dc4657
+- concepts:
+  - biceps-brachii-muscle
+  - musculus-biceps-brachii
+  - tendon-of-the-biceps-brachii-muscle-1
+  exercise: question_bank
+  question:
+    de: Ein 33-jähriger Mann hört ein schnappendes Geräusch in seiner rechten Schulter,
+      als er versucht, einen Wasserkasten zu heben. Bei der körperlichen Untersuchung
+      fällt eine tastbare Delle am vorderen Oberarm auf. Darüber hinaus ist die Beugung
+      im rechten Ellenbogen geschwächt im Vergleich zur linken Seite. Die Sehne welches
+      Muskels ist wahrscheinlich rupturiert?
+    en: A 33-year old man tries to carry a heavy bottle crate when he hears a snatching
+      sound from his right shoulder. Upon physical examination, the doctor notices
+      a palpable mass on the anterior upper arm. Furthermore, flexion at the elbow
+      joint is weakened compared to the left side. Which muscle was most likely ruptured?
+  right_terms:
+  - biceps-brachii-muscle
+  wrong_terms:
+  - musculus-triceps-brachii
+  - musculus-pectoralis-minor
+  - musculus-pectoralis-major
+  - musculus-coracobrachialis
+  question_uuid: 05a0e9ba8dad3484a284e068ffa6c1f
+- concepts:
+  - acromion
+  - clavicula
+  - musculus-deltoideus
+  - musculus-trapezius
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Knochenstrukturen dienen sowohl als Ursprung des Deltamuskels
+      (Musculus deltoideus) als auch als Ansatz des Trapezmuskels (Musculus trapezius)?
+    en: Which of the following bony structures serve both as the origin of the deltoid
+      muscle (musculus deltoideus) and an insertion point of the trapezius muscle
+      (musculus trapezius)?
+  right_terms:
+  - acromion-2
+  - clavicula
+  wrong_terms:
+  - suprascapular-notch-1
+  - coracoid-process
+  - superior-border-of-the-scapula
+  question_uuid: b35142ce40244c49418887fd50ea937
+- concepts:
+  - tuberculum-majus
+  - musculus-infraspinatus
+  - musculus-teres-minor
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Muskeln setzen am großen Höcker des Oberarmknochens (Tuberculum
+      majus) an und führen eine Außenrotation des Armes im Schultergelenk aus?
+    en: Which of the following muscles attach to the greater tuberosity of the humerus
+      and externally rotate the arm in the shoulder joint?
+  right_terms:
+  - musculus-infraspinatus
+  - musculus-teres-minor
+  wrong_terms:
+  - teres-major-muscle
+  - pectoralis-minor-muscle-2
+  - subclavius-muscle
+  question_uuid: 1ed1f303f0fb88fa0383a689fffca3d
+- concepts:
+  - suprascapular-notch-1
+  - nervus-suprascapularis
+  - musculus-supraspinatus
+  - musculus-infraspinatus
+  - supraspinatus-muscle-11
+  - infraspinatus-muscle-17
+  exercise: question_bank
+  question:
+    de: Ein 55-jähriger Mann stellt sich mit diffusem Schulterschmerz in der orthopädischen
+      Sprechstunde vor. Die körperliche Untersuchung zeigt Schmerzen während der Palpation
+      der Incisura scapulae sowie eine abgeschwächte Schulterabduktion und -außenrotation
+      bei angelegtem Arm. Das Elektromyogramm (EMG) zweier Muskeln zeigt einen auffälligen
+      Befund, sodass der behandelnde Arzt ein Incisura-Scapulae-Syndrom diagnostiziert.
+      Welche beiden Muskeln werden durch den Oberschulterblattnerv (Nervus suprascapularis)
+      innerviert und sind bei diesem Syndrom mitbetroffen?
+    en: A 55-year-old man presents to the clinic with complaints of deep and diffuse
+      posterolateral shoulder pain. Physical examination shows pain during the palpation
+      of the suprascapular notch, weakness with shoulder abduction and external rotation
+      with the elbow at side. After testing two muscles using electromyography (EMG),
+      the physician diagnoses a suprascapular notch entrapment. In this condition,
+      the suprascapular nerve is compressed in the suprascapular notch (incisura scapulae).
+      Which two muscles, innervated by the suprascapular nerve were tested by the
+      physician?
+  right_terms:
+  - musculus-supraspinatus
+  - musculus-infraspinatus
+  wrong_terms:
+  - levator-scapulae-muscle-2
+  - musculus-subscapularis
+  - musculus-teres-minor
+  question_uuid: 4e6943431cea6d19ff986e9e75ba627
+- concepts:
+  - coracobrachialis-muscle
+  - musculus-biceps-brachii
+  - musculus-brachialis
+  - anterior-arm-region
+  exercise: question_bank
+  question:
+    de: Welche Muskeln befinden sich im vorderen Kompartiment des Oberarmes?
+    en: Which muscles are located in the anterior compartment of the arm?
+  right_terms:
+  - coracobrachialis-muscle
+  - musculus-biceps-brachii
+  - musculus-brachialis
+  wrong_terms:
+  - triceps-brachii-muscle
+  - musculus-anconeus
+  question_uuid: b15139df51add0bbf7baaa042675170
+- concepts:
+  - triceps-brachii-muscle
+  - musculus-anconeus
+  - posterior-arm-region
+  exercise: question_bank
+  question:
+    de: Welche Muskeln befinden sich im hinteren Kompartiment des Oberarms?
+    en: Which muscles are located in the posterior compartment of the arm?
+  right_terms:
+  - triceps-brachii-muscle
+  - musculus-anconeus
+  wrong_terms:
+  - coracobrachialis-muscle
+  - musculus-biceps-brachii
+  - coracobrachialis-muscle
+  question_uuid: '0644987c705bdf9540d0eacda955342'
+- concepts:
+  - musculus-deltoideus
+  exercise: question_bank
+  question:
+    de: Der Deltamuskel (Musculus deltoideus) besteht aus einem vorderen, mittleren
+      und einem hinteren Anteil. Von welchen Knochenstrukturen entspringen diese drei
+      Anteile?
+    en: The deltoid muscle (musculus deltoideus) is composed of anterior, middle and
+      posterior parts. From which bony structures do the three parts originate?
+  right_terms:
+  - clavicle
+  - acromion-2
+  - spine-of-the-scapula
+  wrong_terms:
+  - lateral-border-of-the-scapula
+  - humerus
+  question_uuid: 1cade50535d095703231e08fd701a72
+- concepts:
+  - musculus-subscapularis
+  - subscapularis-muscle-20
+  exercise: question_bank
+  question:
+    de: Der Bear-Hug Test untersucht einen der Muskeln der Rotatorenmanschette. Er
+      wird durchgeführt, in dem der Patient aufsteht und die Handfläche auf die gegenüberliegende
+      Schulter mit nach vorne zeigendem Ellenbogen legt. Der Untersucher versucht
+      dann, die Hand des Patienten von der Schulter anzuheben. Als positiv gilt der
+      Test, wenn der Patient die Hand nicht gegen den Widerstand auf die Schulter
+      drücken kann. Eine Verletzung welches Muskels führt zu einer abgeschwächten
+      Innenrotation und Adduktion und somit zu einem positiven Bear-Hug Test?
+    en: The Bear Hug test examines an injury of one of the muscles of the rotator
+      cuff. It is performed with the patient standing up, placing the palm of their
+      hand on the opposite shoulder with the elbow facing anteriorly and parallel
+      to the ground. The examiner then tries to lift the patient's hand from the shoulder.
+      A positive test results when the patient cannot hold the hand against the shoulder.
+      Tear in which of the following muscles that functions to internally rotate and
+      adduct the arm will result in a positive Bear Hug test?
+  right_terms:
+  - musculus-subscapularis
+  wrong_terms:
+  - musculus-supraspinatus
+  - infraspinatus-muscle
+  - musculus-teres-minor
+  - musculus-teres-major
+  question_uuid: 66cc1fa752642c373369e71f6bf1673
+- concepts:
+  - olecranon-4
+  - tendon-of-triceps-brachii-muscle
+  - musculus-triceps-brachii
+  exercise: question_bank
+  question:
+    de: Der Trizepssehnenreflex kann ausgelöst werden, indem die Sehne des dreiköpfigen
+      Oberarmmuskels (Musculus triceps brachii) unmittelbar oberhalb ihres Ansatzes
+      mit einem Reflexhammer beklopft wird. An welcher knöchernen Struktur setzt diese
+      Sehne an?
+    en: The triceps reflex can be elicited when the triceps tendon is hit with a reflex
+      hammer just above its insertion point, thus inducing contraction of the triceps
+      brachii muscle (musculus triceps brachii). Into which bony structure does the
+      triceps tendon insert?
+  right_terms:
+  - olecranon-4
+  wrong_terms:
+  - margo-anterior-ulnae
+  - capitulum-of-the-humerus
+  - articular-facet-of-head-of-radius
+  - processus-coronoideus
+  question_uuid: cd6df686363d9b372e4910bcdea4c24
+- concepts:
+  - abduction-of-arm
+  - musculus-supraspinatus
+  - musculus-deltoideus
+  - musculus-trapezius
+  - musculus-serratus-anterior
+  - supraspinatus-muscle-11
+  exercise: question_bank
+  question:
+    de: In einer körperlichen Untersuchung bittet der Arzt seine Patientin, ihren
+      rechten Arm vollständig zu abduzieren und mit ihren ausgestreckten Fingern in
+      Richtung Decke zu zeigen. Welche der folgenden Muskeln sind an dieser kompletten
+      Abduktion (Elevation) des Armes beteiligt?
+    en: During a physical examination, the arms of a patient are held straight at
+      the side of her body. The doctor asks her to fully abduct the right arm until
+      her fingers points straight upwards. Which muscles are involved in this complete
+      abduction (elevation) of the arm?
+  right_terms:
+  - musculus-supraspinatus
+  - musculus-deltoideus
+  - musculus-trapezius
+  - musculus-serratus-anterior
+  wrong_terms:
+  - pectoralis-major-muscle-2
+  question_uuid: 482380eff802f936a368c7404399709
+- concepts:
+  - nervus-radialis
+  - musculus-triceps-brachii
+  exercise: question_bank
+  question:
+    de: Die Schädigung wessen Nerven führt typischerweise dazu, dass der Ellenbogen
+      nicht mehr gestreckt werden kann, da der Trizeps (Musculus triceps brachii)
+      nicht mehr innerviert wird?
+    en: The damage of which nerve typically results in an inability to extend the
+      elbow due to denervation of the triceps brachii muscle?
+  right_terms:
+  - nervus-radialis
+  wrong_terms:
+  - median-nerve
+  - axillary-nerve
+  - nervus-ulnaris
+  - musculocutaneous-nerve
+  question_uuid: 1d61190b944b725c6d8717dde3eee05
+- terms:
+  - articulatio-radioulnaris
+  exercise: multiple_choice_image
+  relation: supinates_the
+  right_terms:
+  - musculus-supinator
+  - musculus-biceps-brachii
+  wrong_terms:
+  - musculus-pronator-teres
+  - musculus-triceps-brachii
+  - musculus-pronator-quadratus
+  - musculus-extensor-carpi-radialis-brevis

@@ -1,0 +1,685 @@
+---
+- terms:
+  - atlas
+  - axis
+  exercise: easy
+- terms:
+  - dens-axis
+  - facies-articularis-posterior
+  exercise: easy
+- terms:
+  - arcus-anterior-atlantis
+  - arcus-posterior-atlantis
+  exercise: easy
+- terms:
+  - articulatio-atlantoaxialis-lateralis
+  - massa-lateralis-atlantis
+  exercise: easy
+- terms:
+  - atlas
+  - axis
+  - dens-axis
+  - facies-articularis-posterior
+  exercise: four_one
+- terms:
+  - arcus-anterior-atlantis
+  - arcus-posterior-atlantis
+  - articulatio-atlantoaxialis-lateralis
+  - massa-lateralis-atlantis
+  exercise: four_one
+- terms:
+  - atlas
+  - axis
+  - dens-axis
+  - facies-articularis-posterior
+  exercise: identify_image
+- terms:
+  - arcus-anterior-atlantis
+  - arcus-posterior-atlantis
+  - articulatio-atlantoaxialis-lateralis
+  - massa-lateralis-atlantis
+  exercise: identify_image
+- terms:
+  - ligamenta-alaria
+  - articulatio-atlantooccipitalis
+  exercise: easy
+- terms:
+  - ligamentum-transversum-atlantis
+  - foramen-transversum
+  exercise: easy
+- terms:
+  - sulcus-nervi-spinalis
+  - tuberculum-anterius
+  exercise: easy
+- terms:
+  - tuberculum-posterius
+  - dens-axis
+  exercise: easy
+- terms:
+  - ligamenta-alaria
+  - articulatio-atlantooccipitalis
+  - ligamentum-transversum-atlantis
+  - foramen-transversum
+  exercise: four_one
+- terms:
+  - sulcus-nervi-spinalis
+  - tuberculum-anterius
+  - tuberculum-posterius
+  - dens-axis
+  exercise: four_one
+- terms:
+  - ligamenta-alaria
+  - articulatio-atlantooccipitalis
+  - ligamentum-transversum-atlantis
+  - foramen-transversum
+  exercise: identify_image
+- terms:
+  - sulcus-nervi-spinalis
+  - tuberculum-anterius
+  - tuberculum-posterius
+  - dens-axis
+  exercise: identify_image
+- terms:
+  - atlas
+  exercise: spell_term
+- terms:
+  - axis
+  exercise: spell_term
+- terms:
+  - dens-axis
+  exercise: spell_term
+- terms:
+  - facies-articularis-posterior
+  exercise: spell_term
+- terms:
+  - arcus-anterior-atlantis
+  exercise: spell_term
+- terms:
+  - arcus-posterior-atlantis
+  exercise: spell_term
+- terms:
+  - articulatio-atlantoaxialis-lateralis
+  exercise: spell_term
+- terms:
+  - massa-lateralis-atlantis
+  exercise: spell_term
+- terms:
+  - ligamenta-alaria
+  exercise: spell_term
+- terms:
+  - articulatio-atlantooccipitalis
+  exercise: spell_term
+- terms:
+  - ligamentum-transversum-atlantis
+  exercise: spell_term
+- terms:
+  - foramen-transversum
+  exercise: spell_term
+- terms:
+  - sulcus-nervi-spinalis
+  exercise: spell_term
+- terms:
+  - tuberculum-anterius
+  exercise: spell_term
+- terms:
+  - tuberculum-posterius
+  exercise: spell_term
+- concepts:
+  - atlas-2
+  - atlas
+  - atlas-6
+  - vertebrae-cervicales
+  exercise: question_bank
+  question:
+    de: Wie wird der 1. Halswirbel (Vertebra cervicalis I) auch genannt?
+    en: What is the name of the first cervical vertebra (vertebra cervicalis I)?
+  right_terms:
+  - atlas-2
+  wrong_terms:
+  - dens-axis
+  - sacrum-2
+  - axis-2
+  - os-coccygis
+  question_uuid: 4bd15fe4ddb2f0aa0c0aa0f641ae86c
+- concepts:
+  - axis-2
+  - axis-5
+  - axis
+  - vertebrae-cervicales
+  exercise: question_bank
+  question:
+    de: Wie wird der 2. Halswirbel (Vertebra cervicalis II) genannt?
+    en: What is the name of the second cervical vertebra (vertebra cervicalis II)?
+  right_terms:
+  - axis-2
+  wrong_terms:
+  - os-coccygis
+  - atlas-2
+  - sacrum-2
+  - os-ilium
+  question_uuid: 682e07d1716652543ec8e1c2f836061
+- concepts:
+  - atlas-2
+  - atlas
+  - atlas-6
+  - axis-2
+  - axis-5
+  - axis
+  - vertebrae-cervicales
+  - os-occipitale
+  exercise: question_bank
+  question:
+    de: Welche Wirbel bilden zusammen mit dem Hinterhauptbein (Os occipitale) das
+      obere und untere Kopfgelenk?
+    en: What vertebrae form the upper and lower head joints together with the occipital
+      bone?
+  right_terms:
+  - atlas-2
+  - axis-2
+  wrong_terms:
+  - sacrum-2
+  - os-coccygis
+  - talus
+  question_uuid: 63759e139f5ba24565adc7fdd3e2e2b
+- concepts:
+  - cervical-vertebrae
+  - vertebrae-cervicales
+  - cervical-spine
+  - atlas
+  - arcus-anterior-atlantis-2
+  exercise: question_bank
+  question:
+    de: Welcher Abschnitt der Wirbelsäule setzt sich aus sieben Wirbeln zusammen?
+    en: What part of the spine consists of seven vertebrae?
+  right_terms:
+  - cervical-vertebrae
+  wrong_terms:
+  - lumbar-vertebrae
+  - sacrum-2
+  - os-coccygis
+  - thoracic-vertebrae-1
+  question_uuid: e149d8570c720bc7467045c3c736cd8
+- terms:
+  - articulatio-atlantooccipitalis
+  exercise: multiple_choice_image
+  relation: extends_the
+  right_terms:
+  - musculus-rectus-capitis-posterior-minor
+  - musculus-obliquus-capitis-superior
+  - musculus-rectus-capitis-posterior-major
+  wrong_terms:
+  - musculus-sternocleidomastoideus
+  - musculus-sternothyroideus
+  - musculus-obliquus-capitis-inferior
+- concepts:
+  - condylus-occipitalis
+  - condylus-occipitalis-2
+  - massa-lateralis-atlantis
+  exercise: question_bank
+  question:
+    de: Der Condylus occipitalis projiziert nach inferior und artikuliert mit welcher
+      Struktur?
+    en: The occipital condyle (condylus occipitalis) projects inferiorly and articulates
+      with which structure?
+  right_terms:
+  - massa-lateralis-atlantis
+  wrong_terms:
+  - tuberculum-anterius-atlantis
+  - processus-transversus-atlantis
+  - arcus-posterior-atlantis
+  - arcus-anterior-atlantis
+  question_uuid: 79fd7422c9a083bc1ee7c4e6cd32063
+- concepts:
+  - dens-axis
+  exercise: question_bank
+  question:
+    de: Welche knöcherne Struktur wird durch die Verschmelzung des ersten Halswirbelkörpers
+      mit dem zweiten Halswirbel geformt?
+    en: Which bony structure is formed by the fusion of the body of the first with
+      the second cervical vertebra?
+  right_terms:
+  - dens-axis
+  wrong_terms:
+  - os-frontale-2
+  - os-sacrum
+  - foramen-transversum
+  - occipital-condyle-2
+  question_uuid: 324e0fd93d0b83de41ea499cbf1e356
+- concepts:
+  - processus-transversus
+  - foramen-transversum
+  exercise: question_bank
+  question:
+    de: Innerhalb welcher knöchernen Struktur findet man das Querfortsatzloch (Foramen
+      transversarium) in der Halswirbelsäule?
+    en: Within which bony structure can the transverse foramen (foramen transversarium)
+      be found in the cervical spine?
+  right_terms:
+  - processus-transversus
+  wrong_terms:
+  - corpus-vertebrae
+  - lamina-arcus-vertebrae
+  - pediculus-arcus-vertebrae
+  - processus-articularis-superior
+  - processus-articularis-inferior
+  question_uuid: 84a8e2fef02ca0cd9d1e536bb5d517c
+- concepts:
+  - dens-axis
+  exercise: question_bank
+  question:
+    de: Welche Struktur bildet den Drehpunkt für die Rotation des ersten Halswirbels
+      (Atlas)?
+    en: Which bony component forms the pivot point for the rotation of the first cervical
+      vertebra (atlas)?
+  right_terms:
+  - dens-axis
+  wrong_terms:
+  - processus-articularis-superior
+  - processus-articularis-inferior
+  - processus-spinosus
+  - processus-transversus
+  - corpus-vertebrae
+  question_uuid: f9c2186728e2055b98e9a5258649b2f
+- concepts:
+  - atlas
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Wirbelmerkmale fehlen im ersten Halswirbel (Atlas)?
+    en: Which of the following anatomical components of a vertebra are absent in the
+      first cervical vertebra (atlas)?
+  right_terms:
+  - corpus-vertebrae
+  - processus-spinosus
+  - pediculus-arcus-vertebrae
+  wrong_terms:
+  - processus-transversus
+  - foramen-vertebrale
+  question_uuid: bbf06c83a851936bc87229973dfac83
+- concepts:
+  - axis
+  exercise: question_bank
+  question:
+    de: Durch die transversale Fraktur welcher knöchernen Struktur ist die sogenannte
+      Hangman-Fraktur gekennzeichnet, welche am häufigsten im Rahmen von Autounfällen
+      auftritt?
+    en: The transversal fracture of which bony structure characterizes the so-called
+      Hangman's fracture, most commonly caused by car accidents?
+  right_terms:
+  - axis
+  wrong_terms:
+  - atlas
+  - processus-spinosus-cvii
+  - processus-articulares-civ-cvii
+  - corpus-vertebrae-cv-cvii
+  question_uuid: f98eba17e1d604ed5b9fef7513f372f
+- concepts:
+  - atlas
+  exercise: question_bank
+  question:
+    de: Die Jefferson-Fraktur ist bedingt durch die Kompression des Schädels und führt
+      zur Sprengung welcher Struktur?
+    en: Jefferson's fracture is caused by the compression of the skull and leads to
+      multiple fractures which structure?
+  right_terms:
+  - atlas
+  wrong_terms:
+  - axis
+  - processus-spinosus-cvii
+  - corpus-vertebrae-cv-cvii
+  - processus-spinosus-cii-cv
+  question_uuid: 19649939733fa6b2adb044afe742cb1
+- concepts:
+  - arcus-anterior-atlantis
+  - foramen-magnum
+  - membrana-atlantooccipitalis-anterior
+  exercise: question_bank
+  question:
+    de: Zwischen welchen beiden Strukturen verläuft die Membrana atlantooccipitalis
+      anterior?
+    en: Between which two structures does the anterior atlanto-occipital membrane
+      (membrana atlantooccipitalis anterior) extend?
+  right_terms:
+  - arcus-anterior-atlantis
+  - foramen-magnum
+  wrong_terms:
+  - arcus-posterior-atlantis
+  - tuberculum-posterius-atlantis
+  - processus-transversus-atlantis
+  question_uuid: '081fd6114fe4426a46395a84a3585ac'
+- concepts:
+  - axis
+  - membrana-tectoria
+  exercise: question_bank
+  question:
+    de: Welches Band stellt die Fortsetzung des hinteren Längsbandes (Ligamentum longitudinale
+      posterius) kranial des Axis dar?
+    en: Which ligament is the cranial continuation of the posterior longitudinal ligament
+      (ligamentum longitudinale posterius)?
+  right_terms:
+  - membrana-tectoria
+  wrong_terms:
+  - ligamentum-nuchae
+  - ligamentum-transversum-atlantis
+  - ligamentum-longitudinale-anterius
+  - ligamentum-flavum
+  question_uuid: 22a27d4e708480d618514fd593fef01
+- concepts:
+  - ligamentum-transversum-atlantis
+  - ligamentum-transversum-atlantis-2
+  exercise: question_bank
+  question:
+    de: Welches Band hält den Axiszahn (Dens axis) und den vorderen Atlasbogen (Arcus
+      anterior atlantis) zusammen und weist ventral eine konkave Form auf?
+    en: Which ligament holds the odontoid process of the axis (dens axis) and the
+      anterior arch of the atlas (arcus anterior atlantis) together and has a concave
+      shape ventrally?
+  right_terms:
+  - ligamentum-transversum-atlantis
+  wrong_terms:
+  - ligamentum-nuchae
+  - ligamenta-intertransversaria
+  - ligamentum-longitudinale-anterius
+  - ligamentum-longitudinale-posterius
+  question_uuid: 2c51d12621d175db3312ee33356dec8
+- concepts:
+  - craniovertebral-joints
+  - membrana-atlantooccipitalis-anterior
+  - articulatio-atlantoaxialis-lateralis
+  exercise: question_bank
+  question:
+    de: Welche Gelenkgruppe wird durch das Atlantookzipitalgelenk und Atlantoaxialgelenk
+      gebildet?
+    en: Which group of joints is made up by the atlanto-occipital joint (articulatio
+      atlantooccipitalis) and the atlanto-axial joint (articulatio atlantoaxialis)?
+  right_terms:
+  - craniovertebral-joints
+  wrong_terms:
+  - articulatio-atlantoaxialis-lateralis
+  - articulatio-zygapophysialis
+  - articulatio-lumbosacralis
+  - capsula-articularis-articulatio-zygapophysialis
+  question_uuid: bd8a84194d9a11c6fc9633a215fcfe3
+- concepts:
+  - articulatio-atlantooccipitalis
+  exercise: question_bank
+  question:
+    de: Welches Gelenk erlaubt die Bewegung des Kopfnickens?
+    en: Which specific joint is responsible for the 'yes', or nodding movement of
+      the head?
+  right_terms:
+  - articulatio-atlantooccipitalis
+  wrong_terms:
+  - articulatio-atlantoaxialis-lateralis
+  - articulatio-zygapophysialis
+  - articulatio-temporomandibularis
+  - articulatio-sternocostalis
+  question_uuid: 17d0ebf99f75c6954c282fad9c8dd75
+- concepts:
+  - dens-axis
+  - pars-basilaris-ossis-occipitalis-2
+  exercise: question_bank
+  question:
+    de: Eine Ruptur der Flügelbänder (Ligamenta alaria) kann zu einer atlantookzipitalen
+      Dislokation führen. Zwischen welchen beiden Strukturen sind die Flügelbänder
+      aufgespannt?
+    en: Rupture of the alar ligaments (ligamenta alaria) can lead to atlanto-occipital
+      dislocation. Which two structures is this ligament attached to?
+  right_terms:
+  - dens-axis
+  - condylus-occipitalis
+  wrong_terms:
+  - arcus-anterior-atlantis
+  - processus-mastoideus
+  - tuberculum-posterius-atlantis
+  question_uuid: 3a126afe1af48a15650d02781b7a6cf
+- concepts:
+  - vertebral-arch-of-the-axis
+  - axis
+  exercise: question_bank
+  question:
+    de: Ein 24-jähriger Motorradfahrer wird von hinten von einem schnell fahrenden
+      Auto erfasst. Er erleidet eine schwere Halswirbelsäulenverletzung, die später
+      als Hanged-man-Fraktur diagnostiziert wird. Welche der folgenden Strukturen
+      ist bei dieser Verletzung betroffen und frakturiert?
+    en: A 24-year-old motorcyclist was hit from behind by a fast moving car. He suffered
+      a neck injury, later diagnosed as 'Hangman’s fracture'. Which of the following
+      structure is involved in this condition?
+  right_terms:
+  - vertebral-arch-of-the-axis
+  wrong_terms:
+  - anterior-arch-of-the-atlas
+  - odontoid-process-of-the-axis
+  - arcus-posterior-atlantis
+  - spinous-process-of-the-axis
+  question_uuid: f058abce812b8f2a4d2a61e59188014
+- concepts:
+  - odontoid-process-of-the-axis
+  - dens-axis
+  exercise: question_bank
+  question:
+    de: Ein 28-jähriger Mann verstarb im Rahmen eines Motorradunfalls. In der Autopsie
+      zeigte sich, dass ein Knochenteil der Halswirbelsäule frakturiert ist und das
+      verlängerte Mark (Medulla oblongata) eingedrückt hat. Welche der folgenden Knochenstrukturen
+      war am ehesten dafür verantwortlich?
+    en: A 28-year-old man died in a motorbike accident. On autopsy it was found that
+      a piece of a bone in the neck has fractured and crushed the medulla oblongata.
+      Which of the following structures was most certainly responsible for this?
+  right_terms:
+  - odontoid-process-of-the-axis
+  wrong_terms:
+  - anterior-arch-of-the-atlas
+  - massa-lateralis-atlantis
+  - transverse-process-of-atlas
+  - spinous-process-of-the-axis
+  question_uuid: 8f039a472fe8a207391aafbfc098a47
+- concepts:
+  - atlanto-occipital-joint
+  - articulatio-atlantooccipitalis
+  exercise: question_bank
+  question:
+    de: Ein 45-jähriger Mann klagt über Schmerzen in der Halswirbelsäule. In der körperlichen
+      Untersuchung fällt auf, dass der Schmerz verstärkt beim Kopfnicken auftritt.
+      Welches der folgenden Gelenke ist am ehesten betroffen?
+    en: A 45-year-old man complains about pain in the neck. On examination it is found
+      that performing a nodding head movement aggravates the pain. Which of the following
+      joints is most likely involved?
+  right_terms:
+  - atlanto-occipital-joint
+  wrong_terms:
+  - lateral-atlantoaxial-joint
+  - temporomandibular-joint
+  - articulatio-sternoclavicularis
+  - articulatio-sternocostalis
+  question_uuid: 60bbbe387b8220d42b1238db1766ad2
+- concepts:
+  - pivot-joint-1
+  - pivot-joint
+  - axis
+  exercise: question_bank
+  question:
+    de: Ein 55-jähriger Mann klagt über Schmerzen in der Halswirbelsäule. In der körperlichen
+      Untersuchung fällt auf, dass der Schmerz verstärkt beim Kopfschütteln auftritt.
+      Welches Gelenktyp ist an dieser Bewegung beteiligt?
+    en: A 55-year-old man complains about pain in the neck. On examination it is found
+      that while shaking the head in a 'no' movement fashion the pain is aggravated.
+      What type of joints is involved in this movement?
+  right_terms:
+  - pivot-joint-1
+  wrong_terms:
+  - gliding-joint
+  - ellipsoid-joint
+  - hinge-joint
+  - ball-and-socket-joint
+  question_uuid: 05bb0635b06d060775d8de4b94e3735
+- concepts:
+  - ellipsoid-joint
+  - articulatio-atlantooccipitalis
+  exercise: question_bank
+  question:
+    de: Zu welchem Gelenktyp wird das obere Kopfgelenk (Articulatio atlantooccipitalis)
+      gezählt?
+    en: Which type of synovial joints does the atlantooccipital joint (articulatio
+      atlantooccipitalis) belong to?
+  right_terms:
+  - ellipsoid-joint
+  wrong_terms:
+  - ball-and-socket-joint
+  - hinge-joint
+  - gliding-joint
+  - pivot-joint
+  question_uuid: 38a14ecefbd51509d6c6e7bf6f35a45
+- concepts:
+  - pivot-joint
+  - articulatio-atlantoaxialis-lateralis
+  exercise: question_bank
+  question:
+    de: Welchen Gelenktyp stellt das untere Kopfgelenk (Articulatio atlantoaxialis)
+      dar?
+    en: Which of the following types of synovial joints is the atlantoaxial joint
+      (articulatio atlantoaxialis)?
+  right_terms:
+  - pivot-joint
+  wrong_terms:
+  - gliding-joint
+  - ellipsoid-joint
+  - saddle-joint
+  - hinge-joint
+  question_uuid: 760fd06aea3ee49090070fa5efe4fa7
+- concepts:
+  - discus-intervertebralis
+  - intervertebral-disc-5
+  - vertebrae-lumbales
+  exercise: question_bank
+  question:
+    de: Welche Struktur befindet sich zwischen zwei benachbarten Wirbelkörpern, erlaubt
+      Bewegungen der Wirbelsäule und trägt zur Stoßdämpfung bei?
+    en: Which structure is located between the bodies of two adjacent vertebrae, allows
+      movement in the spine and helps to absorb shock as well?
+  right_terms:
+  - discus-intervertebralis
+  wrong_terms:
+  - processus-transversus
+  - processus-spinosus
+  - processus-costalis
+  - processus-mammillaris
+  question_uuid: 512bdd6b4479095cede23e89220f7a0
+- concepts:
+  - vertebrae-cervicales
+  - cervical-spine
+  - cervical-vertebrae
+  exercise: question_bank
+  question:
+    de: Welche Wirbelkörper besitzen Querfortsatzlöcher (Foramina transversaria) im
+      Processus transversus?
+    en: Which vertebrae are characterized by the presence of transverse foramina (foramina
+      transversaria) within their transverse processes?
+  right_terms:
+  - vertebrae-cervicales
+  wrong_terms:
+  - os-sacrum
+  - os-coccygis
+  - vertebrae-lumbales
+  - vertebrae-thoracicae
+  question_uuid: 995a8fa87031a2d546dbf11dd436848
+- concepts:
+  - ligamentum-longitudinale-anterius
+  - ligamentum-longitudinale-anterius-2
+  exercise: question_bank
+  question:
+    de: Welches Band begrenzt die Extension der Wirbelsäule?
+    en: Which ligament limits extension of the vertebral column?
+  right_terms:
+  - ligamentum-longitudinale-anterius
+  wrong_terms:
+  - ligamenta-intertransversaria
+  - ligamentum-longitudinale-posterius
+  - ligamentum-nuchae
+  - ligamentum-flavum
+  question_uuid: 6499562758cfd0dde2941eb8237ff14
+- concepts:
+  - articulatio-zygapophysialis
+  - vertebrae-lumbales
+  - vertebrae-thoracicae
+  exercise: question_bank
+  question:
+    de: Die superioren und inferioren Gelenkflächen zweier benachbarter Wirbel artikulieren
+      miteinander, um welches Gelenk zu formen?
+    en: The superior and the inferior articular processes of adjacent vertebrae articulate
+      to form which joint?
+  right_terms:
+  - articulatio-zygapophysialis
+  wrong_terms:
+  - capsula-articularis-articulatio-zygapophysialis
+  - articulatio-atlantoaxialis-lateralis
+  - articulatio-atlantooccipitalis
+  - craniovertebral-joints
+  question_uuid: c72f6a8e4e3c99daa64919857d80ccf
+- concepts:
+  - ligamentum-longitudinale-anterius
+  - anterior-longitudinal-ligament-3
+  - ligamentum-longitudinale-anterius-2
+  exercise: question_bank
+  question:
+    de: Welches lange Band setzt an den ventralen Oberflächen der Wirbelkörper an
+      und verläuft vom zweiten Halswirbel (Axis) nach unten bis zum Kreuzbein (Os
+      sacrum)?
+    en: Which long ligament attaches to the anterior surfaces of the vertebral bodies
+      and runs from the axis downwards until the sacrum ?
+  right_terms:
+  - ligamentum-longitudinale-anterius
+  wrong_terms:
+  - ligamentum-flavum
+  - ligamentum-longitudinale-posterius
+  - ligamentum-nuchae
+  - ligamenta-alaria
+  question_uuid: c13bea1f59d65353fa6bfbcfb81e12d
+- concepts:
+  - ligamentum-flavum
+  - ligamentum-flavum-2
+  exercise: question_bank
+  question:
+    de: Welcher Bandkomplex erstreckt sich vom zweiten Halswirbel (Axis) bis zum ersten
+      Kreuzbeinwirbel (Vertebra sacralis) und verbindet die Wirbelbögen zweier benachbarter
+      Wirbel über einen großen Anteil elastischer Fasern miteinander?
+    en: Which ligament complex extends from the second cervical vertebra (axis) down
+      to the first sacral vertebra, connecting the laminae of the adjacent vertebrae
+      with each other by a large portion of elastic fibers?
+  right_terms:
+  - ligamentum-flavum
+  wrong_terms:
+  - ligamentum-longitudinale-posterius
+  - ligamentum-longitudinale-anterius
+  - ligamentum-nuchae
+  - ligamenta-alaria
+  question_uuid: bc0f1b597e9a8da45cfba388de7955d
+- concepts:
+  - processus-spinosus
+  - vertebra-prominens-2
+  exercise: question_bank
+  question:
+    de: Welcher Teil des siebten Halswirbels ist von außen als Vorwölbung sichtbar
+      und somit für seine Bezeichnung als 'Vertebra prominens' verantwortlich?
+    en: Which part of the seventh cervical vertebra is a visible protrusion, giving
+      it the nickname 'vertebra prominens'?
+  right_terms:
+  - processus-spinosus
+  wrong_terms:
+  - processus-transversus
+  - corpus-vertebrae
+  - pediculus-arcus-vertebrae
+  - lamina-arcus-vertebrae
+  question_uuid: ddc48e98825851d325f173610148c97
+- concepts:
+  - processus-spinosus
+  exercise: question_bank
+  question:
+    de: Welche knöcherne Struktur weist in der Halswirbelsäule eine Gabelung auf?
+    en: Which bony structure is bifid in the cervical part of the vertebral column?
+  right_terms:
+  - processus-spinosus
+  wrong_terms:
+  - processus-transversus
+  - processus-costalis
+  - processus-articularis-superior
+  - processus-articularis-inferior
+  question_uuid: 3fa319afc6fc81c7d43947bd5f7e3a4

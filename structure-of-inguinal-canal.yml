@@ -1,0 +1,1066 @@
+---
+- terms:
+  - arteria-cremasterica
+  - arteria-epigastrica-inferior-2
+  exercise: easy
+- terms:
+  - arteria-femoralis-2
+  - arteria-iliaca-communis
+  exercise: easy
+- terms:
+  - right-external-iliac-artery-6
+  - arteria-iliaca-interna
+  exercise: easy
+- terms:
+  - arteria-profunda-femoris-2
+  - arteria-testicularis
+  exercise: easy
+- terms:
+  - arteria-epigastrica-inferior-2
+  - arteria-profunda-femoris-2
+  - arteria-iliaca-communis
+  - right-external-iliac-artery-6
+  exercise: four_one
+- terms:
+  - arteria-iliaca-interna
+  - arteria-cremasterica
+  - arteria-femoralis-2
+  - arteria-testicularis
+  exercise: four_one
+- terms:
+  - arteria-iliaca-communis
+  - arteria-epigastrica-inferior-2
+  - arteria-profunda-femoris-2
+  - right-external-iliac-artery-6
+  exercise: identify_image
+- terms:
+  - arteria-testicularis
+  - arteria-cremasterica
+  - arteria-iliaca-interna
+  - arteria-femoralis-2
+  exercise: identify_image
+- terms:
+  - vas-deferens-2
+  - fascia-iliaca
+  exercise: easy
+- terms:
+  - fascia-lata
+  - fascia-spermatica-externa
+  exercise: easy
+- terms:
+  - funiculus-spermaticus
+  - fascia-transversalis
+  exercise: easy
+- terms:
+  - ligamentum-inguinale
+  - ligamentum-lacunare
+  exercise: easy
+- terms:
+  - fascia-spermatica-externa
+  - funiculus-spermaticus
+  - ligamentum-inguinale
+  - ligamentum-lacunare
+  exercise: four_one
+- terms:
+  - fascia-transversalis
+  - vas-deferens-2
+  - fascia-iliaca
+  - fascia-lata
+  exercise: four_one
+- terms:
+  - funiculus-spermaticus
+  - ligamentum-lacunare
+  - fascia-iliaca
+  - fascia-transversalis
+  exercise: identify_image
+- terms:
+  - fascia-spermatica-externa
+  - ligamentum-inguinale
+  - fascia-lata
+  - vas-deferens-2
+  exercise: identify_image
+- terms:
+  - ligamentum-pectineum
+  - musculus-obliquus-externus-abdominis-2
+  exercise: easy
+- terms:
+  - musculus-obliquus-internus-abdominis-2
+  - musculus-transversus-abdominis-2
+  exercise: easy
+- terms:
+  - nervus-cutaneus-femoris-lateralis-2
+  - nervus-femoralis-2
+  exercise: easy
+- terms:
+  - nervus-genitofemoralis-2
+  - nodi-lymphoidei-inguinalis-superficialis
+  exercise: easy
+- terms:
+  - nodi-lymphoidei-inguinalis-superficialis
+  - musculus-obliquus-internus-abdominis-2
+  - musculus-obliquus-externus-abdominis-2
+  - nervus-cutaneus-femoris-lateralis-2
+  exercise: four_one
+- terms:
+  - musculus-transversus-abdominis-2
+  - nervus-genitofemoralis-2
+  - ligamentum-pectineum
+  - nervus-femoralis-2
+  exercise: four_one
+- terms:
+  - musculus-transversus-abdominis-2
+  - nervus-genitofemoralis-2
+  - nodi-lymphoidei-inguinalis-superficialis
+  - musculus-obliquus-externus-abdominis-2
+  exercise: identify_image
+- terms:
+  - nervus-cutaneus-femoris-lateralis-2
+  - nervus-femoralis-2
+  - musculus-obliquus-internus-abdominis-2
+  - ligamentum-pectineum
+  exercise: identify_image
+- terms:
+  - ramus-femoralis-nervi-genitofemoralis
+  - ramus-genitalis-nervi-genitofemoralis
+  exercise: easy
+- terms:
+  - vena-testicularis
+  - vena-epigastrica-inferior-2
+  exercise: easy
+- terms:
+  - vena-femoralis-2
+  - vena-iliaca-communis
+  exercise: easy
+- terms:
+  - right-external-iliac-vein-1
+  - vena-iliaca-interna
+  exercise: easy
+- terms:
+  - ramus-genitalis-nervi-genitofemoralis
+  - ramus-femoralis-nervi-genitofemoralis
+  - vena-epigastrica-inferior-2
+  - vena-iliaca-communis
+  exercise: four_one
+- terms:
+  - vena-testicularis
+  - vena-femoralis-2
+  - vena-iliaca-interna
+  - right-external-iliac-vein-1
+  exercise: four_one
+- terms:
+  - ramus-genitalis-nervi-genitofemoralis
+  - vena-iliaca-communis
+  - vena-iliaca-interna
+  - vena-epigastrica-inferior-2
+  exercise: identify_image
+- terms:
+  - vena-testicularis
+  - vena-femoralis-2
+  - right-external-iliac-vein-1
+  - ramus-femoralis-nervi-genitofemoralis
+  exercise: identify_image
+- terms:
+  - ureter-2
+  - fascia-iliaca
+  exercise: easy
+- terms:
+  - fascia-lata
+  - fascia-spermatica-externa
+  exercise: easy
+- terms:
+  - fascia-transversalis
+  - funiculus-spermaticus
+  exercise: easy
+- terms:
+  - inguinal-canal
+  - superficial-inguinal-ring
+  exercise: easy
+- terms:
+  - vas-deferens-2
+  - nodi-lymphoidei-inguinalis-superficialis
+  exercise: easy
+- terms:
+  - nodi-lymphoidei-inguinalis-superficialis
+  - fascia-spermatica-externa
+  - superficial-inguinal-ring
+  - inguinal-canal
+  exercise: four_one
+- terms:
+  - vas-deferens-2
+  - fascia-iliaca
+  - fascia-lata
+  - ureter-2
+  exercise: four_one
+- terms:
+  - fascia-spermatica-externa
+  - nodi-lymphoidei-inguinalis-superficialis
+  - superficial-inguinal-ring
+  - fascia-iliaca
+  exercise: identify_image
+- terms:
+  - fascia-lata
+  - inguinal-canal
+  - ureter-2
+  - vas-deferens-2
+  exercise: identify_image
+- terms:
+  - arteria-cremasterica
+  exercise: spell_term
+- terms:
+  - arteria-epigastrica-inferior-2
+  exercise: spell_term
+- terms:
+  - arteria-femoralis-2
+  exercise: spell_term
+- terms:
+  - arteria-iliaca-communis
+  exercise: spell_term
+- terms:
+  - right-external-iliac-artery-6
+  exercise: spell_term
+- terms:
+  - arteria-iliaca-interna
+  exercise: spell_term
+- terms:
+  - arteria-profunda-femoris-2
+  exercise: spell_term
+- terms:
+  - arteria-testicularis
+  exercise: spell_term
+- terms:
+  - vas-deferens-2
+  exercise: spell_term
+- terms:
+  - fascia-iliaca
+  exercise: spell_term
+- terms:
+  - fascia-lata
+  exercise: spell_term
+- terms:
+  - fascia-spermatica-externa
+  exercise: spell_term
+- terms:
+  - funiculus-spermaticus
+  exercise: spell_term
+- terms:
+  - fascia-transversalis
+  exercise: spell_term
+- terms:
+  - ligamentum-inguinale
+  exercise: spell_term
+- terms:
+  - ligamentum-lacunare
+  exercise: spell_term
+- terms:
+  - ligamentum-pectineum
+  exercise: spell_term
+- terms:
+  - musculus-obliquus-externus-abdominis-2
+  exercise: spell_term
+- terms:
+  - musculus-obliquus-internus-abdominis-2
+  exercise: spell_term
+- terms:
+  - musculus-transversus-abdominis-2
+  exercise: spell_term
+- terms:
+  - nervus-cutaneus-femoris-lateralis-2
+  exercise: spell_term
+- terms:
+  - nervus-femoralis-2
+  exercise: spell_term
+- terms:
+  - nervus-genitofemoralis-2
+  exercise: spell_term
+- terms:
+  - nodi-lymphoidei-inguinalis-superficialis
+  exercise: spell_term
+- terms:
+  - ramus-femoralis-nervi-genitofemoralis
+  exercise: spell_term
+- terms:
+  - ramus-genitalis-nervi-genitofemoralis
+  exercise: spell_term
+- terms:
+  - vena-testicularis
+  exercise: spell_term
+- terms:
+  - vena-epigastrica-inferior-2
+  exercise: spell_term
+- terms:
+  - vena-femoralis-2
+  exercise: spell_term
+- terms:
+  - vena-iliaca-communis
+  exercise: spell_term
+- terms:
+  - right-external-iliac-vein-1
+  exercise: spell_term
+- terms:
+  - vena-iliaca-interna
+  exercise: spell_term
+- terms:
+  - ureter-2
+  exercise: spell_term
+- terms:
+  - inguinal-canal
+  exercise: spell_term
+- terms:
+  - superficial-inguinal-ring
+  exercise: spell_term
+- concepts:
+  - ramus-genitalis-nervi-genitofemoralis
+  exercise: question_bank
+  question:
+    de: Welcher Nerv entspringt aus den L2-Fasern des Lendengeflechts (Plexus lumbalis)
+      und versorgt die Tunica vaginalis testis sowie die Fascia spermatica interna
+      und externa?
+    en: Which of the following nerves originates from the L2 fibers of the lumbar
+      plexus (plexus lumbalis) and supplies the tunica vaginalis of the testes and
+      the external and internal spermatic fasciae?
+  right_terms:
+  - ramus-genitalis-nervi-genitofemoralis
+  wrong_terms:
+  - ramus-femoralis-nervi-genitofemoralis
+  - nervus-iliohypogastricus
+  - nervus-ilioinguinalis
+  - nervus-subcostalis
+  question_uuid: 2dbbbac096739b366a91ebd08d769b4
+- concepts:
+  - ramus-femoralis-nervi-genitofemoralis
+  exercise: question_bank
+  question:
+    de: Welcher Nerv entspringt aus den L1-Fasern des Lendengeflechts (Plexus lumbalis)
+      und versorgt die Haut des proximalen, inneren Oberschenkels?
+    en: Which of the following nerves originates from L1 fibers of the lumbar plexus
+      (plexus lumbalis) and supplies the skin in the upper inner thigh?
+  right_terms:
+  - ramus-femoralis-nervi-genitofemoralis
+  wrong_terms:
+  - ramus-genitalis-nervi-genitofemoralis
+  - nervus-iliohypogastricus
+  - nervus-ilioinguinalis
+  - lateral-cutaneous-nerve-of-thigh
+  question_uuid: 986d71728e53b7e08eaa9a333c04a32
+- concepts:
+  - arteria-cremasterica
+  exercise: question_bank
+  question:
+    de: Welche Arterie entspringt aus der ventromedialen Seite der unteren Bauchdeckenarterie
+      (Arteria epigastrica inferior) und zieht mit dem Samenstrang (Funiculus spermaticus)?
+    en: What artery arises from the anteromedial side of the inferior epigastric artery
+      (arteria epigastrica inferior) and passes through the spermatic cord (funiculus
+      spermaticus)?
+  right_terms:
+  - arteria-cremasterica
+  wrong_terms:
+  - external-iliac-artery-10
+  - arteria-iliaca-interna
+  - arteria-profunda-femoris-2
+  - arteria-testicularis
+  question_uuid: 051cf51daf3b5d6c20d7b2f0f6ceeb6
+- concepts:
+  - fascia-iliaca
+  exercise: question_bank
+  question:
+    de: Welche Faszie setzt lateral an der inneren Lamelle der Darmbeinkante (Crista
+      iliaca) an und zieht medial zur Linea terminalis des kleinen Beckens?
+    en: What fascia in the pelvic region connects laterally to the inner lip of the
+      iliac crest (crista iliaca) and medially to the linea terminalis of the lesser
+      pelvis?
+  right_terms:
+  - fascia-iliaca
+  wrong_terms:
+  - fascia-lata
+  - fascia-spermatica-externa
+  - fascia-transversalis
+  - fascia-thoracolumbalis
+  question_uuid: 8fcd8232daa5d4e671604623ea2d5cf
+- concepts:
+  - fascia-lata
+  exercise: question_bank
+  question:
+    de: Welche Faszie umgibt die Oberschenkelmuskulatur?
+    en: What fascia encloses the muscles of the thigh?
+  right_terms:
+  - fascia-lata
+  wrong_terms:
+  - fascia-iliaca
+  - fascia-spermatica-externa
+  - fascia-transversalis
+  - fascia-thoracolumbalis
+  question_uuid: 568c36db80fcb1dccd211b4f5d7cd32
+- concepts:
+  - fascia-spermatica-externa
+  exercise: question_bank
+  question:
+    de: Welche Struktur stellt eine dünne Membran in der Tiefe der Tunica dartos des
+      Hodens und oberflächlich des Musculus cremasters dar?
+    en: Which structure appears as a thin membrane located deep to the dartos fascia
+      (tunica dartos) of the testes and is superficial to the cremaster muscle (musculus
+      cremaster)?
+  right_terms:
+  - fascia-spermatica-externa
+  wrong_terms:
+  - fascia-iliaca
+  - fascia-lata
+  - fascia-transversalis
+  - tunica-vaginalis
+  question_uuid: ca59e4e2f7d5a420bbdeb68c0dd3e75
+- concepts:
+  - fascia-transversalis
+  exercise: question_bank
+  question:
+    de: Welche Struktur stellt eine dünne Membran zwischen der Innenseite des Musculus
+      transversus abdominis und dem Peritoneum parietale dar?
+    en: Which structure appears as a thin membrane between the inner surface of the
+      transversus abdominis muscle (musculus transversus abdominis) and the parietal
+      peritoneum?
+  right_terms:
+  - fascia-transversalis
+  wrong_terms:
+  - fascia-iliaca
+  - fascia-lata
+  - fascia-spermatica-externa
+  - tunica-vaginalis
+  question_uuid: d1661a0938691dd8ac196a6e136df14
+- concepts:
+  - funiculus-spermaticus
+  exercise: question_bank
+  question:
+    de: Welche Struktur beinhaltet die Arterien, Venen, Nerven und Lymphgefäße für
+      die Hoden?
+    en: Which structure contains the arteries, veins, nerves and lymphatic vessels
+      for the testes?
+  right_terms:
+  - funiculus-spermaticus
+  wrong_terms:
+  - seminal-colliculus
+  - seminiferous-tubules-2
+  - efferent-ductules-1
+  - distal-convoluted-tubule
+  question_uuid: a68b4a1a7ebe635d67677b39642482e
+- concepts:
+  - ligamentum-lacunare
+  exercise: question_bank
+  question:
+    de: Welches Band in der Region des Leistenkanals verbindet zwei benachbarte Bänder
+      am Os pubis miteinander?
+    en: Which ligament connects the inguinal ligament (ligamentum inguinale) to the
+      pectineal ligament (ligamentum pectineum)?
+  right_terms:
+  - ligamentum-lacunare
+  wrong_terms:
+  - ligamentum-ischiofemorale
+  - transverse-acetabular-ligament
+  - ligamentum-sacrotuberale
+  - ligamentum-pubofemorale
+  question_uuid: d5b964e7db64f1b7c8d040b1452ec14
+- concepts:
+  - nodi-lymphoidei-inguinalis-superficialis
+  exercise: question_bank
+  question:
+    de: Welches ist eine Gruppe von etwa zehn Lymphknoten im Schenkeldreieck (Trigonum
+      femorale)?
+    en: Which of the following is a collection of lymph nodes in the femoral triangle
+      (trigonum femorale)?
+  right_terms:
+  - nodi-lymphoidei-inguinalis-superficialis
+  wrong_terms:
+  - deep-inguinal-lymph-nodes
+  - iliac-lymph-nodes
+  - left-lumbar-lymph-nodes
+  - nodi-lymphoidei-coeliaci
+  question_uuid: cdbaf0ed200909994e84d72a9d574e9
+- concepts:
+  - vas-deferens-2
+  exercise: question_bank
+  question:
+    de: Welche Struktur hat eine dicke Muskelwand und ist eine direkte Fortsetzung
+      des Nebenhodengangs (Ductus epididymidis)?
+    en: Which structure has a thick muscular wall and is a direct continuation of
+      the epididymal duct (ductus epididymidis)?
+  right_terms:
+  - vas-deferens-2
+  wrong_terms:
+  - funiculus-spermaticus
+  - ureter-2
+  - urethra-2
+  - appendix-of-epididymis
+  question_uuid: c275116843e9280095e291e1b7bef71
+- concepts:
+  - vena-testicularis
+  exercise: question_bank
+  question:
+    de: Welche Vene verläuft lateral ihrer assoziierten Arterie über den Musculus
+      psoas major?
+    en: Which vein travels laterally alongside its respective artery over the anterior
+      surface of the psoas major muscle (musculus psoas major)?
+  right_terms:
+  - vena-testicularis
+  wrong_terms:
+  - vena-epigastrica-inferior
+  - vena-femoralis-2
+  - vena-iliaca-externa
+  - vena-iliaca-interna
+  question_uuid: 41ab0b5758608ac3dbf0392c67aa469
+- concepts:
+  - ligamentum-inguinale
+  exercise: question_bank
+  question:
+    de: Welche Struktur markiert ventral den Übergang vom Abdomen zur Oberschenkelregion
+      (Regio femoralis)?
+    en: Which ligament marks the anterior boundary between the thigh region and abdominal
+      region?
+  right_terms:
+  - ligamentum-inguinale
+  wrong_terms:
+  - ligamentum-sacrospinale
+  - ligamentum-supraspinale
+  - ligamentum-pectineum
+  - ligamentum-ischiofemorale
+  question_uuid: d3a623275d6e48ae58309307429973c
+- concepts:
+  - clavicula
+  - midclavicular-line
+  - ligamentum-inguinale
+  exercise: question_bank
+  question:
+    de: Bei der Aufteilung des Abdomens in neun Regionen werden die linke und rechte
+      Linie durch die Schlüsselbeinmitte (Linea medioclavicularis) verwendet. Diese
+      verläuft jeweils vom Schlüsselbein (Clavicula) bis zur welchen Struktur?
+    en: The midclavicular lines used in the nine region scheme for the Abdomen run
+      from the midline of the clavicle to the mid-point of which structure?
+  right_terms:
+  - ligamentum-inguinale
+  wrong_terms:
+  - ligamentum-hepatogastricum
+  - ligamentum-pectineum
+  - ligamentum-sacrotuberale
+  - ligamentum-cricotracheale
+  question_uuid: f24fcc704bf6fc9d85b57c47f03f1fd
+- concepts:
+  - ligamentum-inguinale
+  - femoral-trigone-2
+  - musculus-sartorius
+  - musculus-gracilis
+  exercise: question_bank
+  question:
+    de: Welche Region wird vom Leistenband (Ligamentum inguinale), vom Schneidermuskel
+      (Musculus sartorius) und vom schlanken Muskel (Musculus gracilis) begrenzt?
+    en: Which region is bounded by the inguinal ligament (ligamentum inguinale), the
+      sartorius muscle (musculus sartorius) and the gracilis muscle (musculus gracilis)?
+  right_terms:
+  - femoral-trigone-2
+  wrong_terms:
+  - anterior-genual-region
+  - anterior-thigh-region
+  - pubic-region-2
+  - inguinal-region
+  question_uuid: 86609f25c26e7bce0db315f30e822f0
+- concepts:
+  - arteria-testicularis
+  exercise: question_bank
+  question:
+    de: Ein 16-jähriger Schüler stellt sich mit stärksten Schmerzen im rechten Skrotum
+      in der Notaufnahme vor. Es wird der Verdacht auf eine Hodentorsion gestellt.
+      Welche Arterie ist am ehesten abgeknickt, wenn im Doppler-Ultraschall ein verminderter
+      Blutfluss zu sehen ist?
+    en: A 16-year-old student presents in the emergency department with severe scrotal
+      pain on the right side. A testicular torsion is suspected. Which artery is most
+      likely blocked, if a decreased blood flow is seen in the Doppler ultrasound?
+  right_terms:
+  - arteria-testicularis
+  wrong_terms:
+  - arteria-pudenda-externa-superficialis
+  - arteria-epigastrica-inferior
+  - arteria-pudenda-externa-profunda
+  - arteria-perinealis
+  question_uuid: aa447d4de650350a10594e6f12cc6b5
+- concepts:
+  - ductus-ejaculatorii
+  - arteria-testicularis
+  - arteria-cremasterica
+  - vas-deferens
+  exercise: question_bank
+  question:
+    de: Ein junger Mann berichtet über Schmerzen in seiner linken Leiste. Nach der
+      Diagnose einer Leistenhernie plant die Chirurgin eine offene Leistenbruch-OP
+      in der Nähe des Samenstrangs (Funiculus spermaticus). Welche der folgenden Strukturen
+      sind im Samenstrang nicht enthalten?
+    en: A young man reports about pain in his left inguinal region. After diagnosing
+      an inguinal hernia, the surgeon plans an open inguinal hernia repair in close
+      proximity of the spermatic cord (funiculus spermaticus). Which of the following
+      structures are not part of the spermatic cord?
+  right_terms:
+  - arteria-dorsalis-penis
+  - ductus-ejaculatorii
+  wrong_terms:
+  - arteria-testicularis
+  - arteria-cremasterica
+  - vas-deferens
+  question_uuid: 3cd3b80ef9160cf13019212181ac40f
+- concepts:
+  - funiculus-spermaticus
+  - ductus-ejaculatorii
+  exercise: question_bank
+  question:
+    de: Welche Struktur ist kein Teil des Samenstranges (Funiculus spermaticus)?
+    en: Which structure is not part of the spermatic cord (Funiculus spermaticus)?
+  right_terms:
+  - ductus-ejaculatorii
+  wrong_terms:
+  - vas-deferens
+  - arteria-testicularis
+  - testicular-vein
+  - genital-branch-of-genitofemoral-nerve
+  question_uuid: 3844f30c10b75b9772db4db830bbc8e
+- concepts:
+  - arteria-testicularis
+  exercise: question_bank
+  question:
+    de: Ein kleiner Säugling wird wegen einer Hodentorsion als Notfall ins Krankenhaus
+      eingeliefert. Diese muss chirurgisch schnellstmöglich gelöst werden, um dauerhafte
+      Schäden zu verhindern. Welche Arterie ist in diesem Fall aufgrund der Torsion
+      verschlossen?
+    en: A young baby boy is rushed to the hospital as an emergency because of a testicle
+      torsion. It needs to be released surgically as soon as possible to prevent permanent
+      damage. Which artery is constricted in this case because of the torsion?
+  right_terms:
+  - arteria-testicularis
+  wrong_terms:
+  - arteria-femoralis-2
+  - arteria-cremasterica
+  - external-iliac-artery-10
+  - arteria-iliaca-interna
+  question_uuid: 847ab7639298bbdb2c29cb317423fc8
+- concepts:
+  - testis
+  - nodi-lymphoidei-inguinalis-superficialis
+  exercise: question_bank
+  question:
+    de: Ein 35-jähriger Mann mit bekannten Geschlechtskrankheiten in der Vorgeschichte
+      kommt zu seinem Hausarzt wegen Schmerzen in seinem linken Hoden. Der Arzt vermutet
+      eine Orchitis (Entzündung des Hodens). Welche Lymphknoten sind am wahrscheinlichsten
+      aufgrund der Infektion geschwollen und tastbar?
+    en: A 35-year-old man with past STI (sexually transmitted infections) sees his
+      GP (general practitioner) because of pain in his left testicle. She suspects
+      an orchitis (inflammation of the testis). Which lymph nodes are most likely
+      be swollen and palpable due to this infection?
+  right_terms:
+  - nodi-lymphoidei-inguinalis-superficialis
+  wrong_terms:
+  - deep-inguinal-lymph-nodes
+  - internal-iliac-lymph-nodes
+  - external-iliac-lymph-nodes
+  - nodi-lymphoidei-promontorii
+  question_uuid: 4e9f8644a1165750a9b1881a6a0873d
+- concepts:
+  - glans-penis
+  - nodi-lymphoidei-inguinalis-superficialis
+  exercise: question_bank
+  question:
+    de: Ein 40-jähriger Patient weist eine starke Entzündung der Eichel (Glans penis)
+      auf. Welche der folgenden Lymphknoten werden am wahrscheinlichsten zuerst darauf
+      reagieren?
+    en: A 40-year-old patient is diagnosed as having a severe inflammation of the
+      glans penis. Which of the following lymph nodes will most likely react first?
+  right_terms:
+  - nodi-lymphoidei-inguinalis-superficialis
+  wrong_terms:
+  - intermediate-lumbar-lymph-nodes
+  - inferior-mesenteric-lymph-nodes
+  - nodi-lymphoidei-mesenterici-superiores
+  - iliac-lymph-nodes
+  question_uuid: 6407d5ae87737a6cd7e211fee8bb0e7
+- concepts:
+  - arteria-testicularis
+  - abdominal-aorta
+  exercise: question_bank
+  question:
+    de: Aufgrund eines malignen Tumors im linken Hoden eines 30-jährigen Patienten
+      entschließen sich die Ärzte zu einer Orchiektomie (Entfernung des Hodens). Ein
+      wichtiger Schritt während der OP ist das Verschließen der Arteria testicularis
+      (Hodenarterie). Wo hat diese Arterie ihren Ursprung?
+    en: Because of a malignant tumor in his left testicle, an orchiectomy (removal
+      of the testicle) is performed on a 30-year-old patient. As an important step
+      during the surgery, the doctors have to ligate the testicular artery (arteria
+      testicularis). Where does this artery has its origin?
+  right_terms:
+  - abdominal-aorta
+  wrong_terms:
+  - external-iliac-artery-10
+  - arteria-iliaca-interna
+  - arteria-renalis-sinistra
+  - arteria-pudenda-interna
+  question_uuid: 3483c7bcc76f1056ca7766ffdf206a3
+- concepts:
+  - ureter-2
+  - detrusor-urinae-muscle
+  exercise: question_bank
+  question:
+    de: Durch welchen Muskel verläuft die Pars intramuralis des Ureters (intramuraler
+      Harnleiter)?
+    en: Through which muscle does the intramural part of the ureter run?
+  right_terms:
+  - detrusor-urinae-muscle
+  wrong_terms:
+  - musculus-iliopsoas
+  - musculus-psoas-minor
+  - musculus-puborectalis
+  - levator-ani-muscle-8
+  question_uuid: 65d50a10211c9a38a49b0546484b88e
+- concepts:
+  - ureter-2
+  - musculus-psoas-major
+  exercise: question_bank
+  question:
+    de: Auf der Faszie welches Muskels verläuft die Pars abdominalis ureteris (Bauchteil
+      des Harnleiters)?
+    en: Along the fascia of which muscle does the abdominal part of the ureter (pars
+      abdominalis ureteris) run?
+  right_terms:
+  - musculus-psoas-major
+  wrong_terms:
+  - musculus-rectus-abdominis-2
+  - musculus-pubococcygeus
+  - iliopubic-tract
+  - abdominal-internal-oblique-muscle-2
+  question_uuid: 3e7408747a329b8d05c08383e80a134
+- concepts:
+  - arteria-iliaca-communis
+  - ureter-2
+  exercise: question_bank
+  question:
+    de: Eine 55-jährige Patientin wird mit krampfartigen Schmerzen im rechten Unterbauch
+      im Krankenhaus vorgestellt. Sonographisch zeigen sich dunkle Schatten im rechten
+      Harnleiter (Ureter), die für Harnleitersteine sprechen (Ureterolithiasis) .
+      Der Harnleiter hat drei anatomische Engstellen, an denen Harnsteine bevorzugt
+      den Harnfluss blockieren. Welche Struktur wird vom Harnleiter überkreuzt und
+      verursacht somit eine der drei Engstellen?
+    en: A 55-year-old patient is admitted to the hospital with severe pain in the
+      right lower abdomen. An ultrasound shows dark shadows within the right ureter
+      indicating ureteric calculi (ureterolithiasis). The ureter has three anatomical
+      constrictions where urinary stones frequently block the flow of urine. Which
+      structure is crossed by the ureter and causes one of the three constrictions?
+  right_terms:
+  - arteria-iliaca-communis
+  wrong_terms:
+  - musculus-psoas-minor
+  - musculus-psoas-major
+  - arteria-pudenda-interna-5
+  - musculus-levator-ani-5
+  question_uuid: f42c18fec9a11bb20613f2dcb013995
+- concepts:
+  - genitofemoral-nerve
+  - funiculus-spermaticus
+  exercise: question_bank
+  question:
+    de: Ein Ast wessen Nerven läuft durch den Samenstrang (Funiculus spermaticus)?
+    en: A branch of which nerve runs through the spermatic cord (funiculus spermaticus)?
+  right_terms:
+  - genitofemoral-nerve
+  wrong_terms:
+  - ilioinguinal-nerve
+  - nervus-pudendus
+  - nervus-iliohypogastricus
+  - nervus-obturatorius
+  question_uuid: 7c0ba8806c25afb92be0cde08b75cf2
+- concepts:
+  - ilioinguinal-nerve
+  - ramus-genitalis-nervi-genitofemoralis
+  - pudendal-nerve-3
+  exercise: question_bank
+  question:
+    de: Welche Nerven sind an der sensiblen Innervation der Vulva beteiligt?
+    en: Which nerves contribute to the innervation of the vulva?
+  right_terms:
+  - ilioinguinal-nerve
+  - ramus-genitalis-nervi-genitofemoralis
+  - pudendal-nerve-3
+  wrong_terms:
+  - superior-gluteal-nerve-2
+  - ramus-femoralis-nervi-genitofemoralis
+  question_uuid: 95d20730988dfc63808c61af7344e3a
+- concepts:
+  - nodi-lymphoidei-inguinalis-superficialis
+  exercise: question_bank
+  question:
+    de: Eine junge Patientin sucht ihre Frauenärztin auf, da sie eine Schwellung im
+      Genitalbereich bemerkt hat. Die Ärztin stellt eine entzündete Bartholin-Drüse
+      (Bartholinitis) links neben dem Scheideneingang fest. Welche Lymphknoten werden
+      in diesem Fall am ehesten vergrößert und tastbar sein?
+    en: A young woman visits her gynecologist because of a painful swelling in the
+      genital area. The doctor diagnoses an inflamed Bartholin’s gland (bartholinitis)
+      to the left of the opening of the vagina. Which of the following lymph nodes
+      are most likely to be enlarged and can be palpated because of this inflammation?
+  right_terms:
+  - nodi-lymphoidei-inguinalis-superficialis
+  wrong_terms:
+  - nodi-lymphoidei-iliaci-communes-promontorii
+  - nodi-lymphoidei-paravesicales
+  - common-iliac-lymph-nodes
+  - nodi-lymphoidei-praeaortici
+  question_uuid: 79f2452d8942f9d8267cdfd59000416
+- concepts:
+  - vulva
+  - nodi-lymphoidei-inguinalis-superficialis
+  exercise: question_bank
+  question:
+    de: Eine ältere Dame sucht ihren Frauenarzt auf, da ihr eine schmerzloser Fleck
+      auf der Haut im Schambereich aufgefallen ist, der sich in Farbe und Struktur
+      verändert hat. Die Biopsie bestätigt den Verdacht auf ein Karzinom. Welche Lymphknoten
+      wären in diesem Fall zuerst betroffen und sollten daher in der folgenden Becken-CT
+      besonders aufmerksam betrachtet werden?
+    en: An elderly woman visits her gynecologist due to a painless spot on the skin
+      of her vulva that has changed in color and texture. The biopsy confirms the
+      suspected diagnosis of a carcinoma. In this case, which lymph nodes are most
+      likely to be affected first and therefore should be paid special attention to
+      in the following CT scan of the pelvis?
+  right_terms:
+  - nodi-lymphoidei-inguinalis-superficialis
+  wrong_terms:
+  - external-iliac-lymph-nodes
+  - common-iliac-lymph-nodes
+  - deep-inguinal-lymph-nodes
+  - internal-iliac-lymph-nodes
+  question_uuid: 5b67b2a7fe6be1c7bb5dee9714d1c20
+- concepts:
+  - ramus-femoralis-nervi-genitofemoralis
+  - femoral-vein-4
+  - vena-femoralis
+  - arteria-femoralis-2
+  - arteria-femoralis
+  exercise: question_bank
+  question:
+    de: Welche drei Strukturen verlassen das Becken durch die Lacuna vasorum (Gefäßpforte)?
+    en: Which three structures exit the pelvis through the vascular lacuna (lacuna
+      vasorum)?
+  right_terms:
+  - ramus-femoralis-nervi-genitofemoralis
+  - femoral-vein-4
+  - arteria-femoralis-2
+  wrong_terms:
+  - genital-branch-of-genitofemoral-nerve
+  - nervus-femoralis
+  question_uuid: 9e87ba0cfa483224ff9f355f3e0eff2
+- concepts:
+  - fascia-lata
+  - inguinal-ligament
+  exercise: question_bank
+  question:
+    de: Welche oberflächliche Faszie strahlt von kaudal in das Leistenband (Ligamentum
+      inguinale) ein?
+    en: Which superficial fascia merges caudally with the inguinal ligament?
+  right_terms:
+  - fascia-lata
+  wrong_terms:
+  - fascia-presacralis
+  - fascia-transversalis
+  - fascia-perinei
+  - iliac-fascia
+  question_uuid: 8ea51b13f00cc448960d9940387330a
+- concepts:
+  - femoral-vein-4
+  - vena-femoralis
+  - arteria-femoralis-2
+  - arteria-femoralis-3
+  - arteria-femoralis
+  exercise: question_bank
+  question:
+    de: Ein Notarzt findet einen bewusstlosen Mann auf. Da es ihm nicht gelingt an
+      den Extremitäten Blut abzunehmen, entschließt er sich zu einer Punktion der
+      Vena femoralis (Oberschenkelvene). Welches Gefäß liegt direkt lateral der Vena
+      femoralis an und kann aufgrund ihres gut tastbaren Pulses leicht identifiziert
+      werden?
+    en: An emergency physician finds an unconscious man. As he does not succeed to
+      draw blood at the limbs, he decides to puncture the femoral vein. Which vessel
+      lies directly lateral to the femoral vein and can be identified easily because
+      of its palpable pulse?
+  right_terms:
+  - arteria-femoralis-2
+  wrong_terms:
+  - arteria-pudenda-externa-superficialis
+  - arteria-obturatoria-2
+  - external-iliac-artery-10
+  - arteria-epigastrica-inferior
+  question_uuid: fda7623daed814281f206ef4b0e0616
+- concepts:
+  - ramus-femoralis-nervi-genitofemoralis
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Strukturen verläuft zusammen mit der Oberschenkelarterie
+      (Arteria femoralis) und -vene (Vena femoralis) durch die Lacuna vasorum?
+    en: Which of the following structures accompany the femoral artery and vein in
+      the femoral sheath?
+  right_terms:
+  - ramus-femoralis-nervi-genitofemoralis
+  wrong_terms:
+  - nervus-pudendus
+  - nervus-saphenus
+  - nervus-femoralis
+  - genital-branch-of-genitofemoral-nerve
+  question_uuid: 3b1630d72f53e1e3be233f5c005ee01
+- concepts:
+  - ramus-femoralis-nervi-genitofemoralis
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Strukturen liegt in der Lacuna vasorum am weitesten lateral?
+    en: Which of the following structures lies most laterally in the femoral sheath?
+  right_terms:
+  - ramus-femoralis-nervi-genitofemoralis
+  wrong_terms:
+  - nervus-femoralis
+  - nervus-saphenus
+  - vena-saphena-magna
+  - femoral-vein-2
+  question_uuid: 4566d5b3085ea878402926708444277
+- concepts:
+  - vena-femoralis
+  - nervus-femoralis
+  - arteria-femoralis
+  - arteria-femoralis-2
+  exercise: question_bank
+  question:
+    de: Welche Strukturen beinhaltet das Trigonum femorale?
+    en: What structures does the femoral triangle contain?
+  right_terms:
+  - vena-femoralis
+  - nervus-femoralis
+  - arteria-femoralis
+  wrong_terms:
+  - arteria-profunda-femoris
+  - ramus-femoralis-nervi-genitofemoralis
+  question_uuid: ca1052240e254dad8f8135273bcf16d
+- terms:
+  - musculus-obliquus-externus-abdominis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - linea-alba
+  - tuberculum-pubicum
+  - crista-iliaca
+  wrong_terms:
+  - os-sacrum
+  - costae-x-xii
+  - symphysis-pubis
+- terms:
+  - musculus-obliquus-internus-abdominis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - fascia-thoracolumbalis
+  - crista-iliaca
+  wrong_terms:
+  - tuberculum-pubicum
+  - trochanter-major
+  - spina-iliaca-anterior-superior
+  - os-pubis
+- concepts:
+  - nodi-lymphoidei-iliaci-externi-3
+  - nodi-lymphoidei-inguinales-profundi
+  - nodi-lymphoidei-inguinalis-superficialis
+  exercise: question_bank
+  question:
+    de: In welche Lymphknoten drainieren die tiefen und oberflächlichen  Leistenlymphknoten
+      (Nodi lymphoidei inguinales profundi et superficiales)?
+    en: Into which lymph nodes do the deep and superficial inguinal lymph nodes (nodi
+      lymphoidei inguinales profundi et superficiales) drain?
+  right_terms:
+  - nodi-lymphoidei-iliaci-externi-3
+  wrong_terms:
+  - popliteal-lymph-nodes
+  - nodi-lymphoidei-coeliaci
+  - nodi-lymphoidei-mesenterici-superiores
+  - nodi-lymphoidei-mesenterici-inferiores
+  question_uuid: 37e844af7b9cc46fdb6cdb77d9c6ef9
+- concepts:
+  - ligamentum-inguinale
+  - tractus-horizontalis-nodi-lymphoidei-inguinales-superficiales
+  exercise: question_bank
+  question:
+    de: Parallel zu welcher Struktur verläuft der horizontale Trakt der oberflächlichen
+      Leistenlymphknoten (Tractus horizontalis nodi lymphoidei inguinales superficiales)?
+    en: Parallel to which structure is the horizontal tract of superficial inguinal
+      lymph nodes situated?
+  right_terms:
+  - ligamentum-inguinale
+  wrong_terms:
+  - vena-saphena-magna
+  - femoral-artery-4
+  - small-saphenous-vein-2
+  - nervus-ischiadicus-2
+  question_uuid: 789a877838535162ac1f4a0435bdb58
+- concepts:
+  - ureter
+  - arteria-ovarica
+  - arteria-testicularis
+  exercise: question_bank
+  question:
+    de: Neben direkten Ästen der Aorta abdominalis erhält der mittlere Abschnitt des
+      Harnleiters (Ureter) zusätzlich Blut aus welchen weiteren Arterien?
+    en: Aside from the ureteric branch of the abdominal aorta, which arteries contribute
+      to the blood supply of the middle segment of the ureter?
+  right_terms:
+  - arteria-ovarica
+  - arteria-testicularis
+  wrong_terms:
+  - arteria-vesicalis-superior-sinistra
+  - arteria-vesicalis-inferior-dextra
+  - arteria-vesicalis-inferior-sinistra
+  - arteria-iliaca-communis-sinistra
+  question_uuid: a5d6a2eb3ded55ff9621a1611fbef04
+- concepts:
+  - fascia-transversalis
+  exercise: question_bank
+  question:
+    de: Welche Muskeln liegen der Fascia transversalis (querverlaufende Faszie) an,
+      welche dorsal an das paranephritische Fettgewebe grenzt?
+    en: Which muscles are adjacent to the transverse fascia, which lies posterior
+      to the paranephric fat?
+  right_terms:
+  - psoas-major-muscle-8
+  - quadratus-lumborum-muscle-5
+  - transversus-abdominis-muscle-9
+  wrong_terms:
+  - longissimus-muscle-4
+  - iliacus-muscle
+  question_uuid: 213ec6584c6f3587e2298fe4bf57525
+- concepts:
+  - vena-testicularis
+  - left-renal-vein
+  exercise: question_bank
+  question:
+    de: In welches Gefäß mündet die linke Hodenvene (Vena testicularis sinistra)?
+    en: Into which vessel does the left testicular vein (vena testicularis sinistra)
+      drain?
+  right_terms:
+  - left-renal-vein
+  wrong_terms:
+  - vena-interna-iliaca-sinistra-2
+  - inferior-mesenteric-vein
+  - splenic-vein-3
+  - inferior-vena-cava-7
+  question_uuid: 07e12d22dc32530c4b8faa92c1a3163
+- concepts:
+  - vena-testicularis
+  - left-renal-vein
+  exercise: question_bank
+  question:
+    de: Ein vierzigjähriger Patient stellt sich mit einer schmerzlosen Schwellung
+      des linken Hodens beim Urologen vor. Der Arzt stellt einen Rückstau im Plexus
+      pampiniformis (rankenförmiges Geflecht) fest und diagnostiziert eine Varikozele.
+      Welches Gefäß mündet im rechten Winkel in die linke Nierenvene (Vena renalis
+      sinistra) und verursacht häufig dieses Krankheitsbild?
+    en: A 40-year-old patient presents to the urologist with a painless swelling of
+      the left testicle. The doctor detects a retention in the pampiniform plexus
+      and diagnoses a varicocele. Which vessel opens into the left renal vein (vena
+      renalis sinistra) in a right angle and often causes this clinical picture?
+  right_terms:
+  - vena-testicularis
+  wrong_terms:
+  - internal-pudendal-vein
+  - deep-dorsal-vein-of-penis
+  - obturator-vein
+  - femoral-vein-3
+  question_uuid: 55c50f3f9504362288ae8725021af26

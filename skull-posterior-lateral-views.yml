@@ -1,0 +1,1314 @@
+---
+- terms:
+  - sutura-sphenoparietalis
+  - fossa-temporalis
+  exercise: easy
+- terms:
+  - squama-temporalis
+  - pars-petrosa-ossis-temporalis
+  exercise: easy
+- terms:
+  - arcus-zygomaticus
+  - processus-zygomaticus-ossis-temporalis
+  exercise: easy
+- terms:
+  - processus-styloideus
+  - processus-mastoideus
+  exercise: easy
+- terms:
+  - sutura-sphenoparietalis
+  - fossa-temporalis
+  - squama-temporalis
+  - pars-petrosa-ossis-temporalis
+  exercise: four_one
+- terms:
+  - arcus-zygomaticus
+  - processus-zygomaticus-ossis-temporalis
+  - processus-styloideus
+  - processus-mastoideus
+  exercise: four_one
+- terms:
+  - sutura-sphenoparietalis
+  - fossa-temporalis
+  - squama-temporalis
+  - pars-petrosa-ossis-temporalis
+  exercise: identify_image
+- terms:
+  - arcus-zygomaticus
+  - processus-zygomaticus-ossis-temporalis
+  - processus-styloideus
+  - processus-mastoideus
+  exercise: identify_image
+- terms:
+  - meatus-acusticus-externus
+  - os-occipitale
+  exercise: easy
+- terms:
+  - sutura-lambdoidea
+  - sutura-squamosa
+  exercise: easy
+- terms:
+  - sutura-sagittalis
+  - linea-nuchalis-suprema
+  exercise: easy
+- terms:
+  - linea-nuchalis-superior
+  - linea-nuchalis-inferior
+  exercise: easy
+- terms:
+  - meatus-acusticus-externus
+  - os-occipitale
+  - sutura-lambdoidea
+  - sutura-squamosa
+  exercise: four_one
+- terms:
+  - sutura-sagittalis
+  - linea-nuchalis-suprema
+  - linea-nuchalis-superior
+  - linea-nuchalis-inferior
+  exercise: four_one
+- terms:
+  - meatus-acusticus-externus
+  - os-occipitale
+  - sutura-lambdoidea
+  - sutura-squamosa
+  exercise: identify_image
+- terms:
+  - sutura-sagittalis
+  - linea-nuchalis-suprema
+  - linea-nuchalis-superior
+  - linea-nuchalis-inferior
+  exercise: identify_image
+- terms:
+  - protuberancia-occipitalis-externa
+  - foramen-mastoideum
+  exercise: easy
+- terms:
+  - foramen-incisivum
+  - processus-pterygoideus-ossis-sphenoidalis
+  exercise: easy
+- terms:
+  - condylus-occipitalis
+  - os-palatinum
+  exercise: easy
+- terms:
+  - foramen-mandibulae
+  - processus-palatinus-maxillae
+  exercise: easy
+- terms:
+  - protuberancia-occipitalis-externa
+  - foramen-mastoideum
+  - foramen-incisivum
+  - processus-pterygoideus-ossis-sphenoidalis
+  exercise: four_one
+- terms:
+  - condylus-occipitalis
+  - os-palatinum
+  - foramen-mandibulae
+  - processus-palatinus-maxillae
+  exercise: four_one
+- terms:
+  - protuberancia-occipitalis-externa
+  - foramen-mastoideum
+  - foramen-incisivum
+  - processus-pterygoideus-ossis-sphenoidalis
+  exercise: identify_image
+- terms:
+  - condylus-occipitalis
+  - os-palatinum
+  - foramen-mandibulae
+  - processus-palatinus-maxillae
+  exercise: identify_image
+- terms:
+  - sutura-sphenoparietalis
+  exercise: spell_term
+- terms:
+  - fossa-temporalis
+  exercise: spell_term
+- terms:
+  - squama-temporalis
+  exercise: spell_term
+- terms:
+  - pars-petrosa-ossis-temporalis
+  exercise: spell_term
+- terms:
+  - arcus-zygomaticus
+  exercise: spell_term
+- terms:
+  - processus-zygomaticus-ossis-temporalis
+  exercise: spell_term
+- terms:
+  - processus-styloideus
+  exercise: spell_term
+- terms:
+  - processus-mastoideus
+  exercise: spell_term
+- terms:
+  - meatus-acusticus-externus
+  exercise: spell_term
+- terms:
+  - os-occipitale
+  exercise: spell_term
+- terms:
+  - sutura-lambdoidea
+  exercise: spell_term
+- terms:
+  - sutura-squamosa
+  exercise: spell_term
+- terms:
+  - sutura-sagittalis
+  exercise: spell_term
+- terms:
+  - linea-nuchalis-suprema
+  exercise: spell_term
+- terms:
+  - linea-nuchalis-superior
+  exercise: spell_term
+- terms:
+  - linea-nuchalis-inferior
+  exercise: spell_term
+- terms:
+  - protuberancia-occipitalis-externa
+  exercise: spell_term
+- terms:
+  - foramen-mastoideum
+  exercise: spell_term
+- terms:
+  - foramen-incisivum
+  exercise: spell_term
+- terms:
+  - processus-pterygoideus-ossis-sphenoidalis
+  exercise: spell_term
+- terms:
+  - condylus-occipitalis
+  exercise: spell_term
+- terms:
+  - os-palatinum
+  exercise: spell_term
+- terms:
+  - foramen-mandibulae
+  exercise: spell_term
+- terms:
+  - processus-palatinus-maxillae
+  exercise: spell_term
+- concepts:
+  - atlas-2
+  - atlas
+  - atlas-6
+  - axis-2
+  - axis-5
+  - axis
+  - vertebrae-cervicales
+  - os-occipitale
+  exercise: question_bank
+  question:
+    de: Welche Wirbel bilden zusammen mit dem Hinterhauptbein (Os occipitale) das
+      obere und untere Kopfgelenk?
+    en: Which vertebrae form the upper and lower head joints together with the occipital
+      bone?
+  right_terms:
+  - atlas-2
+  - axis-2
+  wrong_terms:
+  - sacrum-2
+  - os-coccygis
+  - talus
+  question_uuid: 63759e139f5ba24565adc7fdd3e2e2b
+- concepts:
+  - frontal-bone
+  - os-frontale-2
+  - os-frontale-3
+  - os-frontale-4
+  - os-frontale
+  - frontal-bone-9
+  - parietal-bone
+  - os-parietale-3
+  - os-parietale-2
+  - os-parietale
+  - os-parietale-4
+  - os-parietale-5
+  - temporal-bone
+  - os-temporale-3
+  - os-temporale-2
+  - os-temporale
+  - os-temporale-4
+  - apex-partis-petrosae-ossis-temporalis
+  - os-occipitale
+  - os-occipitale-2
+  - os-occipitale-3
+  - os-occipitale-4
+  - os-occipitale-5
+  exercise: question_bank
+  question:
+    de: Welche Knochen gehören zum Gehirnschädel (Neurocranium), der das Gehirn umgibt?
+    en: Which bones belong to the braincase (neurocranium) that surrounds the brain?
+  right_terms:
+  - frontal-bone
+  - parietal-bone
+  - temporal-bone
+  - os-occipitale
+  wrong_terms:
+  - os-lacrimale
+  question_uuid: 3950d7243d9641db3930e1be110260e
+- concepts:
+  - os-occipitale
+  - os-occipitale-2
+  - os-occipitale-3
+  - os-occipitale-4
+  - os-occipitale-5
+  exercise: question_bank
+  question:
+    de: Welcher Knochen umgibt das große Loch (Foramen magnum)?
+    en: Which bone surrounds the foramen magnum?
+  right_terms:
+  - os-occipitale-4
+  wrong_terms:
+  - parietal-bone
+  - maxilla-4
+  - frontal-bone
+  - temporal-bone
+  question_uuid: 42711b6bc77315e9c4db627df40be93
+- concepts:
+  - arcus-zygomaticus
+  exercise: question_bank
+  question:
+    de: Welche Struktur kreuzen die Rami temporales nervi facialis, um die Temporalregion
+      zu erreichen?
+    en: The temporal branches of the facial nerve (rami temporales nervi facialis)
+      cross which structure in order to reach the temporal region?
+  right_terms:
+  - arcus-zygomaticus
+  wrong_terms:
+  - ramus-mandibula
+  - musculus-orbicularis-oculi
+  - facies-nasalis-maxillae
+  - tuber-maxillae
+  question_uuid: a36eac3f893afa41ab2707b45fe21b2
+- terms:
+  - musculus-trapezius
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - linea-nuchalis-superior
+  - protuberancia-occipitalis-externa
+  - ligamentum-nuchae
+  - processus-spinosus-cvii-txii
+  wrong_terms:
+  - crista-iliaca
+  - protuberantia-occipitalis-interna
+- terms:
+  - musculus-splenius-capitis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - processus-mastoideus
+  - linea-nuchalis-superior
+  wrong_terms:
+  - ligamentum-nuchae
+  - linea-nuchalis-inferior
+  - upper-ribs
+  - processus-transversus-ci-civ
+- terms:
+  - musculus-longissimus-capitis
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - processus-mastoideus
+  wrong_terms:
+  - upper-ribs
+  - costa-i-3
+  - processus-transversus-ci-ciii
+  - neck
+  - spine
+- terms:
+  - musculus-semispinalis-capitis
+  exercise: multiple_choice_text
+  relation: insertion_of
+  right_terms:
+  - os-occipitale
+  wrong_terms:
+  - ligamentum-nuchae
+  - neck
+  - vertebrae-cervicales
+  - costa-i-3
+  - processus-transversus-cvii-tvi
+- terms:
+  - musculus-rectus-capitis-posterior-minor
+  exercise: multiple_choice_text
+  relation: insertion_of
+  right_terms:
+  - linea-nuchalis-inferior
+  wrong_terms:
+  - linea-nuchalis-suprema
+  - ramus-mandibula
+  - dens-axis
+  - ribs
+  - arcus-posterior-atlantis
+- terms:
+  - musculus-rectus-capitis-posterior-major
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - linea-nuchalis-inferior
+  wrong_terms:
+  - linea-nuchalis-suprema
+  - tuberculum-anterius-atlantis
+  - dens-axis
+  - arcus-anterior-atlantis
+  - arcus-posterior-atlantis
+- terms:
+  - musculus-obliquus-capitis-superior
+  exercise: multiple_choice_image
+  relation: insertion_of
+  right_terms:
+  - os-occipitale
+  wrong_terms:
+  - processus-styloideus
+  - costae-iii-v
+  - processus-transversus-atlantis
+  - arcus-posterior-atlantis
+  - axis
+- concepts:
+  - meatus-acusticus-externus
+  exercise: question_bank
+  question:
+    de: Wozu entwickelt sich die erste Schlundfurche?
+    en: The first pharyngeal cleft matures into what structure?
+  right_terms:
+  - meatus-acusticus-externus
+  wrong_terms:
+  - meatus-acusticus-internus
+  - tuba-auditiva
+  - cavitas-tympani
+  - recessus-epitympanicus
+  question_uuid: 6c51b9a14d2536e735937234e77e077
+- concepts:
+  - sutura-sagittalis
+  - sutura-sagittalis-2
+  - os-parietale
+  - os-parietale-2
+  - os-parietale-5
+  exercise: question_bank
+  question:
+    de: Welcher paarige Knochen wird von der Sagittalnaht (Sutura sagittalis) getrennt?
+    en: Which paired bone is divided by the sagittal suture (sutura sagittalis)?
+  right_terms:
+  - os-parietale
+  wrong_terms:
+  - os-occipitale
+  - os-temporale
+  - os-ethmoidale
+  - os-sphenoidale
+  question_uuid: f5df73cf6672b84afb7994fe1d2393c
+- concepts:
+  - sutura-lambdoidea
+  - sutura-lambdoidea-2
+  - sutura-lambdoidea-3
+  exercise: question_bank
+  question:
+    de: Welche Schädelnaht verläuft horizontal zwischen dem Hinterhauptbein (Os occipitale)
+      und den beiden Scheitelbeinen (Ossa parietalia)?
+    en: Which suture is running horizontally between the occipital bone (os occipitale)
+      and both parietal bones (os parietale)?
+  right_terms:
+  - sutura-lambdoidea
+  wrong_terms:
+  - sutura-sphenoparietalis
+  - sutura-squamosa
+  - sutura-coronalis
+  - sutura-sagittalis
+  question_uuid: 16d66fdd8b0e2d30828e0549ab6eacd
+- concepts:
+  - os-frontale
+  - os-frontale-2
+  - os-frontale-4
+  - os-occipitale
+  - os-occipitale-2
+  - os-occipitale-5
+  - os-parietale
+  - os-parietale-2
+  - os-parietale-5
+  exercise: question_bank
+  question:
+    de: Welche Knochen bilden das Schädeldach (Calvaria)?
+    en: Which bones form the skull cap (calvarium)?
+  right_terms:
+  - os-frontale
+  - os-occipitale
+  - os-parietale
+  wrong_terms:
+  - os-temporale
+  - os-sphenoidale
+  question_uuid: 9880af62202d8f65484ea91f16d2a24
+- concepts:
+  - processus-styloideus
+  - processus-styloideus-2
+  - stapes
+  exercise: question_bank
+  question:
+    de: Welche Knochen entstehen durch chondrale Ossifikation des zweiten Schlundbogens?
+    en: The second pharyngeal arch produces which of the following bones, all of which
+      are ossified endochondrally?
+  right_terms:
+  - processus-styloideus
+  - stapes
+  wrong_terms:
+  - incus
+  - malleus
+  - vomer
+  question_uuid: c2afea42eee77a25b6b379542aa77d8
+- concepts:
+  - squama-temporalis
+  - squama-temporalis-3
+  - musculus-temporalis
+  exercise: question_bank
+  question:
+    de: Die äußere Oberfläche des Pars squamosa ossis temporalis (Schuppenteil des
+      Schläfenbeins) ist konvex geformt, um eine Ursprungsfläche für welchen Muskel
+      zu bieten?
+    en: The outer surface of the squamous part of the temporal bone (pars squamosa
+      ossis temporalis) is convex to allow the attachment of which muscle?
+  right_terms:
+  - musculus-temporalis
+  wrong_terms:
+  - musculus-pterygoideus-lateralis
+  - musculus-pterygoideus-medialis
+  - musculus-masseter
+  - musculus-auricularis-superior
+  question_uuid: 30f4c706dc741b74efd465f181b6d5a
+- concepts:
+  - processus-mastoideus
+  - processus-mastoideus-2
+  exercise: question_bank
+  question:
+    de: Dieser pyramidenförmige Vorsprung befindet sich an der Unterseite des Schläfenbeins
+      (Os temporale). An ihm entspringen die Musculi sternocleidomastoideus, splenius
+      capitis und longissimus capitis. Auf welche der folgenden Strukturen trifft
+      diese Beschreibung zu?
+    en: Which if the following structures is a pyramidal protrusion from the underside
+      of the temporal bone (os temporale) which gives rise to the sternocleidomastoid
+      muscle, the splenius capitis muscle and the longissimus capitis muscle?
+  right_terms:
+  - processus-mastoideus
+  wrong_terms:
+  - processus-clinoideus-posterior
+  - processus-clinoideus-anterior
+  - margo-parietalis-alaris-majoris-ossis-sphenoidalis
+  - processus-zygomaticus-ossis-temporalis
+  question_uuid: 802ebbba8b633043693a9d2d79bd380
+- concepts:
+  - pars-petrosa-ossis-temporalis
+  - apex-partis-petrosae-ossis-temporalis
+  exercise: question_bank
+  question:
+    de: Welche komplexe Struktur des Schläfenbeins (Os temporale) ist pyramidenförmig
+      und bildet den Sitz der Hörorgane?
+    en: Which part of the temporal bone (os temporale) is a hard pyramidal shaped
+      section that has a complex structure and essentially contains the organs of
+      hearing?
+  right_terms:
+  - pars-petrosa-ossis-temporalis
+  wrong_terms:
+  - squama-temporalis
+  - processus-zygomaticus-ossis-temporalis
+  - crista-infratemporalis
+  question_uuid: a98cd145aa2ac4b612de80eb36911e1
+- concepts:
+  - pars-petrosa-ossis-temporalis
+  - processus-styloideus
+  - processus-styloideus-2
+  - meatus-acusticus-externus
+  exercise: question_bank
+  question:
+    de: Welche zwei Strukturen werden von der Pars tympanica der Pars petrosa ossis
+      temporalis (Felsenteil des Schläfenbeins) umgeben?
+    en: The tympanic section of the petrous part of temporal bone (pars petrosa ossis
+      temporalis) surrounds which of the following two structures?
+  right_terms:
+  - processus-styloideus
+  - meatus-acusticus-externus
+  wrong_terms:
+  - meatus-acusticus-internus
+  - os-palatinum
+  - processus-zygomaticus-ossis-temporalis
+  question_uuid: 42333590f85f99fe1b1340f9763e9ae
+- concepts:
+  - arcus-zygomaticus
+  - arcus-zygomaticus-2
+  exercise: question_bank
+  question:
+    de: Als Jochbogen (Arcus zygomaticus) bezeichnet man einen flachen Knochenring,
+      der aus der Verbindung welcher beiden Knochen gebildet wird?
+    en: The zygomatic arch (arcus zygomaticus) is a ring of flat bone formed by the
+      union of which two bones?
+  right_terms:
+  - processus-temporalis-os-zygomaticum
+  - processus-zygomaticus-ossis-temporalis
+  wrong_terms:
+  - processus-zygomaticus-maxilla
+  - os-palatinum
+  - maxilla
+  question_uuid: 6e28a670cb8239f1cb41fbce847d962
+- concepts:
+  - fossa-temporalis
+  - os-zygomaticum
+  exercise: question_bank
+  question:
+    de: Die Schläfengrube (Fossa temporalis) wird ventral von der posterioren Oberfläche
+      welches Knochens gebildet?
+    en: The temporal fossa (fossa temporalis) is bound anteriorly by the posterior
+      surface of which bone?
+  right_terms:
+  - os-zygomaticum
+  wrong_terms:
+  - os-palatinum
+  - os-nasale
+  - os-ethmoidale
+  - os-sphenoidale
+  question_uuid: 0e69e8f6f6e86f484c81ed1876ff953
+- concepts:
+  - linea-nuchalis-inferior
+  - linea-nuchalis-inferior-2
+  exercise: question_bank
+  question:
+    de: Welche Struktur befindet sich am Hinterhauptbein (Os occipitale) und markiert
+      den Ansatzpunkt der Musculi obliquus capitis superior, rectus capitis posterior
+      major und rectus capitis posterior minor?
+    en: Which structure is found on the occipital bone (os occipitale) and demarcates
+      the site of insertion of the obliquus capitis superior muscle, the rectus capitis
+      posterior major muscle and the rectus capitis posterior minor muscle?
+  right_terms:
+  - linea-nuchalis-inferior
+  wrong_terms:
+  - linea-nuchalis-suprema
+  - linea-nuchalis-superior
+  - crista-occipitalis-externa
+  - condylus-occipitalis
+  question_uuid: e56503daacea4f758f63cd020785738
+- concepts:
+  - linea-nuchalis-inferior
+  - linea-nuchalis-inferior-2
+  - os-occipitale
+  exercise: question_bank
+  question:
+    de: An welchem Knochen befindet sich die Linea nuchalis inferior (untere Nackenlinie)?
+    en: The inferior nuchal line (linea nuchalis inferior) is found on which bone?
+  right_terms:
+  - os-occipitale
+  wrong_terms:
+  - os-nasale
+  - os-zygomaticum
+  - os-frontale
+  - os-parietale
+  question_uuid: b39affe3b8b363a76dd45ce34a75480
+- concepts:
+  - linea-nuchalis-superior
+  - linea-nuchalis-superior-2
+  - os-occipitale
+  exercise: question_bank
+  question:
+    de: An welchem Knochen befindet sich die Linea nuchalis superior (obere Nackenlinie)?
+    en: The superior nuchal line (linea nuchalis superior) is found on which bone?
+  right_terms:
+  - os-occipitale
+  wrong_terms:
+  - os-nasale
+  - os-zygomaticum
+  - os-frontale
+  - os-parietale
+  question_uuid: 84445621cc0e7923e8ec1ba5ff52c0f
+- concepts:
+  - linea-nuchalis-suprema
+  - os-occipitale
+  exercise: question_bank
+  question:
+    de: Die oberste Nackenlinie (Linea nuchalis suprema) befindet sich an welchem
+      Knochen?
+    en: The highest nuchal line (linea nuchalis suprema) is found on which bone?
+  right_terms:
+  - os-occipitale
+  wrong_terms:
+  - os-nasale
+  - os-zygomaticum
+  - os-frontale
+  - os-parietale
+  question_uuid: be23a412becaa18d1fc1c3030e3ae85
+- concepts:
+  - linea-nuchalis-suprema
+  exercise: question_bank
+  question:
+    de: Welche Struktur des Hinterhauptbeins (Os occipitale) markiert den Ursprung
+      der Galea aponeurotica?
+    en: Which structure is found on the occipital bone (os occipitale) and demarcates
+      the site of origin of the epicranial aponeurosis (galea aponeurotica)?
+  right_terms:
+  - linea-nuchalis-suprema
+  wrong_terms:
+  - linea-nuchalis-inferior
+  - linea-nuchalis-superior
+  - crista-occipitalis-externa
+  - protuberancia-occipitalis-externa
+  question_uuid: a93536e5ce5b7749a935fdc381c7213
+- concepts:
+  - meatus-acusticus-externus
+  - meatus-acusticus-externus-2
+  exercise: question_bank
+  question:
+    de: Welche Struktur bildet einen knöchernen Ring um den Hörkanal (Canalis auditorius)
+      und ist Teil des Schläfenbeins (Os temporale)?
+    en: Which structure is a bony ring that forms around the opening of the auditory
+      canal (canalis auditorius) and is a part of the temporal bone (os temporale)?
+  right_terms:
+  - meatus-acusticus-externus
+  wrong_terms:
+  - meatus-acusticus-internus
+  - processus-zygomaticus-ossis-temporalis
+  - processus-temporalis-os-zygomaticum
+  - foramen-magnum
+  question_uuid: a61e0c8b4098c078f10471f1b26a849
+- concepts:
+  - processus-styloideus
+  - processus-styloideus-2
+  exercise: question_bank
+  question:
+    de: Welche paarige Struktur enthält Knochenpunkte, die dem Musculus styloglossus
+      (Griffelfortsatz-Zungen-Muskel) als Ursprung dienen?
+    en: Which of the following structures is a site of origin for the styloglossus
+      muscle (musculus styloglossus)?
+  right_terms:
+  - processus-styloideus
+  wrong_terms:
+  - meatus-acusticus-internus
+  - os-palatinum
+  - processus-zygomaticus-ossis-temporalis
+  - pars-petrosa-ossis-temporalis
+  question_uuid: 14d067714ab3e8bc4c2902f6f4bfb4e
+- concepts:
+  - sutura-lambdoidea
+  - sutura-lambdoidea-3
+  exercise: question_bank
+  question:
+    de: Welche Schädelnaht (Sutur) kann als unbewegliches, faserhaltiges Gelenk bezeichnet
+      werden, das zwischen Scheitelbein (Os parietale) und Hinterhauptbein (Os occipitale)
+      liegt?
+    en: Which suture of the skull can be described as a non-movable fibrous joint
+      that lies between the parietal bone (os parietale) and occipital bone (os occipitale)?
+  right_terms:
+  - sutura-lambdoidea
+  wrong_terms:
+  - sutura-sphenoparietalis
+  - sutura-squamosa
+  - sutura-coronalis
+  - sutura-sagittalis
+  question_uuid: 880f9cd48c52ec51cd99a371f187303
+- concepts:
+  - sutura-sagittalis
+  - sutura-sagittalis-2
+  exercise: question_bank
+  question:
+    de: Welche Schädelnaht (Sutura) liegt in der mittleren Sagittalebene und trennt
+      superior die beiden Scheitelbeine (Ossa parietalia) voneinander?
+    en: Which suture of the skull lies in the midsagittal plane and divides the two
+      parietal bones (os parietale) superiorly?
+  right_terms:
+  - sutura-sagittalis
+  wrong_terms:
+  - sutura-palatina-transversa
+  - sutura-sphenoparietalis
+  - sutura-squamosa
+  - sutura-coronalis
+  question_uuid: f1e7ba3753aad9da0684ec4be3bfdd0
+- concepts:
+  - sutura-sphenoparietalis
+  exercise: question_bank
+  question:
+    de: Welche Schädelnaht (Sutura) bildet den Querbalken in dem 'H', das als Pterion
+      bezeichnet wird?
+    en: Which suture of the skull forms the horizontal bar of the H that is known
+      as the anterior pterion?
+  right_terms:
+  - sutura-sphenoparietalis
+  wrong_terms:
+  - sutura-palatina-transversa
+  - sutura-sagittalis
+  - sutura-squamosa
+  - sutura-coronalis
+  question_uuid: 9881af514da8a1bc3345247eff585bf
+- concepts:
+  - sutura-squamosa
+  exercise: question_bank
+  question:
+    de: Welche Schädelnaht schlängelt sich vom Pterion aus nach posterior und setzt
+      sich dort an der Untergrenze des Scheitelbeins (Os parietale) fort bis zur Pars
+      squamosa ossis temporalis (Schuppenteil des Schläfenbeins)?
+    en: Which suture of the skull curls posteriorly starting at the anterior pterion
+      and joins the inferior border of the parietal bone (os parietale) to the squamous
+      portion of the temporal bone (pars squamosa ossis temporalis)?
+  right_terms:
+  - sutura-squamosa
+  wrong_terms:
+  - sutura-palatina-transversa
+  - sutura-sagittalis
+  - sutura-sphenoparietalis
+  - sutura-coronalis
+  question_uuid: 6dfc102aae90477146d87bedfcddd01
+- concepts:
+  - articulatio-temporomandibularis
+  - squama-temporalis
+  - caput-mandibulae
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Knochen sind am Kiefergelenk (Articulatio temporomandibularis)
+      beteiligt?
+    en: Which of the following bones is the temporomandibular joint (articulatio temporomandibularis)
+      composed of?
+  right_terms:
+  - squama-temporalis
+  - caput-mandibulae
+  wrong_terms:
+  - pars-petrosa-ossis-temporalis
+  - pars-alveolaris-mandibulae
+  - processus-coronoideus-mandibulae
+  question_uuid: 7ff3b1632e8b0b3d2c530407fe6f913
+- concepts:
+  - meatus-acusticus-externus
+  - temporal-bone
+  exercise: question_bank
+  question:
+    de: Die Pars tympanica ossis temporalis ist hufeisenförmig und an der Bildung
+      der anterioren, posterioren und inferioren Wand welcher Struktur beteiligt?
+    en: The tympanic part of the temporal bone (pars tympanica ossis temporalis) is
+      horseshoe-shaped and contributes to the anterior, posterior and inferior walls
+      of which structure?
+  right_terms:
+  - meatus-acusticus-externus
+  wrong_terms:
+  - meatus-acusticus-internus
+  - processus-styloideus
+  - tuberculum-articulare-ossis-temporalis
+  - pars-petrosa-ossis-temporalis
+  question_uuid: 589a5ad212f878f49167b8bb1944cd0
+- concepts:
+  - processus-styloideus
+  - processus-styloideus-2
+  - temporal-bone
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Strukturen ist ein stachelähnlicher Vorsprung an der
+      inferioren Fläche des Schläfenbeins (Os temporale)?
+    en: Which of the following is a spike-like projection from the inferior aspect
+      of the temporal bone (os temporale)?
+  right_terms:
+  - processus-styloideus
+  wrong_terms:
+  - pars-petrosa-ossis-temporalis
+  - processus-zygomaticus-ossis-temporalis
+  - fossa-mandibularis-ossis-temporalis
+  - tuberculum-articulare-ossis-temporalis
+  question_uuid: f61a50f2cf8a0cf97674b8885f0024e
+- concepts:
+  - processus-styloideus
+  - temporal-styloid-process-2
+  - foramen-stylomastoideum
+  - foramen-stylomastoideum-3
+  - temporal-bone
+  exercise: question_bank
+  question:
+    de: Der Processus styloideus ossis temporalis (Griffelfortsatz des Schläfenbeins)
+      entspringt direkt anterior welches Foramens?
+    en: The temporal styloid process (processus styloideus ossis temporalis) arises
+      just anteriorly to which foramen?
+  right_terms:
+  - foramen-stylomastoideum
+  wrong_terms:
+  - foramen-mentale
+  - foramen-mastoideum
+  - foramen-rotundum
+  - foramen-spinosum
+  question_uuid: 25bc0558058618cbf8e57f520f749fa
+- concepts:
+  - pars-petrosa-ossis-temporalis
+  exercise: question_bank
+  question:
+    de: Welches ist der dreieckige, mediale Anteil des Schläfenbeins (Os temporale),
+      der die mittlere Schädelgrube (Fossa cranii media) von der hinteren Schädelgrube
+      (Fossa cranii posterior) trennt?
+    en: Which of the following is the pyramid-shaped, medial part of the temporal
+      bone (os temporale) that separates the middle cranial fossa (fossa cranii media)
+      and posterior cranial fossa (fossa cranii posterior)?
+  right_terms:
+  - pars-petrosa-ossis-temporalis
+  wrong_terms:
+  - processus-styloideus
+  - processus-zygomaticus-ossis-temporalis
+  - fossa-jugularis-ossis-temporalis
+  - fossa-mandibularis-ossis-temporalis
+  question_uuid: 5fea2d90e5349a8ec20118559ec253f
+- concepts:
+  - pars-petrosa-ossis-temporalis
+  - fossa-cranii-media
+  - fossa-cranii-posterior
+  exercise: question_bank
+  question:
+    de: Welche beiden Gruben werden von der Pars petrosa ossis temporalis (Felsenteil
+      des Schläfenbeins) separiert?
+    en: The petrous part of the temporal bone (pars petrosal ossis temporalis) separates
+      which two fossae?
+  right_terms:
+  - fossa-cranii-media
+  - fossa-cranii-posterior
+  wrong_terms:
+  - fossa-cranii-anterior
+  - fossa-temporalis
+  - fossa-pterygopalatina
+  question_uuid: 80e2ba08ebb7430ce91994f235babf0
+- concepts:
+  - pars-petrosa-ossis-temporalis
+  - meatus-acusticus-internus-2
+  exercise: question_bank
+  question:
+    de: Welcher Bereich des Schläfenbeins (Os temporale) ist sehr massiv und schützt
+      das innenliegende Innenohr?
+    en: Which part of the temporal bone (os temporale) is extremely solid and protects
+      the internal auditory and vestibular apparatus?
+  right_terms:
+  - pars-petrosa-ossis-temporalis
+  wrong_terms:
+  - processus-styloideus
+  - processus-zygomaticus-ossis-temporalis
+  - squama-temporalis
+  - tuberculum-articulare-ossis-temporalis
+  question_uuid: 02152c823d315a006198c127253a6a8
+- concepts:
+  - processus-mastoideus
+  - processus-mastoideus-3
+  exercise: question_bank
+  question:
+    de: Welche Struktur fehlt beim Neugeborenen und fängt erst an sich zu entwickeln,
+      wenn die Zugkraft durch den Musculus sternocleidomastoideus (Kopfwender) zunimmt?
+    en: Which structure is missing in newborns and starts to grow with the increasing
+      traction force of the sternocleidomastoid muscle (musculus sternocleidomastoideus)?
+  right_terms:
+  - processus-mastoideus
+  wrong_terms:
+  - processus-clinoideus-posterior
+  - processus-clinoideus-anterior
+  - processus-styloideus
+  - pars-petrosa-ossis-temporalis
+  question_uuid: 35fcaafa8d0307909ae195c7c3834b9
+- concepts:
+  - os-occipitale
+  - occipital-bone-7
+  exercise: question_bank
+  question:
+    de: Welcher unpaarige Knochen bedeckt die Rückseite des Kopfes?
+    en: Which one is an unpaired bone that covers the back of the head?
+  right_terms:
+  - os-occipitale
+  wrong_terms:
+  - os-parietale
+  - os-frontale
+  - os-temporale
+  - os-zygomaticum
+  question_uuid: c8df205eb993f686302083b652a2a76
+- concepts:
+  - os-occipitale
+  - os-occipitale-3
+  exercise: question_bank
+  question:
+    de: Dieser Knochen ist nach außen konvex und nach innen konkav geformt. Er wird
+      in vier Abschnitte unterteilt - eine Pars basilaris, zwei Partes condylares
+      oder laterales und eine Pars squamosa. Alle vier sind um das Foramen magnum
+      herum angeordnet.
+    en: Which of the followng bones is divided into four parts – the basilar parts,
+      two condylar parts and a squamous part all arranged around the foramen magnum?
+  right_terms:
+  - os-occipitale
+  wrong_terms:
+  - os-parietale
+  - os-frontale
+  - os-temporale
+  - os-zygomaticum
+  question_uuid: a5ad60889f5ee4ffdb620d9e1f44459
+- concepts:
+  - pars-basilaris-ossis-occipitalis
+  - pars-petrosa-ossis-temporalis
+  - pars-petrosa-ossis-temporalis-2
+  exercise: question_bank
+  question:
+    de: Die Pars basilaris ossis occipitalis sitzt anterior des Foramen magnum und
+      in enger Nachbarschaft zu welcher Struktur?
+    en: The basilar part of the occipital bone (pars basilaris ossis occipitalis)
+      sits anterior to the foramen magnum and adjacent to which structure?
+  right_terms:
+  - pars-petrosa-ossis-temporalis
+  wrong_terms:
+  - processus-styloideus
+  - processus-zygomaticus-ossis-temporalis
+  - squama-temporalis
+  - tuberculum-articulare-ossis-temporalis
+  question_uuid: e583d8eea252b0831a7d4528453fce4
+- concepts:
+  - pars-basilaris-ossis-occipitalis
+  - os-occipitale
+  - os-occipitale-3
+  - musculus-constrictor-pharyngis-superior
+  - raphe-pharyngis
+  exercise: question_bank
+  question:
+    de: Sowohl der Musculus constrictor pharyngis superior (oberer Schlundschnürer)
+      wie auch die Raphe pharyngis (Rachennaht) inserieren am Tuberculum pharyngeum,
+      das an der Unterseite welcher Struktur liegt?
+    en: Both the superior pharyngeal constrictor muscle (musculus constrictor pharyngis
+      superior) and the pharyngeal raphe (raphe pharyngis) insert onto the pharyngeal
+      tubercle (tuberculum pharyngeum) found on the inferior surface of which structure?
+  right_terms:
+  - pars-basilaris-ossis-occipitalis
+  wrong_terms:
+  - condylus-occipitalis
+  - protuberancia-occipitalis-externa
+  - crista-occipitalis-externa
+  - protuberantia-occipitalis-interna
+  question_uuid: d618a73fd9d764609878c0d0cbb1e4e
+- concepts:
+  - protuberancia-occipitalis-externa
+  - protuberancia-occipitalis-externa-2
+  - os-occipitale
+  exercise: question_bank
+  question:
+    de: Dieser spürbare Vorsprung befindet sich in der Mittellinie der Außenfläche
+      der Squama occipitalis (Hinterhauptschuppe).
+    en: Which of the following is a palpable prominence that lies on the midline of
+      the external surface of the squamous part of the occipital bone (squama occipitalis)?
+  right_terms:
+  - protuberancia-occipitalis-externa
+  wrong_terms:
+  - condylus-occipitalis
+  - pars-basilaris-ossis-occipitalis
+  - protuberantia-occipitalis-interna
+  - crista-occipitalis-interna
+  question_uuid: 18ddb216c95438c19265088fbffcc26
+- concepts:
+  - os-occipitale
+  - linea-nuchalis-superior
+  exercise: question_bank
+  question:
+    de: Die Außenfläche welches Knochens ist mit drei kurvigen Linien versehen, die
+      als Lineae nuchae (Nackenlinien) bezeichnet werden?
+    en: The external surface of which bone features three curved lines referred to
+      as nuchal lines?
+  right_terms:
+  - os-occipitale
+  wrong_terms:
+  - os-parietale
+  - os-frontale
+  - os-temporale
+  - os-zygomaticum
+  question_uuid: 313b7d0e18d5f54f7046461acfc57f1
+- concepts:
+  - processus-mastoideus
+  - processus-mastoideus-2
+  - linea-nuchalis-superior
+  - linea-nuchalis-superior-2
+  exercise: question_bank
+  question:
+    de: Bei einem neugeborenen Jungen wird festgestellt, dass er den Kopf permanent
+      zur rechten Seite hin neigt. Der Kinderarzt diagnostiziert einen muskulären
+      Schiefhals (Torticollis muscularis), welcher durch eine angeborene einseitige
+      Verkürzung des Musculus sternocleidomastoideus (Kopfwender) entsteht. An welchen
+      beiden Punkten setzt dieser Muskel am Schädel an?
+    en: A newborn boy is found to permanently bend his head to the right side. The
+      pediatrician diagnoses a muscular torticollis, which is caused by a one-sided
+      shortening of the sternocleidomastoid muscle. At which two structures of the
+      skull does this muscle insert?
+  right_terms:
+  - processus-mastoideus
+  - linea-nuchalis-superior
+  wrong_terms:
+  - sutura-lambdoidea
+  - protuberancia-occipitalis-externa
+  - protuberantia-occipitalis-interna
+  question_uuid: 4c68c202af51c28ff7047acfb502bcb
+- concepts:
+  - parietal-bone
+  - os-parietale-2
+  - sutura-lambdoidea
+  - os-occipitale-2
+  exercise: question_bank
+  question:
+    de: Um während einer Geburt die Lage des Kindes zu überprüfen, tastet die Hebamme
+      nach der kleinen Fontanelle (Fonticulus posterior). Zwischen welchen Schädelknochen
+      ist dieser nicht-verknöcherte Bereich zu tasten?
+    en: In order to monitor the position of the infant during birth, the midwife palpates
+      the posterior fontanelle (fonticulus posterior). In between which bones of the
+      skull can this non-ossified area be palpated?
+  right_terms:
+  - parietal-bone
+  - occipital-bone
+  wrong_terms:
+  - temporal-bone
+  - frontal-bone
+  - sphenoid-bone
+  question_uuid: f1a6e57c560534624957ac9b8264e34
+- concepts:
+  - sutura-sagittalis
+  - sutura-sagittalis-2
+  - os-parietale-2
+  exercise: question_bank
+  question:
+    de: Ein Vater stellt seine 3-monatige Tochter beim Kinderarzt vor, da sie eine
+      auffällig schmale Kopfform und eine hohe Stirn hat. Der Arzt vermutet, dass
+      das Kind einen sogenannten Kahnschädel (Skaphozephalus) hat. Ein Kahnschädel
+      entsteht durch die vorzeitige Verknöcherung der Pfeilnaht  (Sutura sagittalis).
+      Zwischen welchem paarig angelegten Schädelknochen verläuft diese Naht?
+    en: A father brings his 3-month-old daughter to the pediatrician, because her
+      head is noticeably narrow and her forehead is exceptionally high. The doctor
+      assumes that the child is suffering from scaphocephaly. This cephalic disorder
+      occurs if the sagittal suture ossifies too early. In between which paired bone
+      does this suture run?
+  right_terms:
+  - os-parietale-2
+  wrong_terms:
+  - frontal-bone
+  - temporal-bone
+  - os-sphenoidale-4
+  - occipital-bone
+  question_uuid: 2598f335a807b8167fdf2020bd7d7bf
+- concepts:
+  - sutura-lambdoidea
+  - sutura-lambdoidea-2
+  exercise: question_bank
+  question:
+    de: Die Eltern eines Säuglings bemerken, dass der Hinterkopf des Kindes asymmetrisch
+      geformt ist. Der Kinderarzt stellt fest, dass es sich um einen occipitalen Schiefkopf
+      (Plagiocephalus) handelt. Hierbei kommt es zu einer vorzeitigen Verknöcherung
+      der Schädelnaht (Sutur), die zwischen den beiden Scheitelbeinen (Os parietale)
+      und dem Hinterhauptbein (Os occipitale) liegt. Wie wird diese Naht bezeichnet?
+    en: The parents of an infant notice that the back of the head of the child is
+      formed asymmetrically. The pediatrician diagnoses a plagiocephaly (flat head
+      syndrome). This anomaly develops if the suture that runs between the two parietal
+      bones and the occipital bone ossifies to early. What is the name of this suture?
+  right_terms:
+  - sutura-lambdoidea
+  wrong_terms:
+  - sagittal-suture
+  - sutura-squamosa
+  - sutura-coronalis-2
+  - frontozygomatic-suture
+  question_uuid: 502bf626d3bf83be1742ed7115a258d
+- concepts:
+  - pars-petrosa-ossis-temporalis
+  - pars-petrosa-ossis-temporalis-2
+  - cavitas-tympani
+  exercise: question_bank
+  question:
+    de: Ein Maurer stürzt bei der Arbeit von der Leiter und prallt mit dem Kopf auf
+      hartem Boden auf. Im Krankenhaus klagt er über eine Hörminderung auf der linken
+      Seite. Mit Hilfe eines Otoskops erkennt der zuständige Arzt, dass das Trommelfell
+      intakt ist, dahinter sich jedoch Blut befindet (Hämatotympanon). In welchem
+      Schädelknochen liegt das Mittelohr, und der Bruch dieses Knochens sollte demnach
+      als Ursache des Hämatotympanons ausgeschlossen werden?
+    en: A bricklayer falls from the ladder at work and hits the solid ground with
+      his head. In the hospital he complains about hearing loss on the left side.
+      With the help of an otoscope, the attending physician sees that the eardrum
+      is intact, however behind it he notices blood (haematotympanum). In which bone
+      is the middle ear located, and a fracture of this bone should hence be ruled
+      out as a possible cause for the haematotympanum?
+  right_terms:
+  - pars-petrosa-ossis-temporalis
+  wrong_terms:
+  - squama-temporalis-2
+  - margo-sphenoidalis-ossis-temporalis
+  - gyrus-temporalis-superior
+  - crista-infratemporalis
+  question_uuid: 1b4f39f88bc8fc83efe26908c56f097
+- terms:
+  - musculus-stylohyoideus
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - processus-styloideus
+  wrong_terms:
+  - processus-mastoideus
+  - angulus-mandibulae
+  - fossa-digastrica
+  - collum-mandibulae
+  - linea-mylohyoidea
+- concepts:
+  - musculus-sternocleidomastoideus
+  - sternocleidomastoid-muscle-12
+  - sternocleidomastoid-muscle-39
+  - processus-mastoideus
+  - membrana-tympanica
+  exercise: question_bank
+  question:
+    de: Ein 8-jähriges Mädchen klagt nach einer vermeintlich abgeklungenen Mittelohrentzündung
+      erneut über Ohrenschmerzen. In der klinischen Untersuchung zeigt sich eine druckdolente
+      Schwellung hinter dem rechten Ohr, eine leicht abstehende Ohrmuschel, eine druckschmerzhafte
+      Schwellung der seitlichen Halsmuskulatur und ein Torticollis (Schiefhals). Es
+      wird der Verdacht auf eine Bezold-Mastoiditis gestellt. Über welchen Muskel
+      kann sich eine Entzündung des Warzenfortsatzes (Processus mastoideus) am ehesten
+      auf den Hals ausbreiten?
+    en: An 8-year-old girl complains about earpain after a supposedly resolved otitis
+      media (middle ear infection). Clinical examination reveals a doughy swelling
+      behind the right ear tender on pressure, a prominent auricle, a pressure-sensitive
+      swelling of the lateral neck musculature and torticollis (wry neck). Bezold's
+      mastoiditis is suspected. Along which muscle can an inflammation of the mastoid
+      process (processus mastoideus) most likely spread to the neck?
+  right_terms:
+  - musculus-sternocleidomastoideus
+  wrong_terms:
+  - musculus-scalenus-posterior
+  - musculus-scalenus-medius
+  - musculus-sternohyoideus
+  - musculus-scalenus-anterior
+  question_uuid: 7b1239f30f0c23073c2ddbd7c1ae3cb
+- concepts:
+  - ligamentum-nuchae
+  - ligamentum-nuchae-2
+  - protuberancia-occipitalis-externa
+  exercise: question_bank
+  question:
+    de: Welches Band verläuft zwischen dem äußeren Hinterhauptsvorsprung (Protuberantia
+      occipitalis externa) des Os occipitale kranial und dem Dornfortsatz des 7. Halswirbels
+      (Processus spinosus vertebrae cervicalis VII) kaudal?
+    en: Which ligament runs between the occipital protuberance (protuberantia occipitalis)
+      of the occipital bone (os occipitale) of the skull cranially and the spinous
+      process of the seventh cervical vertebra (processus spinosus vertebrae cervicalis
+      VII) caudally?
+  right_terms:
+  - ligamentum-nuchae
+  wrong_terms:
+  - ligamentum-flavum
+  - ligamentum-longitudinale-posterius
+  - ligamentum-longitudinale-anterius
+  - ligamenta-alaria
+  question_uuid: e48e2d6058b19552dc255a63a70ba53
+- concepts:
+  - pars-petrosa-ossis-temporalis
+  exercise: question_bank
+  question:
+    de: In welchem Knochen ist das Innenohr eingebettet?
+    en: Into which bone is the inner ear embedded?
+  right_terms:
+  - pars-petrosa-ossis-temporalis
+  wrong_terms:
+  - processus-zygomaticus-ossis-temporalis
+  - squama-temporalis
+  - facies-temporalis-alaris-majoris-ossis-sphenoidalis
+  - margo-squamosus-alaris-majoris-ossis-sphenoidalis
+  question_uuid: 7a70d486060593b69635e6b367cc664
+- terms:
+  - musculus-masseter
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - arcus-zygomaticus
+  wrong_terms:
+  - processus-mastoideus
+  - incisura-mastoidea
+  - processus-palatinus-maxillae
+  - processus-zygomaticus-maxilla
+  - processus-frontalis-os-zygomaticum
+- terms:
+  - musculus-temporalis
+  exercise: multiple_choice_image
+  relation: origin_of
+  right_terms:
+  - fossa-temporalis
+  wrong_terms:
+  - arcus-zygomaticus
+  - tuberositas-pterygoidea
+  - ala-minor-os-sphenoidale
+  - os-occipitale
+  - protuberancia-occipitalis-externa
+- concepts:
+  - origin_of-musculus-temporalis
+  exercise: question_bank
+  question:
+    de: Der Schläfenmuskel (Musculus temporalis) stammt von der unteren Schläfenlinie
+      (Linea temporalis inferior), die in welcher Fossa liegt?
+    en: The temporal muscle (musculus temporalis) originates from the inferior temporal
+      line (linea temporalis inferior) that lies within which fossa?
+  right_terms:
+  - fossa-temporalis
+  wrong_terms:
+  - fossa-pterygopalatina
+  - subarcuate-fossa-of-temporal-bone
+  - incisive-fossa-1
+  - fossa-digastrica
+  question_uuid: df26c57b4be0955501c4c451dea62c0
+- concepts:
+  - os-temporale-2
+  - os-temporale-3
+  - petrous-part-of-temporal-bone-2
+  - nervus-petrosus-minor
+  exercise: question_bank
+  question:
+    de: Der Nervus petrosus minor (kleiner Felsenbeinnerv) ist ein Ast des Nervus
+      glossopharyngeus (Zungen-Rachen-Nerv) und innerviert die Ohrspeicheldrüse (Glandula
+      parotidea). In welcher knöchernen Struktur befindet sich die Öffnung für diesen
+      Nerv?
+    en: The lesser petrosal nerve (nervus petrosus minor) is a branch of the glossopharyngeal
+      nerve and innervates the parotid gland. The hiatus for the lesser petrosal nerve
+      is found in which bony structure?
+  right_terms:
+  - os-temporale-2
+  wrong_terms:
+  - os-ethmoidale
+  - corpus-ossis-sphenoidalis
+  - squama-temporalis
+  - ala-major-os-sphenoidale
+  question_uuid: 6cf1aaac6467d63eb89a37788f101f2
+- concepts:
+  - os-temporale
+  - os-temporale-2
+  exercise: question_bank
+  question:
+    de: Welcher Knochen wird in vier Abschnitte unterteilt - Pars squamosa (Schuppenteil),
+      Pars tympanica, Processus styloideus (Griffelfortsatz) und Pars petrosa (Felsenteil)?
+    en: Which bone is divided into four parts – the squamous part, the tympanic part,
+      the styloid process, and the petrous part?
+  right_terms:
+  - os-temporale
+  wrong_terms:
+  - os-frontale
+  - os-zygomaticum
+  - os-parietale
+  - maxilla
+  question_uuid: b4dae217543339843442135655d4ddc
+- concepts:
+  - processus-condylaris
+  - os-temporale
+  exercise: question_bank
+  question:
+    de: Der Processus condylaris mandibulae (Gelenkfortsatz des Unterkiefers) sitzt
+      posterior und artikuliert mit welchem Knochen?
+    en: The condylar process (processus condylaris) of the mandible articulates with
+      which bone?
+  right_terms:
+  - os-temporale
+  wrong_terms:
+  - maxilla
+  - os-parietale
+  - os-zygomaticum
+  - os-sphenoidale
+  question_uuid: fd55bca61f2242856abd2a9b3b29524
+- concepts:
+  - processus-zygomaticus-maxilla
+  - os-zygomaticum
+  - os-zygomaticum-2
+  exercise: question_bank
+  question:
+    de: Der Processus zygomaticus maxillae (Jochfortsatz des Oberkiefers) erstreckt
+      sich nach lateral und trifft dort auf welchen Knochen?
+    en: The zygomatic process of the maxillary bone (processus zygomaticus maxilla)
+      extends laterally and articulates which bone?
+  right_terms:
+  - os-zygomaticum
+  wrong_terms:
+  - os-lacrimale
+  - os-parietale
+  - mandibula
+  - os-sphenoidale
+  question_uuid: 7a0d9914a112d01331780c1f8fa9cab

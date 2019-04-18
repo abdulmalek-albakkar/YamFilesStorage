@@ -1,0 +1,900 @@
+---
+- terms:
+  - nervus-occipitalis-major
+  - nervus-occipitalis-minor
+  exercise: easy
+- terms:
+  - nervi-intercostales
+  - nervus-subcostalis
+  exercise: easy
+- terms:
+  - nervus-pectoralis-lateralis
+  - nervus-pectoralis-medialis
+  exercise: easy
+- terms:
+  - nervus-genitofemoralis
+  - nervus-iliohypogastricus
+  exercise: easy
+- terms:
+  - nervus-pectoralis-lateralis
+  - nervus-pectoralis-medialis
+  - nervus-occipitalis-major
+  - nervus-occipitalis-minor
+  exercise: four_one
+- terms:
+  - nervus-iliohypogastricus
+  - nervus-genitofemoralis
+  - nervi-intercostales
+  - nervus-subcostalis
+  exercise: four_one
+- terms:
+  - nervus-pectoralis-medialis
+  - nervus-occipitalis-minor
+  - nervus-pectoralis-lateralis
+  - nervus-occipitalis-major
+  exercise: identify_image
+- terms:
+  - nervus-subcostalis
+  - nervus-iliohypogastricus
+  - nervi-intercostales
+  - nervus-genitofemoralis
+  exercise: identify_image
+- terms:
+  - nervus-splanchnicus-major-2
+  - plexus-oesophageus
+  exercise: easy
+- terms:
+  - truncus-sympathicus-sinister
+  - truncus-sympathicus-dexter
+  exercise: easy
+- terms:
+  - nervus-phrenicus-sinister
+  - nervus-phrenicus-dexter
+  exercise: easy
+- terms:
+  - plexus-aorticus-thoracicus
+  - plexus-cardiacus
+  exercise: easy
+- terms:
+  - truncus-sympathicus-sinister
+  - nervus-splanchnicus-major-2
+  - plexus-aorticus-thoracicus
+  - truncus-sympathicus-dexter
+  exercise: four_one
+- terms:
+  - nervus-phrenicus-sinister
+  - nervus-phrenicus-dexter
+  - plexus-oesophageus
+  - plexus-cardiacus
+  exercise: four_one
+- terms:
+  - truncus-sympathicus-dexter
+  - nervus-phrenicus-dexter
+  - truncus-sympathicus-sinister
+  - nervus-phrenicus-sinister
+  exercise: identify_image
+- terms:
+  - plexus-oesophageus
+  - plexus-cardiacus
+  - nervus-splanchnicus-major-2
+  - plexus-aorticus-thoracicus
+  exercise: identify_image
+- terms:
+  - nervi-splanchnici-pelvici
+  - nervus-obturatorius-2
+  exercise: easy
+- terms:
+  - nervus-hypogastricus-dexter-2
+  - nervus-hypogastricus-sinister-2
+  exercise: easy
+- terms:
+  - plexus-vesicalis
+  - plexus-uterovaginalis
+  exercise: easy
+- terms:
+  - plexus-deferentialis
+  - plexus-rectalis-medius-sinister
+  exercise: easy
+- terms:
+  - nervus-hypogastricus-sinister-2
+  - plexus-rectalis-medius-sinister
+  - nervus-hypogastricus-dexter-2
+  - nervi-splanchnici-pelvici
+  exercise: four_one
+- terms:
+  - plexus-uterovaginalis
+  - nervus-obturatorius-2
+  - plexus-deferentialis
+  - plexus-vesicalis
+  exercise: four_one
+- terms:
+  - nervus-hypogastricus-dexter-2
+  - nervi-splanchnici-pelvici
+  - nervus-hypogastricus-sinister-2
+  - nervus-obturatorius-2
+  exercise: identify_image
+- terms:
+  - plexus-rectalis-medius-sinister
+  - plexus-vesicalis
+  - plexus-deferentialis
+  - plexus-uterovaginalis
+  exercise: identify_image
+- terms:
+  - plexus-sacralis
+  - plexus-lumbalis
+  exercise: easy
+- terms:
+  - nervi-cervicales-c1-c8
+  - nervi-thoracici-t1-t12
+  exercise: easy
+- terms:
+  - nervi-lumbales-l1-l4
+  - nervi-sacrales-s1-s5
+  exercise: easy
+- terms:
+  - nervus-coccygeus
+  - nervi-anococcygei
+  exercise: easy
+- terms:
+  - nervi-cervicales-c1-c8
+  - nervi-thoracici-t1-t12
+  - nervi-lumbales-l1-l4
+  - nervi-sacrales-s1-s5
+  exercise: four_one
+- terms:
+  - nervi-anococcygei
+  - plexus-sacralis
+  - plexus-lumbalis
+  - nervus-coccygeus
+  exercise: four_one
+- terms:
+  - nervi-cervicales-c1-c8
+  - nervus-coccygeus
+  - nervi-thoracici-t1-t12
+  - nervi-anococcygei
+  exercise: identify_image
+- terms:
+  - plexus-sacralis
+  - nervi-lumbales-l1-l4
+  - plexus-lumbalis
+  - nervi-sacrales-s1-s5
+  exercise: identify_image
+- terms:
+  - nervus-occipitalis-major
+  exercise: spell_term
+- terms:
+  - nervus-occipitalis-minor
+  exercise: spell_term
+- terms:
+  - nervi-intercostales
+  exercise: spell_term
+- terms:
+  - nervus-subcostalis
+  exercise: spell_term
+- terms:
+  - nervus-pectoralis-lateralis
+  exercise: spell_term
+- terms:
+  - nervus-pectoralis-medialis
+  exercise: spell_term
+- terms:
+  - nervus-genitofemoralis
+  exercise: spell_term
+- terms:
+  - nervus-iliohypogastricus
+  exercise: spell_term
+- terms:
+  - nervus-splanchnicus-major-2
+  exercise: spell_term
+- terms:
+  - plexus-oesophageus
+  exercise: spell_term
+- terms:
+  - truncus-sympathicus-sinister
+  exercise: spell_term
+- terms:
+  - truncus-sympathicus-dexter
+  exercise: spell_term
+- terms:
+  - nervus-phrenicus-sinister
+  exercise: spell_term
+- terms:
+  - nervus-phrenicus-dexter
+  exercise: spell_term
+- terms:
+  - plexus-aorticus-thoracicus
+  exercise: spell_term
+- terms:
+  - plexus-cardiacus
+  exercise: spell_term
+- terms:
+  - nervi-splanchnici-pelvici
+  exercise: spell_term
+- terms:
+  - nervus-obturatorius-2
+  exercise: spell_term
+- terms:
+  - nervus-hypogastricus-dexter-2
+  exercise: spell_term
+- terms:
+  - nervus-hypogastricus-sinister-2
+  exercise: spell_term
+- terms:
+  - plexus-vesicalis
+  exercise: spell_term
+- terms:
+  - plexus-uterovaginalis
+  exercise: spell_term
+- terms:
+  - plexus-deferentialis
+  exercise: spell_term
+- terms:
+  - plexus-rectalis-medius-sinister
+  exercise: spell_term
+- terms:
+  - plexus-sacralis
+  exercise: spell_term
+- terms:
+  - plexus-lumbalis
+  exercise: spell_term
+- terms:
+  - nervi-cervicales-c1-c8
+  exercise: spell_term
+- terms:
+  - nervi-thoracici-t1-t12
+  exercise: spell_term
+- terms:
+  - nervi-lumbales-l1-l4
+  exercise: spell_term
+- terms:
+  - nervi-sacrales-s1-s5
+  exercise: spell_term
+- terms:
+  - nervus-coccygeus
+  exercise: spell_term
+- terms:
+  - nervi-anococcygei
+  exercise: spell_term
+- concepts:
+  - plexus-cardiacus
+  exercise: question_bank
+  question:
+    de: Die sympathischen präganglionären Fasern formen Synapsen in den sympathischen
+      Ganglien der zervikalen und thorakalen Regionen, die wiederum postganglionäre
+      Fasern an welche Struktur senden?
+    en: The sympathetic preganglionic fibers synapse in the sympathetic ganglia of
+      the cervical and thoracic regions, which in turn pass on postganglionic fibers
+      to?
+  right_terms:
+  - plexus-cardiacus
+  wrong_terms:
+  - plexus-autonomicus
+  - plexus-aorticus-thoracicus
+  - nervus-phrenicus
+  - glomus-caroticum
+  question_uuid: 5fae69b60fb468f7c68fa7b2c4e1a14
+- terms:
+  - musculus-psoas-major
+  exercise: multiple_choice_text
+  relation: innervation_of
+  right_terms:
+  - anterior-rami-of-spinal-nerves-l1-l3
+  wrong_terms:
+  - nervus-ilioinguinalis
+  - plexus-sacralis
+  - nervus-saphenus
+  - nervus-gluteus-inferior
+  - nervus-pudendus
+- terms:
+  - musculus-psoas-minor
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - anterior-rami-of-spinal-nerves-l1-l3
+  wrong_terms:
+  - plexus-sacralis
+  - nervus-saphenus
+  - nervus-femoralis
+  - nervus-gluteus-inferior
+  - nervus-pudendus
+- terms:
+  - musculus-quadratus-lumborum
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-subcostalis
+  - lumbar-nerves-l1-l4
+  wrong_terms:
+  - plexus-sacralis
+  - nervus-pudendus
+  - iliohypogastric-nerve
+  - ilioinguinal-nerve
+- terms:
+  - musculus-pectoralis-major
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-pectoralis-medialis
+  - nervus-pectoralis-lateralis
+  wrong_terms:
+  - nervus-subscapularis
+  - nervus-thoracodorsalis
+  - nervus-ulnaris
+  - nervus-suprascapularis
+- concepts:
+  - nervus-genitofemoralis
+  exercise: question_bank
+  question:
+    de: Welcher Nerv entspringt aus Fasern von L1 und L2 und verläuft durch den Musculus
+      psoas major, bevor er sich in zwei Äste aufteilt?
+    en: Which nerve formed from the L1 and L2 fibers runs through the anterior surface
+      of the psoas major muscle (musculus psoas major) before dividing into two branches?
+  right_terms:
+  - nervus-genitofemoralis
+  wrong_terms:
+  - nervus-iliohypogastricus
+  - nervus-ilioinguinalis
+  - nervus-subcostalis
+  - pudendal-nerve
+  question_uuid: 388ac132465b5993c095bfd2122c17b
+- concepts:
+  - nervus-iliohypogastricus
+  exercise: question_bank
+  question:
+    de: Welcher Nerv wird von den Fasern aus Th12 und L1 gebildet, und teilt sich
+      in ventrale und laterale Äste, die eine Rolle für die Innervation der Haut an
+      der lateralen Hüfte und kranial des Leistenbands (Ligamentum inguinale) spielen?
+    en: Which nerve is formed from L1 and T12 fibers, splitting into anterior and
+      lateral branches responsible for the cutaneous supply of the lateral hip and
+      the skin superior to the inguinal ligament (ligamentum inguinale)?
+  right_terms:
+  - nervus-iliohypogastricus
+  wrong_terms:
+  - ramus-genitalis-nervi-genitofemoralis
+  - ramus-femoralis-nervi-genitofemoralis
+  - nervus-pectoralis-lateralis
+  - nervus-subcostalis
+  question_uuid: 317d914b5fb2ae5142a2eb8b7ae5044
+- concepts:
+  - nervus-subcostalis
+  exercise: question_bank
+  question:
+    de: Wie ist der Name des zwölften Thorakalnervens, der verschiedene Muskeln und
+      Hautareale der unteren Bauchwand versorgt?
+    en: What is the name of the 12th thoracic nerve that supplies multiple abdominal
+      muscles as well as skin areas from the lower abdominal wall?
+  right_terms:
+  - nervus-subcostalis
+  wrong_terms:
+  - nervus-thoracodorsalis
+  - long-thoracic-nerve
+  - perforating-cutaneous-nerve
+  - nervus-iliohypogastricus
+  question_uuid: 608ea27cd2a7f5303de975fb9e86057
+- concepts:
+  - nervus-phrenicus-sinister
+  exercise: question_bank
+  question:
+    de: Ein 2-jähriges Mädchen mit einer chirurgischen Herzfehlerbehandlung in der
+      Anamnese erscheint mit ihren Eltern in der Notaufnahme. Es leidet unter akuter
+      Atemnot, ist zyanotisch und nutzt verstärkt die Atemhilfsmuskulatur. Auf einem
+      Röntgen-Thorax sieht man einen Zwerchfellhochstand auf der linken Seite. Im
+      Ultraschall zeigt sich eine lediglich minimale Zwerchfellbeweglichkeit. Welcher
+      Nerv wurde wahrscheinlich bei der Operation verletzt?
+    en: A 2-year-old girl with a history of surgical repair of congenital heart disease
+      presents to the emergency department with vomiting, respiratory distress, use
+      of accessory muscles of respiration and cyanosis. On chest radiograph the left
+      hemidiaphragm appears elevated, and on ultrasound examination the diaphragm
+      movement appears minimal during breathing. Injury to which nerve might resulted
+      in this condition?
+  right_terms:
+  - nervus-phrenicus-sinister
+  wrong_terms:
+  - intercostal-nerves-t3-t6
+  - iliohypogastric-nerve
+  - ilioinguinal-nerve
+  - long-thoracic-nerve
+  question_uuid: 21481db98c70df3e1a9d7f62c08270f
+- terms:
+  - musculus-semispinalis-cervicis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - posterior-rami-of-spinal-nerves
+  wrong_terms:
+  - rami-posteriores-ti-txii
+  - nervus-transversus-colli
+  - rami-posteriores-ti-txii
+  - nervus-accessorius-2
+- concepts:
+  - nervi-splanchnici-pelvici
+  exercise: question_bank
+  question:
+    de: Ein 32-jähriger Mann leidet nach einem Autounfall mit resultierender Querschnittslähmung
+      ab dem Sakralmark an einer Erektionsstörung. Welche Nerven sind für die Vermittlung
+      der Erektion zuständig?
+    en: A 32-year-old man suffers from an erectile dysfunction after a car accident
+      with a consequential spinal cord injury at the level of the sacral spinal cord.
+      Which nerves are responsible for the mediation of erection?
+  right_terms:
+  - nervi-splanchnici-pelvici
+  wrong_terms:
+  - ilioinguinal-nerve
+  - anococcygeal-nerves
+  - plexus-venosus-vesicalis
+  - medial-cluneal-nerves
+  question_uuid: 6ba09fe763397350c83124e2368f71f
+- concepts:
+  - nervus-iliohypogastricus
+  - lumbar-plexus
+  exercise: question_bank
+  question:
+    de: Welcher ist der erste Nerv des Plexus lumbalis?
+    en: Which is the first nerve of the lumbar plexus (plexus lumbalis)?
+  right_terms:
+  - nervus-iliohypogastricus
+  wrong_terms:
+  - ilioinguinal-nerve
+  - nervus-subcostalis
+  - genitofemoral-nerve
+  - nervus-obturatorius
+  question_uuid: 5b25687ce2122d0fe6dae1569ae7478
+- concepts:
+  - nervus-iliohypogastricus
+  - ilioinguinal-nerve
+  - lumbar-plexus
+  - musculus-transversus-abdominis
+  exercise: question_bank
+  question:
+    de: Welche zwei Nerven des Plexus lumbalis (Lendengeflecht) durchbohren den queren
+      Bauchmuskel (M. transversus abdominis) und beteiligen sich an seiner motorischen
+      Versorgung?
+    en: Which two nerves of the lumbar plexus (plexus lumbalis) pierce through the
+      transversus abdominis muscle and contribute to its motor innervation?
+  right_terms:
+  - nervus-iliohypogastricus
+  - ilioinguinal-nerve
+  wrong_terms:
+  - nervus-subcostalis
+  - genitofemoral-nerve
+  - nervus-obturatorius
+  question_uuid: 4ade518f9165253730216e9e1474803
+- concepts:
+  - nervus-iliohypogastricus
+  - ilioinguinal-nerve
+  - pubic-region
+  exercise: question_bank
+  question:
+    de: Welche Nerven versorgen sensibel die Haut oberhalb des Schambereiches?
+    en: Which nerves supply sensory fibres to the skin superior to the pubic area?
+  right_terms:
+  - nervus-iliohypogastricus
+  - ilioinguinal-nerve
+  wrong_terms:
+  - nervus-subcostalis
+  - genitofemoral-nerve
+  - nervus-obturatorius
+  question_uuid: bbdbc505e4ceb42dfa93e8903b4267d
+- concepts:
+  - nervus-iliohypogastricus
+  - appendix-vermiformis
+  exercise: question_bank
+  question:
+    de: Bei den meisten offenen Appendektomien (operative Entfernung des Wurmfortsatzes)
+      erfolgt der Einschnitt am McBurney-Punkt. Welche der folgenden Strukturen kann
+      dabei am ehesten verletzt werden aufgrund ihres Verlaufes zwischen den inneren
+      schrägen und den queren Bauchmuskeln in diesem Bereich?
+    en: In most open appendectomies (surgical removal of the appendix), the incision
+      is made at the McBurney’s point. Which of the following structures is most likely
+      to be injured due to its course between the internal oblique and transverse
+      abdominal muscles in this area?
+  right_terms:
+  - nervus-iliohypogastricus
+  wrong_terms:
+  - funiculus-spermaticus
+  - genitofemoral-nerve
+  - ilioinguinal-nerve
+  - nervus-subcostalis
+  question_uuid: 505319c2bd7b4487dbb91a12778fc89
+- concepts:
+  - nervi-anococcygei
+  - pudendal-nerve
+  - nervus-pudendus-3
+  - nervus-pudendus-2
+  exercise: question_bank
+  question:
+    de: Welche Nerven innervieren hauptsächlich die Haut der Dammregion (Regio perinealis)?
+    en: What nerves mainly innervate the skin of the perineal region (regio perinealis)?
+  right_terms:
+  - nervi-anococcygei
+  - pudendal-nerve
+  wrong_terms:
+  - nervus-iliohypogastricus
+  - nervus-obturatorius
+  - nervi-clunium-superiores
+  question_uuid: 4f9ee16162cfc7dce462369b706cfc4
+- concepts:
+  - diaphragma
+  - vena-caval-hiatus
+  exercise: question_bank
+  question:
+    de: Die Äste welches Nerven ziehen durch das Foramen venae cavae des Zwerchfells?
+    en: The branches of which nerve pass through the caval opening of the diaphragm
+      (foramen venae cavae)?
+  right_terms:
+  - nervus-phrenicus-dexter
+  wrong_terms:
+  - nervus-phrenicus-sinister
+  - nervus-thoracicus-longus
+  - nervus-laryngeus-recurrens-dexter
+  - nervus-laryngeus-recurrens-sinister
+  question_uuid: c57dac8e55582d5154a84658ba0a809
+- concepts:
+  - diaphragma
+  exercise: question_bank
+  question:
+    de: Welche Strukturen ziehen unter dem Arcus lumbocostalis medialis auf der rechten
+      und linken Seite hinter dem Zwerchfell hindurch?
+    en: Which structures pass through behind the diaphragm (diaphragma) under the
+      medial lumbocostal arches on the left and right sides?
+  right_terms:
+  - truncus-sympathicus-sinister
+  - truncus-sympathicus-dexter
+  wrong_terms:
+  - vena-cava-inferior
+  - nervus-phrenicus-dexter
+  - nervus-phrenicus-sinister
+  question_uuid: 55a5b32e1c4074c7d4934c2e07d7d69
+- terms:
+  - musculus-pectoralis-major
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-pectoralis-medialis
+  - nervus-pectoralis-lateralis
+  wrong_terms:
+  - nervus-axillaris
+  - nervus-radialis
+  - nervus-dorsalis-scapulae
+  - nervus-musculocutaneus
+- terms:
+  - musculus-pectoralis-minor
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-pectoralis-medialis
+  wrong_terms:
+  - nervus-medianus
+  - nervus-axillaris
+  - nervus-ulnaris
+  - nervus-musculocutaneus
+- concepts:
+  - ureter
+  - nervus-genitofemoralis
+  exercise: question_bank
+  question:
+    de: Welcher Nerv verläuft hinter dem Harnleiter (Ureter) beim Überkreuzen der
+      bauchseitigen Oberfläche des großen Lendenmuskels (Musculus psoas major)?
+    en: Which nerve runs behind the ureter as it passes over the abdominal surface
+      of the psoas major muscle (Musculus psoas major)?
+  right_terms:
+  - nervus-genitofemoralis
+  wrong_terms:
+  - nervus-iliohypogastricus
+  - nervus-ilioinguinalis
+  - nervus-femoralis
+  - nervus-subcostalis
+  question_uuid: 9ab612bd3c95f0ff3c9e1d113d687d0
+- terms:
+  - musculi-intercostales-externi
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervi-intercostales
+  wrong_terms:
+  - nervus-thoracicus-longus
+  - nervus-thoracodorsalis
+  - nervus-ischiadicus
+  - nervus-radialis
+  - nervus-axillaris
+- terms:
+  - musculus-rectus-abdominis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervi-intercostales-t7-t11
+  - nervus-subcostalis
+  wrong_terms:
+  - nervi-intercostales-t3-t6
+  - nervi-intercostales-t2-t7
+  - nervus-dorsalis-scapulae
+  - nervus-iliohypogastricus
+- terms:
+  - musculus-pyramidalis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervus-subcostalis
+  wrong_terms:
+  - nervi-intercostales-t3-t6
+  - nervus-gluteus-inferior
+  - nervus-pudendus
+  - nervus-genitofemoralis
+  - nervi-intercostales-t7-t11
+- terms:
+  - musculi-intercostales-interni
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervi-intercostales
+  wrong_terms:
+  - nervus-thoracicus-longus
+  - nervus-thoracodorsalis
+  - nervus-pectoralis-lateralis
+  - nervus-pectoralis-medialis
+  - nervus-dorsalis-scapulae
+- terms:
+  - musculus-obliquus-externus-abdominis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervi-intercostales-t7-t11
+  - nervus-subcostalis
+  - nervus-iliohypogastricus
+  wrong_terms:
+  - nervi-intercostales-t3-t6 
+  - nervus-thoracicus-longus
+  - nervi-intercostales-t2-t7
+- terms:
+  - musculus-obliquus-internus-abdominis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervi-intercostales-t7-t11
+  - nervus-subcostalis
+  - nervus-ilioinguinalis
+  - nervus-iliohypogastricus
+  wrong_terms:
+  - nervus-pudendus
+  - nervus-gluteus-inferior
+- concepts:
+  - ureter
+  - nervi-splanchnici-pelvici
+  exercise: question_bank
+  question:
+    de: Ein Patient klagt über stärkste Schmerzen in seiner linken Flanke. Die durchgeführten
+      Untersuchungen bestätigen die Diagnose von Nierensteinen (Nephrolithiasis),
+      welche zu einer Verlegung des linken Harnleiters geführt haben. Zur Schmerzlinderung
+      verordnet der Arzt ein Medikament, das den Parasympathikus hemmt. Welche Nerven
+      innervieren den Harnleiter parasympathisch?
+    en: A patient describes severe colicky pain in his left flank. The following tests
+      confirm the diagnosis of kidney stones (nephrolithiasis) which lead to a constriction
+      of the left ureter. To give this patient pain relief from the spasms the doctor
+      prescribes a drug that inhibits the parasympathicus. Which nerves innervate
+      the ureter parasympathetically?
+  right_terms:
+  - nervi-splanchnici-pelvici
+  wrong_terms:
+  - nervus-splanchnicus-lumbalis
+  - nervi-rectales-inferiores
+  - nervi-scrotales-posteriores
+  - ramus-genitalis-nervi-genitofemoralis
+  question_uuid: 0bdd0d77628a1527437622b680b263b
+- concepts:
+  - nervi-splanchnici-pelvici
+  - colon-sigmoideum-4
+  exercise: question_bank
+  question:
+    de: Welchen Nerven entstammt die parasympathische Innervation des Colon sigmoideum?
+    en: Which nerves provide parasympathetic innervation to the sigmoid colon (colon
+      sigmoideum)?
+  right_terms:
+  - nervi-splanchnici-pelvici
+  wrong_terms:
+  - nervi-splanchnici-lumbales
+  - plexus-mesentericus-superior
+  - plexus-intermesentericus
+  - plexus-hypogastricus-superior
+  question_uuid: 20520b62f87d1d15ca6edae7aceba6a
+- concepts:
+  - nervi-splanchnici-pelvici
+  - large-intestine
+  exercise: question_bank
+  question:
+    de: Welche Nerven versorgen den Enddarm parasympathisch?
+    en: Which nerves provide parasympathetic innervation to the hindgut?
+  right_terms:
+  - nervi-splanchnici-pelvici
+  wrong_terms:
+  - nervi-splanchnici-lumbales
+  - plexus-mesentericus-superior
+  - plexus-hypogastricus-superior
+  - plexus-venosus-rectalis-externus
+  question_uuid: 30f9b727c82e9142a0ca2f76040fd7f
+- concepts:
+  - nervi-splanchnici-pelvici
+  exercise: question_bank
+  question:
+    de: Welche Nerven tragen neben dem Nervus vagus zur parasympathischen Innervation
+      des Dickdarms bei?
+    en: The vagus nerve (nervus vagus) enter the abdominal cavity via the oesophageal
+      hiatus of the diaphragm and provides parasympathetic innervation to the large
+      intestines. Which other nerves also contribute to the large intestines parasympathetic
+      supply?
+  right_terms:
+  - nervi-splanchnici-pelvici
+  wrong_terms:
+  - nervi-splanchnici-lumbales
+  - nervi-palatini
+  - nervi-anales-inferiores
+  - nervi-intercostales
+  question_uuid: 52e62644e36f9b31151f363bf6a54b1
+- terms:
+  - musculus-transversus-abdominis
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervi-intercostales-t7-t11
+  - nervus-subcostalis
+  - nervus-ilioinguinalis
+  - nervus-iliohypogastricus
+  wrong_terms:
+  - nervus-genitofemoralis
+  - nervus-gluteus-superior
+- concepts:
+  - nervus-ilioinguinalis
+  - nervus-iliohypogastricus
+  - nervus-subcostalis
+  exercise: question_bank
+  question:
+    de: Welche Nerven (3) verlaufen diagonal auf der Hinterseite der Nieren nach unten?
+    en: Which nerves (3) run down across the posterior surface of the kidneys?
+  right_terms:
+  - nervus-ilioinguinalis
+  - nervus-iliohypogastricus
+  - nervus-subcostalis
+  wrong_terms:
+  - nervus-phrenicus
+  - nervus-vagus
+  question_uuid: 2ff399b25095797f1837c17b5b2d15b
+- terms:
+  - musculi-subcostales
+  exercise: multiple_choice_image
+  relation: innervation_of
+  right_terms:
+  - nervi-intercostales
+  wrong_terms:
+  - nervus-pectoralis-medialis
+  - nervus-subclavius
+  - nervus-pectoralis-lateralis
+  - nervus-thoracicus-longus
+  - nervus-suprascapularis
+- concepts:
+  - nervi-intercostales
+  exercise: question_bank
+  question:
+    de: Welche Nerven geben Hautäste ob, die die Haut über der Brust (Mamma) versorgen?
+    en: Which nerves give the cutaneous branches that supply the overlying skin of
+      the breast (mamma)?
+  right_terms:
+  - nervi-intercostales
+  wrong_terms:
+  - nervus-pectoralis-lateralis
+  - nervi-splanchnici
+  - nervi-supraclaviculares
+  - nervus-pectoralis-medialis
+  question_uuid: da83b5ed344ff259ca119648fb76568
+- concepts:
+  - plexus-cardiacus
+  exercise: question_bank
+  question:
+    de: Welche Nervenstruktur an der Basis des Herzens wird sowohl von sympathischen
+      als auch von parasympathischen Herzästen gebildet?
+    en: Which nervous structure located at the base of the heart is formed by both
+      sympathetic and parasympathetic cardiac branches?
+  right_terms:
+  - plexus-cardiacus
+  wrong_terms:
+  - ramus-cardiacus-cervicalis-superior-nervi-vagi
+  - plexus-aorticus-thoracicus
+  - nervus-phrenicus
+  - glomus-caroticum
+  question_uuid: 6b2811cd0f309678524a0312018aeff
+- concepts:
+  - nervus-occipitalis-minor
+  exercise: question_bank
+  question:
+    de: Zusammen mit welchem Nerven tritt der Nervus occipitalis major zwischen den
+      ersten beiden Halswirbeln hervor?
+    en: The greater occipital nerve (nervus occipitalis major) emerges between the
+      first two cervical vertebrae along with which other nerve?
+  right_terms:
+  - nervus-occipitalis-minor
+  wrong_terms:
+  - nervus-supraorbitalis
+  - nervus-auricularis-magnus
+  - nervus-infratrochlearis
+  - nervus-auriculotemporalis
+  - nervus-mentalis
+  question_uuid: 0336fb7946a9b83fc8608e70980ac8e
+- concepts:
+  - diaphragma
+  - nervus-phrenicus
+  exercise: question_bank
+  question:
+    de: Ein 38-jähriger Mann hat Schluckauf, der bereits länger als zwei Monate andauert.
+      Im Rahmen der Anamnese stellt der behandelnde Arzt fest, dass dieser Patient
+      vor zweieinhalb Monaten eine Herzoperation hatte. Die chirurgische Irritation
+      welches Nerven kann anhaltenden Schluckauf verursachen?
+    en: A 38-year-old man presents with hiccups that last for more than two months.
+      When taking the patient’s history, the doctor finds out that this patient had
+      heart surgery two and a half months ago. Surgical irritation of which nerve
+      can cause persistent hiccups?
+  right_terms:
+  - nervus-phrenicus
+  wrong_terms:
+  - nervus-vagus
+  - nervus-laryngeus-recurrens
+  - nervus-laryngeus-superior
+  - nervus-glossopharyngeus
+  question_uuid: f66917b8db819d9b2628c192d4aab15
+- concepts:
+  - plexus-hepaticus
+  exercise: question_bank
+  question:
+    de: Welches Nervengeflecht versorgt die Leber (Hepar)?
+    en: Which of the following nervous structures innervates the liver (hepar)?
+  right_terms:
+  - plexus-hepaticus
+  wrong_terms:
+  - plexus-gastricus-anterior
+  - superior-mesenteric-plexus
+  - plexus-pancreaticus
+  - plexus-splenicus
+  question_uuid: 125f9c2ddea5923c2ca08f622499a9b
+- concepts:
+  - plexus-hepaticus
+  exercise: question_bank
+  question:
+    de: Woher bekommt der Leberplexus (Plexus hepaticus) seine parasympathischen Fasern?
+    en: Where does the hepatic plexus (plexus hepaticus) receive parasympathetic fibers
+      from?
+  right_terms:
+  - truncus-vagalis-anterior
+  wrong_terms:
+  - celiac-branch-of-anterior-vagal-trunk
+  - truncus-lumbosacralis
+  - plexus-mesentericus-superior
+  - plexus-splenicus
+  question_uuid: 6b5c2f57282eb82316768236e91cea1
+- concepts:
+  - splen-lien
+  - duodenum
+  - vesica-biliaris
+  exercise: question_bank
+  question:
+    de: Eine 57-jährige Frau kommt mit abdominellen Schmerzen im Rücken ins Krankenhaus.
+      Eine CT-Untersuchung des Bauch- und Beckenbereichs zeigt einen Tumor im Pankreas
+      ohne Läsionen in anderen Organen. Die Familienanamnese ist für eine unbekannte
+      Krebsart bei den Verwandten mütterlicherseits positiv. Eine Ultraschall-gestützte
+      Biopsie und die folgende Histopathologie zeigen ein Pankreasadenokarzinom. Nach
+      mehrwöchigem Krankenhausaufenthalt und erfolgloser Schmerztherapie entscheiden
+      sich die Ärzte für eine Plexus-coeliacus-Blockade, um die Schmerzsymptome des
+      Patienten zu reduzieren. Welche der folgenden Strukturen innerviert der Plexus
+      coeliacus (Plexus coeliacus)?
+    en: A 57-year-old woman comes to the hospital with abdominal pain radiating to
+      her back. A CT-scan of her abdomen and pelvis discovers a mass in the pancreas
+      without any lesions in other organs. Family history is positive for an unknown
+      type of cancer in her maternal relatives. An ultrasound-guided biopsy and the
+      following histopathology reveal pancreatic adenocarcinoma. After several weeks
+      of hospitalization and unsuccessful pain therapy, the doctors decide to perform
+      a celiac plexus block in order to reduce the patient's pain symptoms. Which
+      of the following structures does the coeliac plexus (plexus coeliacus) innervate?
+  right_terms:
+  - splen-lien
+  - ascending-part-of-duodenum
+  - head-of-pancreas
+  wrong_terms:
+  - sigmoid-colon
+  - musculus-obliquus-internus-abdominis-2
+  question_uuid: 4b5bd5718ad1f53e4af3618fcf7ce32

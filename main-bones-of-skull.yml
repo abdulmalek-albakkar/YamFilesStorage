@@ -1,0 +1,1735 @@
+---
+- terms:
+  - os-frontale
+  - os-nasale
+  exercise: easy
+- terms:
+  - os-lacrimale
+  - os-zygomaticum
+  exercise: easy
+- terms:
+  - os-parietale
+  - os-temporale
+  exercise: easy
+- terms:
+  - os-occipitale
+  - os-sphenoidale
+  exercise: easy
+- terms:
+  - os-zygomaticum
+  - os-sphenoidale
+  - os-occipitale
+  - os-lacrimale
+  exercise: four_one
+- terms:
+  - os-frontale
+  - os-temporale
+  - os-parietale
+  - os-nasale
+  exercise: four_one
+- terms:
+  - os-lacrimale
+  - os-nasale
+  - os-sphenoidale
+  - os-zygomaticum
+  exercise: identify_image
+- terms:
+  - os-occipitale
+  - os-frontale
+  - os-temporale
+  - os-parietale
+  exercise: identify_image
+- terms:
+  - maxilla
+  - mandibula
+  exercise: easy
+- terms:
+  - os-sphenoidale
+  - os-ethmoidale
+  exercise: easy
+- terms:
+  - os-palatinum
+  - stapes
+  exercise: easy
+- terms:
+  - malleus
+  - incus
+  exercise: easy
+- terms:
+  - os-sphenoidale
+  - os-ethmoidale
+  - os-palatinum
+  - mandibula
+  exercise: four_one
+- terms:
+  - malleus
+  - maxilla
+  - stapes
+  - incus
+  exercise: four_one
+- terms:
+  - mandibula
+  - os-palatinum
+  - maxilla
+  - os-sphenoidale
+  exercise: identify_image
+- terms:
+  - stapes
+  - os-ethmoidale
+  - incus
+  - malleus
+  exercise: identify_image
+- terms:
+  - os-frontale
+  exercise: spell_term
+- terms:
+  - os-nasale
+  exercise: spell_term
+- terms:
+  - os-lacrimale
+  exercise: spell_term
+- terms:
+  - os-zygomaticum
+  exercise: spell_term
+- terms:
+  - os-parietale
+  exercise: spell_term
+- terms:
+  - os-temporale
+  exercise: spell_term
+- terms:
+  - os-occipitale
+  exercise: spell_term
+- terms:
+  - os-sphenoidale
+  exercise: spell_term
+- terms:
+  - maxilla
+  exercise: spell_term
+- terms:
+  - mandibula
+  exercise: spell_term
+- terms:
+  - os-ethmoidale
+  exercise: spell_term
+- terms:
+  - os-palatinum
+  exercise: spell_term
+- terms:
+  - stapes
+  exercise: spell_term
+- terms:
+  - malleus
+  exercise: spell_term
+- terms:
+  - incus
+  exercise: spell_term
+- concepts:
+  - atlas-2
+  - atlas
+  - atlas-6
+  - axis-2
+  - axis-5
+  - axis
+  - vertebrae-cervicales
+  - os-occipitale
+  exercise: question_bank
+  question:
+    de: Welche Wirbel bilden zusammen mit dem Hinterhauptbein (Os occipitale) das
+      obere und untere Kopfgelenk?
+    en: Which vertebrae form the upper and lower head joints together with the occipital
+      bone?
+  right_terms:
+  - atlas-2
+  - axis-2
+  wrong_terms:
+  - sacrum-2
+  - os-coccygis
+  - talus
+  question_uuid: 63759e139f5ba24565adc7fdd3e2e2b
+- concepts:
+  - frontal-bone
+  - os-frontale-2
+  - os-frontale-3
+  - os-frontale-4
+  - os-frontale
+  - frontal-bone-9
+  - parietal-bone
+  - os-parietale-3
+  - os-parietale-2
+  - os-parietale
+  - os-parietale-4
+  - os-parietale-5
+  - temporal-bone
+  - os-temporale-3
+  - os-temporale-2
+  - os-temporale
+  - os-temporale-4
+  - apex-partis-petrosae-ossis-temporalis
+  - os-occipitale
+  - os-occipitale-2
+  - os-occipitale-3
+  - os-occipitale-4
+  - os-occipitale-5
+  exercise: question_bank
+  question:
+    de: Welche Knochen gehören zum Gehirnschädel (Neurocranium), der das Gehirn umgibt?
+    en: Which bones belong to the braincase (neurocranium) that surrounds the brain?
+  right_terms:
+  - frontal-bone
+  - parietal-bone
+  - temporal-bone
+  - os-occipitale
+  wrong_terms:
+  - nasal-bone
+  - os-lacrimale
+  question_uuid: 3950d7243d9641db3930e1be110260e
+- concepts:
+  - stapes
+  exercise: question_bank
+  question:
+    de: Welcher Knochen ist der kleinste im menschlichen Körpers?
+    en: Which bone is the smallest in the human body?
+  right_terms:
+  - stapes
+  wrong_terms:
+  - incus
+  - os-pisiforme
+  - malleus
+  - os-lacrimale
+  question_uuid: ad7aa97e3547bd3821d1684f914e40f
+- concepts:
+  - temporal-bone
+  - os-temporale-3
+  - os-temporale-2
+  - os-temporale
+  - os-temporale-4
+  - os-temporale-5
+  exercise: question_bank
+  question:
+    de: Welcher Knochen umgibt das Mittel- und Innenohr und ist an der Bildung des
+      Kiefergelenks beteiligt?
+    en: Which bone contains the middle and inner ear and is involved in the formation
+      of the jaw joint?
+  right_terms:
+  - temporal-bone
+  wrong_terms:
+  - parietal-bone
+  - os-occipitale
+  - frontal-bone
+  - maxilla-4
+  question_uuid: 62a116e84622a6b37d7a6ab00ea7078
+- concepts:
+  - os-occipitale
+  - os-occipitale-2
+  - os-occipitale-3
+  - os-occipitale-4
+  - os-occipitale-5
+  exercise: question_bank
+  question:
+    de: Welcher Knochen umgibt das große Loch (Foramen magnum)?
+    en: In which bone is the foramen magnum located?
+  right_terms:
+  - os-occipitale-4
+  wrong_terms:
+  - parietal-bone
+  - maxilla-4
+  - frontal-bone
+  - temporal-bone
+  question_uuid: 42711b6bc77315e9c4db627df40be93
+- concepts:
+  - maxilla
+  - maxilla-11
+  - maxilla-2
+  - maxilla-3
+  - mandibula
+  - corpus-mandibula-2
+  exercise: question_bank
+  question:
+    de: Welche Knochen gehören zum Kiefer?
+    en: Which of the following bones make up the upper and lower jaw, respectively?
+  right_terms:
+  - maxilla
+  - mandibula
+  wrong_terms:
+  - frontal-bone
+  - temporal-bone
+  - os-occipitale-5
+  question_uuid: 1d8887b8cbe749b9210fab1b6065040
+- concepts:
+  - os-ethmoidale
+  - cellulae-ethmoidales
+  exercise: question_bank
+  question:
+    de: Welcher Schädelknochen ist von außen nicht sichtbar?
+    en: Which cranial bone is not visible from the outside?
+  right_terms:
+  - os-ethmoidale
+  wrong_terms:
+  - frontal-bone
+  - os-nasale
+  - mandibula
+  - temporal-bone
+  question_uuid: f34397802af3979c79020bd377b7994
+- concepts:
+  - malleus
+  - stapes
+  - incus
+  exercise: question_bank
+  question:
+    de: Welche Knochen zählen zu den Gehörknöchelchen?
+    en: Which of the following bones are auditory ossicles?
+  right_terms:
+  - malleus
+  - stapes
+  - incus
+  wrong_terms:
+  - atlas-3
+  - axis-3
+  question_uuid: '0499695ba20515d801f83ada17cbe41'
+- terms:
+  - musculus-semispinalis-capitis
+  exercise: multiple_choice_text
+  relation: insertion_of
+  right_terms:
+  - os-occipitale
+  wrong_terms:
+  - ligamentum-nuchae
+  - neck
+  - vertebrae-cervicales
+  - costa-i-3
+  - processus-transversus-cvii-tvi
+- concepts:
+  - os-ethmoidale
+  exercise: question_bank
+  question:
+    de: Welcher leichte und spongiöse Knochen ist auf dem Nasendach zwischen den beiden
+      Augenhöhlen lokalisiert?
+    en: In the nasal skeleton, what lightweight and spongy bone is located on the
+      roof of the nose between the two orbits?
+  right_terms:
+  - os-ethmoidale
+  wrong_terms:
+  - os-frontale-4
+  - os-lacrimale
+  - os-nasale-2
+  - os-sphenoidale
+  question_uuid: 64c627924efe0f8f327289929743be4
+- concepts:
+  - os-ethmoidale
+  exercise: question_bank
+  question:
+    de: Welcher Nasenknochen hat eine Lamina cribrosa, ein Labyrinthus ethmoidalis
+      und eine Lamina perpendicularis?
+    en: Which bone in the nasal skeleton has a cribriform plate, an ethmoidal labyrinth
+      (labyrinthus ethmoidalis) and a perpendicular plate (lamina perpendicularis)?
+  right_terms:
+  - os-ethmoidale
+  wrong_terms:
+  - os-frontale-4
+  - os-lacrimale
+  - os-sphenoidale
+  - os-palatinum-3
+  question_uuid: 8b9b4dea46fd00a8445d20014ed7ff2
+- concepts:
+  - os-ethmoidale
+  exercise: question_bank
+  question:
+    de: Welcher der folgenden Knochen artikuliert mit dem Stirnbein und dem Keilbein
+      (Ossa frontale et sphenoidale) als Teil des Neurokraniums?
+    en: Which of the following bones articulates with the frontal and sphenoid bone
+      (ossa frontale et sphenoidale) as part of the neurocranium?
+  right_terms:
+  - os-ethmoidale
+  wrong_terms:
+  - os-frontale-4
+  - os-lacrimale
+  - os-sphenoidale
+  - os-palatinum-3
+  question_uuid: f54ffcdec73aa531adc338097cc4f24
+- concepts:
+  - os-ethmoidale
+  exercise: question_bank
+  question:
+    de: Welcher Knochen der Nase grenzt anterior an das Nasenbein und das Tränenbein
+      (Os nasale et lacrimale)?
+    en: Which of the following bones articulates with the nasal and lacrimal bones
+      (ossa nasale et lacrimale) anteriorly?
+  right_terms:
+  - os-ethmoidale
+  wrong_terms:
+  - os-frontale-4
+  - maxilla
+  - os-sphenoidale
+  - os-palatinum-3
+  question_uuid: 2b2df14395088ac02b2f571fbe1e6a2
+- concepts:
+  - os-sphenoidale
+  exercise: question_bank
+  question:
+    de: Welcher der folgenden Knochen ist ein keilförmiger Komplex?
+    en: Which of the following is a wedge-like complex bone with many articulations?
+  right_terms:
+  - os-sphenoidale
+  wrong_terms:
+  - os-frontale-4
+  - os-lacrimale
+  - os-nasale-2
+  - os-palatinum-3
+  question_uuid: cfb8eba40add5dec7ae3d87a62704fe
+- concepts:
+  - os-sphenoidale
+  exercise: question_bank
+  question:
+    de: Welcher Knochen formt den Boden der mittlere Schädelgrube (Fossa cranii media)
+      und enthält viele Foramina, durch die Hirnnerven ziehen?
+    en: Which bone forms the floor of the middle cranial fossa (fossa cranii media)
+      and contains numerous foramina for the passage of cranial nerves?
+  right_terms:
+  - os-sphenoidale
+  wrong_terms:
+  - os-ethmoidale
+  - os-frontale-4
+  - os-lacrimale
+  - os-palatinum-3
+  question_uuid: 30051685daa79ef83ef75fbc801be72
+- concepts:
+  - os-sphenoidale
+  exercise: question_bank
+  question:
+    de: Auf dem Mittelteil welches Knochens befindet sich der Türkensattel (Sella
+      turcica)?
+    en: Which of the following bones contains the turkish saddle (sella turcica) in
+      its median portion?
+  right_terms:
+  - os-sphenoidale
+  wrong_terms:
+  - os-ethmoidale
+  - os-frontale-4
+  - os-lacrimale
+  - os-palatinum-3
+  question_uuid: 415d88ae8b969f8866bd477af83ffc5
+- concepts:
+  - os-sphenoidale
+  exercise: question_bank
+  question:
+    de: Welcher Knochen hat zwei größere und zwei kleinere Flügel?
+    en: Which of the following bones possesses two greater and two lesser wings?
+  right_terms:
+  - os-sphenoidale
+  wrong_terms:
+  - os-ethmoidale
+  - os-frontale-4
+  - os-lacrimale
+  - os-palatinum-3
+  question_uuid: 465e18e40fd57a510580fa44d23d73f
+- concepts:
+  - sutura-sagittalis
+  - sutura-sagittalis-2
+  - os-parietale
+  - os-parietale-2
+  - os-parietale-5
+  exercise: question_bank
+  question:
+    de: Welcher paarige Knochen wird von der Sagittalnaht (Sutura sagittalis) getrennt?
+    en: Which paired bone is divided by the sagittal suture (sutura sagittalis)?
+  right_terms:
+  - os-parietale
+  wrong_terms:
+  - os-occipitale
+  - os-temporale
+  - os-ethmoidale
+  - os-sphenoidale
+  question_uuid: f5df73cf6672b84afb7994fe1d2393c
+- concepts:
+  - os-frontale
+  - os-frontale-2
+  - os-frontale-4
+  - os-occipitale
+  - os-occipitale-2
+  - os-occipitale-5
+  - os-parietale
+  - os-parietale-2
+  - os-parietale-5
+  exercise: question_bank
+  question:
+    de: Welche Knochen bilden das Schädeldach (Calvaria)?
+    en: Which bones form the skull cap (calvarium)?
+  right_terms:
+  - os-frontale
+  - os-occipitale
+  - os-parietale
+  wrong_terms:
+  - os-temporale
+  - os-sphenoidale
+  question_uuid: 9880af62202d8f65484ea91f16d2a24
+- concepts:
+  - maxilla
+  - maxilla-3
+  - maxilla-11
+  exercise: question_bank
+  question:
+    de: Auf Frakturen welches Knochens bezieht sich die Bezeichnung Le Fort I?
+    en: Le Fort I refers to fractures in which bone?
+  right_terms:
+  - maxilla
+  wrong_terms:
+  - os-temporale
+  - os-ethmoidale
+  - os-sphenoidale
+  - os-frontale
+  question_uuid: ec0ce9047d1811b513fbc0f017b6b6b
+- concepts:
+  - os-frontale
+  - frontal-bone-9
+  exercise: question_bank
+  question:
+    de: Welcher Knochen artikuliert nach lateral mit dem Jochbein (Os zygomaticum)
+      und in der Augenhöhle (Orbita) mit dem Keilbein (Os sphenoidale) und dem Siebbein
+      (Os ethmoidale)?
+    en: Which bone articulates with the zygomatic bone (os zygomaticum) laterally,
+      the sphenoid bone (os sphenoidale) deep in the eye socket, as well as the ethmoid
+      bone (os ethmoidale) at the deep medial section of the eye socket?
+  right_terms:
+  - os-frontale
+  wrong_terms:
+  - os-palatinum
+  - os-occipitale
+  - os-parietale
+  - os-lacrimale
+  question_uuid: fae00755bd2e7ee2e7b2933da2fa5db
+- concepts:
+  - os-frontale
+  - frontal-bone-9
+  - os-zygomaticum
+  - zygomatic-bone-5
+  exercise: question_bank
+  question:
+    de: Das Stirnbein (Os frontale) artikuliert nach lateral mit welchem Knochen?
+    en: The frontal bone (os frontale) articulates with which bone laterally?
+  right_terms:
+  - os-zygomaticum
+  wrong_terms:
+  - os-palatinum
+  - os-nasale
+  - os-ethmoidale
+  - os-sphenoidale
+  question_uuid: adb0f866471b235a9d84f546e7b1365
+- concepts:
+  - os-frontale
+  - frontal-bone-9
+  - os-sphenoidale
+  exercise: question_bank
+  question:
+    de: Das Stirnbein (Os frontale) artikuliert tief in der Augenhöhle (Orbita) mit
+      welchem Knochen?
+    en: The frontal bone (os frontale) articulates with which bone deep in the eye
+      socket?
+  right_terms:
+  - os-sphenoidale
+  wrong_terms:
+  - os-palatinum
+  - os-nasale
+  - os-ethmoidale
+  - os-zygomaticum
+  question_uuid: 2817956594144807b6d7e02b461da7a
+- concepts:
+  - os-frontale
+  - frontal-bone-9
+  - os-ethmoidale
+  exercise: question_bank
+  question:
+    de: Mit welchen Knochen artikuliert das Stirnbein (Os frontale) tief im medialen
+      Bereich der Augenhöhle (Orbita)?
+    en: The frontal bone (os frontale) articulates with which bone at the deep medial
+      section of the eye socket?
+  right_terms:
+  - os-ethmoidale
+  wrong_terms:
+  - os-palatinum
+  - os-nasale
+  - os-sphenoidale
+  - os-zygomaticum
+  question_uuid: 8c4406c3bc4ec1264083213ab128a62
+- concepts:
+  - os-zygomaticum
+  - zygomatic-bone-5
+  exercise: question_bank
+  question:
+    de: Welcher Knochen artikuliert medial mit dem Oberkieferknochen (Maxilla), kranial
+      mit der Facies orbitalis ossis frontalis und mit dem Keilbein (Os sphenoidale)
+      tief in der Augenhöhle (Orbita)?
+    en: Which bone articulates medially with the maxilla, superiorly with the orbital
+      surface of the frontal bone (facies orbitalis os frontale), and with the sphenoid
+      bone (os sphenoidale) deep in the eye socket?
+  right_terms:
+  - os-zygomaticum
+  wrong_terms:
+  - os-palatinum
+  - os-nasale
+  - os-ethmoidale
+  - facies-orbitalis-alaris-majoris-ossis-sphenoidalis
+  question_uuid: ac983050c40c5f6d4aa259eb3e042e2
+- concepts:
+  - os-zygomaticum
+  - zygomatic-bone-5
+  - maxilla
+  - maxilla-11
+  exercise: question_bank
+  question:
+    de: Das Jochbein (Os zygomaticum) artikuliert nach medial mit welchem Knochen?
+    en: The zygomatic bone (os zygomaticum) articulates with which bone medially?
+  right_terms:
+  - maxilla
+  wrong_terms:
+  - os-ethmoidale
+  - os-sphenoidale
+  - facies-orbitalis-alaris-majoris-ossis-sphenoidalis
+  - mandibula
+  question_uuid: eddbbc4689da0aa09a828bd14bc31b6
+- concepts:
+  - os-zygomaticum
+  - facies-orbitalis-os-frontale
+  - orbital-surface-of-frontal-bone-1
+  exercise: question_bank
+  question:
+    de: Das Jochbein (Os zygomaticum) artikuliert nach kranial mit welchem Knochen?
+    en: The zygomatic bone (os zygomaticum) articulates with which bone superiorly?
+  right_terms:
+  - facies-orbitalis-os-frontale
+  wrong_terms:
+  - maxilla
+  - os-ethmoidale
+  - os-sphenoidale
+  - facies-orbitalis-alaris-majoris-ossis-sphenoidalis
+  question_uuid: 3451a5c7d417bab4aa888cb33ec8362
+- concepts:
+  - os-zygomaticum
+  - zygomatic-bone-5
+  - os-sphenoidale
+  exercise: question_bank
+  question:
+    de: Mit welchem Knochen artikuliert das Jochbein (Os zygomaticum) in der Tiefe
+      der Augenhöhle (Orbita)?
+    en: The zygomatic bone (os zygomaticum) articulates with which bone deep in the
+      eye socket?
+  right_terms:
+  - os-sphenoidale
+  wrong_terms:
+  - os-ethmoidale
+  - facies-orbitalis-os-frontale
+  - facies-orbitalis-alaris-majoris-ossis-sphenoidalis
+  - mandibula
+  question_uuid: b25e631620a6b147b5336f62c0da223
+- concepts:
+  - foramen-infraorbitale
+  - infraorbital-foramen-1
+  - maxilla
+  exercise: question_bank
+  question:
+    de: Welche der folgenden ist eine paarige Öffnung am Processus zygomaticus (Jochfortsatz)
+      der Maxilla?
+    en: Which of the following is an opening located on the zygomatic process of the
+      maxilla (processus zygomaticus maxillae)?
+  right_terms:
+  - foramen-infraorbitale
+  wrong_terms:
+  - foramen-ovale
+  - foramen-rotundum
+  - foramen-spinosum
+  - foramen-mentale
+  question_uuid: 416e090034d8c168e856603f4f8c500
+- concepts:
+  - foramen-mentale
+  - foramen-mentale-2
+  - mandibula
+  exercise: question_bank
+  question:
+    de: Welche paarige Öffnung befindet sich im vordersten Bereich des Unterkiefers
+      (Mandibula)?
+    en: Which of the following is a pair of openings located on the most anterior
+      aspect of the mandible (mandibula)?
+  right_terms:
+  - foramen-mentale
+  wrong_terms:
+  - foramen-ovale
+  - foramen-rotundum
+  - foramen-spinosum
+  - foramen-infraorbitale
+  question_uuid: 1b710ee9e08379c4ccbdae6b9bcdd79
+- concepts:
+  - os-ethmoidale
+  - os-ethmoidale-3
+  exercise: question_bank
+  question:
+    de: Welcher kleine unpaare Knochen trennt die Nasenhöhle (Cavitas nasi) vom Gehirn?
+    en: Which of the following is a small unpaired bone that separates the nasal cavity
+      from the brain?
+  right_terms:
+  - os-ethmoidale
+  wrong_terms:
+  - os-palatinum
+  - os-nasale
+  - os-zygomaticum
+  - os-lacrimale
+  question_uuid: 152f40ff4489d9cf1a071b0084366c1
+- concepts:
+  - mandibula
+  - mandible-bone
+  exercise: question_bank
+  question:
+    de: Welcher Knochen bildet den Unterkiefer?
+    en: Which bone forms the lower jaw?
+  right_terms:
+  - mandibula
+  wrong_terms:
+  - os-temporale
+  - os-ethmoidale
+  - os-sphenoidale
+  - maxilla
+  question_uuid: c105949506e23a685e2b67272afd99f
+- concepts:
+  - maxilla
+  - maxilla-7
+  exercise: question_bank
+  question:
+    de: Welcher Knochen bildet den Oberkiefer?
+    en: Which bone forms the upper jaw?
+  right_terms:
+  - maxilla
+  wrong_terms:
+  - os-temporale
+  - os-ethmoidale
+  - os-sphenoidale
+  - mandibula
+  question_uuid: 17bab107b9adc0c19952e1513180063
+- concepts:
+  - os-frontale
+  - os-frontale-4
+  exercise: question_bank
+  question:
+    de: Welcher Knochen liegt ventral über dem Frontallappen des Gehirns (Lobus frontalis)
+      und bildet die Stirn und einen Teil der Augenhöhle?
+    en: Which bone overlies the frontal lobe of the brain (lobus frontalis) anteriorly
+      and forms the forehead and part of the orbital socket?
+  right_terms:
+  - os-frontale
+  wrong_terms:
+  - os-zygomaticum
+  - os-nasale
+  - os-lacrimale
+  - os-temporale
+  question_uuid: 329bcbd87c628a28e7c6c21248fe31f
+- concepts:
+  - os-nasale
+  - os-nasale-2
+  exercise: question_bank
+  question:
+    de: Welche Struktur ist paarig angelegt und zählt zum knöchernen Teil der äußeren
+      Nase?
+    en: Which of the following bones forms the bony part of the external nose?
+  right_terms:
+  - os-nasale
+  wrong_terms:
+  - os-ethmoidale
+  - os-zygomaticum
+  - os-frontale
+  - os-lacrimale
+  question_uuid: ee925b7c30243ac695b50df11d1445e
+- concepts:
+  - os-nasale
+  - os-nasale-2
+  - os-frontale
+  exercise: question_bank
+  question:
+    de: Das Nasenbein (Os nasale) artikuliert superior mit dem ventrokaudalen Bereich
+      welches Knochens?
+    en: The nasal bone (os nasale) articulates superiorly with the anteroinferior
+      portion of which bone?
+  right_terms:
+  - os-frontale
+  wrong_terms:
+  - os-sphenoidale
+  - os-zygomaticum
+  - os-ethmoidale
+  - os-lacrimale
+  question_uuid: 15cb5f43fa1f8224c789b209c0356ae
+- concepts:
+  - os-nasale
+  - processus-frontalis-maxilla
+  - frontal-process-of-maxilla-1
+  exercise: question_bank
+  question:
+    de: Das Nasenbein (Os nasale) artikuliert lateral mit welchem Teil des Oberkiefers
+      (Maxilla)?
+    en: The nasal bone (os nasale) articulates laterally with which part of the maxillary
+      bone (maxilla)?
+  right_terms:
+  - processus-frontalis-maxilla
+  wrong_terms:
+  - facies-orbitalis-os-zygomaticum
+  - processus-palatinus-maxillae
+  - facies-orbitalis-maxilla
+  - processus-zygomaticus-maxilla
+  question_uuid: 6f765156d372f0720c929aa69e17c17
+- concepts:
+  - os-nasale
+  - cartilago-nasi-lateralis
+  exercise: question_bank
+  question:
+    de: Welcher Knochen dient als Ansatzpunkt für die Lamina quadrangularis des Nasenseptums
+      und für den Dreiecksknorpel (Cartilago nasi lateralis), der den lateralen Teil
+      des Nasenrückens bildet?
+    en: Which bone gives attachment to the quadrangular cartilage of the nasal septum
+      and the lateral cartilages that form the lateral part of the nasal bridge?
+  right_terms:
+  - os-nasale
+  wrong_terms:
+  - os-sphenoidale
+  - os-zygomaticum
+  - os-ethmoidale
+  - os-lacrimale
+  question_uuid: ff7e52952d122be50cf0665c0fc9d85
+- concepts:
+  - os-parietale
+  - os-parietale-5
+  - os-frontale
+  exercise: question_bank
+  question:
+    de: Welcher Knochen artikuliert ventral mit dem Stirnbein (Os frontale) und überdeckt
+      dabei den Scheitellappen (Lobus parietalis) des Gehirns?
+    en: Which bone articulates with the frontal bone (os frontale) anteriorly and
+      overlies the parietal lobe of the brain (lobus parietalis)?
+  right_terms:
+  - os-parietale
+  wrong_terms:
+  - os-sphenoidale
+  - os-zygomaticum
+  - os-ethmoidale
+  - os-lacrimale
+  question_uuid: d53d120f0e6495b15abcf426c612225
+- concepts:
+  - os-parietale
+  - os-parietale-2
+  exercise: question_bank
+  question:
+    de: Welcher Knochen grenzt ventral an das Stirnbein (Os frontale), dorsal an das
+      Hinterhauptbein (Os occipitale) und lateral an das Schläfenbein (Os temporale)?
+    en: Which bone articulates with the frontal bone (os frontale) anteriorly, the
+      occipital bone (os occipitale) posteriorly, and the temporal bone (os temporale)
+      laterally?
+  right_terms:
+  - os-parietale
+  wrong_terms:
+  - os-sphenoidale
+  - os-zygomaticum
+  - os-ethmoidale
+  - os-lacrimale
+  question_uuid: 1d5eff1d97bf13a73e34d439bfa4b87
+- concepts:
+  - os-zygomaticum
+  - zygomatic-bone-5
+  exercise: question_bank
+  question:
+    de: Welche knöcherne Struktur bildet die Seitenwand und den Boden der Augenhöhle?
+    en: Which bony structure forms the lateral part of the orbital socket and the
+      floor of the orbit?
+  right_terms:
+  - os-zygomaticum
+  wrong_terms:
+  - processus-zygomaticus-maxilla
+  - os-temporale
+  - arcus-zygomaticus
+  - processus-zygomaticus-ossis-temporalis
+  question_uuid: db613938a88cdcdc77a09aecfce3a40
+- concepts:
+  - os-palatinum
+  - os-palatinum-3
+  exercise: question_bank
+  question:
+    de: Welcher Knochen enthält die Canales palatini minores, durch die die korrespondierenden
+      Nerven und Gefäße ziehen?
+    en: Which bone contains the lesser palatine canals (canales palatini minores)
+      where the corresponding nerves and vessels pass through?
+  right_terms:
+  - os-palatinum
+  wrong_terms:
+  - os-temporale
+  - os-ethmoidale
+  - os-sphenoidale
+  - maxilla
+  question_uuid: b4c13b9159aa022ccbd5666a588774c
+- concepts:
+  - fossa-temporalis
+  - os-temporale
+  exercise: question_bank
+  question:
+    de: Welche Struktur ist eine seichte Vertiefung an der Außenseite des Schläfenbeins
+      (Os temporale)?
+    en: Which structure is a shallow depression found on the external surface of the
+      temporal bone (os temporale)?
+  right_terms:
+  - fossa-temporalis
+  wrong_terms:
+  - fossa-subarcuata-ossis-temporalis
+  - fossa-pterygopalatina
+  - fossa-submandibularis
+  - fossa-sublingualis
+  question_uuid: 29f3a555c685bdc6b407b6c3d4fb97d
+- concepts:
+  - os-frontale
+  - os-frontale-2
+  - os-parietale
+  exercise: question_bank
+  question:
+    de: Die große Fontanelle (Fonticulus anterior) ist diamantförmig und etwa 2,5
+      bis 3 cm lang. Zwischen dem zwölften und dem achtzehnten Lebensmonat schließt
+      sich diese Fontanelle. Sie liegt an der Bindungsstelle welcher zwei Knochen?
+    en: The anterior fontanelle (fonticulus anterior) is diamond shaped and approximately
+      two inches long in its widest part. It normally closes at 12-18 months. At the
+      junction of which bones does the anterior fontanelle lie?
+  right_terms:
+  - os-frontale
+  - os-parietale
+  wrong_terms:
+  - os-occipitale
+  - os-temporale
+  - os-ethmoidale
+  question_uuid: 6581241c8b4cca7818d609a1b036338
+- concepts:
+  - os-zygomaticum
+  - os-zygomaticum-2
+  exercise: question_bank
+  question:
+    de: Welcher Knochen bildet sowohl die knöcherne Grundlage der Wange als auch Teile
+      der lateralen und inferioren Wand der Augenhöhle (Orbita)?
+    en: Which bone forms the bony foundation of the cheek?
+  right_terms:
+  - os-zygomaticum
+  wrong_terms:
+  - os-palatinum
+  - os-nasale
+  - os-frontale
+  - os-occipitale
+  question_uuid: 32a61393690361022f1c7796303e242
+- concepts:
+  - vomer
+  - os-sphenoidale
+  - os-palatinum-3
+  exercise: question_bank
+  question:
+    de: Das Gaumenbein (Os palatinum) artikuliert posterior und lateral mit welchen
+      beiden Knochen?
+    en: The palatine bones articulate with which two bones posteriorly and laterally?
+  right_terms:
+  - vomer
+  - os-sphenoidale
+  wrong_terms:
+  - os-nasale
+  - os-frontale
+  - os-ethmoidale
+  question_uuid: a8a8058db256543776a9e5c150d587e
+- concepts:
+  - os-parietale
+  - os-parietale-5
+  exercise: question_bank
+  question:
+    de: Welcher Knochen bildet den dorsokranialen Bereich des Schädels?
+    en: Which bone forms the posterosuperior part of the skull?
+  right_terms:
+  - os-parietale
+  wrong_terms:
+  - os-frontale
+  - os-temporale
+  - os-sphenoidale
+  - os-occipitale
+  question_uuid: 8a5ba2544d864f79f5826881492a5b0
+- concepts:
+  - maxilla
+  - maxilla-3
+  exercise: question_bank
+  question:
+    de: Kinder mit einer Gaumenspalte (Palatoschisis) weisen einen Defekt in der Mittellinie
+      der beiden Teile welches Knochens auf?
+    en: Young children who present with a cleft palate have a failure of the two parts
+      of which bone to unite in the midline?
+  right_terms:
+  - maxilla
+  wrong_terms:
+  - os-parietale
+  - mandibula
+  - os-zygomaticum
+  - os-nasale
+  question_uuid: c4c881e9aead1fb47643750bab123d7
+- concepts:
+  - os-frontale
+  - os-frontale-2
+  - frontal-bone-6
+  - os-sphenoidale
+  - os-occipitale
+  - os-occipitale-2
+  - occipital-bone-7
+  - os-ethmoidale
+  exercise: question_bank
+  question:
+    de: Welche der nachfolgenden Knochen liegen unpaar vor?
+    en: Which of the following are single bones?
+  right_terms:
+  - os-frontale
+  - os-sphenoidale
+  - os-occipitale
+  - os-ethmoidale
+  wrong_terms:
+  - os-parietale
+  question_uuid: d278afbe2df0ef05f41892021d04667
+- concepts:
+  - os-temporale
+  - os-parietale
+  - os-parietale-2
+  - parietal-bone-7
+  - maxilla
+  - maxilla-7
+  - os-palatinum
+  exercise: question_bank
+  question:
+    de: Welche dieser Knochen sind paarig?
+    en: Which of the following bones are paired?
+  right_terms:
+  - os-temporale
+  - os-parietale
+  - maxilla
+  - os-palatinum
+  wrong_terms:
+  - os-frontale
+  question_uuid: b436b326391686597da2a0c76bc414c
+- concepts:
+  - os-occipitale
+  - os-occipitale-3
+  - occipital-bone-7
+  exercise: question_bank
+  question:
+    de: Welcher Schädelknochen hat als einziger eine gelenkige Verbindung zur Halswirbelsäule?
+    en: Which cranial bone is the only one which articulates with the cervical spine?
+  right_terms:
+  - os-occipitale
+  wrong_terms:
+  - os-parietale
+  - os-ethmoidale
+  - os-sphenoidale
+  - os-zygomaticum
+  question_uuid: 63c5c6aadb9f5484d753fc4e391282a
+- concepts:
+  - maxilla
+  - maxilla-2
+  exercise: question_bank
+  question:
+    de: Welcher dieser Schädelknochen weist die meisten Gelenkverbindungen auf (neun
+      bis zehn)?
+    en: Which of the following cranial bones has the most articulations (nine to ten)?
+  right_terms:
+  - maxilla
+  wrong_terms:
+  - os-frontale
+  - os-temporale
+  - os-occipitale
+  - os-ethmoidale
+  question_uuid: eadead2c4bea681f41ed6ec8068e8f4
+- concepts:
+  - os-lacrimale
+  - lacrimal-bone-1
+  exercise: question_bank
+  question:
+    de: Welcher der folgenden Knochen liegt paarig vor, aber die Paare artikulieren
+      nicht miteinander?
+    en: Which of the following is a pair of bones that do not articulate with each
+      other?
+  right_terms:
+  - os-lacrimale
+  wrong_terms:
+  - os-nasale
+  - maxilla
+  - os-frontale
+  - os-sphenoidale
+  question_uuid: 73908576eccca41488224e336bb99db
+- concepts:
+  - mandibula
+  - os-temporale
+  exercise: question_bank
+  question:
+    de: Welcher dieser Knochen artikuliert mit dem Unterkiefer (Mandibula)?
+    en: With which of the following bones does the lower jaw bone (mandibula) articulate?
+  right_terms:
+  - os-temporale
+  wrong_terms:
+  - os-palatinum
+  - os-lacrimale
+  - os-occipitale
+  - maxilla
+  question_uuid: 9a4f41b3bf7a11eb4be885c549ac14f
+- concepts:
+  - fissura-orbitalis-inferior
+  - inferior-orbital-fissure-1
+  - inferior-orbital-fissure-2
+  - facies-orbitalis-maxilla
+  exercise: question_bank
+  question:
+    de: Die untere Augenhöhlenspalte (Fissura orbitalis inferior) verläuft zwischen
+      dem großen Keilbeinflügel (Ala major ossis sphenoidalis) und welcher weiteren
+      Struktur?
+    en: The inferior orbital fissure (fissura orbitalis inferior) runs between the
+      greater wing of the sphenoid bone (ala major ossis sphenoidalis) and which other
+      bone of the skull?
+  right_terms:
+  - maxilla
+  wrong_terms:
+  - os-ethmoidale
+  - os-parietale
+  - os-lacrimale
+  - os-nasale
+  question_uuid: 9d5a0ac9166aeb10100f2c919b40a46
+- concepts:
+  - foramen-mentale
+  - foramen-mentale-3
+  - mandibula
+  exercise: question_bank
+  question:
+    de: Das Foramen mentale (Kinnloch) umschließt den Nervus mentalis (Kinnnerv) und
+      ist in welchem Knochen lokalisiert?
+    en: The mental foramen (foramen mentale) encapsulates the mental nerve (nervus
+      mentalis) and it is found on which bone?
+  right_terms:
+  - mandibula
+  wrong_terms:
+  - os-ethmoidale
+  - maxilla
+  - os-sphenoidale
+  - os-palatinum
+  question_uuid: 23379713a97ec1414f5a963ab4c6ca4
+- concepts:
+  - processus-condylaris
+  - os-temporale
+  exercise: question_bank
+  question:
+    de: Der Processus condylaris mandibulae (Gelenkfortsatz des Unterkiefers) sitzt
+      posterior und artikuliert mit welchem Knochen?
+    en: The condylar process (processus condylaris) of the mandible articulates with
+      which bone?
+  right_terms:
+  - os-temporale
+  wrong_terms:
+  - maxilla
+  - os-parietale
+  - os-zygomaticum
+  - os-sphenoidale
+  question_uuid: fd55bca61f2242856abd2a9b3b29524
+- concepts:
+  - maxilla
+  - maxilla-3
+  exercise: question_bank
+  question:
+    de: Welcher Knochen trägt zur Bildung von Augenhöhle (Orbita), Nase und Gaumen
+      bei, trägt die obere Zahnreihe und spielt eine bedeutende Rolle beim Kauen und
+      bei der Kommunikation?
+    en: Which bone is involved in the formation of the orbit, nose and palate, holds
+      the upper teeth and plays an important role in mastication and communication?
+  right_terms:
+  - maxilla
+  wrong_terms:
+  - mandibula
+  - os-temporale
+  - os-zygomaticum
+  - os-frontale
+  question_uuid: b79c6dcf7a780c0e45ec9a180548551
+- concepts:
+  - os-sphenoidale
+  - os-sphenoidale-3
+  exercise: question_bank
+  question:
+    de: Welcher Knochen wird typischerweise chirurgisch geöffnet, um einen Hypophysentumor
+      zu entfernen?
+    en: Which bone is most commonly surgically opened to remove pituitary tumors?
+  right_terms:
+  - os-sphenoidale
+  wrong_terms:
+  - os-ethmoidale
+  - os-temporale
+  - os-occipitale
+  - os-parietale
+  question_uuid: a2768912758bab2947633558ba7744b
+- concepts:
+  - processus-zygomaticus-maxilla
+  - os-zygomaticum
+  - os-zygomaticum-2
+  exercise: question_bank
+  question:
+    de: Der Processus zygomaticus maxillae (Jochfortsatz des Oberkiefers) erstreckt
+      sich nach lateral und trifft dort auf welchen Knochen?
+    en: The zygomatic process of the maxillary bone (processus zygomaticus maxilla)
+      extends laterally and articulates which bone?
+  right_terms:
+  - os-zygomaticum
+  wrong_terms:
+  - os-lacrimale
+  - os-parietale
+  - mandibula
+  - os-sphenoidale
+  question_uuid: 7a0d9914a112d01331780c1f8fa9cab
+- concepts:
+  - processus-alveolaris
+  - processus-alveolaris-2
+  - maxilla
+  exercise: question_bank
+  question:
+    de: Welcher Fortsatz des Oberkiefers (Maxilla) bildet den Arcus dentalis maxillaris,
+      der acht Zahnfächer enthält?
+    en: Which process of the maxillary bone (maxilla) forms the maxillary dental arch
+      (arcus dentalis maxillaris) containing eight cavities for the upper teeth?
+  right_terms:
+  - processus-alveolaris
+  wrong_terms:
+  - processus-frontalis-maxilla
+  - processus-zygomaticus-maxilla
+  - processus-palatinus-maxillae
+  - zygomatic-process-of-frontal-bone
+  question_uuid: 8df5306796aa4ec31bffbaa3aee8725
+- concepts:
+  - os-frontale
+  - maxilla
+  - os-nasale
+  - os-nasale-2
+  exercise: question_bank
+  question:
+    de: Die Nasenwurzel wird durch die Verbindung der Pars nasalis ossis frontalis
+      mit welchen beiden anderen Knochen gebildet?
+    en: The root of the nose is formed by the articulation of the nasal part of the
+      frontal bone (os frontale) with which two bones?
+  right_terms:
+  - maxilla
+  - os-nasale
+  wrong_terms:
+  - mandibula
+  - os-temporale
+  - os-zygomaticum
+  question_uuid: 86b3cf92759d5e6d24eb29d24c855d9
+- concepts:
+  - os-temporale
+  - os-temporale-2
+  exercise: question_bank
+  question:
+    de: Welcher Knochen wird in vier Abschnitte unterteilt - Pars squamosa (Schuppenteil),
+      Pars tympanica, Processus styloideus (Griffelfortsatz) und Pars petrosa (Felsenteil)?
+    en: Which bone is divided into four parts – a squamous part, a tympanic part,
+      a styloid process, and a petrous part?
+  right_terms:
+  - os-temporale
+  wrong_terms:
+  - os-frontale
+  - os-zygomaticum
+  - os-occipitale
+  - os-parietale
+  question_uuid: b4dae217543339843442135655d4ddc
+- concepts:
+  - os-occipitale
+  - occipital-bone-7
+  exercise: question_bank
+  question:
+    de: Welcher unpaarige Knochen bedeckt die Rückseite des Kopfes?
+    en: Which of the following bones is an unpaired bone that covers the back of the
+      head?
+  right_terms:
+  - os-occipitale
+  wrong_terms:
+  - os-parietale
+  - os-frontale
+  - os-temporale
+  - os-zygomaticum
+  question_uuid: c8df205eb993f686302083b652a2a76
+- concepts:
+  - os-occipitale
+  - os-occipitale-3
+  exercise: question_bank
+  question:
+    de: Dieser Knochen ist nach außen konvex und nach innen konkav geformt. Er wird
+      in vier Abschnitte unterteilt - eine Pars basilaris, zwei Partes condylares
+      oder laterales und eine Pars squamosa. Alle vier sind um das Foramen magnum
+      herum angeordnet.
+    en: Which of the following bones is divided into four parts – a basilar part,
+      two condylar parts and a squamous part, all arranged around the foramen magnum?
+  right_terms:
+  - os-occipitale
+  wrong_terms:
+  - os-parietale
+  - os-frontale
+  - os-temporale
+  - os-zygomaticum
+  question_uuid: a5ad60889f5ee4ffdb620d9e1f44459
+- concepts:
+  - os-occipitale
+  - linea-nuchalis-superior
+  exercise: question_bank
+  question:
+    de: Die Außenfläche welches Knochens ist mit drei kurvigen Linien versehen, die
+      als Lineae nuchae (Nackenlinien) bezeichnet werden?
+    en: The external surface of which bone features three curved lines referred to
+      as nuchal lines?
+  right_terms:
+  - os-occipitale
+  wrong_terms:
+  - os-parietale
+  - os-frontale
+  - os-temporale
+  - os-zygomaticum
+  question_uuid: 313b7d0e18d5f54f7046461acfc57f1
+- concepts:
+  - os-frontale
+  - frontal-bone-9
+  - os-zygomaticum
+  - zygomatic-bone-5
+  - maxilla
+  - maxilla-11
+  exercise: question_bank
+  question:
+    de: Welche Knochen tragen zum Vorderrand und den Vorderwänden der Orbita (Augenhöhle)
+      bei?
+    en: Which bones contribute to the anterior margin and anterior walls of the bony
+      orbit?
+  right_terms:
+  - os-frontale
+  - os-zygomaticum
+  - maxilla
+  wrong_terms:
+  - os-occipitale
+  - os-parietale
+  question_uuid: 9b0ece794f60640b8dd2df99c2a757c
+- concepts:
+  - os-sphenoidale
+  - os-sphenoidale-3
+  - fossa-cranii-media
+  exercise: question_bank
+  question:
+    de: Welcher Knochen macht den Großteil des mittleren Bereichs der Schädelbasis
+      aus und trägt zur Bildung der mittleren Schädelgrube (Fossa cranii media) bei?
+    en: Which bone makes up most of the middle part of the base of the skull and contributes
+      to the floor of the middle cranial fossa (fossa cranii media)?
+  right_terms:
+  - os-sphenoidale
+  wrong_terms:
+  - os-ethmoidale
+  - os-parietale
+  - os-lacrimale
+  - os-palatinum
+  question_uuid: ce1a40598e7f5aa1d41d4b3b62ab8a6
+- concepts:
+  - os-sphenoidale
+  - os-sphenoidale-3
+  exercise: question_bank
+  question:
+    de: Welcher Knochen besteht aus vier Hauptteilen - Corpus, großer und kleiner
+      Flügel und Processus pterygoideus (Flügelfortsatz)?
+    en: Which bones consists of four main parts – the body, the lesser and greater
+      wings, and the pterygoid processes?
+  right_terms:
+  - os-sphenoidale
+  wrong_terms:
+  - os-ethmoidale
+  - os-parietale
+  - os-lacrimale
+  - os-palatinum
+  question_uuid: fc7c1fca85978756272775518572fd3
+- concepts:
+  - os-ethmoidale
+  - lamina-orbitalis-os-ethmoidale
+  - orbital-plate-of-ethmoid-bone-3
+  exercise: question_bank
+  question:
+    de: Welcher Knochen trägt zur Formierung von Augenhöhle (Orbita), Nasenhöhle (Cavitas
+      nasi), Nasenseptum (Septum nasi) und dem Boden der vorderen Schädelgrube (Fossa
+      cranii anterior) bei?
+    en: Which bone contributes to the molding of the orbit, nasal cavity, nasal septum,
+      and the floor of the anterior cranial fossa (fossa cranii anterior)?
+  right_terms:
+  - os-ethmoidale
+  wrong_terms:
+  - os-frontale
+  - os-sphenoidale
+  - os-occipitale
+  - os-parietale
+  question_uuid: b7570e9f34b32ba615256a43d388c28
+- concepts:
+  - lamina-cribrosa-5
+  - os-ethmoidale
+  exercise: question_bank
+  question:
+    de: Welcher Teil des Siebbeins (Os ethmoidale) liegt in der Incisura ethmoidalis
+      ossis frontalis und bildet das Dach der Nasenhöhle (Cavitas nasi)?
+    en: Which part of the ethmoid bone (os ethmoidale) lies within the ethmoidal notch
+      of the frontal bone (incisura ethmoidalis ossis frontalis) and forms the roof
+      of the nasal cavity?
+  right_terms:
+  - lamina-cribrosa-5
+  wrong_terms:
+  - lamina-orbitalis-os-ethmoidale
+  - infundibulum-ethmoidale
+  - processus-uncinatus-ossis-ethmoidalis
+  - lamina-perpendicularis-ossis-ethmoidalis
+  question_uuid: 8294becdf549fd04f8737aba9a4ff46
+- concepts:
+  - foramen-infraorbitale
+  - infraorbital-foramen-1
+  - maxilla
+  exercise: question_bank
+  question:
+    de: Im Rahmen einer orientierenden neurologischen Untersuchung überprüft der Neurologe
+      auch, ob ein Patient Druckschmerz über dem Foramen infraorbitale (Unteraugenhöhlenloch)
+      verspürt. Durch dieses Foramen ziehen der Nervus infraorbitale und die Arteria
+      infraorbitale. In welchem Knochen ist das Foramen infraorbitale lokalisiert?
+    en: During a neurological examination, the neurologist tests if the patient feels
+      pressure or pain over the infraorbital foramen. In which bone is the infraorbital
+      foramen located?
+  right_terms:
+  - maxilla
+  wrong_terms:
+  - ethmoid-bone
+  - mandibula
+  - frontal-bone
+  - os-zygomaticum
+  question_uuid: fed593b837edeb98d62cd7131b13be7
+- concepts:
+  - supraorbital-foramen
+  - os-frontale
+  exercise: question_bank
+  question:
+    de: Im Rahmen einer orientierenden neurologischen Untersuchung überprüft der Neurologe
+      auch, ob ein Patient Druckschmerz über dem Foramen supraorbitale (Oberaugenhöhlenloch)
+      verspürt. Durch dieses Foramen ziehen der Nervus supraorbitale und die Arteria
+      supraorbitale. In welchem Knochen ist das Foramen supraorbitale lokalisiert?
+    en: During a neurological exam, the neurologist tests if the patient feels pressure
+      or pain over the supraorbital foramen. The supraorbital nerve and the supraorbital
+      artery run through this foramen. In which bone is the supraorbital foramen located?
+  right_terms:
+  - os-frontale
+  wrong_terms:
+  - ethmoid-bone
+  - os-parietale
+  - os-sphenoidale
+  - os-zygomaticum
+  question_uuid: d394ae2fd252a5f919af2461c86844a
+- concepts:
+  - maxilla
+  exercise: question_bank
+  question:
+    de: In welchem Knochen sind die oberen Zähne verwurzelt?
+    en: Which bone lodges the upper teeth?
+  right_terms:
+  - maxilla
+  wrong_terms:
+  - occipital-bone-3
+  - vomer-4
+  - os-zygomaticum
+  - mandibula-2
+  question_uuid: 0b0e0eb1d3e3d3bc11cd2d04db058b4
+- terms:
+  - mandibula
+  exercise: multiple_choice_image
+  relation: elevates_the
+  right_terms:
+  - musculus-masseter
+  - musculus-temporalis
+  - musculus-pterygoideus-medialis-pars-superficialis
+  - musculus-pterygoideus-medialis-pars-profunda
+  wrong_terms:
+  - musculus-pterygoideus-lateralis-pars-inferior
+  - musculus-pterygoideus-lateralis-pars-superior
+- terms:
+  - mandibula
+  exercise: multiple_choice_image
+  relation: retracts_the
+  right_terms:
+  - musculus-temporalis
+  wrong_terms:
+  - musculus-masseter
+  - musculus-pterygoideus-lateralis-pars-inferior
+  - musculus-pterygoideus-lateralis-pars-superior
+  - musculus-pterygoideus-medialis-pars-superficialis
+  - musculus-pterygoideus-medialis-pars-profunda
+- terms:
+  - mandibula
+  exercise: multiple_choice_image
+  relation: depresses_the
+  right_terms:
+  - musculus-pterygoideus-lateralis-pars-inferior
+  - musculus-pterygoideus-lateralis-pars-superior
+  wrong_terms:
+  - musculus-pterygoideus-medialis-pars-superficialis
+  - musculus-pterygoideus-medialis-pars-profunda
+  - musculus-temporalis
+  - musculus-masseter
+- concepts:
+  - anterior-and-posterior-ethmoidal-foramina
+  exercise: question_bank
+  question:
+    de: Das Foramen ethmoidale anterius sowie das Foramen ethmoidale posterius befindet
+      sich in der Naht zwischen welchen beiden Knochen?
+    en: Between which two bones are the anterior and posterior ethmoidal foramina
+      (foramina ethmoidales anterius et posterior) located?
+  right_terms:
+  - os-ethmoidale
+  - os-frontale-4
+  wrong_terms:
+  - os-sphenoidale
+  - os-lacrimale
+  - frontal-process-of-maxilla-1
+  question_uuid: 36da416d806f004b964e0dab1184c81
+- concepts:
+  - pars-petrosa-ossis-temporalis
+  exercise: question_bank
+  question:
+    de: In welchem Knochen ist das Innenohr eingebettet?
+    en: Into which bone is the inner ear embedded?
+  right_terms:
+  - pars-petrosa-ossis-temporalis
+  wrong_terms:
+  - processus-zygomaticus-ossis-temporalis
+  - squama-temporalis
+  - facies-temporalis-alaris-majoris-ossis-sphenoidalis
+  - margo-squamosus-alaris-majoris-ossis-sphenoidalis
+  question_uuid: 7a70d486060593b69635e6b367cc664
+- concepts:
+  - maxilla
+  - processus-alveolaris
+  exercise: question_bank
+  question:
+    de: Ein 23-jähriger Mann wird nach einem Motorradunfall mit Kopf- und Halsverletzungen
+      ins Krankenhaus gebracht. Er weist eine Schwellung der Oberlippe, Ekchymose
+      der oberen Mundschleimhaut sowie gelockerte Zähne auf. Eine Röntgenuntersuchung
+      bestätigt eine zentrale Mittelgesichtsfraktur des Typs Le Fort I. In diesem
+      Fall ist der obere Alveolarfortsatz von welchem der Knochen abgetrennt?
+    en: A 23-year-old man is brought to the hospital after sustaining head and neck
+      injuries in a bike crash. Upper lip edema, superior buccal ecchymosis, and teeth
+      mobility are present, and X-ray confirms Le Fort I fracture, also known as floating
+      palate. The superior alveolar process (processus alveolaris) is separated in
+      this case from which of the following structures?
+  right_terms:
+  - maxilla
+  wrong_terms:
+  - mandibula
+  - os-zygomaticum
+  - os-nasale
+  - pars-petrosa-ossis-temporalis
+  question_uuid: 65994b6c246eb0c6505288fa1e265e3
+- concepts:
+  - maxillary-sinus
+  - sinus-sphenoidalis
+  - sinus-frontalis
+  - ethmoid-cells
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Strukturen sind die paarigen Nasennebenhöhlen (Sinus
+      paranasales)?
+    en: Which of the following structures are the paired paranasal sinuses (sinus
+      paranasales)?
+  right_terms:
+  - maxillary-sinus
+  - sinus-sphenoidalis
+  - sinus-frontalis
+  - ethmoid-cells
+  wrong_terms:
+  - sinus-cavernosus
+  question_uuid: 0fafda6612bfa61143f1f1d5bcb852d
+- concepts:
+  - lamina-perpendicularis-ossis-ethmoidalis-2
+  - os-nasale-2
+  exercise: question_bank
+  question:
+    de: Welche beiden Knochen bilden die birnenförmige Öffnung (Apertura piriformis)?
+    en: Which two bones form the anterior nasal aperture (apertura piriformis)?
+  right_terms:
+  - maxilla
+  - os-nasale-2
+  wrong_terms:
+  - vomer-2
+  - spina-nasalis-posterior
+  - lamina-perpendicularis-ossis-ethmoidalis
+  question_uuid: '040969eeac58c8ed6083c1e2e967117'
+- concepts:
+  - ala-major-os-sphenoidale-3
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Strukturen verläuft nach posterior lateral, um dort an
+      das Felsenbein (Pars petrosa ossis temporalis) zu grenzen?
+    en: Which of the following structures curves posterolaterally to articulate with
+      the petrous portion of the temporal bone (pars petrosa ossis temporalis)?
+  right_terms:
+  - ala-major-os-sphenoidale-3
+  wrong_terms:
+  - ala-minor-os-sphenoidale-3
+  - ala-ossis-sacralis
+  - ala-ossis-ilii-fossa-iliaca
+  - processus-uncinatus-ossis-ethmoidalis
+  question_uuid: eeb46c04dee5707f73518d5f754b64c
+- concepts:
+  - crista-galli-2
+  exercise: question_bank
+  question:
+    de: Wie heißt die Struktur, die die Siebplatte (Lamina cribrosa) in der Mittellinie
+      unterteilt?
+    en: Which structure divides the cribriform plate (lamina cribrosa) in the midline?
+  right_terms:
+  - crista-galli-2
+  wrong_terms:
+  - lamina-perpendicularis-ossis-ethmoidalis-2
+  - cartilago-septi-nasi
+  - lamina-horizontalis-ossis-palatini
+  - vomer-2
+  question_uuid: 53b3dad098d199597175b5d5f843268
+- concepts:
+  - palatum-durum
+  - maxilla
+  - lamina-horizontalis-ossis-palatini
+  exercise: question_bank
+  question:
+    de: Welche der folgenden Knochen bilden den harten Gaumen (Palatum durum)?
+    en: Which of the following bones form the hard palate (palatum durum)?
+  right_terms:
+  - palatine-process-of-maxilla-3
+  - lamina-horizontalis-ossis-palatini
+  wrong_terms:
+  - lamina-medialis-processus-pterygoideus-2
+  - lamina-lateralis-processus-pterygoideus-2
+  - lamina-perpendicularis-ossis-ethmoidalis-2
+  question_uuid: f6d5eba47bb57211f74861f287ea58b
+- concepts:
+  - lamina-cribrosa
+  - fila-olfactoria
+  exercise: question_bank
+  question:
+    de: Ein 28-jähriger Mann wird mit einem Schädel-Hirn-Trauma und Nasenbluten (Epistaxis)
+      nach einem Autounfall ins Krankenhaus gebracht. Nach der Stabilisierung seines
+      Zustandes klagt der Patient über einen vollständigen Geruchsverlust (Anosmie).
+      Dies könnte durch einen Bruch einer bestimmten knöchernen Struktur und die daraus
+      folgende Verletzung der durch sie hindurch laufenden Riechfäden (Fila olfactoria)
+      verursacht worden sein. Auf den Bruch welcher der folgenden Strukturen deutet
+      die Anosmie höchstwahrscheinlich hin?
+    en: A 28-year-old man is brought to the hospital due to anterior skull trauma
+      and nosebleed (epistaxis) after a car crash. After stabilization, the patient
+      reports complete loss of smell (anosmia). This could have been caused by fracture
+      of a specific bony structure damaging the olfactory fila (fila olfactoria) that
+      run through it. Fracture of which of the following structures does anosmia most
+      likely indicate?
+  right_terms:
+  - lamina-cribrosa
+  wrong_terms:
+  - concha-nasalis-media
+  - septum-nasi
+  - facies-nasalis-maxillae
+  question_uuid: 6e5eda6d832e49f6973e246a1afac00
+- concepts:
+  - sinus-cavernosus
+  - sinus-cavernosus-2
+  - sella-turcica
+  - sella-turcica-2
+  - os-sphenoidale-4
+  - sphenoid-bone-6
+  - os-sphenoidale-3
+  exercise: question_bank
+  question:
+    de: Eine Patientin stellt sich im Krankenhaus mit einem pulssynchronen Ohrgeräusch
+      und Doppelbildern vor. Der zuständige Arzt vermutet, dass eine Sinus-Cavernosus-Fistel
+      ursächlich für die Symptomatik sein könnte und ordnet ein MRT an. Der Sinus
+      cavernosus erstreckt sich um die Sella Turcica (Türkensattel). Von welchem Schädelknochen
+      wird die Sella turcica gebildet?
+    en: A patient presents at the hospital with pulse synchronous tinnitus and double
+      vision. The attending physician assumes that the symptoms of the patient might
+      be due to a carotid-cavernous fistula and arranges an MRI. The cavernous sinus
+      is located around the sella turcica. Which bone of the skull forms the sella
+      turcica?
+  right_terms:
+  - sphenoid-bone-6
+  wrong_terms:
+  - frontal-bone
+  - os-ethmoidale
+  - os-parietale-5
+  - maxilla
+  question_uuid: 6eb2d1ecac78f76964feb0f4d237b44
+- concepts:
+  - os-occipitale-4
+  exercise: question_bank
+  question:
+    de: Welcher Knochen bedeckt das Kleinhirn (Cerebellum) posterior?
+    en: Which bone covers the cerebellum posteriorly?
+  right_terms:
+  - os-occipitale-4
+  wrong_terms:
+  - os-sphenoidale-4
+  - os-frontale-2
+  - vomer-4
+  - temporal-bone
+  question_uuid: d5a1d16d04905826d8891175050684d
+- concepts:
+  - os-frontale-4
+  exercise: question_bank
+  question:
+    de: Wie heißt der Knochen, der vor dem Os ethmoidale zu finden ist?
+    en: Which of the following bones is found anteriorly to the ethmoid bone (os ethmoidale)?
+  right_terms:
+  - os-frontale-4
+  wrong_terms:
+  - os-sphenoidale-4
+  - concha-nasalis-inferior-2
+  - os-palatinum-3
+  - os-zygomaticum
+  question_uuid: 25fa27237f828add43b8076f160f108
+- concepts:
+  - os-sphenoidale-4
+  exercise: question_bank
+  question:
+    de: Wie heißt der Knochen, der hinter dem Os ethmoidale zu finden ist?
+    en: Which of the following bones is found posteriorly to the ethmoid bone (os
+      ethmoidale)?
+  right_terms:
+  - os-sphenoidale-4
+  wrong_terms:
+  - concha-nasalis-inferior-2
+  - os-palatinum-3
+  - os-zygomaticum
+  - os-frontale-4
+  question_uuid: 933c4f1c42a321a766d967cf01ba98f
+- concepts:
+  - vomer-2
+  - concha-nasalis-inferior-2
+  exercise: question_bank
+  question:
+    de: Wie heißen die Knochen, die unter dem Os ethmoidale zu finden sind?
+    en: Which bones are found inferiorly to the ethmoid bone (os ethmoidale)?
+  right_terms:
+  - vomer-2
+  - concha-nasalis-inferior-2
+  wrong_terms:
+  - os-zygomaticum
+  - os-frontale-4
+  - os-sphenoidale-4
+  question_uuid: 0c51f49b33e06c56d24927473cbf533
+- concepts:
+  - os-ethmoidale-4
+  - lamina-cribrosa-2
+  - fila-olfactoria
+  - lamina-cribrosa-5
+  exercise: question_bank
+  question:
+    de: Nach einem Autounfall berichtet eine Patientin, dass sie nicht mehr in der
+      Lage sei zu riechen (Anosmie). Der Hals-Nasen-Ohren-Arzt erklärt ihr, dass es
+      bei dem Unfall zu einer Abscherung der Fila olfactoria (Riechfäden) bei ihrem
+      Durchtritt durch die Lamina cribrosa (Siebplatte) gekommen sein könnte. Von
+      welchem Schädelknochen wird die Lamina cribrosa gebildet?
+    en: After a car accident a patient complains about not being able to smell anymore
+      (anosmia). The otolaryngologist explains to her, that the accident might have
+      caused the shearing-off of the fila olfactoria in the cribriform plate. Which
+      bone of the skull form the cribriform plate?
+  right_terms:
+  - os-ethmoidale-4
+  wrong_terms:
+  - os-frontale
+  - os-zygomaticum
+  - nasal-bone
+  - os-lacrimale
+  question_uuid: '082f3948cfe33ad2d8ca77c5922ce43'
