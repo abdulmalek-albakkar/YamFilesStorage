@@ -987,16 +987,17 @@
     de: Auf Höhe welches Wirbelsäulenabschnitts endet das mittlere untere Mediastinum?
     en: The middle inferior mediastinum finishes in which vertebral region?
   right_terms:
-  - vertebrae-thoracicae
+  - os-coccygis
   wrong_terms:
   - vertebrae-cervicales
   - vertebrae-lumbales
   - os-sacrum
-  - os-coccygis
-  question_uuid: 2c15738598c2937e16e112c0a763ff4
-- concepts:
   - vertebrae-thoracicae
-  - diaphragma-3
+  question_uuid: 2c15738598c2937e16e112c0a763ff4
+- Concepts:
+  - vertebrae-thoracicae
+  - diaphragma-2
+
   exercise: question_bank
   question:
     de: Das hintere untere Mediastinum reicht am tiefsten hinab. Es erstreckt sich
