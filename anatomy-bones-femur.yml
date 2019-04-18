@@ -73,7 +73,7 @@
   - condylus-lateralis
   - epicondylus-lateralis
   exercise: identify_image
-- terms:
+- Terms:
   - linea-aspera
   - os-femoris
   - medial-condyle-of-the-femur
@@ -277,7 +277,7 @@
   exercise: multiple_choice_image
   relation: origin_of
   right_terms:
-  - corpus-femoris
+  - trochanter-major
   wrong_terms:
   - trochanter-major
   - linea-aspera
@@ -371,9 +371,9 @@
   exercise: multiple_choice_image
   relation: origin_of
   right_terms:
-  - condylus-lateralis
-  - meniscus-lateralis
+  - ribs-1-10
   wrong_terms:
+  - meniscus-lateralis
   - meniscus-medialis
   - collum-fibulae
   - corpus-femoris
@@ -520,7 +520,7 @@
   wrong_terms:
   - linea-intertrochanterica
   - eminentia-iliopubica
-  - trochanter-minor
+  - tuberositas-glutea
   - crista-intertrochanterica
   - linea-aspera
 - terms:
